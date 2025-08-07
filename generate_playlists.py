@@ -413,7 +413,7 @@ def generate_tubi_m3u():
 
     write_m3u_file("tubi_all.m3u", output_content)
 
-def generate_roku_m3u(sort='name'):
+def generate_roku_m3u(sort='chno'):
     """Generates M3U playlist for Roku."""
     ROKU_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz'
     STREAM_URL_TEMPLATE = 'https://jmp2.uk/rok-{id}.m3u8'
