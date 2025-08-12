@@ -697,8 +697,6 @@ https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8
 https://jmp2.uk/plu-60f75919718aed0007250d7a.m3u8
 #EXTINF:-1 channel-id="5eb1afb21486df0007abc57c-us" tvg-id="5eb1afb21486df0007abc57c" tvg-chno="5080" tvg-name="CBS News Bay Area" tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="United States",CBS News Bay Area
 https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
-#EXTINF:-1 channel-id="62cdc7c2a3e6270007f3f2f3-us" tvg-id="62cdc7c2a3e6270007f3f2f3" tvg-chno="2570" tvg-name="CBS News Boston" tvg-logo="https://images.pluto.tv/channels/62cdc7c2a3e6270007f3f2f3/colorLogoPNG.png" group-title="United States",CBS News Boston
-https://jmp2.uk/plu-62cdc7c2a3e6270007f3f2f3.m3u8
 #EXTINF:-1 channel-id="5eb1af2ad345340008fccd1e-us" tvg-id="5eb1af2ad345340008fccd1e" tvg-chno="5090" tvg-name="CBS News Boston" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" group-title="United States",CBS News Boston
 https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8
 #EXTINF:-1 channel-id="5eb1aeb2fd4b8a00076c2047-us" tvg-id="5eb1aeb2fd4b8a00076c2047" tvg-chno="5120" tvg-name="CBS News Chicago" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png" group-title="United States",CBS News Chicago
@@ -713,6 +711,8 @@ https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8
 #EXTINF:-1 channel-id="60fb299b79498900070b29e0-us" tvg-id="60fb299b79498900070b29e0" tvg-chno="2570" tvg-name="CBS News Miami" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" group-title="United States",CBS News Miami
 https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
+#EXTINF:-1 channel-id="62cdc8fdb05d2b0007ef5035-us" tvg-id="62cdc8fdb05d2b0007ef5035" tvg-chno="2570" tvg-name="CBS News Miami" tvg-logo="https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png" group-title="United States",CBS News Miami
+https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
 #EXTINF:-1 channel-id="5eb1b0bf2240d8000732a09c-us" tvg-id="5eb1b0bf2240d8000732a09c" tvg-chno="5170" tvg-name="CBS News Minnesota" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" group-title="United States",CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
 #EXTINF:-1 channel-id="5dc9b8223687ff000936ed79-us" tvg-id="5dc9b8223687ff000936ed79" tvg-chno="2550" tvg-name="CBS News New York" tvg-logo="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" group-title="United States",CBS News New York
@@ -1793,11 +1793,11 @@ https://jmp2.uk/plu-671b4dc049c4060008f91d3a.m3u8
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
 #EXTINF:-1 channel-id="65a803b607e03a0008925118-ca" tvg-id="65a803b607e03a0008925118" tvg-chno="511" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/65a803b607e03a0008925118/colorLogoPNG.png" group-title="Canada",Hot Ones
 https://jmp2.uk/plu-65a803b607e03a0008925118.m3u8
-#EXTINF:-1 channel-id="655ca968c917a5000830f8f5-no" tvg-id="655ca968c917a5000830f8f5" tvg-chno="704" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655ca968c917a5000830f8f5/colorLogoPNG.png" group-title="Norway",Hot Ones
+#EXTINF:-1 channel-id="655ca968c917a5000830f8f5-no" tvg-id="655ca968c917a5000830f8f5" tvg-chno="704" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655ca968c917a5000830f8f5/colorLogoPNG_1754901502883.png" group-title="Norway",Hot Ones
 https://jmp2.uk/plu-655ca968c917a5000830f8f5.m3u8
-#EXTINF:-1 channel-id="655caa815812e80008884322-se" tvg-id="655caa815812e80008884322" tvg-chno="664" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655caa815812e80008884322/colorLogoPNG.png" group-title="Sweden",Hot Ones
+#EXTINF:-1 channel-id="655caa815812e80008884322-se" tvg-id="655caa815812e80008884322" tvg-chno="664" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655caa815812e80008884322/colorLogoPNG_1754917803524.png" group-title="Sweden",Hot Ones
 https://jmp2.uk/plu-655caa815812e80008884322.m3u8
-#EXTINF:-1 channel-id="655ca7405812e80008883d4e-dk" tvg-id="655ca7405812e80008883d4e" tvg-chno="835" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655ca7405812e80008883d4e/colorLogoPNG.png" group-title="Denmark",Hot Ones
+#EXTINF:-1 channel-id="655ca7405812e80008883d4e-dk" tvg-id="655ca7405812e80008883d4e" tvg-chno="835" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655ca7405812e80008883d4e/colorLogoPNG_1754901532963.png" group-title="Denmark",Hot Ones
 https://jmp2.uk/plu-655ca7405812e80008883d4e.m3u8
 #EXTINF:-1 channel-id="656064e74261ca00081812a9-de" tvg-id="656064e74261ca00081812a9" tvg-chno="123" tvg-name="Hours to Kill – Zeitachse des Todes" tvg-logo="https://images.pluto.tv/channels/656064e74261ca00081812a9/colorLogoPNG.png" group-title="Germany",Hours to Kill – Zeitachse des Todes
 https://jmp2.uk/plu-656064e74261ca00081812a9.m3u8
