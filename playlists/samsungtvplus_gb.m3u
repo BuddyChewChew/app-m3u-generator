@@ -63,6 +63,8 @@ https://jmp2.uk/sam-GB1400001E4.m3u8
 https://jmp2.uk/sam-GBBD3700001AB.m3u8
 #EXTINF:-1 channel-id="GBBD30000038U" tvg-id="GBBD30000038U" tvg-chno="4610" tvg-name="DAZN Ringside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD30000038U_20250107T030621SQUARE.png" group-title="Sport",DAZN Ringside
 https://jmp2.uk/sam-GBBD30000038U.m3u8
+#EXTINF:-1 channel-id="GB4900001NW" tvg-id="GB4900001NW" tvg-chno="4295" tvg-name="Deadly Women: powered by Banijay" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4900001NW_20250811T172507SQUARE.png" group-title="Crime",Deadly Women: powered by Banijay
+https://jmp2.uk/sam-GB4900001NW.m3u8
 #EXTINF:-1 channel-id="GB12000037Y" tvg-id="GB12000037Y" tvg-chno="4359" tvg-name="Deal Masters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000037Y_20250624T021656SQUARE.png" group-title="Documentaries",Deal Masters
 https://jmp2.uk/sam-GB12000037Y.m3u8
 #EXTINF:-1 channel-id="GBBB38000068U" tvg-id="GBBB38000068U" tvg-chno="4118" tvg-name="Deal or No Deal US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB38000068U_20250617T031624SQUARE.png" group-title="Entertainment",Deal or No Deal US
@@ -115,8 +117,16 @@ https://jmp2.uk/sam-GB2700010NQ.m3u8
 https://jmp2.uk/sam-GBBD1100002L5.m3u8
 #EXTINF:-1 channel-id="GBBB1600008R3" tvg-id="GBBB1600008R3" tvg-chno="4553" tvg-name="GB News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20250107T022831SQUARE.png" group-title="News",GB News
 https://jmp2.uk/sam-GBBB1600008R3.m3u8
+#EXTINF:-1 channel-id="GB2100002R7" tvg-id="GB2100002R7" tvg-chno="4256" tvg-name="Genie K-Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2100002R7_20250811T172932SQUARE.png" group-title="TV Series",Genie K-Drama
+https://jmp2.uk/sam-GB2100002R7.m3u8
+#EXTINF:-1 channel-id="GB21000038X" tvg-id="GB21000038X" tvg-chno="4944" tvg-name="Genie K-Movie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB21000038X_20250811T172936SQUARE.png" group-title="Movies",Genie K-Movie
+https://jmp2.uk/sam-GB21000038X.m3u8
 #EXTINF:-1 channel-id="GB2700001R6" tvg-id="GB2700001R6" tvg-chno="4424" tvg-name="Get.Factual" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700001R6_20250107T031122SQUARE.png" group-title="Documentaries",Get.Factual
 https://jmp2.uk/sam-GB2700001R6.m3u8
+#EXTINF:-1 channel-id="GB2200002CC" tvg-id="GB2200002CC" tvg-chno="4636" tvg-name="GFN Soccer TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2200002CC_20250811T172929SQUARE.png" group-title="Sport",GFN Soccer TV
+https://jmp2.uk/sam-GB2200002CC.m3u8
+#EXTINF:-1 channel-id="GB2000008XP" tvg-id="GB2000008XP" tvg-chno="4441" tvg-name="Ghost Hunters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2000008XP_20250811T172940SQUARE.png" group-title="Documentaries",Ghost Hunters
+https://jmp2.uk/sam-GB2000008XP.m3u8
 #EXTINF:-1 channel-id="GBAJ49000197P" tvg-id="GBAJ49000197P" tvg-chno="4522" tvg-name="GoUSA TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000197P_20250513T005656SQUARE.png" group-title="Food & Travel",GoUSA TV
 https://jmp2.uk/sam-GBAJ49000197P.m3u8
 #EXTINF:-1 channel-id="GBBC900014LW" tvg-id="GBBC900014LW" tvg-chno="4514" tvg-name="Great British Menu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900014LW_20250107T022833SQUARE.png" group-title="Food & Travel",Great British Menu
@@ -183,6 +193,8 @@ https://jmp2.uk/sam-GBBD1100003I0.m3u8
 https://jmp2.uk/sam-GBBD500001F5.m3u8
 #EXTINF:-1 channel-id="GBBD25000019N" tvg-id="GBBD25000019N" tvg-chno="4513" tvg-name="Masterchef UK: 'Powered by Banijay'" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000019N_20250107T030719SQUARE.png" group-title="Food & Travel",Masterchef UK: 'Powered by Banijay'
 https://jmp2.uk/sam-GBBD25000019N.m3u8
+#EXTINF:-1 channel-id="GB28000063B" tvg-id="GB28000063B" tvg-chno="4369" tvg-name="Mayday: Air Disaster" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB28000063B_20250811T172943SQUARE.png" group-title="Documentaries",Mayday: Air Disaster
+https://jmp2.uk/sam-GB28000063B.m3u8
 #EXTINF:-1 channel-id="GB2700009R7" tvg-id="GB2700009R7" tvg-chno="4356" tvg-name="Modern Marvels" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700009R7_20250107T031150SQUARE.png" group-title="Documentaries",Modern Marvels
 https://jmp2.uk/sam-GB2700009R7.m3u8
 #EXTINF:-1 channel-id="GBBA1500006H6" tvg-id="GBBA1500006H6" tvg-chno="4658" tvg-name="MotorRacing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20250107T022613SQUARE.png" group-title="Sport",MotorRacing
@@ -241,6 +253,8 @@ https://jmp2.uk/sam-GBAK3504522A.m3u8
 https://jmp2.uk/sam-GB700004ET.m3u8
 #EXTINF:-1 channel-id="GBBD2500002QC" tvg-id="GBBD2500002QC" tvg-chno="4108" tvg-name="Pointless UK: 'Powered by Banijay'" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2500002QC_20250107T030732SQUARE.png" group-title="Entertainment",Pointless UK: 'Powered by Banijay'
 https://jmp2.uk/sam-GBBD2500002QC.m3u8
+#EXTINF:-1 channel-id="GB280000829" tvg-id="GB280000829" tvg-chno="4236" tvg-name="Poldark" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB280000829_20250811T172948SQUARE.png" group-title="TV Series",Poldark
+https://jmp2.uk/sam-GB280000829.m3u8
 #EXTINF:-1 channel-id="GBBC430000128" tvg-id="GBBC430000128" tvg-chno="4799" tvg-name="POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20250107T030729SQUARE.png" group-title="Kids",POP
 https://jmp2.uk/sam-GBBC430000128.m3u8
 #EXTINF:-1 channel-id="GB170000351" tvg-id="GB170000351" tvg-chno="4800" tvg-name="POP Up" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB170000351_20250527T014758SQUARE.png" group-title="Kids",POP Up
@@ -263,10 +277,14 @@ https://jmp2.uk/sam-GB2600021LP.m3u8
 https://jmp2.uk/sam-GBBD2300003IK.m3u8
 #EXTINF:-1 channel-id="GBBD4900001RG" tvg-id="GBBD4900001RG" tvg-chno="4574" tvg-name="Reuters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4900001RG_20250107T030741SQUARE.png" group-title="News",Reuters
 https://jmp2.uk/sam-GBBD4900001RG.m3u8
+#EXTINF:-1 channel-id="GB2100006GK" tvg-id="GB2100006GK" tvg-chno="4493" tvg-name="River Monsters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2100006GK_20250811T172951SQUARE.png" group-title="Nature",River Monsters
+https://jmp2.uk/sam-GB2100006GK.m3u8
 #EXTINF:-1 channel-id="GBBD500005ZG" tvg-id="GBBD500005ZG" tvg-chno="4116" tvg-name="Robot Wars by Mech+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500005ZG_20250107T030744SQUARE.png" group-title="Entertainment",Robot Wars by Mech+
 https://jmp2.uk/sam-GBBD500005ZG.m3u8
 #EXTINF:-1 channel-id="GB2600014LQ" tvg-id="GB2600014LQ" tvg-chno="4888" tvg-name="Romance Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600014LQ_20250107T031210SQUARE.png" group-title="Movies",Romance Movies - Rakuten TV
 https://jmp2.uk/sam-GB2600014LQ.m3u8
+#EXTINF:-1 channel-id="GB2100005YU" tvg-id="GB2100005YU" tvg-chno="4241" tvg-name="Rookie Blue" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2100005YU_20250811T172955SQUARE.png" group-title="TV Series",Rookie Blue
+https://jmp2.uk/sam-GB2100005YU.m3u8
 #EXTINF:-1 channel-id="GB330000144" tvg-id="GB330000144" tvg-chno="4608" tvg-name="RugbyPass TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB330000144_20250624T020553SQUARE.png" group-title="Sport",RugbyPass TV
 https://jmp2.uk/sam-GB330000144.m3u8
 #EXTINF:-1 channel-id="GB2600013BO" tvg-id="GB2600013BO" tvg-chno="4947" tvg-name="Sci-Fi - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600013BO_20250121T013046SQUARE.png" group-title="Movies",Sci-Fi - Rakuten TV
@@ -329,6 +347,8 @@ https://jmp2.uk/sam-GB1100001EB.m3u8
 https://jmp2.uk/sam-GB4000027F.m3u8
 #EXTINF:-1 channel-id="GB2600016U8" tvg-id="GB2600016U8" tvg-chno="4586" tvg-name="The Guardian" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600016U8_20250121T013048SQUARE.png" group-title="News",The Guardian
 https://jmp2.uk/sam-GB2600016U8.m3u8
+#EXTINF:-1 channel-id="GB200000940" tvg-id="GB200000940" tvg-chno="4360" tvg-name="The Hotel Inspector" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200000940_20250811T172958SQUARE.png" group-title="Documentaries",The Hotel Inspector
+https://jmp2.uk/sam-GB200000940.m3u8
 #EXTINF:-1 channel-id="GBBC4000002H3" tvg-id="GBBC4000002H3" tvg-chno="4511" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20250624T021708SQUARE.png" group-title="Food & Travel",The Jamie Oliver Channel
 https://jmp2.uk/sam-GBBC4000002H3.m3u8
 #EXTINF:-1 channel-id="GBBC4300005AL" tvg-id="GBBC4300005AL" tvg-chno="4802" tvg-name="The LEGO Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300005AL_20250107T025817SQUARE.png" group-title="Kids",The LEGO Channel
