@@ -35,6 +35,8 @@ https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
 #EXTINF:-1 channel-id="5f4d878d3d19b30007d2e782-us" tvg-id="5f4d878d3d19b30007d2e782" tvg-chno="190" tvg-name="70s Cinema" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="United States",70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+#EXTINF:-1 channel-id="68503cfda1e091e16f000625-gb" tvg-id="68503cfda1e091e16f000625" tvg-chno="2" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/68503cfda1e091e16f000625/colorLogoPNG_1750164348043.png" group-title="United Kingdom",7th Heaven
+https://jmp2.uk/plu-68503cfda1e091e16f000625.m3u8
 #EXTINF:-1 channel-id="6728ca75529ac9000830ab14-no" tvg-id="6728ca75529ac9000830ab14" tvg-chno="3" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6728ca75529ac9000830ab14/colorLogoPNG_1733013720652.png" group-title="Norway",7th Heaven
 https://jmp2.uk/plu-6728ca75529ac9000830ab14.m3u8
 #EXTINF:-1 channel-id="6728cab6e482950008b76d8c-se" tvg-id="6728cab6e482950008b76d8c" tvg-chno="3" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6728cab6e482950008b76d8c/colorLogoPNG.png" group-title="Sweden",7th Heaven
@@ -1089,7 +1091,7 @@ https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 channel-id="649b6898f2ec0000081a9460-us" tvg-id="649b6898f2ec0000081a9460" tvg-chno="2864" tvg-name="DAZN Ringside" tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" group-title="United States",DAZN Ringside
 https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
-#EXTINF:-1 channel-id="65b14aae0cb1a100087a216e-gb" tvg-id="65b14aae0cb1a100087a216e" tvg-chno="855" tvg-name="DAZN Ringside" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" group-title="United Kingdom",DAZN Ringside
+#EXTINF:-1 channel-id="65b14aae0cb1a100087a216e-gb" tvg-id="65b14aae0cb1a100087a216e" tvg-chno="856" tvg-name="DAZN Ringside" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" group-title="United Kingdom",DAZN Ringside
 https://jmp2.uk/plu-65b14aae0cb1a100087a216e.m3u8
 #EXTINF:-1 channel-id="647f07e74cfc2c0008a2e557-ca" tvg-id="647f07e74cfc2c0008a2e557" tvg-chno="704" tvg-name="DAZN TV" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" group-title="Canada",DAZN TV
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
@@ -1447,7 +1449,7 @@ https://jmp2.uk/plu-61814659533163000748aa04.m3u8
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 #EXTINF:-1 channel-id="65775af3b3801200084a3aa4-us" tvg-id="65775af3b3801200084a3aa4" tvg-chno="1120" tvg-name="Feel Good Drama" tvg-logo="https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png" group-title="United States",Feel Good Drama
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
-#EXTINF:-1 channel-id="63d91d2560bc8f0008a225e4-gb" tvg-id="63d91d2560bc8f0008a225e4" tvg-chno="853" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/63d91d2560bc8f0008a225e4/colorLogoPNG_1750064962067.png" group-title="United Kingdom",FIFA+
+#EXTINF:-1 channel-id="63d91d2560bc8f0008a225e4-gb" tvg-id="63d91d2560bc8f0008a225e4" tvg-chno="854" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/63d91d2560bc8f0008a225e4/colorLogoPNG_1750064962067.png" group-title="United Kingdom",FIFA+
 https://jmp2.uk/plu-63d91d2560bc8f0008a225e4.m3u8
 #EXTINF:-1 channel-id="660c29f80cd4630008f1547c-es" tvg-id="660c29f80cd4630008f1547c" tvg-chno="556" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png" group-title="Spain",FIFA+
 https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
@@ -2289,6 +2291,8 @@ https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
 https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
 #EXTINF:-1 channel-id="60f754f98185580007eb0754-us" tvg-id="60f754f98185580007eb0754" tvg-chno="680" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG_1731836706925.png" group-title="United States",Matlock
 https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
+#EXTINF:-1 channel-id="6850426e53d981d1fdb0d966-gb" tvg-id="6850426e53d981d1fdb0d966" tvg-chno="1" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/6850426e53d981d1fdb0d966/colorLogoPNG_1750165804146.png" group-title="United Kingdom",Matlock
+https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
 #EXTINF:-1 channel-id="63da365f60bc8f0008a50f44-ca" tvg-id="63da365f60bc8f0008a50f44" tvg-chno="202" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" group-title="Canada",Matlock
 https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 #EXTINF:-1 channel-id="66290b7523e24f000832cc17-no" tvg-id="66290b7523e24f000832cc17" tvg-chno="608" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/66290b7523e24f000832cc17/colorLogoPNG.png" group-title="Norway",Matlock
@@ -3091,7 +3095,7 @@ https://jmp2.uk/plu-65b8f959eb87e30008333201.m3u8
 https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
 #EXTINF:-1 channel-id="5de94dacb394a300099fa22a-us" tvg-id="5de94dacb394a300099fa22a" tvg-chno="2820" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="United States",PGA TOUR
 https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8
-#EXTINF:-1 channel-id="66d885aef0f17500084b6750-gb" tvg-id="66d885aef0f17500084b6750" tvg-chno="856" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/66d885aef0f17500084b6750/colorLogoPNG.png" group-title="United Kingdom",PGA TOUR
+#EXTINF:-1 channel-id="66d885aef0f17500084b6750-gb" tvg-id="66d885aef0f17500084b6750" tvg-chno="857" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/66d885aef0f17500084b6750/colorLogoPNG.png" group-title="United Kingdom",PGA TOUR
 https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8
 #EXTINF:-1 channel-id="65265b58bbd2d000089ceff5-ca" tvg-id="65265b58bbd2d000089ceff5" tvg-chno="702" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/65265b58bbd2d000089ceff5/colorLogoPNG.png" group-title="Canada",PGA TOUR
 https://jmp2.uk/plu-65265b58bbd2d000089ceff5.m3u8
@@ -4325,7 +4329,7 @@ https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
 https://jmp2.uk/plu-64e89cfc9c1e3900084ca663.m3u8
 #EXTINF:-1 channel-id="6549316d2c1d330008631496-us" tvg-id="6549316d2c1d330008631496" tvg-chno="1790" tvg-name="Real Housewives Vault" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png" group-title="United States",Real Housewives Vault
 https://jmp2.uk/plu-6549316d2c1d330008631496.m3u8
-#EXTINF:-1 channel-id="65f96980f7f0af0008fa6302-gb" tvg-id="65f96980f7f0af0008fa6302" tvg-chno="854" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f96980f7f0af0008fa6302/colorLogoPNG.png" group-title="United Kingdom",Realmadrid TV
+#EXTINF:-1 channel-id="65f96980f7f0af0008fa6302-gb" tvg-id="65f96980f7f0af0008fa6302" tvg-chno="855" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f96980f7f0af0008fa6302/colorLogoPNG.png" group-title="United Kingdom",Realmadrid TV
 https://jmp2.uk/plu-65f96980f7f0af0008fa6302.m3u8
 #EXTINF:-1 channel-id="65f96cd34e01740008ef1c97-es" tvg-id="65f96cd34e01740008ef1c97" tvg-chno="557" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png" group-title="Spain",Realmadrid TV
 https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
@@ -4439,7 +4443,7 @@ https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
 https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
 #EXTINF:-1 channel-id="64ff270f30ab3300084e259c-ar" tvg-id="64ff270f30ab3300084e259c" tvg-chno="127" tvg-name="Rookie Blue: Policías Novatos" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" group-title="Argentina",Rookie Blue: Policías Novatos
 https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
-#EXTINF:-1 channel-id="66f137cb483d460008ece053-gb" tvg-id="66f137cb483d460008ece053" tvg-chno="8" tvg-name="Rugby Pass TV" tvg-logo="https://images.pluto.tv/channels/66f137cb483d460008ece053/colorLogoPNG.png" group-title="United Kingdom",Rugby Pass TV
+#EXTINF:-1 channel-id="66f137cb483d460008ece053-gb" tvg-id="66f137cb483d460008ece053" tvg-chno="853" tvg-name="Rugby Pass TV" tvg-logo="https://images.pluto.tv/channels/66f137cb483d460008ece053/colorLogoPNG.png" group-title="United Kingdom",Rugby Pass TV
 https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
 #EXTINF:-1 channel-id="610c09219fc0430007a3fce6-es" tvg-id="610c09219fc0430007a3fce6" tvg-chno="516" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="Spain",Rugrats
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
@@ -5427,7 +5431,7 @@ https://jmp2.uk/plu-6440f73ee94c380008ccddc8.m3u8
 https://jmp2.uk/plu-6440f8ba939a5900082bddc8.m3u8
 #EXTINF:-1 channel-id="5616f9c0ada51f8004c4b091-us" tvg-id="5616f9c0ada51f8004c4b091" tvg-chno="2930" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" group-title="United States",World Poker Tour
 https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
-#EXTINF:-1 channel-id="5ad8d796e738977e2c31094a-gb" tvg-id="5ad8d796e738977e2c31094a" tvg-chno="857" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png" group-title="United Kingdom",World Poker Tour
+#EXTINF:-1 channel-id="5ad8d796e738977e2c31094a-gb" tvg-id="5ad8d796e738977e2c31094a" tvg-chno="858" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png" group-title="United Kingdom",World Poker Tour
 https://jmp2.uk/plu-5ad8d796e738977e2c31094a.m3u8
 #EXTINF:-1 channel-id="6080381ab7c9ea00074ec64c-es" tvg-id="6080381ab7c9ea00074ec64c" tvg-chno="550" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="Spain",World Poker Tour
 https://jmp2.uk/plu-6080381ab7c9ea00074ec64c.m3u8
