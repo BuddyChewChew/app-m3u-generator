@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
-# Generated on 2025-08-23T01:56:18.996141
+# Generated on 2025-08-24T02:11:42.566950
 #EXTINF:-1 tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/ca2EvME4kxBv3g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjhAAQ==" group-title="True Crime",A&E Crime 360
 https://live-manifest.production-public.tubi.io/live/8cba5c00-34f4-45da-a73a-1e3d813a0cfb/playlist.m3u8
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/sE__djfzPMUmUg==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjhAAQ==" group-title="National News",ABC News Live
@@ -165,8 +165,6 @@ https://live-manifest.production-public.tubi.io/live/8bf58bf5-36ea-4ac8-ba4e-194
 https://live-manifest.production-public.tubi.io/live/6edcb43f-1506-42c9-b2e7-a1ddb6c695c8/playlist.m3u8
 #EXTINF:-1 tvg-id="400000104" tvg-logo="https://canvas-lb.tubitv.com/opts/-_suTiXTwSzTOg==/2733aed8-2c07-4221-9669-061ef85c0df0/CHgQeDoFMS4xLjhAAQ==" group-title="Classic TV",Hersphere
 https://live-manifest.production-public.tubi.io/live/2bdf6c2d-51c7-4d9c-b1e4-a1f832d9611a/playlist.m3u8
-#EXTINF:-1 tvg-id="685558" tvg-logo="https://canvas-lb.tubitv.com/opts/ytJ6Atk5-CBEYw==/b9a34dbb-8a11-422b-83dc-75514e9c3a2c/CHgQeDoFMS4xLjhAAQ==" group-title="Movie Channels",Hi-YAH!
-https://live-manifest.production-public.tubi.io/live/b3192c62-75aa-4fe0-9bb8-bba55cc5b2a8/playlist.m3u8
 #EXTINF:-1 tvg-id="700414" tvg-logo="https://canvas-lb.tubitv.com/opts/9PqOkD1C6J3w5w==/790ebde9-0938-4667-9664-62136298f868/CHgQeDoFMS4xLjhAAQ==" group-title="Lifestyle",Homeful
 https://live-manifest.production-public.tubi.io/live/e12bcebc-5747-4317-8dac-c8717b91fd9d/playlist.m3u8
 #EXTINF:-1 tvg-id="692051" tvg-logo="https://canvas-lb.tubitv.com/opts/irSnS1Oql4l3pg==/f4523b29-6b4d-4b40-ae37-5ff4f79691c5/CHgQeDoFMS4xLjhAAQ==" group-title="Horror",Horror by ALTER
