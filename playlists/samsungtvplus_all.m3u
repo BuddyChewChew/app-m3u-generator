@@ -345,9 +345,9 @@ https://jmp2.uk/sam-FR1400003Y0.m3u8
 https://jmp2.uk/sam-FRBD4100006OC.m3u8
 #EXTINF:-1 channel-id="FR300004J5-fr" tvg-id="FR300004J5" tvg-chno="4411" tvg-name="BFM Grands Reportages" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png" group-title="France",BFM Grands Reportages
 https://jmp2.uk/sam-FR300004J5.m3u8
-#EXTINF:-1 channel-id="CH500001V2-ch" tvg-id="CH500001V2" tvg-chno="4576" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500001V2_20250107T025434SQUARE.png" group-title="Switzerland",BFM TV
+#EXTINF:-1 channel-id="CH500001V2-ch" tvg-id="CH500001V2" tvg-chno="4576" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500001V2_20250826T004823SQUARE.png" group-title="Switzerland",BFM TV
 https://jmp2.uk/sam-CH500001V2.m3u8
-#EXTINF:-1 channel-id="FRBD410000783-fr" tvg-id="FRBD410000783" tvg-chno="4002" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20231213T034713SQUARE.png_20231213034713.png" group-title="France",BFM TV
+#EXTINF:-1 channel-id="FRBD410000783-fr" tvg-id="FRBD410000783" tvg-chno="4002" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20250826T004904SQUARE.png" group-title="France",BFM TV
 https://jmp2.uk/sam-FRBD410000783.m3u8
 #EXTINF:-1 channel-id="IN4600011RZ-in" tvg-id="IN4600011RZ" tvg-chno="1415" tvg-name="Bhakti Play" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600011RZ_20250205T004553SQUARE.png" group-title="India",Bhakti Play
 https://jmp2.uk/sam-IN4600011RZ.m3u8
@@ -919,7 +919,7 @@ https://jmp2.uk/sam-IN1600002IQ.m3u8
 https://jmp2.uk/sam-IT9000113W.m3u8
 #EXTINF:-1 channel-id="FR1200001N2-fr" tvg-id="FR1200001N2" tvg-chno="4415" tvg-name="Doc Story" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20241015T040252SQUARE.png" group-title="France",Doc Story
 https://jmp2.uk/sam-FR1200001N2.m3u8
-#EXTINF:-1 channel-id="FR26000089E-fr" tvg-id="FR26000089E" tvg-chno="4429" tvg-name="Documentaires - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000089E_20241210T052731SQUARE.png" group-title="France",Documentaires - Rakuten TV
+#EXTINF:-1 channel-id="FR26000089E-fr" tvg-id="FR26000089E" tvg-chno="4429" tvg-name="Documentaires - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000089E_20250826T004906SQUARE.png" group-title="France",Documentaires - Rakuten TV
 https://jmp2.uk/sam-FR26000089E.m3u8
 #EXTINF:-1 channel-id="CABC2300019UD-ca" tvg-id="CABC2300019UD" tvg-chno="1270" tvg-name="Documentary+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300019UD_20250121T095018SQUARE.png" group-title="Canada",Documentary+
 https://jmp2.uk/sam-CABC2300019UD.m3u8
@@ -1311,11 +1311,11 @@ https://jmp2.uk/sam-ESBD230000143.m3u8
 https://jmp2.uk/sam-ESBA3300039ZX.m3u8
 #EXTINF:-1 channel-id="USAJ1700009QJ-us" tvg-id="USAJ1700009QJ" tvg-chno="3993" tvg-name="FreeTV Estelar" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ1700009QJ_20241112T000634SQUARE.png" group-title="United States",FreeTV Estelar
 https://jmp2.uk/sam-USAJ1700009QJ.m3u8
-#EXTINF:-1 channel-id="AT26000086D-at" tvg-id="AT26000086D" tvg-chno="4205" tvg-name="Freitag Nacht News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT26000086D_20250117T112016SQUARE.png" group-title="Austria",Freitag Nacht News
+#EXTINF:-1 channel-id="AT26000086D-at" tvg-id="AT26000086D" tvg-chno="4205" tvg-name="Freitag Nacht News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT26000086D_20250826T004804SQUARE.png" group-title="Austria",Freitag Nacht News
 https://jmp2.uk/sam-AT26000086D.m3u8
-#EXTINF:-1 channel-id="CH2600008L1-ch" tvg-id="CH2600008L1" tvg-chno="4205" tvg-name="Freitag Nacht News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600008L1_20250117T134652SQUARE.png" group-title="Switzerland",Freitag Nacht News
+#EXTINF:-1 channel-id="CH2600008L1-ch" tvg-id="CH2600008L1" tvg-chno="4205" tvg-name="Freitag Nacht News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600008L1_20250826T004826SQUARE.png" group-title="Switzerland",Freitag Nacht News
 https://jmp2.uk/sam-CH2600008L1.m3u8
-#EXTINF:-1 channel-id="DE2600002DK-de" tvg-id="DE2600002DK" tvg-chno="4205" tvg-name="Freitag Nacht News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600002DK_20250120T075835SQUARE.png" group-title="Germany",Freitag Nacht News
+#EXTINF:-1 channel-id="DE2600002DK-de" tvg-id="DE2600002DK" tvg-chno="4205" tvg-name="Freitag Nacht News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600002DK_20250826T004829SQUARE.png" group-title="Germany",Freitag Nacht News
 https://jmp2.uk/sam-DE2600002DK.m3u8
 #EXTINF:-1 channel-id="IT900005HF-it" tvg-id="IT900005HF" tvg-chno="4798" tvg-name="Frisbee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900005HF_20250408T021443SQUARE.png" group-title="Italy",Frisbee
 https://jmp2.uk/sam-IT900005HF.m3u8
@@ -3451,7 +3451,7 @@ https://jmp2.uk/sam-AT500002TW.m3u8
 https://jmp2.uk/sam-DE40000191.m3u8
 #EXTINF:-1 channel-id="GB4000027F-gb" tvg-id="GB4000027F" tvg-chno="4136" tvg-name="The Graham Norton Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000027F_20250617T031628SQUARE.png" group-title="United Kingdom",The Graham Norton Show
 https://jmp2.uk/sam-GB4000027F.m3u8
-#EXTINF:-1 channel-id="GB2600016U8-gb" tvg-id="GB2600016U8" tvg-chno="4586" tvg-name="The Guardian" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600016U8_20250121T013048SQUARE.png" group-title="United Kingdom",The Guardian
+#EXTINF:-1 channel-id="GB2600016U8-gb" tvg-id="GB2600016U8" tvg-chno="4586" tvg-name="The Guardian" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600016U8_20250826T004909SQUARE.png" group-title="United Kingdom",The Guardian
 https://jmp2.uk/sam-GB2600016U8.m3u8
 #EXTINF:-1 channel-id="US3300008FX-us" tvg-id="US3300008FX" tvg-chno="1190" tvg-name="The Hill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300008FX_20241022T004442SQUARE.png" group-title="United States",The Hill
 https://jmp2.uk/sam-US3300008FX.m3u8
