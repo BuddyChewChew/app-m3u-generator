@@ -7,6 +7,8 @@ https://jmp2.uk/sam-GBAK3504500A.m3u8
 https://jmp2.uk/sam-GBAK3504501A.m3u8
 #EXTINF:-1 channel-id="GB1800002FA" tvg-id="GB1800002FA" tvg-chno="4158" tvg-name="8 Out Of 10 Cats" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800002FA_20250211T013901SQUARE.png" group-title="Entertainment",8 Out Of 10 Cats
 https://jmp2.uk/sam-GB1800002FA.m3u8
+#EXTINF:-1 channel-id="GB60000381" tvg-id="GB60000381" tvg-chno="4080" tvg-name="A New Life In The Sun" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000381_20250826T004913SQUARE.png" group-title="Reality",A New Life In The Sun
+https://jmp2.uk/sam-GB60000381.m3u8
 #EXTINF:-1 channel-id="GB2600015OS" tvg-id="GB2600015OS" tvg-chno="4999" tvg-name="Action Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20240924T050854SQUARE.png" group-title="Movies",Action Movies - Rakuten TV
 https://jmp2.uk/sam-GB2600015OS.m3u8
 #EXTINF:-1 channel-id="GBBC900015D3" tvg-id="GBBC900015D3" tvg-chno="4488" tvg-name="Adventure Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20250107T022812SQUARE.png" group-title="Nature",Adventure Earth
@@ -177,6 +179,10 @@ https://jmp2.uk/sam-GB400003BM.m3u8
 https://jmp2.uk/sam-GBBA220000751.m3u8
 #EXTINF:-1 channel-id="GBBD50000084W" tvg-id="GBBD50000084W" tvg-chno="4490" tvg-name="Jack Hanna" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000084W_20250107T030710SQUARE.png" group-title="Nature",Jack Hanna
 https://jmp2.uk/sam-GBBD50000084W.m3u8
+#EXTINF:-1 channel-id="GB17000066A" tvg-id="GB17000066A" tvg-chno="4258" tvg-name="K-Content by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB17000066A_20250826T004916SQUARE.png" group-title="TV Series",K-Content by CJ ENM
+https://jmp2.uk/sam-GB17000066A.m3u8
+#EXTINF:-1 channel-id="GB1700004YC" tvg-id="GB1700004YC" tvg-chno="4521" tvg-name="K-Food by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1700004YC_20250826T004919SQUARE.png" group-title="Food & Travel",K-Food by CJ ENM
+https://jmp2.uk/sam-GB1700004YC.m3u8
 #EXTINF:-1 channel-id="GB3900001TM" tvg-id="GB3900001TM" tvg-chno="4742" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900001TM_20250107T030712SQUARE.png" group-title="Music",K-POP by CJ ENM
 https://jmp2.uk/sam-GB3900001TM.m3u8
 #EXTINF:-1 channel-id="GB3400003A9" tvg-id="GB3400003A9" tvg-chno="4777" tvg-name="Ketchup TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3400003A9_20250107T031143SQUARE.png" group-title="Kids",Ketchup TV
@@ -345,8 +351,6 @@ https://jmp2.uk/sam-GB700006X7.m3u8
 https://jmp2.uk/sam-GB1100001EB.m3u8
 #EXTINF:-1 channel-id="GB4000027F" tvg-id="GB4000027F" tvg-chno="4136" tvg-name="The Graham Norton Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000027F_20250617T031628SQUARE.png" group-title="Entertainment",The Graham Norton Show
 https://jmp2.uk/sam-GB4000027F.m3u8
-#EXTINF:-1 channel-id="GB2600016U8" tvg-id="GB2600016U8" tvg-chno="4586" tvg-name="The Guardian" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600016U8_20250826T004909SQUARE.png" group-title="News",The Guardian
-https://jmp2.uk/sam-GB2600016U8.m3u8
 #EXTINF:-1 channel-id="GB200000940" tvg-id="GB200000940" tvg-chno="4360" tvg-name="The Hotel Inspector" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200000940_20250811T172958SQUARE.png" group-title="Documentaries",The Hotel Inspector
 https://jmp2.uk/sam-GB200000940.m3u8
 #EXTINF:-1 channel-id="GBBC4000002H3" tvg-id="GBBC4000002H3" tvg-chno="4002" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20250819T032603SQUARE.png" group-title="Food & Travel",The Jamie Oliver Channel
