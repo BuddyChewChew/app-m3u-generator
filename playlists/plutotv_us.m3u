@@ -25,6 +25,8 @@ https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 #EXTINF:-1 channel-id="6793ea255225b515b4ba91a7" tvg-id="6793ea255225b515b4ba91a7" tvg-chno="2103" tvg-name="ALLBLK Gems" tvg-logo="https://images.pluto.tv/channels/6793ea255225b515b4ba91a7/colorLogoPNG.png" group-title="Entertainment",ALLBLK Gems
 https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8
+#EXTINF:-1 channel-id="68757c45759366af05b3b199" tvg-id="68757c45759366af05b3b199" tvg-chno="1873" tvg-name="America's Next Top Model" tvg-logo="https://images.pluto.tv/channels/68757c45759366af05b3b199/colorLogoPNG-1756852664017.png" group-title="Competition Reality",America's Next Top Model
+https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
 #EXTINF:-1 channel-id="5e84f54a82f05300080e6746" tvg-id="5e84f54a82f05300080e6746" tvg-chno="3420" tvg-name="America's Test Kitchen" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="Home + Food",America's Test Kitchen
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:-1 channel-id="5e1f7da4bc7d740009831259" tvg-id="5e1f7da4bc7d740009831259" tvg-chno="2690" tvg-name="America's Voice News" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="News + Opinion",America's Voice News
@@ -105,7 +107,7 @@ https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
 https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 #EXTINF:-1 channel-id="5e46fba0c43b0d00096e5ac1" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-chno="2680" tvg-name="Blaze Live" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="News + Opinion",Blaze Live
 https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
-#EXTINF:-1 channel-id="54ff7ba69222cb1c2624c584" tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="2640" tvg-name="Bloomberg TV" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG-1756918044.png" group-title="News + Opinion",Bloomberg TV
+#EXTINF:-1 channel-id="54ff7ba69222cb1c2624c584" tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="2640" tvg-name="Bloomberg TV+" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG_1756948295813.png" group-title="News + Opinion",Bloomberg TV+
 https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
 #EXTINF:-1 channel-id="61b3b8c645b45d0007a9bb8d" tvg-id="61b3b8c645b45d0007a9bb8d" tvg-chno="1000" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoPNG_1731834396573.png" group-title="Drama",Blue Bloods
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
@@ -301,7 +303,7 @@ https://jmp2.uk/plu-667f2c7b22acab0008b7072b.m3u8
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 #EXTINF:-1 channel-id="5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-chno="2790" tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports",FOX Sports
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
-#EXTINF:-1 channel-id="640a68880e884c0009979cc2" tvg-id="640a68880e884c0009979cc2" tvg-chno="2619" tvg-name="FOX Weather" tvg-logo="https://images.pluto.tv/channels/640a68880e884c0009979cc2/colorLogoPNG.png" group-title="News + Opinion",FOX Weather
+#EXTINF:-1 channel-id="640a68880e884c0009979cc2" tvg-id="640a68880e884c0009979cc2" tvg-chno="2619" tvg-name="FOX Weather" tvg-logo="https://images.pluto.tv/channels/640a68880e884c0009979cc2/colorLogoPNG-1757012691643.png" group-title="News + Opinion",FOX Weather
 https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
 #EXTINF:-1 channel-id="580e87ff497c73ba2f321dd3" tvg-id="580e87ff497c73ba2f321dd3" tvg-chno="330" tvg-name="Funny AF" tvg-logo="https://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/colorLogoPNG.png" group-title="Comedy",Funny AF
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
