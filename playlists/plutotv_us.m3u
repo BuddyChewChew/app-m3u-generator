@@ -141,12 +141,12 @@ https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
 https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1 channel-id="5dc48170e280c80009a861ab" tvg-id="5dc48170e280c80009a861ab" tvg-chno="5180" tvg-name="CBS News New York" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="Local News",CBS News New York
 https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
+#EXTINF:-1 channel-id="62cdca1cda044a00077b903d" tvg-id="62cdca1cda044a00077b903d" tvg-chno="2570" tvg-name="CBS News Philadelphia" tvg-logo="https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png" group-title="News + Opinion",CBS News Philadelphia
+https://jmp2.uk/plu-62cdca1cda044a00077b903d.m3u8
 #EXTINF:-1 channel-id="5eb1b05ea168cc000767ba67" tvg-id="5eb1b05ea168cc000767ba67" tvg-chno="5210" tvg-name="CBS News Philadelphia" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="Local News",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
 #EXTINF:-1 channel-id="5eb1b17aa5277e00083f6521" tvg-id="5eb1b17aa5277e00083f6521" tvg-chno="5220" tvg-name="CBS News Pittsburgh" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="Local News",CBS News Pittsburgh
 https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
-#EXTINF:-1 channel-id="62cdcd05b9e7a10007399603" tvg-id="62cdcd05b9e7a10007399603" tvg-chno="2570" tvg-name="CBS News Sacramento" tvg-logo="https://images.pluto.tv/channels/62cdcd05b9e7a10007399603/colorLogoPNG.png" group-title="News + Opinion",CBS News Sacramento
-https://jmp2.uk/plu-62cdcd05b9e7a10007399603.m3u8
 #EXTINF:-1 channel-id="60cb6df2b2ad610008cd5bea" tvg-id="60cb6df2b2ad610008cd5bea" tvg-chno="5230" tvg-name="CBS News Sacramento" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="Local News",CBS News Sacramento
 https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
 #EXTINF:-1 channel-id="5eceb0d4065c240007688ec6" tvg-id="5eceb0d4065c240007688ec6" tvg-chno="5250" tvg-name="CBS News Texas" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="Local News",CBS News Texas
