@@ -99,8 +99,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63d6f6c5a9e88ee909e7ee1f.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65b1568052aa31b8f64da064.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6164a963766ab4f9f57e81b1" tvg-id="647f8d22a2fc3fadb4721685-6164a963766ab4f9f57e81b1" tvg-chno="" tvg-name="Camp Spoopy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png" group-title="Kids & Family",Camp Spoopy
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6164a963766ab4f9f57e81b1.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6216ae22c3bbca2de8704f65" tvg-id="647f8d22a2fc3fadb4721685-6216ae22c3bbca2de8704f65" tvg-chno="" tvg-name="CampusLore Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dee3468a-a0c7-499f-a92b-84efd63b84de/CL_logo.png" group-title="Sports",CampusLore Sports
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6216ae22c3bbca2de8704f65.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a7910" tvg-id="647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a7910" tvg-chno="" tvg-name="CBC Comedy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d855cd9-0673-4bfc-a12d-efa4e26176f6/CBCComedy_ColourOnBlackBkgd_PlexTV_1500x1000_-_Catherine_Cook.png" group-title="Comedy",CBC Comedy
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a7910.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" tvg-id="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" tvg-chno="" tvg-name="CBC News" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/edb4a846dfbdd0fd06dc3c64ef89da22.png" group-title="Uncategorized",CBC News
@@ -581,6 +579,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61aaa17a784a2161d3caf801.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-673d2a870d39ac306d6f2ceb.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6349ed0eb1adc4cfa571fd37" tvg-id="647f8d22a2fc3fadb4721685-6349ed0eb1adc4cfa571fd37" tvg-chno="" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Sports",SPEEDVISION
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6349ed0eb1adc4cfa571fd37.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6216ae22c3bbca2de8704f65" tvg-id="647f8d22a2fc3fadb4721685-6216ae22c3bbca2de8704f65" tvg-chno="" tvg-name="Sports Illustrated TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png" group-title="Uncategorized",Sports Illustrated TV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6216ae22c3bbca2de8704f65.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6490e78518a55242eea95999" tvg-id="647f8d22a2fc3fadb4721685-6490e78518a55242eea95999" tvg-chno="" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6c3266e-3f14-426d-b9c8-f419738b1eea/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Sports",SportsGrid
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6490e78518a55242eea95999.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-664292a80e0ec7b4ce5eb28c" tvg-id="647f8d22a2fc3fadb4721685-664292a80e0ec7b4ce5eb28c" tvg-chno="" tvg-name="Startalk TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="History & Science",Startalk TV
