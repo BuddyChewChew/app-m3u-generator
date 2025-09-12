@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
-# Generated on 2025-09-11T01:55:19.426469
+# Generated on 2025-09-12T01:50:35.043323
 #EXTINF:-1 tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/ca2EvME4kxBv3g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjhAAQ==" group-title="True Crime",A&E Crime 360
 https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/sE__djfzPMUmUg==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjhAAQ==" group-title="National News",ABC News Live
@@ -189,8 +189,6 @@ https://live-manifest.production-public.tubi.io/live/0e9538d9-1180-4710-9b00-4bf
 https://live-manifest.production-public.tubi.io/live/849f7dd8-3039-4a1d-ae5c-886f0294ffae/playlist.m3u8
 #EXTINF:-1 tvg-id="400000033" tvg-logo="https://canvas-lb.tubitv.com/opts/Ack4AYWUtvd8Gw==/4258e598-4722-409b-8e3c-625f800ba9ba/CHgQeDoFMS4xLjhAAQ==" group-title="Kids & Family",Kartoon Channel!
 https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8
-#EXTINF:-1 tvg-id="687447" tvg-logo="https://canvas-lb.tubitv.com/opts/gIY9VhXw00UXyA==/a6ee923c-4dc0-4d93-81a2-31bf11be3a7e/CHgQeDoFMS4xLjhAAQ==" group-title="Local News",KATC News Acadiana
-https://live-manifest.production-public.tubi.io/live/38e73771-a440-42a2-9621-555f04e397bc/playlist.m3u8
 #EXTINF:-1 tvg-id="603907" tvg-logo="https://canvas-lb.tubitv.com/opts/XSTkM9g-IKIcTw==/14d79fa8-04ea-4a04-9c57-22dca8e2851c/CHgQeDoFMS4xLjhAAQ==" group-title="Local News",KCCI Iowa Des Moines 8
 https://live-manifest.production-public.tubi.io/live/03361ae2-95b5-411f-b0cc-2721486cb734/playlist.m3u8
 #EXTINF:-1 tvg-id="689435" tvg-logo="https://canvas-lb.tubitv.com/opts/wVoRrFfkkw72NQ==/759fb168-5200-4814-b617-de844824b9a8/CHgQeDoFMS4xLjhAAQ==" group-title="Local News",KERO 23 Bakersfield
@@ -259,8 +257,6 @@ https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad9
 https://live-manifest.production-public.tubi.io/live/a85525c7-da51-4d48-87bc-d5de1e7ca02f/playlist.m3u8
 #EXTINF:-1 tvg-id="400000045" tvg-logo="https://canvas-lb.tubitv.com/opts/Sux8P_pCFoYiMw==/3a6b2ab5-d20e-4b25-9231-65bc11c8b3c0/CHgQeDoFMS4xLjhAAQ==" group-title="Sports On Now",PokerGO
 https://live-manifest.production-public.tubi.io/live/fe9537a5-c7cc-4a74-83df-4c6243922a70/playlist.m3u8
-#EXTINF:-1 tvg-id="687468" tvg-logo="https://canvas-lb.tubitv.com/opts/m0HRv6okk224BQ==/3a067014-7789-48eb-a234-da3ee43aae12/CHgQeDoFMS4xLjhAAQ==" group-title="Local News",Q2 News Billings
-https://live-manifest.production-public.tubi.io/live/abf5acdc-2147-4e86-90d6-be8a941956d5/playlist.m3u8
 #EXTINF:-1 tvg-id="613762" tvg-logo="https://canvas-lb.tubitv.com/opts/XQZv-YqIRLHe5Q==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjhAAQ==" group-title="Sports On Now",Real Madrid
 https://live-manifest.production-public.tubi.io/live/08bf183c-0d2b-405a-b31b-e30f758e5f32/playlist.m3u8
 #EXTINF:-1 tvg-id="641290" tvg-logo="https://canvas-lb.tubitv.com/opts/kqMJDobqh7FFxw==/942bdeac-9411-4562-a78c-5402d04711a7/CHgQeDoFMS4xLjhAAQ==" group-title="Pop Culture",REELZ Famous & Infamous
