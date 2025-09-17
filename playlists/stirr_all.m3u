@@ -27,7 +27,7 @@ https://jmp2.uk/str-6483.m3u8
 https://jmp2.uk/str-6521.m3u8
 #EXTINF:-1 channel-id="5740" tvg-id="5740" tvg-chno="435" tvg-name="Ace TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613664IxmNkW3C0m-632x395-maJhgG0t.jpeg" group-title="Sports Live, Entertainment Live",Ace TV
 https://jmp2.uk/str-5740.m3u8
-#EXTINF:-1 channel-id="5293" tvg-id="5293" tvg-chno="460" tvg-name="Adventure Sports TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707439856kv40RRNDV4-632x395-Esv4IcOe.png" group-title="Sports Live",Adventure Sports TV
+#EXTINF:-1 channel-id="5293" tvg-id="5293" tvg-chno="9021" tvg-name="Adventure Sports TV (Died)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707439856kv40RRNDV4-632x395-Esv4IcOe.png" group-title="Sports Live",Adventure Sports TV (Died)
 https://jmp2.uk/str-5293.m3u8
 #EXTINF:-1 channel-id="6701" tvg-id="6701" tvg-chno="211" tvg-name="Al Jazeera" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/04/11/1744404738LJowkImvU8-632x395-eRbsgJ82.jpeg" group-title="News Flash Live",Al Jazeera
 https://jmp2.uk/str-6701.m3u8
@@ -115,8 +115,6 @@ https://jmp2.uk/str-5453.m3u8
 https://jmp2.uk/str-7295.m3u8
 #EXTINF:-1 channel-id="7319" tvg-id="7319" tvg-chno="703" tvg-name="H20 TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/09/12/1757717025Y40fNuhsRW-632x395-TCqFnYIw.png" group-title="Pack your Bag Travel",H20 TV
 https://jmp2.uk/str-7319.m3u8
-#EXTINF:-1 channel-id="5454" tvg-id="5454" tvg-chno="840" tvg-name="Hipstr" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712001822nznanJgm1T-632x395-GqeIR2GC.jpeg" group-title="Entertainment Live",Hipstr
-https://jmp2.uk/str-5454.m3u8
 #EXTINF:-1 channel-id="7285" tvg-id="7285" tvg-chno="422" tvg-name="Homerun TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751330819RCU5vxqXYC-632x395-ChcGUiTp.png" group-title="Sports Live",Homerun TV
 https://jmp2.uk/str-7285.m3u8
 #EXTINF:-1 channel-id="7287" tvg-id="7287" tvg-chno="434" tvg-name="Hoop TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751331303opJn647Bhy-632x395-y6kX3egV.png" group-title="Sports Live",Hoop TV
