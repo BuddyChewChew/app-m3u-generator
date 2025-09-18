@@ -283,10 +283,6 @@ https://jmp2.uk/sam-ESBD1300001EP.m3u8
 https://jmp2.uk/sam-US4500009VV.m3u8
 #EXTINF:-1 channel-id="ES2900001DQ-es" tvg-id="ES2900001DQ" tvg-chno="4246" tvg-name="BBC Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20241106T142333SQUARE.png" group-title="Spain",BBC Drama
 https://jmp2.uk/sam-ES2900001DQ.m3u8
-#EXTINF:-1 channel-id="FR2900001UF-fr" tvg-id="FR2900001UF" tvg-chno="4239" tvg-name="BBC Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2900001UF_20250916T003553SQUARE.png" group-title="France",BBC Drama
-https://jmp2.uk/sam-FR2900001UF.m3u8
-#EXTINF:-1 channel-id="IT2900001B5-it" tvg-id="IT2900001B5" tvg-chno="4233" tvg-name="BBC Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250916T003606SQUARE.png" group-title="Italy",BBC Drama
-https://jmp2.uk/sam-IT2900001B5.m3u8
 #EXTINF:-1 channel-id="US3700005GP-us" tvg-id="US3700005GP" tvg-chno="1524" tvg-name="BBC Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700005GP_20241119T020405SQUARE.png" group-title="United States",BBC Drama
 https://jmp2.uk/sam-US3700005GP.m3u8
 #EXTINF:-1 channel-id="DE3200001RI-de" tvg-id="DE3200001RI" tvg-chno="4488" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Germany",BBC Earth
@@ -317,6 +313,10 @@ https://jmp2.uk/sam-CA800001ZX.m3u8
 https://jmp2.uk/sam-US800003JM.m3u8
 #EXTINF:-1 channel-id="US4000033L-us" tvg-id="US4000033L" tvg-chno="1140" tvg-name="BBC News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20250325T015110SQUARE.png" group-title="United States",BBC News
 https://jmp2.uk/sam-US4000033L.m3u8
+#EXTINF:-1 channel-id="FR2900001UF-fr" tvg-id="FR2900001UF" tvg-chno="4239" tvg-name="BBC Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2900001UF_20250916T003553SQUARE.png" group-title="France",BBC Series
+https://jmp2.uk/sam-FR2900001UF.m3u8
+#EXTINF:-1 channel-id="IT2900001B5-it" tvg-id="IT2900001B5" tvg-chno="4233" tvg-name="BBC Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250916T003606SQUARE.png" group-title="Italy",BBC Series
+https://jmp2.uk/sam-IT2900001B5.m3u8
 #EXTINF:-1 channel-id="DE2900001W0-de" tvg-id="DE2900001W0" tvg-chno="4531" tvg-name="BBC Travel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2900001W0_20250107T024811SQUARE.png" group-title="Germany",BBC Travel
 https://jmp2.uk/sam-DE2900001W0.m3u8
 #EXTINF:-1 channel-id="CA1400020K2-ca" tvg-id="CA1400020K2" tvg-chno="4581" tvg-name="Beach Bonfire Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400020K2_20250318T021220SQUARE.png" group-title="Canada",Beach Bonfire Vibes
@@ -661,9 +661,9 @@ https://jmp2.uk/sam-GBBC9000062G.m3u8
 https://jmp2.uk/sam-ES260000700.m3u8
 #EXTINF:-1 channel-id="ESAJ3800005C5-es" tvg-id="ESAJ3800005C5" tvg-chno="4156" tvg-name="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Spain",Comedia Made in Spain
 https://jmp2.uk/sam-ESAJ3800005C5.m3u8
-#EXTINF:-1 channel-id="ATBA33000209C-at" tvg-id="ATBA33000209C" tvg-chno="4253" tvg-name="Comedy & Shows" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000209C_20250916T003139SQUARE.png" group-title="Austria",Comedy & Shows
+#EXTINF:-1 channel-id="ATBA33000209C-at" tvg-id="ATBA33000209C" tvg-chno="4255" tvg-name="Comedy & Shows" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000209C_20250916T003139SQUARE.png" group-title="Austria",Comedy & Shows
 https://jmp2.uk/sam-ATBA33000209C.m3u8
-#EXTINF:-1 channel-id="CHBB4900004VT-ch" tvg-id="CHBB4900004VT" tvg-chno="4253" tvg-name="Comedy & Shows" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB4900004VT_20250916T003157SQUARE.png" group-title="Switzerland",Comedy & Shows
+#EXTINF:-1 channel-id="CHBB4900004VT-ch" tvg-id="CHBB4900004VT" tvg-chno="4255" tvg-name="Comedy & Shows" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB4900004VT_20250916T003157SQUARE.png" group-title="Switzerland",Comedy & Shows
 https://jmp2.uk/sam-CHBB4900004VT.m3u8
 #EXTINF:-1 channel-id="DEBC2200002E7-de" tvg-id="DEBC2200002E7" tvg-chno="4255" tvg-name="Comedy & Shows" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200002E7_20250107T024307SQUARE.png" group-title="Germany",Comedy & Shows
 https://jmp2.uk/sam-DEBC2200002E7.m3u8
@@ -1437,7 +1437,7 @@ https://jmp2.uk/sam-INBA5100020HQ.m3u8
 https://jmp2.uk/sam-USAK3508724A.m3u8
 #EXTINF:-1 channel-id="FRBC4700001XG-fr" tvg-id="FRBC4700001XG" tvg-chno="4255" tvg-name="Génération Sitcoms" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250624T021408SQUARE.png" group-title="France",Génération Sitcoms
 https://jmp2.uk/sam-FRBC4700001XG.m3u8
-#EXTINF:-1 channel-id="CHBD200003G1-ch" tvg-id="CHBD200003G1" tvg-chno="4257" tvg-name="Génération Sitcoms [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD200003G1_20250916T003200SQUARE.png" group-title="Switzerland",Génération Sitcoms [FR]
+#EXTINF:-1 channel-id="CHBD200003G1-ch" tvg-id="CHBD200003G1" tvg-chno="4260" tvg-name="Génération Sitcoms [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD200003G1_20250916T003200SQUARE.png" group-title="Switzerland",Génération Sitcoms [FR]
 https://jmp2.uk/sam-CHBD200003G1.m3u8
 #EXTINF:-1 channel-id="AT80000194-at" tvg-id="AT80000194" tvg-chno="4214" tvg-name="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT80000194_20250819T032959SQUARE.png" group-title="Austria",H2O & Friends
 https://jmp2.uk/sam-AT80000194.m3u8
@@ -1885,6 +1885,12 @@ https://jmp2.uk/sam-ESBD3600001Q1.m3u8
 https://jmp2.uk/sam-FR4200001BN.m3u8
 #EXTINF:-1 channel-id="GB2000007ID-gb" tvg-id="GB2000007ID" tvg-chno="4093" tvg-name="LADbible" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2000007ID_20250729T045902SQUARE.png" group-title="United Kingdom",LADbible
 https://jmp2.uk/sam-GB2000007ID.m3u8
+#EXTINF:-1 channel-id="AT32000109U-at" tvg-id="AT32000109U" tvg-chno="4158" tvg-name="Ladykracher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT32000109U_20250916T003513SQUARE.png" group-title="Austria",Ladykracher
+https://jmp2.uk/sam-AT32000109U.m3u8
+#EXTINF:-1 channel-id="CH3200009XW-ch" tvg-id="CH3200009XW" tvg-chno="4158" tvg-name="Ladykracher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3200009XW_20250916T003520SQUARE.png" group-title="Switzerland",Ladykracher
+https://jmp2.uk/sam-CH3200009XW.m3u8
+#EXTINF:-1 channel-id="DE3200015MJ-de" tvg-id="DE3200015MJ" tvg-chno="4158" tvg-name="Ladykracher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200015MJ_20250916T003526SQUARE.png" group-title="Germany",Ladykracher
+https://jmp2.uk/sam-DE3200015MJ.m3u8
 #EXTINF:-1 channel-id="US3700002P0-us" tvg-id="US3700002P0" tvg-chno="2643" tvg-name="Laff More" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700002P0_20241112T000848SQUARE.png" group-title="United States",Laff More
 https://jmp2.uk/sam-US3700002P0.m3u8
 #EXTINF:-1 channel-id="AT1100001B5-at" tvg-id="AT1100001B5" tvg-chno="4213" tvg-name="Landlust TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100001B5_20250107T022137SQUARE.png" group-title="Austria",Landlust TV
@@ -2671,9 +2677,9 @@ https://jmp2.uk/sam-CHAJ700007XE.m3u8
 https://jmp2.uk/sam-DEAJ700007OT.m3u8
 #EXTINF:-1 channel-id="ITAJ3800007P8-it" tvg-id="ITAJ3800007P8" tvg-chno="4235" tvg-name="Pluto TV Serie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800007P8_20241022T051508SQUARE.png" group-title="Italy",Pluto TV Serie
 https://jmp2.uk/sam-ITAJ3800007P8.m3u8
-#EXTINF:-1 channel-id="ATAK3504505A-at" tvg-id="ATAK3504505A" tvg-chno="4255" tvg-name="Pluto TV Sitcoms" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504505A_20250916T003136SQUARE.png" group-title="Austria",Pluto TV Sitcoms
+#EXTINF:-1 channel-id="ATAK3504505A-at" tvg-id="ATAK3504505A" tvg-chno="4257" tvg-name="Pluto TV Sitcoms" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504505A_20250916T003136SQUARE.png" group-title="Austria",Pluto TV Sitcoms
 https://jmp2.uk/sam-ATAK3504505A.m3u8
-#EXTINF:-1 channel-id="CHAK3504505A-ch" tvg-id="CHAK3504505A" tvg-chno="4255" tvg-name="Pluto TV Sitcoms" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504505A_20250916T003153SQUARE.png" group-title="Switzerland",Pluto TV Sitcoms
+#EXTINF:-1 channel-id="CHAK3504505A-ch" tvg-id="CHAK3504505A" tvg-chno="4257" tvg-name="Pluto TV Sitcoms" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504505A_20250916T003153SQUARE.png" group-title="Switzerland",Pluto TV Sitcoms
 https://jmp2.uk/sam-CHAK3504505A.m3u8
 #EXTINF:-1 channel-id="DEAK3504508A-de" tvg-id="DEAK3504508A" tvg-chno="4257" tvg-name="Pluto TV Sitcoms" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504508A_20250107T024006SQUARE.png" group-title="Germany",Pluto TV Sitcoms
 https://jmp2.uk/sam-DEAK3504508A.m3u8
@@ -2899,6 +2905,8 @@ https://jmp2.uk/sam-ESBC400001QQ.m3u8
 https://jmp2.uk/sam-FRBB50000016B.m3u8
 #EXTINF:-1 channel-id="ESBD80000288-es" tvg-id="ESBD80000288" tvg-chno="4994" tvg-name="Runtime Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20250902T003646SQUARE.png" group-title="Spain",Runtime Acción
 https://jmp2.uk/sam-ESBD80000288.m3u8
+#EXTINF:-1 channel-id="ES2200003DA-es" tvg-id="ES2200003DA" tvg-chno="4929" tvg-name="Runtime Clásicos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20250916T003539SQUARE.png" group-title="Spain",Runtime Clásicos
+https://jmp2.uk/sam-ES2200003DA.m3u8
 #EXTINF:-1 channel-id="ESBD8000033W-es" tvg-id="ESBD8000033W" tvg-chno="4906" tvg-name="Runtime Comedia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250722T005652SQUARE.png" group-title="Spain",Runtime Comedia
 https://jmp2.uk/sam-ESBD8000033W.m3u8
 #EXTINF:-1 channel-id="ES700004C8-es" tvg-id="ES700004C8" tvg-chno="4851" tvg-name="Runtime Familia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20250211T014052SQUARE.png" group-title="Spain",Runtime Familia
@@ -3085,7 +3093,7 @@ https://jmp2.uk/sam-AT300008JS.m3u8
 https://jmp2.uk/sam-DE300002CL.m3u8
 #EXTINF:-1 channel-id="GB300003UI-gb" tvg-id="GB300003UI" tvg-chno="4905" tvg-name="Sony One Comedy HITS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20250107T031229SQUARE.png" group-title="United Kingdom",Sony One Comedy HITS
 https://jmp2.uk/sam-GB300003UI.m3u8
-#EXTINF:-1 channel-id="AT2100002QM-at" tvg-id="AT2100002QM" tvg-chno="4252" tvg-name="Sony One Comedy TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2100002QM_20250916T003536SQUARE.png" group-title="Austria",Sony One Comedy TV
+#EXTINF:-1 channel-id="AT2100002QM-at" tvg-id="AT2100002QM" tvg-chno="4253" tvg-name="Sony One Comedy TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2100002QM_20250916T003536SQUARE.png" group-title="Austria",Sony One Comedy TV
 https://jmp2.uk/sam-AT2100002QM.m3u8
 #EXTINF:-1 channel-id="DE3000016Q-de" tvg-id="DE3000016Q" tvg-chno="4253" tvg-name="Sony One Comedy TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3000016Q_20250107T024726SQUARE.png" group-title="Germany",Sony One Comedy TV
 https://jmp2.uk/sam-DE3000016Q.m3u8
@@ -3317,6 +3325,12 @@ https://jmp2.uk/sam-CABC5200004AI.m3u8
 https://jmp2.uk/sam-GB3700002J0.m3u8
 #EXTINF:-1 channel-id="USBC4400012QS-us" tvg-id="USBC4400012QS" tvg-chno="3651" tvg-name="Strawberry Shortcake" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400012QS_20240520T214845SQUARE.png" group-title="United States",Strawberry Shortcake
 https://jmp2.uk/sam-USBC4400012QS.m3u8
+#EXTINF:-1 channel-id="AT3200012MN-at" tvg-id="AT3200012MN" tvg-chno="4256" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200012MN_20250916T003516SQUARE.png" group-title="Austria",Stromberg
+https://jmp2.uk/sam-AT3200012MN.m3u8
+#EXTINF:-1 channel-id="CH3200011YH-ch" tvg-id="CH3200011YH" tvg-chno="4256" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3200011YH_20250916T003523SQUARE.png" group-title="Switzerland",Stromberg
+https://jmp2.uk/sam-CH3200011YH.m3u8
+#EXTINF:-1 channel-id="DE32000175T-de" tvg-id="DE32000175T" tvg-chno="4256" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20250916T003529SQUARE.png" group-title="Germany",Stromberg
+https://jmp2.uk/sam-DE32000175T.m3u8
 #EXTINF:-1 channel-id="ATBA3300010PU-at" tvg-id="ATBA3300010PU" tvg-chno="4673" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20250107T022226SQUARE.png" group-title="Austria",Strongman Champions League
 https://jmp2.uk/sam-ATBA3300010PU.m3u8
 #EXTINF:-1 channel-id="CHBA3300011A6-ch" tvg-id="CHBA3300011A6" tvg-chno="4673" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300011A6_20250107T025607SQUARE.png" group-title="Switzerland",Strongman Champions League
