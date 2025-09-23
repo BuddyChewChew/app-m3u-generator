@@ -115,6 +115,8 @@ https://jmp2.uk/str-5453.m3u8
 https://jmp2.uk/str-7295.m3u8
 #EXTINF:-1 channel-id="7319" tvg-id="7319" tvg-chno="703" tvg-name="H20 TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/09/12/1757717025Y40fNuhsRW-632x395-TCqFnYIw.png" group-title="Pack your Bag Travel",H20 TV
 https://jmp2.uk/str-7319.m3u8
+#EXTINF:-1 channel-id="5291" tvg-id="5291" tvg-chno="510" tvg-name="Home Shopping Network" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/170743599023pPRmXtWB-632x395-pfsSQfRk.png" group-title="Shopping Live",Home Shopping Network
+https://jmp2.uk/str-5291.m3u8
 #EXTINF:-1 channel-id="7285" tvg-id="7285" tvg-chno="422" tvg-name="Homerun TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751330819RCU5vxqXYC-632x395-ChcGUiTp.png" group-title="Sports Live",Homerun TV
 https://jmp2.uk/str-7285.m3u8
 #EXTINF:-1 channel-id="7287" tvg-id="7287" tvg-chno="434" tvg-name="Hoop TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751331303opJn647Bhy-632x395-y6kX3egV.png" group-title="Sports Live",Hoop TV
@@ -123,8 +125,6 @@ https://jmp2.uk/str-7287.m3u8
 https://jmp2.uk/str-7303.m3u8
 #EXTINF:-1 channel-id="7289" tvg-id="7289" tvg-chno="451" tvg-name="Horse TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751331729ulHpeRczFM-632x395-037RbAdf.png" group-title="Sports Live",Horse TV
 https://jmp2.uk/str-7289.m3u8
-#EXTINF:-1 channel-id="5291" tvg-id="5291" tvg-chno="510" tvg-name="HSN" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/170743599023pPRmXtWB-632x395-pfsSQfRk.png" group-title="Shopping Live",HSN
-https://jmp2.uk/str-5291.m3u8
 #EXTINF:-1 channel-id="5302" tvg-id="5302" tvg-chno="630" tvg-name="Humor Mill TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707445067DapGBq9zX8-632x395-ZipiP3Ks.png" group-title="Comedy Live",Humor Mill TV
 https://jmp2.uk/str-5302.m3u8
 #EXTINF:-1 channel-id="5747" tvg-id="5747" tvg-chno="465" tvg-name="Hunt Fish TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-632x395-V8A26P30.png" group-title="Entertainment Live",Hunt Fish TV
@@ -243,7 +243,7 @@ https://jmp2.uk/str-6424.m3u8
 https://jmp2.uk/str-5305.m3u8
 #EXTINF:-1 channel-id="5887" tvg-id="5887" tvg-chno="405" tvg-name="Surfing Plus" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/02/17146738219e46A2lfds-632x395-QsFhxKLr.png" group-title="Sports Live",Surfing Plus
 https://jmp2.uk/str-5887.m3u8
-#EXTINF:-1 channel-id="5441" tvg-id="5441" tvg-chno="665" tvg-name="TBN" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711049863a020ieNKak-632x395-IXcywtoj.png" group-title="Entertainment Live",TBN
+#EXTINF:-1 channel-id="5441" tvg-id="5441" tvg-chno="665" tvg-name="TBN -Trinity Broadcasting Network" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711049863a020ieNKak-632x395-IXcywtoj.png" group-title="Entertainment Live",TBN -Trinity Broadcasting Network
 https://jmp2.uk/str-5441.m3u8
 #EXTINF:-1 channel-id="6589" tvg-id="6589" tvg-chno="164" tvg-name="Teenvee" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737757811Dd1ftCznvR-632x395-ja5rxBbK.png" group-title="Entertainment Live",Teenvee
 https://jmp2.uk/str-6589.m3u8
@@ -261,7 +261,7 @@ https://jmp2.uk/str-6425.m3u8
 https://jmp2.uk/str-6427.m3u8
 #EXTINF:-1 channel-id="6426" tvg-id="6426" tvg-chno="800" tvg-name="TRACE Urban" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922378ywfWVlIzIn-632x395-EUqDU4hV.png" group-title="Music Live",TRACE Urban
 https://jmp2.uk/str-6426.m3u8
-#EXTINF:-1 channel-id="7323" tvg-id="7323" tvg-chno="172" tvg-name="Unchained TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/09/18/1758218677PhBCj6xdwX-632x395-yReq0ve2.png" group-title="Food and Fitness Live",Unchained TV
+#EXTINF:-1 channel-id="7323" tvg-id="7323" tvg-chno="172" tvg-name="Unchained TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/09/18/1758218677PhBCj6xdwX-632x395-4CXDvMhO.jpeg" group-title="Food and Fitness Live",Unchained TV
 https://jmp2.uk/str-7323.m3u8
 #EXTINF:-1 channel-id="7017" tvg-id="7017" tvg-chno="158" tvg-name="Unleashed by DOGTV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/09/1746751234uEBPtBEMaA-632x395-mcNbsBAL.jpeg" group-title="Entertainment Live",Unleashed by DOGTV
 https://jmp2.uk/str-7017.m3u8
