@@ -71,8 +71,6 @@ https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 channel-id="6661f11a41af6400080e90d8" tvg-id="6661f11a41af6400080e90d8" tvg-chno="1940" tvg-name="Big Brother" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="Competition Reality",Big Brother
 https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
-#EXTINF:-1 channel-id="64a765c04ea480000823917a" tvg-id="64a765c04ea480000823917a" tvg-chno="1835" tvg-name="Big Brother Camera 1" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG_1749506871042.png" group-title="Big Brother Live",Big Brother Camera 1
-https://jmp2.uk/plu-64a765c04ea480000823917a.m3u8
 #EXTINF:-1 channel-id="58af4c093a41ca9d4ecabe96" tvg-id="58af4c093a41ca9d4ecabe96" tvg-chno="100" tvg-name="Black Cinema" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Movies",Black Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:-1 channel-id="60f85644a9493e0007a1f035" tvg-id="60f85644a9493e0007a1f035" tvg-chno="530" tvg-name="Black Classics" tvg-logo="https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG.png" group-title="Classic TV",Black Classics
@@ -113,14 +111,14 @@ https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8
 https://jmp2.uk/plu-60f75919718aed0007250d7a.m3u8
 #EXTINF:-1 channel-id="5eb1afb21486df0007abc57c" tvg-id="5eb1afb21486df0007abc57c" tvg-chno="5080" tvg-name="CBS News Bay Area" tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="Local News",CBS News Bay Area
 https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
-#EXTINF:-1 channel-id="62cdc7c2a3e6270007f3f2f3" tvg-id="62cdc7c2a3e6270007f3f2f3" tvg-chno="2570" tvg-name="CBS News Boston" tvg-logo="https://images.pluto.tv/channels/62cdc7c2a3e6270007f3f2f3/colorLogoPNG.png" group-title="News + Opinion",CBS News Boston
-https://jmp2.uk/plu-62cdc7c2a3e6270007f3f2f3.m3u8
 #EXTINF:-1 channel-id="5eb1af2ad345340008fccd1e" tvg-id="5eb1af2ad345340008fccd1e" tvg-chno="5090" tvg-name="CBS News Boston" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" group-title="Local News",CBS News Boston
 https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8
 #EXTINF:-1 channel-id="5eb1aeb2fd4b8a00076c2047" tvg-id="5eb1aeb2fd4b8a00076c2047" tvg-chno="5120" tvg-name="CBS News Chicago" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png" group-title="Local News",CBS News Chicago
 https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8
 #EXTINF:-1 channel-id="5eb1b12146cba40007aa7e5d" tvg-id="5eb1b12146cba40007aa7e5d" tvg-chno="5130" tvg-name="CBS News Colorado" tvg-logo="https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png" group-title="Local News",CBS News Colorado
 https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8
+#EXTINF:-1 channel-id="634f24cf3ce5fa0007c68f39" tvg-id="634f24cf3ce5fa0007c68f39" tvg-chno="2570" tvg-name="CBS News Detroit" tvg-logo="https://images.pluto.tv/channels/634f24cf3ce5fa0007c68f39/colorLogoPNG.png" group-title="News + Opinion",CBS News Detroit
+https://jmp2.uk/plu-634f24cf3ce5fa0007c68f39.m3u8
 #EXTINF:-1 channel-id="634f2610d5023700078f7dee" tvg-id="634f2610d5023700078f7dee" tvg-chno="5140" tvg-name="CBS News Detroit" tvg-logo="https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png" group-title="Local News",CBS News Detroit
 https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8
 #EXTINF:-1 channel-id="5dc9b875e280c80009a8a44a" tvg-id="5dc9b875e280c80009a8a44a" tvg-chno="2560" tvg-name="CBS News Los Angeles" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="News + Opinion",CBS News Los Angeles
