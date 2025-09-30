@@ -1,417 +1,417 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz"
-#EXTINF:-1 channel-id="GB3700007OZ" tvg-id="GB3700007OZ" tvg-chno="4245" tvg-name="" tvg-logo="" group-title="",&TV
+#EXTINF:-1 channel-id="GB3700007OZ" tvg-id="GB3700007OZ" tvg-chno="4245" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",&TV
 https://jmp2.uk/sam-GB3700007OZ.m3u8
-#EXTINF:-1 channel-id="GB2600017PX" tvg-id="GB2600017PX" tvg-chno="4852" tvg-name="" tvg-logo="" group-title="",100% Christmas - Rakuten TV
+#EXTINF:-1 channel-id="GB2600017PX" tvg-id="GB2600017PX" tvg-chno="4852" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",100% Christmas - Rakuten TV
 https://jmp2.uk/sam-GB2600017PX.m3u8
-#EXTINF:-1 channel-id="GBAK3504500A" tvg-id="GBAK3504500A" tvg-chno="4341" tvg-name="" tvg-logo="" group-title="",5 Cops
+#EXTINF:-1 channel-id="GBAK3504500A" tvg-id="GBAK3504500A" tvg-chno="4341" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",5 Cops
 https://jmp2.uk/sam-GBAK3504500A.m3u8
-#EXTINF:-1 channel-id="GBAK3504501A" tvg-id="GBAK3504501A" tvg-chno="4342" tvg-name="" tvg-logo="" group-title="",5 Exploring Britain
+#EXTINF:-1 channel-id="GBAK3504501A" tvg-id="GBAK3504501A" tvg-chno="4342" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",5 Exploring Britain
 https://jmp2.uk/sam-GBAK3504501A.m3u8
-#EXTINF:-1 channel-id="GB1800002FA" tvg-id="GB1800002FA" tvg-chno="4158" tvg-name="" tvg-logo="" group-title="",8 Out Of 10 Cats
+#EXTINF:-1 channel-id="GB1800002FA" tvg-id="GB1800002FA" tvg-chno="4158" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",8 Out Of 10 Cats
 https://jmp2.uk/sam-GB1800002FA.m3u8
-#EXTINF:-1 channel-id="GB60000381" tvg-id="GB60000381" tvg-chno="4080" tvg-name="" tvg-logo="" group-title="",A New Life In The Sun
+#EXTINF:-1 channel-id="GB60000381" tvg-id="GB60000381" tvg-chno="4080" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",A New Life In The Sun
 https://jmp2.uk/sam-GB60000381.m3u8
-#EXTINF:-1 channel-id="GB2600015OS" tvg-id="GB2600015OS" tvg-chno="4999" tvg-name="" tvg-logo="" group-title="",Action Movies - Rakuten TV
+#EXTINF:-1 channel-id="GB2600015OS" tvg-id="GB2600015OS" tvg-chno="4999" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Action Movies - Rakuten TV
 https://jmp2.uk/sam-GB2600015OS.m3u8
-#EXTINF:-1 channel-id="GBBC900015D3" tvg-id="GBBC900015D3" tvg-chno="4488" tvg-name="" tvg-logo="" group-title="",Adventure Earth
+#EXTINF:-1 channel-id="GBBC900015D3" tvg-id="GBBC900015D3" tvg-chno="4488" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Adventure Earth
 https://jmp2.uk/sam-GBBC900015D3.m3u8
-#EXTINF:-1 channel-id="GBBC2300002GG" tvg-id="GBBC2300002GG" tvg-chno="4001" tvg-name="" tvg-logo="" group-title="",America's Got Talent
+#EXTINF:-1 channel-id="GBBC2300002GG" tvg-id="GBBC2300002GG" tvg-chno="4001" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",America's Got Talent
 https://jmp2.uk/sam-GBBC2300002GG.m3u8
-#EXTINF:-1 channel-id="GBBC2300001X5" tvg-id="GBBC2300001X5" tvg-chno="4065" tvg-name="" tvg-logo="" group-title="",American Idol
+#EXTINF:-1 channel-id="GBBC2300001X5" tvg-id="GBBC2300001X5" tvg-chno="4065" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",American Idol
 https://jmp2.uk/sam-GBBC2300001X5.m3u8
-#EXTINF:-1 channel-id="GB3000387J" tvg-id="GB3000387J" tvg-chno="4085" tvg-name="" tvg-logo="" group-title="",Antiques Road Trip
+#EXTINF:-1 channel-id="GB3000387J" tvg-id="GB3000387J" tvg-chno="4085" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Antiques Road Trip
 https://jmp2.uk/sam-GB3000387J.m3u8
-#EXTINF:-1 channel-id="GBBB1600006RS" tvg-id="GBBB1600006RS" tvg-chno="4166" tvg-name="" tvg-logo="" group-title="",Are We There Yet?
+#EXTINF:-1 channel-id="GBBB1600006RS" tvg-id="GBBB1600006RS" tvg-chno="4166" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Are We There Yet?
 https://jmp2.uk/sam-GBBB1600006RS.m3u8
-#EXTINF:-1 channel-id="GB2700016H5" tvg-id="GB2700016H5" tvg-chno="4071" tvg-name="" tvg-logo="" group-title="",Artist of the Year
+#EXTINF:-1 channel-id="GB2700016H5" tvg-id="GB2700016H5" tvg-chno="4071" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Artist of the Year
 https://jmp2.uk/sam-GB2700016H5.m3u8
-#EXTINF:-1 channel-id="GB2700011DR" tvg-id="GB2700011DR" tvg-chno="4354" tvg-name="" tvg-logo="" group-title="",Ax Men
+#EXTINF:-1 channel-id="GB2700011DR" tvg-id="GB2700011DR" tvg-chno="4354" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ax Men
 https://jmp2.uk/sam-GB2700011DR.m3u8
-#EXTINF:-1 channel-id="GBBD600002XT" tvg-id="GBBD600002XT" tvg-chno="4239" tvg-name="" tvg-logo="" group-title="",Baywatch
+#EXTINF:-1 channel-id="GBBD600002XT" tvg-id="GBBD600002XT" tvg-chno="4239" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Baywatch
 https://jmp2.uk/sam-GBBD600002XT.m3u8
-#EXTINF:-1 channel-id="GBBA3300033C2" tvg-id="GBBA3300033C2" tvg-chno="4572" tvg-name="" tvg-logo="" group-title="",Bloomberg TV+
+#EXTINF:-1 channel-id="GBBA3300033C2" tvg-id="GBBA3300033C2" tvg-chno="4572" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Bloomberg TV+
 https://jmp2.uk/sam-GBBA3300033C2.m3u8
-#EXTINF:-1 channel-id="GBBD4100006KV" tvg-id="GBBD4100006KV" tvg-chno="4292" tvg-name="" tvg-logo="" group-title="",Born to Kill
+#EXTINF:-1 channel-id="GBBD4100006KV" tvg-id="GBBD4100006KV" tvg-chno="4292" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Born to Kill
 https://jmp2.uk/sam-GBBD4100006KV.m3u8
-#EXTINF:-1 channel-id="GB32000024G" tvg-id="GB32000024G" tvg-chno="4929" tvg-name="" tvg-logo="" group-title="",British Screen Classics
+#EXTINF:-1 channel-id="GB32000024G" tvg-id="GB32000024G" tvg-chno="4929" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",British Screen Classics
 https://jmp2.uk/sam-GB32000024G.m3u8
-#EXTINF:-1 channel-id="GB1200004J4" tvg-id="GB1200004J4" tvg-chno="4082" tvg-name="" tvg-logo="" group-title="",Cash in the Attic
+#EXTINF:-1 channel-id="GB1200004J4" tvg-id="GB1200004J4" tvg-chno="4082" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cash in the Attic
 https://jmp2.uk/sam-GB1200004J4.m3u8
-#EXTINF:-1 channel-id="GBBA330003941" tvg-id="GBBA330003941" tvg-chno="4090" tvg-name="" tvg-logo="" group-title="",Catfish
+#EXTINF:-1 channel-id="GBBA330003941" tvg-id="GBBA330003941" tvg-chno="4090" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Catfish
 https://jmp2.uk/sam-GBBA330003941.m3u8
-#EXTINF:-1 channel-id="GBBD3100005RX" tvg-id="GBBD3100005RX" tvg-chno="4106" tvg-name="" tvg-logo="" group-title="",Challenge
+#EXTINF:-1 channel-id="GBBD3100005RX" tvg-id="GBBD3100005RX" tvg-chno="4106" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Challenge
 https://jmp2.uk/sam-GBBD3100005RX.m3u8
-#EXTINF:-1 channel-id="GBBD3600001NO" tvg-id="GBBD3600001NO" tvg-chno="4567" tvg-name="" tvg-logo="" group-title="",CNBC
+#EXTINF:-1 channel-id="GBBD3600001NO" tvg-id="GBBD3600001NO" tvg-chno="4567" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CNBC
 https://jmp2.uk/sam-GBBD3600001NO.m3u8
-#EXTINF:-1 channel-id="GBBD8000016N" tvg-id="GBBD8000016N" tvg-chno="4006" tvg-name="" tvg-logo="" group-title="",CNN
+#EXTINF:-1 channel-id="GBBD8000016N" tvg-id="GBBD8000016N" tvg-chno="4006" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1 channel-id="GBBD1900008O3" tvg-id="GBBD1900008O3" tvg-chno="4555" tvg-name="" tvg-logo="" group-title="",CNN Headlines
+#EXTINF:-1 channel-id="GBBD1900008O3" tvg-id="GBBD1900008O3" tvg-chno="4555" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CNN Headlines
 https://jmp2.uk/sam-GBBD1900008O3.m3u8
-#EXTINF:-1 channel-id="GBBC9000062G" tvg-id="GBBC9000062G" tvg-chno="4068" tvg-name="" tvg-logo="" group-title="",Come Dine With Me
+#EXTINF:-1 channel-id="GBBC9000062G" tvg-id="GBBC9000062G" tvg-chno="4068" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Come Dine With Me
 https://jmp2.uk/sam-GBBC9000062G.m3u8
-#EXTINF:-1 channel-id="GBBD25000038Y" tvg-id="GBBD25000038Y" tvg-chno="4156" tvg-name="" tvg-logo="" group-title="",Comedy Hub
+#EXTINF:-1 channel-id="GBBD25000038Y" tvg-id="GBBD25000038Y" tvg-chno="4156" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Comedy Hub
 https://jmp2.uk/sam-GBBD25000038Y.m3u8
-#EXTINF:-1 channel-id="GB2600020OP" tvg-id="GB2600020OP" tvg-chno="4005" tvg-name="" tvg-logo="" group-title="",Comedy Movies - Rakuten TV
+#EXTINF:-1 channel-id="GB2600020OP" tvg-id="GB2600020OP" tvg-chno="4005" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Comedy Movies - Rakuten TV
 https://jmp2.uk/sam-GB2600020OP.m3u8
-#EXTINF:-1 channel-id="GB300001QO" tvg-id="GB300001QO" tvg-chno="4138" tvg-name="" tvg-logo="" group-title="",Conan O'Brien TV
+#EXTINF:-1 channel-id="GB300001QO" tvg-id="GB300001QO" tvg-chno="4138" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Conan O'Brien TV
 https://jmp2.uk/sam-GB300001QO.m3u8
-#EXTINF:-1 channel-id="GB2500002K0" tvg-id="GB2500002K0" tvg-chno="4740" tvg-name="" tvg-logo="" group-title="",Cool Summer Channel
+#EXTINF:-1 channel-id="GB2500002K0" tvg-id="GB2500002K0" tvg-chno="4740" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cool Summer Channel
 https://jmp2.uk/sam-GB2500002K0.m3u8
-#EXTINF:-1 channel-id="GBBD260000189" tvg-id="GBBD260000189" tvg-chno="4300" tvg-name="" tvg-logo="" group-title="",Crime & Justice
+#EXTINF:-1 channel-id="GBBD260000189" tvg-id="GBBD260000189" tvg-chno="4300" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime & Justice
 https://jmp2.uk/sam-GBBD260000189.m3u8
-#EXTINF:-1 channel-id="GBBD4100010H1" tvg-id="GBBD4100010H1" tvg-chno="4291" tvg-name="" tvg-logo="" group-title="",Crime Network
+#EXTINF:-1 channel-id="GBBD4100010H1" tvg-id="GBBD4100010H1" tvg-chno="4291" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime Network
 https://jmp2.uk/sam-GBBD4100010H1.m3u8
-#EXTINF:-1 channel-id="GB1400001E4" tvg-id="GB1400001E4" tvg-chno="4425" tvg-name="" tvg-logo="" group-title="",CURIOSITY Now
+#EXTINF:-1 channel-id="GB1400001E4" tvg-id="GB1400001E4" tvg-chno="4425" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CURIOSITY Now
 https://jmp2.uk/sam-GB1400001E4.m3u8
-#EXTINF:-1 channel-id="GBBD3700001AB" tvg-id="GBBD3700001AB" tvg-chno="4293" tvg-name="" tvg-logo="" group-title="",DATELINE 24/7
+#EXTINF:-1 channel-id="GBBD3700001AB" tvg-id="GBBD3700001AB" tvg-chno="4293" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",DATELINE 24/7
 https://jmp2.uk/sam-GBBD3700001AB.m3u8
-#EXTINF:-1 channel-id="GBBD30000038U" tvg-id="GBBD30000038U" tvg-chno="4610" tvg-name="" tvg-logo="" group-title="",DAZN Ringside
+#EXTINF:-1 channel-id="GBBD30000038U" tvg-id="GBBD30000038U" tvg-chno="4610" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",DAZN Ringside
 https://jmp2.uk/sam-GBBD30000038U.m3u8
-#EXTINF:-1 channel-id="GB4900001NW" tvg-id="GB4900001NW" tvg-chno="4295" tvg-name="" tvg-logo="" group-title="",Deadly Women: powered by Banijay
+#EXTINF:-1 channel-id="GB4900001NW" tvg-id="GB4900001NW" tvg-chno="4295" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Deadly Women: powered by Banijay
 https://jmp2.uk/sam-GB4900001NW.m3u8
-#EXTINF:-1 channel-id="GB12000037Y" tvg-id="GB12000037Y" tvg-chno="4359" tvg-name="" tvg-logo="" group-title="",Deal Masters
+#EXTINF:-1 channel-id="GB12000037Y" tvg-id="GB12000037Y" tvg-chno="4359" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Deal Masters
 https://jmp2.uk/sam-GB12000037Y.m3u8
-#EXTINF:-1 channel-id="GBBB38000068U" tvg-id="GBBB38000068U" tvg-chno="4118" tvg-name="" tvg-logo="" group-title="",Deal or No Deal US
+#EXTINF:-1 channel-id="GBBB38000068U" tvg-id="GBBB38000068U" tvg-chno="4118" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Deal or No Deal US
 https://jmp2.uk/sam-GBBB38000068U.m3u8
-#EXTINF:-1 channel-id="GBBD3000004VR" tvg-id="GBBD3000004VR" tvg-chno="4744" tvg-name="" tvg-logo="" group-title="",Def Jam
+#EXTINF:-1 channel-id="GBBD3000004VR" tvg-id="GBBD3000004VR" tvg-chno="4744" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Def Jam
 https://jmp2.uk/sam-GBBD3000004VR.m3u8
-#EXTINF:-1 channel-id="GB900005KI" tvg-id="GB900005KI" tvg-chno="4240" tvg-name="" tvg-logo="" group-title="",Demand Drama
+#EXTINF:-1 channel-id="GB900005KI" tvg-id="GB900005KI" tvg-chno="4240" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Demand Drama
 https://jmp2.uk/sam-GB900005KI.m3u8
-#EXTINF:-1 channel-id="GBBD1100011V3" tvg-id="GBBD1100011V3" tvg-chno="4808" tvg-name="" tvg-logo="" group-title="",Dennis and Gnasher
+#EXTINF:-1 channel-id="GBBD1100011V3" tvg-id="GBBD1100011V3" tvg-chno="4808" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Dennis and Gnasher
 https://jmp2.uk/sam-GBBD1100011V3.m3u8
-#EXTINF:-1 channel-id="GB26000118T" tvg-id="GB26000118T" tvg-chno="4633" tvg-name="" tvg-logo="" group-title="",DFB Play TV
+#EXTINF:-1 channel-id="GB26000118T" tvg-id="GB26000118T" tvg-chno="4633" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",DFB Play TV
 https://jmp2.uk/sam-GB26000118T.m3u8
-#EXTINF:-1 channel-id="GB27000069E" tvg-id="GB27000069E" tvg-chno="4355" tvg-name="" tvg-logo="" group-title="",Dog The Bounty Hunter
+#EXTINF:-1 channel-id="GB27000069E" tvg-id="GB27000069E" tvg-chno="4355" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Dog The Bounty Hunter
 https://jmp2.uk/sam-GB27000069E.m3u8
-#EXTINF:-1 channel-id="GB5200001TM" tvg-id="GB5200001TM" tvg-chno="4604" tvg-name="" tvg-logo="" group-title="",DP World Tour
+#EXTINF:-1 channel-id="GB5200001TM" tvg-id="GB5200001TM" tvg-chno="4604" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",DP World Tour
 https://jmp2.uk/sam-GB5200001TM.m3u8
-#EXTINF:-1 channel-id="GB2600012R3" tvg-id="GB2600012R3" tvg-chno="4998" tvg-name="" tvg-logo="" group-title="",Drama Movies - Rakuten TV
+#EXTINF:-1 channel-id="GB2600012R3" tvg-id="GB2600012R3" tvg-chno="4998" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Drama Movies - Rakuten TV
 https://jmp2.uk/sam-GB2600012R3.m3u8
-#EXTINF:-1 channel-id="GB2700004BC" tvg-id="GB2700004BC" tvg-chno="4353" tvg-name="" tvg-logo="" group-title="",Duck Dynasty
+#EXTINF:-1 channel-id="GB2700004BC" tvg-id="GB2700004BC" tvg-chno="4353" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Duck Dynasty
 https://jmp2.uk/sam-GB2700004BC.m3u8
-#EXTINF:-1 channel-id="GB1300001RX" tvg-id="GB1300001RX" tvg-chno="4565" tvg-name="" tvg-logo="" group-title="",DW
+#EXTINF:-1 channel-id="GB1300001RX" tvg-id="GB1300001RX" tvg-chno="4565" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",DW
 https://jmp2.uk/sam-GB1300001RX.m3u8
-#EXTINF:-1 channel-id="GBBD3200001E2" tvg-id="GBBD3200001E2" tvg-chno="4496" tvg-name="" tvg-logo="" group-title="",Earth Touch
+#EXTINF:-1 channel-id="GBBD3200001E2" tvg-id="GBBD3200001E2" tvg-chno="4496" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Earth Touch
 https://jmp2.uk/sam-GBBD3200001E2.m3u8
-#EXTINF:-1 channel-id="GBBD3200002CG" tvg-id="GBBD3200002CG" tvg-chno="4112" tvg-name="" tvg-logo="" group-title="",Eggheads
+#EXTINF:-1 channel-id="GBBD3200002CG" tvg-id="GBBD3200002CG" tvg-chno="4112" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Eggheads
 https://jmp2.uk/sam-GBBD3200002CG.m3u8
-#EXTINF:-1 channel-id="GB270001538" tvg-id="GB270001538" tvg-chno="4343" tvg-name="" tvg-logo="" group-title="",Emergency 24/7
+#EXTINF:-1 channel-id="GB270001538" tvg-id="GB270001538" tvg-chno="4343" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Emergency 24/7
 https://jmp2.uk/sam-GB270001538.m3u8
-#EXTINF:-1 channel-id="GBBC2300003ZQ" tvg-id="GBBC2300003ZQ" tvg-chno="4007" tvg-name="" tvg-logo="" group-title="",Entertainment Hub
+#EXTINF:-1 channel-id="GBBC2300003ZQ" tvg-id="GBBC2300003ZQ" tvg-chno="4007" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Entertainment Hub
 https://jmp2.uk/sam-GBBC2300003ZQ.m3u8
-#EXTINF:-1 channel-id="GB500006EX" tvg-id="GB500006EX" tvg-chno="4087" tvg-name="" tvg-logo="" group-title="",Escape to the Country
+#EXTINF:-1 channel-id="GB500006EX" tvg-id="GB500006EX" tvg-chno="4087" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Escape to the Country
 https://jmp2.uk/sam-GB500006EX.m3u8
-#EXTINF:-1 channel-id="GB2600019ON" tvg-id="GB2600019ON" tvg-chno="4004" tvg-name="" tvg-logo="" group-title="",Euronews LIVE
+#EXTINF:-1 channel-id="GB2600019ON" tvg-id="GB2600019ON" tvg-chno="4004" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Euronews LIVE
 https://jmp2.uk/sam-GB2600019ON.m3u8
-#EXTINF:-1 channel-id="GB2700003KS" tvg-id="GB2700003KS" tvg-chno="4481" tvg-name="" tvg-logo="" group-title="",Evolution Earth
+#EXTINF:-1 channel-id="GB2700003KS" tvg-id="GB2700003KS" tvg-chno="4481" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Evolution Earth
 https://jmp2.uk/sam-GB2700003KS.m3u8
-#EXTINF:-1 channel-id="GBAJ40003642" tvg-id="GBAJ40003642" tvg-chno="4173" tvg-name="" tvg-logo="" group-title="",FailArmy
+#EXTINF:-1 channel-id="GBAJ40003642" tvg-id="GBAJ40003642" tvg-chno="4173" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FailArmy
 https://jmp2.uk/sam-GBAJ40003642.m3u8
-#EXTINF:-1 channel-id="GB500007VM" tvg-id="GB500007VM" tvg-chno="4122" tvg-name="" tvg-logo="" group-title="",Family Feud
+#EXTINF:-1 channel-id="GB500007VM" tvg-id="GB500007VM" tvg-chno="4122" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Family Feud
 https://jmp2.uk/sam-GB500007VM.m3u8
-#EXTINF:-1 channel-id="GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4631" tvg-name="" tvg-logo="" group-title="",FIFA+
+#EXTINF:-1 channel-id="GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4631" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FIFA+
 https://jmp2.uk/sam-GBBD1100008YW.m3u8
-#EXTINF:-1 channel-id="GB2200001N2" tvg-id="GB2200001N2" tvg-chno="4218" tvg-name="" tvg-logo="" group-title="",Fireplace Vibes
+#EXTINF:-1 channel-id="GB2200001N2" tvg-id="GB2200001N2" tvg-chno="4218" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fireplace Vibes
 https://jmp2.uk/sam-GB2200001N2.m3u8
-#EXTINF:-1 channel-id="GB2700010NQ" tvg-id="GB2700010NQ" tvg-chno="4078" tvg-name="" tvg-logo="" group-title="",Flipping Nation
+#EXTINF:-1 channel-id="GB2700010NQ" tvg-id="GB2700010NQ" tvg-chno="4078" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Flipping Nation
 https://jmp2.uk/sam-GB2700010NQ.m3u8
-#EXTINF:-1 channel-id="GBBD1100002L5" tvg-id="GBBD1100002L5" tvg-chno="4561" tvg-name="" tvg-logo="" group-title="",FRANCE 24 FAST
+#EXTINF:-1 channel-id="GBBD1100002L5" tvg-id="GBBD1100002L5" tvg-chno="4561" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FRANCE 24 FAST
 https://jmp2.uk/sam-GBBD1100002L5.m3u8
-#EXTINF:-1 channel-id="GBBB1600008R3" tvg-id="GBBB1600008R3" tvg-chno="4553" tvg-name="" tvg-logo="" group-title="",GB News
+#EXTINF:-1 channel-id="GBBB1600008R3" tvg-id="GBBB1600008R3" tvg-chno="4553" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",GB News
 https://jmp2.uk/sam-GBBB1600008R3.m3u8
-#EXTINF:-1 channel-id="GB2100002R7" tvg-id="GB2100002R7" tvg-chno="4256" tvg-name="" tvg-logo="" group-title="",Genie K-Drama
+#EXTINF:-1 channel-id="GB2100002R7" tvg-id="GB2100002R7" tvg-chno="4256" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Genie K-Drama
 https://jmp2.uk/sam-GB2100002R7.m3u8
-#EXTINF:-1 channel-id="GB21000038X" tvg-id="GB21000038X" tvg-chno="4944" tvg-name="" tvg-logo="" group-title="",Genie K-Movie
+#EXTINF:-1 channel-id="GB21000038X" tvg-id="GB21000038X" tvg-chno="4944" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Genie K-Movie
 https://jmp2.uk/sam-GB21000038X.m3u8
-#EXTINF:-1 channel-id="GB2700001R6" tvg-id="GB2700001R6" tvg-chno="4424" tvg-name="" tvg-logo="" group-title="",Get.Factual
+#EXTINF:-1 channel-id="GB2700001R6" tvg-id="GB2700001R6" tvg-chno="4424" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Get.Factual
 https://jmp2.uk/sam-GB2700001R6.m3u8
-#EXTINF:-1 channel-id="GB2200002CC" tvg-id="GB2200002CC" tvg-chno="4636" tvg-name="" tvg-logo="" group-title="",GFN Soccer TV
+#EXTINF:-1 channel-id="GB2200002CC" tvg-id="GB2200002CC" tvg-chno="4636" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",GFN Soccer TV
 https://jmp2.uk/sam-GB2200002CC.m3u8
-#EXTINF:-1 channel-id="GB2000008XP" tvg-id="GB2000008XP" tvg-chno="4441" tvg-name="" tvg-logo="" group-title="",Ghost Hunters
+#EXTINF:-1 channel-id="GB2000008XP" tvg-id="GB2000008XP" tvg-chno="4441" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ghost Hunters
 https://jmp2.uk/sam-GB2000008XP.m3u8
-#EXTINF:-1 channel-id="GBAJ49000197P" tvg-id="GBAJ49000197P" tvg-chno="4522" tvg-name="" tvg-logo="" group-title="",GoUSA TV
+#EXTINF:-1 channel-id="GBAJ49000197P" tvg-id="GBAJ49000197P" tvg-chno="4522" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",GoUSA TV
 https://jmp2.uk/sam-GBAJ49000197P.m3u8
-#EXTINF:-1 channel-id="GBBC900014LW" tvg-id="GBBC900014LW" tvg-chno="4514" tvg-name="" tvg-logo="" group-title="",Great British Menu
+#EXTINF:-1 channel-id="GBBC900014LW" tvg-id="GBBC900014LW" tvg-chno="4514" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Great British Menu
 https://jmp2.uk/sam-GBBC900014LW.m3u8
-#EXTINF:-1 channel-id="GB3000370X" tvg-id="GB3000370X" tvg-chno="4961" tvg-name="" tvg-logo="" group-title="",GREAT! Christmas
+#EXTINF:-1 channel-id="GB3000370X" tvg-id="GB3000370X" tvg-chno="4961" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",GREAT! Christmas
 https://jmp2.uk/sam-GB3000370X.m3u8
-#EXTINF:-1 channel-id="GBBC900007Q5" tvg-id="GBBC900007Q5" tvg-chno="4866" tvg-name="" tvg-logo="" group-title="",Great! Movies
+#EXTINF:-1 channel-id="GBBC900007Q5" tvg-id="GBBC900007Q5" tvg-chno="4866" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Great! Movies
 https://jmp2.uk/sam-GBBC900007Q5.m3u8
-#EXTINF:-1 channel-id="GBBC900008L9" tvg-id="GBBC900008L9" tvg-chno="4886" tvg-name="" tvg-logo="" group-title="",Great! romance
+#EXTINF:-1 channel-id="GBBC900008L9" tvg-id="GBBC900008L9" tvg-chno="4886" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Great! romance
 https://jmp2.uk/sam-GBBC900008L9.m3u8
-#EXTINF:-1 channel-id="GBBD500007TG" tvg-id="GBBD500007TG" tvg-chno="4925" tvg-name="" tvg-logo="" group-title="",Grjngo - Western Movies
+#EXTINF:-1 channel-id="GBBD500007TG" tvg-id="GBBD500007TG" tvg-chno="4925" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Grjngo - Western Movies
 https://jmp2.uk/sam-GBBD500007TG.m3u8
-#EXTINF:-1 channel-id="GB500004YN" tvg-id="GB500004YN" tvg-chno="4206" tvg-name="" tvg-logo="" group-title="",H2O & Friends
+#EXTINF:-1 channel-id="GB500004YN" tvg-id="GB500004YN" tvg-chno="4206" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",H2O & Friends
 https://jmp2.uk/sam-GB500004YN.m3u8
-#EXTINF:-1 channel-id="GB5100001EW" tvg-id="GB5100001EW" tvg-chno="4232" tvg-name="" tvg-logo="" group-title="",Heartland
+#EXTINF:-1 channel-id="GB5100001EW" tvg-id="GB5100001EW" tvg-chno="4232" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Heartland
 https://jmp2.uk/sam-GB5100001EW.m3u8
-#EXTINF:-1 channel-id="GBBC300002SA" tvg-id="GBBC300002SA" tvg-chno="4515" tvg-name="" tvg-logo="" group-title="",Hell's Kitchen
+#EXTINF:-1 channel-id="GBBC300002SA" tvg-id="GBBC300002SA" tvg-chno="4515" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Hell's Kitchen
 https://jmp2.uk/sam-GBBC300002SA.m3u8
-#EXTINF:-1 channel-id="GB500001HY" tvg-id="GB500001HY" tvg-chno="4357" tvg-name="" tvg-logo="" group-title="",Highway Thru Hell : Powered by Banijay
+#EXTINF:-1 channel-id="GB500001HY" tvg-id="GB500001HY" tvg-chno="4357" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Highway Thru Hell : Powered by Banijay
 https://jmp2.uk/sam-GB500001HY.m3u8
-#EXTINF:-1 channel-id="GBBA2200005ZA" tvg-id="GBBA2200005ZA" tvg-chno="4417" tvg-name="" tvg-logo="" group-title="",History Hit
+#EXTINF:-1 channel-id="GBBA2200005ZA" tvg-id="GBBA2200005ZA" tvg-chno="4417" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",History Hit
 https://jmp2.uk/sam-GBBA2200005ZA.m3u8
-#EXTINF:-1 channel-id="GB1200002ON" tvg-id="GB1200002ON" tvg-chno="4358" tvg-name="" tvg-logo="" group-title="",History Hunters
+#EXTINF:-1 channel-id="GB1200002ON" tvg-id="GB1200002ON" tvg-chno="4358" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",History Hunters
 https://jmp2.uk/sam-GB1200002ON.m3u8
-#EXTINF:-1 channel-id="GB3700005QK" tvg-id="GB3700005QK" tvg-chno="4362" tvg-name="" tvg-logo="" group-title="",Hoarders
+#EXTINF:-1 channel-id="GB3700005QK" tvg-id="GB3700005QK" tvg-chno="4362" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Hoarders
 https://jmp2.uk/sam-GB3700005QK.m3u8
-#EXTINF:-1 channel-id="GBBC900013K9" tvg-id="GBBC900013K9" tvg-chno="4067" tvg-name="" tvg-logo="" group-title="",Homes Under the Hammer
+#EXTINF:-1 channel-id="GBBC900013K9" tvg-id="GBBC900013K9" tvg-chno="4067" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Homes Under the Hammer
 https://jmp2.uk/sam-GBBC900013K9.m3u8
-#EXTINF:-1 channel-id="GBBA3300038UZ" tvg-id="GBBA3300038UZ" tvg-chno="4294" tvg-name="" tvg-logo="" group-title="",Homicide Hunter
+#EXTINF:-1 channel-id="GBBA3300038UZ" tvg-id="GBBA3300038UZ" tvg-chno="4294" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Homicide Hunter
 https://jmp2.uk/sam-GBBA3300038UZ.m3u8
-#EXTINF:-1 channel-id="GB4600001W9" tvg-id="GB4600001W9" tvg-chno="4144" tvg-name="" tvg-logo="" group-title="",Hot Ones
+#EXTINF:-1 channel-id="GB4600001W9" tvg-id="GB4600001W9" tvg-chno="4144" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Hot Ones
 https://jmp2.uk/sam-GB4600001W9.m3u8
-#EXTINF:-1 channel-id="GB27000089Z" tvg-id="GB27000089Z" tvg-chno="4364" tvg-name="" tvg-logo="" group-title="",I Survived
+#EXTINF:-1 channel-id="GB27000089Z" tvg-id="GB27000089Z" tvg-chno="4364" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",I Survived
 https://jmp2.uk/sam-GB27000089Z.m3u8
-#EXTINF:-1 channel-id="GB2700007YH" tvg-id="GB2700007YH" tvg-chno="4351" tvg-name="" tvg-logo="" group-title="",Ice Road Truckers
+#EXTINF:-1 channel-id="GB2700007YH" tvg-id="GB2700007YH" tvg-chno="4351" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ice Road Truckers
 https://jmp2.uk/sam-GB2700007YH.m3u8
-#EXTINF:-1 channel-id="GB12000052F" tvg-id="GB12000052F" tvg-chno="4878" tvg-name="" tvg-logo="" group-title="",Icon Film Channel
+#EXTINF:-1 channel-id="GB12000052F" tvg-id="GB12000052F" tvg-chno="4878" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Icon Film Channel
 https://jmp2.uk/sam-GB12000052F.m3u8
-#EXTINF:-1 channel-id="GBBD500002R4" tvg-id="GBBD500002R4" tvg-chno="4296" tvg-name="" tvg-logo="" group-title="",Inside Crime
+#EXTINF:-1 channel-id="GBBD500002R4" tvg-id="GBBD500002R4" tvg-chno="4296" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Inside Crime
 https://jmp2.uk/sam-GBBD500002R4.m3u8
-#EXTINF:-1 channel-id="GB3900003W4" tvg-id="GB3900003W4" tvg-chno="4084" tvg-name="" tvg-logo="" group-title="",Inside Outside
+#EXTINF:-1 channel-id="GB3900003W4" tvg-id="GB3900003W4" tvg-chno="4084" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Inside Outside
 https://jmp2.uk/sam-GB3900003W4.m3u8
-#EXTINF:-1 channel-id="GB2700002F7" tvg-id="GB2700002F7" tvg-chno="4363" tvg-name="" tvg-logo="" group-title="",Intervention
+#EXTINF:-1 channel-id="GB2700002F7" tvg-id="GB2700002F7" tvg-chno="4363" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Intervention
 https://jmp2.uk/sam-GB2700002F7.m3u8
-#EXTINF:-1 channel-id="GB400003BM" tvg-id="GB400003BM" tvg-chno="4526" tvg-name="" tvg-logo="" group-title="",INTRAVEL
+#EXTINF:-1 channel-id="GB400003BM" tvg-id="GB400003BM" tvg-chno="4526" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",INTRAVEL
 https://jmp2.uk/sam-GB400003BM.m3u8
-#EXTINF:-1 channel-id="GBBA220000751" tvg-id="GBBA220000751" tvg-chno="4498" tvg-name="" tvg-logo="" group-title="",INWILD
+#EXTINF:-1 channel-id="GBBA220000751" tvg-id="GBBA220000751" tvg-chno="4498" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",INWILD
 https://jmp2.uk/sam-GBBA220000751.m3u8
-#EXTINF:-1 channel-id="GBBD50000084W" tvg-id="GBBD50000084W" tvg-chno="4490" tvg-name="" tvg-logo="" group-title="",Jack Hanna
+#EXTINF:-1 channel-id="GBBD50000084W" tvg-id="GBBD50000084W" tvg-chno="4490" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Jack Hanna
 https://jmp2.uk/sam-GBBD50000084W.m3u8
-#EXTINF:-1 channel-id="GB17000066A" tvg-id="GB17000066A" tvg-chno="4258" tvg-name="" tvg-logo="" group-title="",K-Content by CJ ENM
+#EXTINF:-1 channel-id="GB17000066A" tvg-id="GB17000066A" tvg-chno="4258" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",K-Content by CJ ENM
 https://jmp2.uk/sam-GB17000066A.m3u8
-#EXTINF:-1 channel-id="GB1700004YC" tvg-id="GB1700004YC" tvg-chno="4521" tvg-name="" tvg-logo="" group-title="",K-Food by CJ ENM
+#EXTINF:-1 channel-id="GB1700004YC" tvg-id="GB1700004YC" tvg-chno="4521" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",K-Food by CJ ENM
 https://jmp2.uk/sam-GB1700004YC.m3u8
-#EXTINF:-1 channel-id="GB3900001TM" tvg-id="GB3900001TM" tvg-chno="4742" tvg-name="" tvg-logo="" group-title="",K-POP by CJ ENM
+#EXTINF:-1 channel-id="GB3900001TM" tvg-id="GB3900001TM" tvg-chno="4742" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",K-POP by CJ ENM
 https://jmp2.uk/sam-GB3900001TM.m3u8
-#EXTINF:-1 channel-id="GB3400003A9" tvg-id="GB3400003A9" tvg-chno="4777" tvg-name="" tvg-logo="" group-title="",Ketchup TV
+#EXTINF:-1 channel-id="GB3400003A9" tvg-id="GB3400003A9" tvg-chno="4777" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ketchup TV
 https://jmp2.uk/sam-GB3400003A9.m3u8
-#EXTINF:-1 channel-id="GB2000007ID" tvg-id="GB2000007ID" tvg-chno="4093" tvg-name="" tvg-logo="" group-title="",LADbible
+#EXTINF:-1 channel-id="GB2000007ID" tvg-id="GB2000007ID" tvg-chno="4093" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",LADbible
 https://jmp2.uk/sam-GB2000007ID.m3u8
-#EXTINF:-1 channel-id="GB37000067A" tvg-id="GB37000067A" tvg-chno="4894" tvg-name="" tvg-logo="" group-title="",Lifetime Movies
+#EXTINF:-1 channel-id="GB37000067A" tvg-id="GB37000067A" tvg-chno="4894" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Lifetime Movies
 https://jmp2.uk/sam-GB37000067A.m3u8
-#EXTINF:-1 channel-id="GB430000144" tvg-id="GB430000144" tvg-chno="4772" tvg-name="" tvg-logo="" group-title="",LooLoo Kids
+#EXTINF:-1 channel-id="GB430000144" tvg-id="GB430000144" tvg-chno="4772" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",LooLoo Kids
 https://jmp2.uk/sam-GB430000144.m3u8
-#EXTINF:-1 channel-id="GBBD1100003I0" tvg-id="GBBD1100003I0" tvg-chno="4211" tvg-name="" tvg-logo="" group-title="",Love Pets
+#EXTINF:-1 channel-id="GBBD1100003I0" tvg-id="GBBD1100003I0" tvg-chno="4211" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Love Pets
 https://jmp2.uk/sam-GBBD1100003I0.m3u8
-#EXTINF:-1 channel-id="GBBD500001F5" tvg-id="GBBD500001F5" tvg-chno="4504" tvg-name="" tvg-logo="" group-title="",Love the Planet
+#EXTINF:-1 channel-id="GBBD500001F5" tvg-id="GBBD500001F5" tvg-chno="4504" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Love the Planet
 https://jmp2.uk/sam-GBBD500001F5.m3u8
-#EXTINF:-1 channel-id="GBBD25000019N" tvg-id="GBBD25000019N" tvg-chno="4513" tvg-name="" tvg-logo="" group-title="",Masterchef UK: 'Powered by Banijay'
+#EXTINF:-1 channel-id="GBBD25000019N" tvg-id="GBBD25000019N" tvg-chno="4513" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Masterchef UK: 'Powered by Banijay'
 https://jmp2.uk/sam-GBBD25000019N.m3u8
-#EXTINF:-1 channel-id="GB28000063B" tvg-id="GB28000063B" tvg-chno="4369" tvg-name="" tvg-logo="" group-title="",Mayday: Air Disaster
+#EXTINF:-1 channel-id="GB28000063B" tvg-id="GB28000063B" tvg-chno="4369" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mayday: Air Disaster
 https://jmp2.uk/sam-GB28000063B.m3u8
-#EXTINF:-1 channel-id="GB2700009R7" tvg-id="GB2700009R7" tvg-chno="4356" tvg-name="" tvg-logo="" group-title="",Modern Marvels
+#EXTINF:-1 channel-id="GB2700009R7" tvg-id="GB2700009R7" tvg-chno="4356" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Modern Marvels
 https://jmp2.uk/sam-GB2700009R7.m3u8
-#EXTINF:-1 channel-id="GBBA1500006H6" tvg-id="GBBA1500006H6" tvg-chno="4658" tvg-name="" tvg-logo="" group-title="",MotorRacing
+#EXTINF:-1 channel-id="GBBA1500006H6" tvg-id="GBBA1500006H6" tvg-chno="4658" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MotorRacing
 https://jmp2.uk/sam-GBBA1500006H6.m3u8
-#EXTINF:-1 channel-id="GBBA33000557H" tvg-id="GBBA33000557H" tvg-chno="4876" tvg-name="" tvg-logo="" group-title="",Moviesphere by Lionsgate
+#EXTINF:-1 channel-id="GBBA33000557H" tvg-id="GBBA33000557H" tvg-chno="4876" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Moviesphere by Lionsgate
 https://jmp2.uk/sam-GBBA33000557H.m3u8
-#EXTINF:-1 channel-id="GB900003KR" tvg-id="GB900003KR" tvg-chno="4260" tvg-name="" tvg-logo="" group-title="",Mr Bean Animated
+#EXTINF:-1 channel-id="GB900003KR" tvg-id="GB900003KR" tvg-chno="4260" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mr Bean Animated
 https://jmp2.uk/sam-GB900003KR.m3u8
-#EXTINF:-1 channel-id="GB4000008O5" tvg-id="GB4000008O5" tvg-chno="4159" tvg-name="" tvg-logo="" group-title="",Mr Bean Live Action
+#EXTINF:-1 channel-id="GB4000008O5" tvg-id="GB4000008O5" tvg-chno="4159" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mr Bean Live Action
 https://jmp2.uk/sam-GB4000008O5.m3u8
-#EXTINF:-1 channel-id="GBBD50000320" tvg-id="GBBD50000320" tvg-chno="4443" tvg-name="" tvg-logo="" group-title="",Mystery TV
+#EXTINF:-1 channel-id="GBBD50000320" tvg-id="GBBD50000320" tvg-chno="4443" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mystery TV
 https://jmp2.uk/sam-GBBD50000320.m3u8
-#EXTINF:-1 channel-id="GB200005LI" tvg-id="GB200005LI" tvg-chno="4350" tvg-name="" tvg-logo="" group-title="",Mythbusters
+#EXTINF:-1 channel-id="GB200005LI" tvg-id="GB200005LI" tvg-chno="4350" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mythbusters
 https://jmp2.uk/sam-GB200005LI.m3u8
-#EXTINF:-1 channel-id="GBBA3300059BU" tvg-id="GBBA3300059BU" tvg-chno="4896" tvg-name="" tvg-logo="" group-title="",MyTime Movie Network
+#EXTINF:-1 channel-id="GBBA3300059BU" tvg-id="GBBA3300059BU" tvg-chno="4896" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MyTime Movie Network
 https://jmp2.uk/sam-GBBA3300059BU.m3u8
-#EXTINF:-1 channel-id="GB37000041H" tvg-id="GB37000041H" tvg-chno="4002" tvg-name="" tvg-logo="" group-title="",Nashville
+#EXTINF:-1 channel-id="GB37000041H" tvg-id="GB37000041H" tvg-chno="4002" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Nashville
 https://jmp2.uk/sam-GB37000041H.m3u8
-#EXTINF:-1 channel-id="GB2100004H5" tvg-id="GB2100004H5" tvg-chno="4491" tvg-name="" tvg-logo="" group-title="",NatureTime
+#EXTINF:-1 channel-id="GB2100004H5" tvg-id="GB2100004H5" tvg-chno="4491" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",NatureTime
 https://jmp2.uk/sam-GB2100004H5.m3u8
-#EXTINF:-1 channel-id="GBBB1500004LG" tvg-id="GBBB1500004LG" tvg-chno="4569" tvg-name="" tvg-logo="" group-title="",NBC News NOW
+#EXTINF:-1 channel-id="GBBB1500004LG" tvg-id="GBBB1500004LG" tvg-chno="4569" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",NBC News NOW
 https://jmp2.uk/sam-GBBB1500004LG.m3u8
-#EXTINF:-1 channel-id="GB3900002DT" tvg-id="GB3900002DT" tvg-chno="4120" tvg-name="" tvg-logo="" group-title="",Ninja Warrior
+#EXTINF:-1 channel-id="GB3900002DT" tvg-id="GB3900002DT" tvg-chno="4120" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ninja Warrior
 https://jmp2.uk/sam-GB3900002DT.m3u8
-#EXTINF:-1 channel-id="GB300032DX" tvg-id="GB300032DX" tvg-chno="4710" tvg-name="" tvg-logo="" group-title="",Now 70's
+#EXTINF:-1 channel-id="GB300032DX" tvg-id="GB300032DX" tvg-chno="4710" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Now 70's
 https://jmp2.uk/sam-GB300032DX.m3u8
-#EXTINF:-1 channel-id="GBBC900003B2" tvg-id="GBBC900003B2" tvg-chno="4711" tvg-name="" tvg-logo="" group-title="",Now 80s
+#EXTINF:-1 channel-id="GBBC900003B2" tvg-id="GBBC900003B2" tvg-chno="4711" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Now 80s
 https://jmp2.uk/sam-GBBC900003B2.m3u8
-#EXTINF:-1 channel-id="GB300033HI" tvg-id="GB300033HI" tvg-chno="4712" tvg-name="" tvg-logo="" group-title="",Now 90's & 00's
+#EXTINF:-1 channel-id="GB300033HI" tvg-id="GB300033HI" tvg-chno="4712" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Now 90's & 00's
 https://jmp2.uk/sam-GB300033HI.m3u8
-#EXTINF:-1 channel-id="GB300036IM" tvg-id="GB300036IM" tvg-chno="4605" tvg-name="" tvg-logo="" group-title="",PGA Tour
+#EXTINF:-1 channel-id="GB300036IM" tvg-id="GB300036IM" tvg-chno="4605" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",PGA Tour
 https://jmp2.uk/sam-GB300036IM.m3u8
-#EXTINF:-1 channel-id="GB270001473" tvg-id="GB270001473" tvg-chno="4442" tvg-name="" tvg-logo="" group-title="",PICK Monkey Rescue
+#EXTINF:-1 channel-id="GB270001473" tvg-id="GB270001473" tvg-chno="4442" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",PICK Monkey Rescue
 https://jmp2.uk/sam-GB270001473.m3u8
-#EXTINF:-1 channel-id="GBAK3504503A" tvg-id="GBAK3504503A" tvg-chno="4995" tvg-name="" tvg-logo="" group-title="",Pluto TV Action
+#EXTINF:-1 channel-id="GBAK3504503A" tvg-id="GBAK3504503A" tvg-chno="4995" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Action
 https://jmp2.uk/sam-GBAK3504503A.m3u8
-#EXTINF:-1 channel-id="GBAJ700001FH" tvg-id="GBAJ700001FH" tvg-chno="4494" tvg-name="" tvg-logo="" group-title="",Pluto TV Animals
+#EXTINF:-1 channel-id="GBAJ700001FH" tvg-id="GBAJ700001FH" tvg-chno="4494" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Animals
 https://jmp2.uk/sam-GBAJ700001FH.m3u8
-#EXTINF:-1 channel-id="GBAK3504525A" tvg-id="GBAK3504525A" tvg-chno="4237" tvg-name="" tvg-logo="" group-title="",Pluto TV Classic TV
+#EXTINF:-1 channel-id="GBAK3504525A" tvg-id="GBAK3504525A" tvg-chno="4237" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Classic TV
 https://jmp2.uk/sam-GBAK3504525A.m3u8
-#EXTINF:-1 channel-id="GBBA33000356L" tvg-id="GBBA33000356L" tvg-chno="4446" tvg-name="" tvg-logo="" group-title="",Pluto TV Conspiracy
+#EXTINF:-1 channel-id="GBBA33000356L" tvg-id="GBBA33000356L" tvg-chno="4446" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Conspiracy
 https://jmp2.uk/sam-GBBA33000356L.m3u8
-#EXTINF:-1 channel-id="GBAK3504516A" tvg-id="GBAK3504516A" tvg-chno="4302" tvg-name="" tvg-logo="" group-title="",Pluto TV Crime
+#EXTINF:-1 channel-id="GBAK3504516A" tvg-id="GBAK3504516A" tvg-chno="4302" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Crime
 https://jmp2.uk/sam-GBAK3504516A.m3u8
-#EXTINF:-1 channel-id="GBAJ700002OS" tvg-id="GBAJ700002OS" tvg-chno="4519" tvg-name="" tvg-logo="" group-title="",Pluto TV Food
+#EXTINF:-1 channel-id="GBAJ700002OS" tvg-id="GBAJ700002OS" tvg-chno="4519" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Food
 https://jmp2.uk/sam-GBAJ700002OS.m3u8
-#EXTINF:-1 channel-id="GBAK3504518A" tvg-id="GBAK3504518A" tvg-chno="4303" tvg-name="" tvg-logo="" group-title="",Pluto TV Inside
+#EXTINF:-1 channel-id="GBAK3504518A" tvg-id="GBAK3504518A" tvg-chno="4303" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Inside
 https://jmp2.uk/sam-GBAK3504518A.m3u8
-#EXTINF:-1 channel-id="GBAI5000001A" tvg-id="GBAI5000001A" tvg-chno="4656" tvg-name="" tvg-logo="" group-title="",Pluto TV Motor
+#EXTINF:-1 channel-id="GBAI5000001A" tvg-id="GBAI5000001A" tvg-chno="4656" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Motor
 https://jmp2.uk/sam-GBAI5000001A.m3u8
-#EXTINF:-1 channel-id="GBAK3504504A" tvg-id="GBAK3504504A" tvg-chno="4874" tvg-name="" tvg-logo="" group-title="",Pluto TV Movies
+#EXTINF:-1 channel-id="GBAK3504504A" tvg-id="GBAK3504504A" tvg-chno="4874" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Movies
 https://jmp2.uk/sam-GBAK3504504A.m3u8
-#EXTINF:-1 channel-id="GBBA33000362J" tvg-id="GBBA33000362J" tvg-chno="4445" tvg-name="" tvg-logo="" group-title="",Pluto TV Paranormal
+#EXTINF:-1 channel-id="GBBA33000362J" tvg-id="GBBA33000362J" tvg-chno="4445" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Paranormal
 https://jmp2.uk/sam-GBBA33000362J.m3u8
-#EXTINF:-1 channel-id="GBAK3504522A" tvg-id="GBAK3504522A" tvg-chno="4890" tvg-name="" tvg-logo="" group-title="",Pluto TV Romance
+#EXTINF:-1 channel-id="GBAK3504522A" tvg-id="GBAK3504522A" tvg-chno="4890" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Romance
 https://jmp2.uk/sam-GBAK3504522A.m3u8
-#EXTINF:-1 channel-id="GB700004ET" tvg-id="GB700004ET" tvg-chno="4775" tvg-name="" tvg-logo="" group-title="",Pocoyo
+#EXTINF:-1 channel-id="GB700004ET" tvg-id="GB700004ET" tvg-chno="4775" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pocoyo
 https://jmp2.uk/sam-GB700004ET.m3u8
-#EXTINF:-1 channel-id="GBBD2500002QC" tvg-id="GBBD2500002QC" tvg-chno="4108" tvg-name="" tvg-logo="" group-title="",Pointless UK: 'Powered by Banijay'
+#EXTINF:-1 channel-id="GBBD2500002QC" tvg-id="GBBD2500002QC" tvg-chno="4108" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pointless UK: 'Powered by Banijay'
 https://jmp2.uk/sam-GBBD2500002QC.m3u8
-#EXTINF:-1 channel-id="GB280000829" tvg-id="GB280000829" tvg-chno="4236" tvg-name="" tvg-logo="" group-title="",Poldark
+#EXTINF:-1 channel-id="GB280000829" tvg-id="GB280000829" tvg-chno="4236" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Poldark
 https://jmp2.uk/sam-GB280000829.m3u8
-#EXTINF:-1 channel-id="GBBC430000128" tvg-id="GBBC430000128" tvg-chno="4799" tvg-name="" tvg-logo="" group-title="",POP
+#EXTINF:-1 channel-id="GBBC430000128" tvg-id="GBBC430000128" tvg-chno="4799" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",POP
 https://jmp2.uk/sam-GBBC430000128.m3u8
-#EXTINF:-1 channel-id="GB170000351" tvg-id="GB170000351" tvg-chno="4800" tvg-name="" tvg-logo="" group-title="",POP Up
+#EXTINF:-1 channel-id="GB170000351" tvg-id="GB170000351" tvg-chno="4800" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",POP Up
 https://jmp2.uk/sam-GB170000351.m3u8
-#EXTINF:-1 channel-id="GBAJ400045P5" tvg-id="GBAJ400045P5" tvg-chno="4880" tvg-name="" tvg-logo="" group-title="",Popflix
+#EXTINF:-1 channel-id="GBAJ400045P5" tvg-id="GBAJ400045P5" tvg-chno="4880" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Popflix
 https://jmp2.uk/sam-GBAJ400045P5.m3u8
-#EXTINF:-1 channel-id="GBBB4600001IK" tvg-id="GBBB4600001IK" tvg-chno="4062" tvg-name="" tvg-logo="" group-title="",Project Runway
+#EXTINF:-1 channel-id="GBBB4600001IK" tvg-id="GBBB4600001IK" tvg-chno="4062" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Project Runway
 https://jmp2.uk/sam-GBBB4600001IK.m3u8
-#EXTINF:-1 channel-id="GBBD230000420" tvg-id="GBBD230000420" tvg-chno="4805" tvg-name="" tvg-logo="" group-title="",Rabbids Invasion
+#EXTINF:-1 channel-id="GBBD230000420" tvg-id="GBBD230000420" tvg-chno="4805" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Rabbids Invasion
 https://jmp2.uk/sam-GBBD230000420.m3u8
-#EXTINF:-1 channel-id="GB1600007CB" tvg-id="GB1600007CB" tvg-chno="4663" tvg-name="" tvg-logo="" group-title="",Rally.TV FAST+
+#EXTINF:-1 channel-id="GB1600007CB" tvg-id="GB1600007CB" tvg-chno="4663" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Rally.TV FAST+
 https://jmp2.uk/sam-GB1600007CB.m3u8
-#EXTINF:-1 channel-id="GBBA3300061ME" tvg-id="GBBA3300061ME" tvg-chno="4297" tvg-name="" tvg-logo="" group-title="",Real Crime
+#EXTINF:-1 channel-id="GBBA3300061ME" tvg-id="GBBA3300061ME" tvg-chno="4297" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Real Crime
 https://jmp2.uk/sam-GBBA3300061ME.m3u8
-#EXTINF:-1 channel-id="GBBB1000005IO" tvg-id="GBBB1000005IO" tvg-chno="4492" tvg-name="" tvg-logo="" group-title="",Real Wild
+#EXTINF:-1 channel-id="GBBB1000005IO" tvg-id="GBBB1000005IO" tvg-chno="4492" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Real Wild
 https://jmp2.uk/sam-GBBB1000005IO.m3u8
-#EXTINF:-1 channel-id="GB2600021LP" tvg-id="GB2600021LP" tvg-chno="4086" tvg-name="" tvg-logo="" group-title="",Reality - Rakuten TV
+#EXTINF:-1 channel-id="GB2600021LP" tvg-id="GB2600021LP" tvg-chno="4086" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Reality - Rakuten TV
 https://jmp2.uk/sam-GB2600021LP.m3u8
-#EXTINF:-1 channel-id="GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4614" tvg-name="" tvg-logo="" group-title="",Red Bull TV
+#EXTINF:-1 channel-id="GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4614" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Red Bull TV
 https://jmp2.uk/sam-GBBD2300003IK.m3u8
-#EXTINF:-1 channel-id="GBBD4900001RG" tvg-id="GBBD4900001RG" tvg-chno="4574" tvg-name="" tvg-logo="" group-title="",Reuters
+#EXTINF:-1 channel-id="GBBD4900001RG" tvg-id="GBBD4900001RG" tvg-chno="4574" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Reuters
 https://jmp2.uk/sam-GBBD4900001RG.m3u8
-#EXTINF:-1 channel-id="GB2100006GK" tvg-id="GB2100006GK" tvg-chno="4493" tvg-name="" tvg-logo="" group-title="",River Monsters
+#EXTINF:-1 channel-id="GB2100006GK" tvg-id="GB2100006GK" tvg-chno="4493" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",River Monsters
 https://jmp2.uk/sam-GB2100006GK.m3u8
-#EXTINF:-1 channel-id="GBBD500005ZG" tvg-id="GBBD500005ZG" tvg-chno="4116" tvg-name="" tvg-logo="" group-title="",Robot Wars by Mech+
+#EXTINF:-1 channel-id="GBBD500005ZG" tvg-id="GBBD500005ZG" tvg-chno="4116" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Robot Wars by Mech+
 https://jmp2.uk/sam-GBBD500005ZG.m3u8
-#EXTINF:-1 channel-id="GB2600014LQ" tvg-id="GB2600014LQ" tvg-chno="4888" tvg-name="" tvg-logo="" group-title="",Romance Movies - Rakuten TV
+#EXTINF:-1 channel-id="GB2600014LQ" tvg-id="GB2600014LQ" tvg-chno="4888" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Romance Movies - Rakuten TV
 https://jmp2.uk/sam-GB2600014LQ.m3u8
-#EXTINF:-1 channel-id="GB2100005YU" tvg-id="GB2100005YU" tvg-chno="4241" tvg-name="" tvg-logo="" group-title="",Rookie Blue
+#EXTINF:-1 channel-id="GB2100005YU" tvg-id="GB2100005YU" tvg-chno="4241" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Rookie Blue
 https://jmp2.uk/sam-GB2100005YU.m3u8
-#EXTINF:-1 channel-id="GB330000144" tvg-id="GB330000144" tvg-chno="4608" tvg-name="" tvg-logo="" group-title="",RugbyPass TV
+#EXTINF:-1 channel-id="GB330000144" tvg-id="GB330000144" tvg-chno="4608" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",RugbyPass TV
 https://jmp2.uk/sam-GB330000144.m3u8
-#EXTINF:-1 channel-id="GB2600013BO" tvg-id="GB2600013BO" tvg-chno="4947" tvg-name="" tvg-logo="" group-title="",Sci-Fi - Rakuten TV
+#EXTINF:-1 channel-id="GB2600013BO" tvg-id="GB2600013BO" tvg-chno="4947" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sci-Fi - Rakuten TV
 https://jmp2.uk/sam-GB2600013BO.m3u8
-#EXTINF:-1 channel-id="GB60000197" tvg-id="GB60000197" tvg-chno="4039" tvg-name="" tvg-logo="" group-title="",Sky Arts
+#EXTINF:-1 channel-id="GB60000197" tvg-id="GB60000197" tvg-chno="4039" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sky Arts
 https://jmp2.uk/sam-GB60000197.m3u8
-#EXTINF:-1 channel-id="GBBD3100006XM" tvg-id="GBBD3100006XM" tvg-chno="4231" tvg-name="" tvg-logo="" group-title="",Sky Mix
+#EXTINF:-1 channel-id="GBBD3100006XM" tvg-id="GBBD3100006XM" tvg-chno="4231" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sky Mix
 https://jmp2.uk/sam-GBBD3100006XM.m3u8
-#EXTINF:-1 channel-id="GB3300002NF" tvg-id="GB3300002NF" tvg-chno="4551" tvg-name="" tvg-logo="" group-title="",Sky News
+#EXTINF:-1 channel-id="GB3300002NF" tvg-id="GB3300002NF" tvg-chno="4551" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sky News
 https://jmp2.uk/sam-GB3300002NF.m3u8
-#EXTINF:-1 channel-id="GB2700012HS" tvg-id="GB2700012HS" tvg-chno="4635" tvg-name="" tvg-logo="" group-title="",Sky Sports Classics
+#EXTINF:-1 channel-id="GB2700012HS" tvg-id="GB2700012HS" tvg-chno="4635" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sky Sports Classics
 https://jmp2.uk/sam-GB2700012HS.m3u8
-#EXTINF:-1 channel-id="GB2700013Y7" tvg-id="GB2700013Y7" tvg-chno="4420" tvg-name="" tvg-logo="" group-title="",Sky Sports Stories
+#EXTINF:-1 channel-id="GB2700013Y7" tvg-id="GB2700013Y7" tvg-chno="4420" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sky Sports Stories
 https://jmp2.uk/sam-GB2700013Y7.m3u8
-#EXTINF:-1 channel-id="GB1000001G0" tvg-id="GB1000001G0" tvg-chno="4743" tvg-name="" tvg-logo="" group-title="",SMTOWN
+#EXTINF:-1 channel-id="GB1000001G0" tvg-id="GB1000001G0" tvg-chno="4743" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",SMTOWN
 https://jmp2.uk/sam-GB1000001G0.m3u8
-#EXTINF:-1 channel-id="GBBD1300001WA" tvg-id="GBBD1300001WA" tvg-chno="4804" tvg-name="" tvg-logo="" group-title="",Smurf TV
+#EXTINF:-1 channel-id="GBBD1300001WA" tvg-id="GBBD1300001WA" tvg-chno="4804" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Smurf TV
 https://jmp2.uk/sam-GBBD1300001WA.m3u8
-#EXTINF:-1 channel-id="GB370000369" tvg-id="GB370000369" tvg-chno="4810" tvg-name="" tvg-logo="" group-title="",Sonic The Hedgehog
+#EXTINF:-1 channel-id="GB370000369" tvg-id="GB370000369" tvg-chno="4810" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sonic The Hedgehog
 https://jmp2.uk/sam-GB370000369.m3u8
-#EXTINF:-1 channel-id="GB3000041I" tvg-id="GB3000041I" tvg-chno="4996" tvg-name="" tvg-logo="" group-title="",Sony One Action HITS
+#EXTINF:-1 channel-id="GB3000041I" tvg-id="GB3000041I" tvg-chno="4996" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sony One Action HITS
 https://jmp2.uk/sam-GB3000041I.m3u8
-#EXTINF:-1 channel-id="GB300003UI" tvg-id="GB300003UI" tvg-chno="4905" tvg-name="" tvg-logo="" group-title="",Sony One Comedy HITS
+#EXTINF:-1 channel-id="GB300003UI" tvg-id="GB300003UI" tvg-chno="4905" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sony One Comedy HITS
 https://jmp2.uk/sam-GB300003UI.m3u8
-#EXTINF:-1 channel-id="GB300005ZR" tvg-id="GB300005ZR" tvg-chno="4160" tvg-name="" tvg-logo="" group-title="",Sony One Comedy TV
+#EXTINF:-1 channel-id="GB300005ZR" tvg-id="GB300005ZR" tvg-chno="4160" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sony One Comedy TV
 https://jmp2.uk/sam-GB300005ZR.m3u8
-#EXTINF:-1 channel-id="GB300008I8" tvg-id="GB300008I8" tvg-chno="4070" tvg-name="" tvg-logo="" group-title="",Sony One Dragons Den
+#EXTINF:-1 channel-id="GB300008I8" tvg-id="GB300008I8" tvg-chno="4070" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sony One Dragons Den
 https://jmp2.uk/sam-GB300008I8.m3u8
-#EXTINF:-1 channel-id="GB300007J7" tvg-id="GB300007J7" tvg-chno="4233" tvg-name="" tvg-logo="" group-title="",Sony One FAVES
+#EXTINF:-1 channel-id="GB300007J7" tvg-id="GB300007J7" tvg-chno="4233" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sony One FAVES
 https://jmp2.uk/sam-GB300007J7.m3u8
-#EXTINF:-1 channel-id="GB3000061H" tvg-id="GB3000061H" tvg-chno="4235" tvg-name="" tvg-logo="" group-title="",Sony One Thriller TV
+#EXTINF:-1 channel-id="GB3000061H" tvg-id="GB3000061H" tvg-chno="4235" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sony One Thriller TV
 https://jmp2.uk/sam-GB3000061H.m3u8
-#EXTINF:-1 channel-id="GBBD1100009M9" tvg-id="GBBD1100009M9" tvg-chno="4365" tvg-name="" tvg-logo="" group-title="",So…Real
+#EXTINF:-1 channel-id="GBBD1100009M9" tvg-id="GBBD1100009M9" tvg-chno="4365" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",So…Real
 https://jmp2.uk/sam-GBBD1100009M9.m3u8
-#EXTINF:-1 channel-id="GBAJ400042T1" tvg-id="GBAJ400042T1" tvg-chno="4892" tvg-name="" tvg-logo="" group-title="",Sparkle Movies
+#EXTINF:-1 channel-id="GBAJ400042T1" tvg-id="GBAJ400042T1" tvg-chno="4892" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sparkle Movies
 https://jmp2.uk/sam-GBAJ400042T1.m3u8
-#EXTINF:-1 channel-id="GB3700002J0" tvg-id="GB3700002J0" tvg-chno="4779" tvg-name="" tvg-logo="" group-title="",Strawberry Shortcake
+#EXTINF:-1 channel-id="GB3700002J0" tvg-id="GB3700002J0" tvg-chno="4779" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Strawberry Shortcake
 https://jmp2.uk/sam-GB3700002J0.m3u8
-#EXTINF:-1 channel-id="GBBC90001089" tvg-id="GBBC90001089" tvg-chno="4672" tvg-name="" tvg-logo="" group-title="",Strongman Champions League
+#EXTINF:-1 channel-id="GBBC90001089" tvg-id="GBBC90001089" tvg-chno="4672" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Strongman Champions League
 https://jmp2.uk/sam-GBBC90001089.m3u8
-#EXTINF:-1 channel-id="GBBD5100001HL" tvg-id="GBBD5100001HL" tvg-chno="4783" tvg-name="" tvg-logo="" group-title="",SuperToons TV
+#EXTINF:-1 channel-id="GBBD5100001HL" tvg-id="GBBD5100001HL" tvg-chno="4783" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",SuperToons TV
 https://jmp2.uk/sam-GBBD5100001HL.m3u8
-#EXTINF:-1 channel-id="GBBB3800007BN" tvg-id="GBBB3800007BN" tvg-chno="4073" tvg-name="" tvg-logo="" group-title="",Survivor
+#EXTINF:-1 channel-id="GBBB3800007BN" tvg-id="GBBB3800007BN" tvg-chno="4073" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Survivor
 https://jmp2.uk/sam-GBBB3800007BN.m3u8
-#EXTINF:-1 channel-id="GB1200006IV" tvg-id="GB1200006IV" tvg-chno="4557" tvg-name="" tvg-logo="" group-title="",Talk
+#EXTINF:-1 channel-id="GB1200006IV" tvg-id="GB1200006IV" tvg-chno="4557" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Talk
 https://jmp2.uk/sam-GB1200006IV.m3u8
-#EXTINF:-1 channel-id="GB30003577" tvg-id="GB30003577" tvg-chno="4603" tvg-name="" tvg-logo="" group-title="",talkSPORT
+#EXTINF:-1 channel-id="GB30003577" tvg-id="GB30003577" tvg-chno="4603" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",talkSPORT
 https://jmp2.uk/sam-GB30003577.m3u8
-#EXTINF:-1 channel-id="GB2400007FA" tvg-id="GB2400007FA" tvg-chno="4773" tvg-name="" tvg-logo="" group-title="",Teletubbies
+#EXTINF:-1 channel-id="GB2400007FA" tvg-id="GB2400007FA" tvg-chno="4773" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Teletubbies
 https://jmp2.uk/sam-GB2400007FA.m3u8
-#EXTINF:-1 channel-id="GBBA33000529G" tvg-id="GBBA33000529G" tvg-chno="4606" tvg-name="" tvg-logo="" group-title="",Tennis Channel
+#EXTINF:-1 channel-id="GBBA33000529G" tvg-id="GBBA33000529G" tvg-chno="4606" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tennis Channel
 https://jmp2.uk/sam-GBBA33000529G.m3u8
-#EXTINF:-1 channel-id="GB2000010ML" tvg-id="GB2000010ML" tvg-chno="4607" tvg-name="" tvg-logo="" group-title="",Tennis+
+#EXTINF:-1 channel-id="GB2000010ML" tvg-id="GB2000010ML" tvg-chno="4607" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tennis+
 https://jmp2.uk/sam-GB2000010ML.m3u8
-#EXTINF:-1 channel-id="GB700006X7" tvg-id="GB700006X7" tvg-chno="4495" tvg-name="" tvg-logo="" group-title="",Terra Mater WILD
+#EXTINF:-1 channel-id="GB700006X7" tvg-id="GB700006X7" tvg-chno="4495" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Terra Mater WILD
 https://jmp2.uk/sam-GB700006X7.m3u8
-#EXTINF:-1 channel-id="GB1100001EB" tvg-id="GB1100001EB" tvg-chno="4142" tvg-name="" tvg-logo="" group-title="",The Diary Of A CEO
+#EXTINF:-1 channel-id="GB1100001EB" tvg-id="GB1100001EB" tvg-chno="4142" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Diary Of A CEO
 https://jmp2.uk/sam-GB1100001EB.m3u8
-#EXTINF:-1 channel-id="GB4000027F" tvg-id="GB4000027F" tvg-chno="4136" tvg-name="" tvg-logo="" group-title="",The Graham Norton Show
+#EXTINF:-1 channel-id="GB4000027F" tvg-id="GB4000027F" tvg-chno="4136" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Graham Norton Show
 https://jmp2.uk/sam-GB4000027F.m3u8
-#EXTINF:-1 channel-id="GB200000940" tvg-id="GB200000940" tvg-chno="4360" tvg-name="" tvg-logo="" group-title="",The Hotel Inspector
+#EXTINF:-1 channel-id="GB200000940" tvg-id="GB200000940" tvg-chno="4360" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Hotel Inspector
 https://jmp2.uk/sam-GB200000940.m3u8
-#EXTINF:-1 channel-id="GBBC4000002H3" tvg-id="GBBC4000002H3" tvg-chno="4511" tvg-name="" tvg-logo="" group-title="",The Jamie Oliver Channel
+#EXTINF:-1 channel-id="GBBC4000002H3" tvg-id="GBBC4000002H3" tvg-chno="4511" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Jamie Oliver Channel
 https://jmp2.uk/sam-GBBC4000002H3.m3u8
-#EXTINF:-1 channel-id="GBBC4300005AL" tvg-id="GBBC4300005AL" tvg-chno="4802" tvg-name="" tvg-logo="" group-title="",The LEGO Channel
+#EXTINF:-1 channel-id="GBBC4300005AL" tvg-id="GBBC4300005AL" tvg-chno="4802" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The LEGO Channel
 https://jmp2.uk/sam-GBBC4300005AL.m3u8
-#EXTINF:-1 channel-id="GBAJ40003481" tvg-id="GBAJ40003481" tvg-chno="4171" tvg-name="" tvg-logo="" group-title="",The Pet Collective
+#EXTINF:-1 channel-id="GBAJ40003481" tvg-id="GBAJ40003481" tvg-chno="4171" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Pet Collective
 https://jmp2.uk/sam-GBAJ40003481.m3u8
-#EXTINF:-1 channel-id="GBBC900004G9" tvg-id="GBBC900004G9" tvg-chno="4352" tvg-name="" tvg-logo="" group-title="",The Wicked Tuna Channel
+#EXTINF:-1 channel-id="GBBC900004G9" tvg-id="GBBC900004G9" tvg-chno="4352" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wicked Tuna Channel
 https://jmp2.uk/sam-GBBC900004G9.m3u8
-#EXTINF:-1 channel-id="GB2400006I0" tvg-id="GB2400006I0" tvg-chno="4079" tvg-name="" tvg-logo="" group-title="",Tiny House Nation
+#EXTINF:-1 channel-id="GB2400006I0" tvg-id="GB2400006I0" tvg-chno="4079" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tiny House Nation
 https://jmp2.uk/sam-GB2400006I0.m3u8
-#EXTINF:-1 channel-id="GBBD3200003T6" tvg-id="GBBD3200003T6" tvg-chno="4771" tvg-name="" tvg-logo="" group-title="",Tiny POP
+#EXTINF:-1 channel-id="GBBD3200003T6" tvg-id="GBBD3200003T6" tvg-chno="4771" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tiny POP
 https://jmp2.uk/sam-GBBD3200003T6.m3u8
-#EXTINF:-1 channel-id="GB2300002AI" tvg-id="GB2300002AI" tvg-chno="4110" tvg-name="" tvg-logo="" group-title="",Tipping Point
+#EXTINF:-1 channel-id="GB2300002AI" tvg-id="GB2300002AI" tvg-chno="4110" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tipping Point
 https://jmp2.uk/sam-GB2300002AI.m3u8
-#EXTINF:-1 channel-id="GB2600018PD" tvg-id="GB2600018PD" tvg-chno="4868" tvg-name="" tvg-logo="" group-title="",Top Movies - Rakuten TV
+#EXTINF:-1 channel-id="GB2600018PD" tvg-id="GB2600018PD" tvg-chno="4868" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Top Movies - Rakuten TV
 https://jmp2.uk/sam-GB2600018PD.m3u8
-#EXTINF:-1 channel-id="GBBD19000026B" tvg-id="GBBD19000026B" tvg-chno="4716" tvg-name="" tvg-logo="" group-title="",Trace UK
+#EXTINF:-1 channel-id="GBBD19000026B" tvg-id="GBBD19000026B" tvg-chno="4716" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Trace UK
 https://jmp2.uk/sam-GBBD19000026B.m3u8
-#EXTINF:-1 channel-id="GBBC900001SC" tvg-id="GBBC900001SC" tvg-chno="4717" tvg-name="" tvg-logo="" group-title="",Trace Urban
+#EXTINF:-1 channel-id="GBBC900001SC" tvg-id="GBBC900001SC" tvg-chno="4717" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Trace Urban
 https://jmp2.uk/sam-GBBC900001SC.m3u8
-#EXTINF:-1 channel-id="GBBD23000021U" tvg-id="GBBD23000021U" tvg-chno="4803" tvg-name="" tvg-logo="" group-title="",Transformers
+#EXTINF:-1 channel-id="GBBD23000021U" tvg-id="GBBD23000021U" tvg-chno="4803" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Transformers
 https://jmp2.uk/sam-GBBD23000021U.m3u8
-#EXTINF:-1 channel-id="GBBD1100007AC" tvg-id="GBBD1100007AC" tvg-chno="4298" tvg-name="" tvg-logo="" group-title="",True Crime UK
+#EXTINF:-1 channel-id="GBBD1100007AC" tvg-id="GBBD1100007AC" tvg-chno="4298" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",True Crime UK
 https://jmp2.uk/sam-GBBD1100007AC.m3u8
-#EXTINF:-1 channel-id="GBBD3100003J5" tvg-id="GBBD3100003J5" tvg-chno="4003" tvg-name="" tvg-logo="" group-title="",U&Laughs
+#EXTINF:-1 channel-id="GBBD3100003J5" tvg-id="GBBD3100003J5" tvg-chno="4003" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",U&Laughs
 https://jmp2.uk/sam-GBBD3100003J5.m3u8
-#EXTINF:-1 channel-id="GBBD3100002NU" tvg-id="GBBD3100002NU" tvg-chno="4345" tvg-name="" tvg-logo="" group-title="",U&Real Heroes
+#EXTINF:-1 channel-id="GBBD3100002NU" tvg-id="GBBD3100002NU" tvg-chno="4345" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",U&Real Heroes
 https://jmp2.uk/sam-GBBD3100002NU.m3u8
-#EXTINF:-1 channel-id="GBBD3100004OI" tvg-id="GBBD3100004OI" tvg-chno="4413" tvg-name="" tvg-logo="" group-title="",U&The Past
+#EXTINF:-1 channel-id="GBBD3100004OI" tvg-id="GBBD3100004OI" tvg-chno="4413" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",U&The Past
 https://jmp2.uk/sam-GBBD3100004OI.m3u8
-#EXTINF:-1 channel-id="GBBD3100001A8" tvg-id="GBBD3100001A8" tvg-chno="4412" tvg-name="" tvg-logo="" group-title="",U&Transport
+#EXTINF:-1 channel-id="GBBD3100001A8" tvg-id="GBBD3100001A8" tvg-chno="4412" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",U&Transport
 https://jmp2.uk/sam-GBBD3100001A8.m3u8
-#EXTINF:-1 channel-id="GBBD1900009UD" tvg-id="GBBD1900009UD" tvg-chno="4684" tvg-name="" tvg-logo="" group-title="",Vevo '70s & '80s
+#EXTINF:-1 channel-id="GBBD1900009UD" tvg-id="GBBD1900009UD" tvg-chno="4684" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Vevo '70s & '80s
 https://jmp2.uk/sam-GBBD1900009UD.m3u8
-#EXTINF:-1 channel-id="GBBC2100002HP" tvg-id="GBBC2100002HP" tvg-chno="4685" tvg-name="" tvg-logo="" group-title="",Vevo '90s & '00s
+#EXTINF:-1 channel-id="GBBC2100002HP" tvg-id="GBBC2100002HP" tvg-chno="4685" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Vevo '90s & '00s
 https://jmp2.uk/sam-GBBC2100002HP.m3u8
-#EXTINF:-1 channel-id="GBBD2300001C0" tvg-id="GBBD2300001C0" tvg-chno="4686" tvg-name="" tvg-logo="" group-title="",Vevo Hip Hop & R&B
+#EXTINF:-1 channel-id="GBBD2300001C0" tvg-id="GBBD2300001C0" tvg-chno="4686" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Vevo Hip Hop & R&B
 https://jmp2.uk/sam-GBBD2300001C0.m3u8
-#EXTINF:-1 channel-id="GBBC19000017V" tvg-id="GBBC19000017V" tvg-chno="4683" tvg-name="" tvg-logo="" group-title="",Vevo Pop
+#EXTINF:-1 channel-id="GBBC19000017V" tvg-id="GBBC19000017V" tvg-chno="4683" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Vevo Pop
 https://jmp2.uk/sam-GBBC19000017V.m3u8
-#EXTINF:-1 channel-id="GB3400001ND" tvg-id="GB3400001ND" tvg-chno="4811" tvg-name="" tvg-logo="" group-title="",Video Game Heroes
+#EXTINF:-1 channel-id="GB3400001ND" tvg-id="GB3400001ND" tvg-chno="4811" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Video Game Heroes
 https://jmp2.uk/sam-GB3400001ND.m3u8
-#EXTINF:-1 channel-id="GBBC300003UQ" tvg-id="GBBC300003UQ" tvg-chno="4502" tvg-name="" tvg-logo="" group-title="",WaterBear
+#EXTINF:-1 channel-id="GBBC300003UQ" tvg-id="GBBC300003UQ" tvg-chno="4502" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",WaterBear
 https://jmp2.uk/sam-GBBC300003UQ.m3u8
-#EXTINF:-1 channel-id="GBBA3300050RG" tvg-id="GBBA3300050RG" tvg-chno="4872" tvg-name="" tvg-logo="" group-title="",wedo movies
+#EXTINF:-1 channel-id="GBBA3300050RG" tvg-id="GBBA3300050RG" tvg-chno="4872" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",wedo movies
 https://jmp2.uk/sam-GBBA3300050RG.m3u8
-#EXTINF:-1 channel-id="GBBB5000002PL" tvg-id="GBBB5000002PL" tvg-chno="4486" tvg-name="" tvg-logo="" group-title="",Wild Planet
+#EXTINF:-1 channel-id="GBBB5000002PL" tvg-id="GBBB5000002PL" tvg-chno="4486" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Wild Planet
 https://jmp2.uk/sam-GBBB5000002PL.m3u8
-#EXTINF:-1 channel-id="GBBD3000001QB" tvg-id="GBBD3000001QB" tvg-chno="4114" tvg-name="" tvg-logo="" group-title="",Wipeout Xtra Powered by Banijay
+#EXTINF:-1 channel-id="GBBD3000001QB" tvg-id="GBBD3000001QB" tvg-chno="4114" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Wipeout Xtra Powered by Banijay
 https://jmp2.uk/sam-GBBD3000001QB.m3u8
-#EXTINF:-1 channel-id="GBBD2900001VD" tvg-id="GBBD2900001VD" tvg-chno="4671" tvg-name="" tvg-logo="" group-title="",World Poker Tour
+#EXTINF:-1 channel-id="GBBD2900001VD" tvg-id="GBBD2900001VD" tvg-chno="4671" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",World Poker Tour
 https://jmp2.uk/sam-GBBD2900001VD.m3u8
-#EXTINF:-1 channel-id="GBBD1100001UI" tvg-id="GBBD1100001UI" tvg-chno="4416" tvg-name="" tvg-logo="" group-title="",World War TV
+#EXTINF:-1 channel-id="GBBD1100001UI" tvg-id="GBBD1100001UI" tvg-chno="4416" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",World War TV
 https://jmp2.uk/sam-GBBD1100001UI.m3u8
-#EXTINF:-1 channel-id="GBBB3800005QO" tvg-id="GBBB3800005QO" tvg-chno="4704" tvg-name="" tvg-logo="" group-title="",XITE Hits
+#EXTINF:-1 channel-id="GBBB3800005QO" tvg-id="GBBB3800005QO" tvg-chno="4704" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",XITE Hits
 https://jmp2.uk/sam-GBBB3800005QO.m3u8
-#EXTINF:-1 channel-id="GB340000289" tvg-id="GB340000289" tvg-chno="4795" tvg-name="" tvg-logo="" group-title="",YAAAS!
+#EXTINF:-1 channel-id="GB340000289" tvg-id="GB340000289" tvg-chno="4795" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",YAAAS!
 https://jmp2.uk/sam-GB340000289.m3u8
-#EXTINF:-1 channel-id="GBBD1100013BJ" tvg-id="GBBD1100013BJ" tvg-chno="4243" tvg-name="" tvg-logo="" group-title="",Zee One
+#EXTINF:-1 channel-id="GBBD1100013BJ" tvg-id="GBBD1100013BJ" tvg-chno="4243" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Zee One
 https://jmp2.uk/sam-GBBD1100013BJ.m3u8

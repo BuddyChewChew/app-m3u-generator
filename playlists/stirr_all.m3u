@@ -1,289 +1,289 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Stirr/all.xml.gz"
-#EXTINF:-1 channel-id="7299" tvg-id="7299" tvg-chno="649" tvg-name="" tvg-logo="" group-title="", AbsintheTV
+#EXTINF:-1 channel-id="7299" tvg-id="7299" tvg-chno="649" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="", AbsintheTV
 https://jmp2.uk/str-7299.m3u8
-#EXTINF:-1 channel-id="6489" tvg-id="6489" tvg-chno="912" tvg-name="" tvg-logo="" group-title="", FOX45 WBFF Baltimore - Free Live Local News Stream
+#EXTINF:-1 channel-id="6489" tvg-id="6489" tvg-chno="912" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="", FOX45 WBFF Baltimore - Free Live Local News Stream
 https://jmp2.uk/str-6489.m3u8
-#EXTINF:-1 channel-id="6513" tvg-id="6513" tvg-chno="924" tvg-name="" tvg-logo="" group-title="",10 NBC WJAR - (Providence RI*)
+#EXTINF:-1 channel-id="6513" tvg-id="6513" tvg-chno="924" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",10 NBC WJAR - (Providence RI*)
 https://jmp2.uk/str-6513.m3u8
-#EXTINF:-1 channel-id="6593" tvg-id="6593" tvg-chno="225" tvg-name="" tvg-logo="" group-title="",123 GO!
+#EXTINF:-1 channel-id="6593" tvg-id="6593" tvg-chno="225" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",123 GO!
 https://jmp2.uk/str-6593.m3u8
-#EXTINF:-1 channel-id="5734" tvg-id="5734" tvg-chno="704" tvg-name="" tvg-logo="" group-title="",4K Travel TV
+#EXTINF:-1 channel-id="5734" tvg-id="5734" tvg-chno="704" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",4K Travel TV
 https://jmp2.uk/str-5734.m3u8
-#EXTINF:-1 channel-id="6581" tvg-id="6581" tvg-chno="503" tvg-name="" tvg-logo="" group-title="",5-Minute Crafts
+#EXTINF:-1 channel-id="6581" tvg-id="6581" tvg-chno="503" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",5-Minute Crafts
 https://jmp2.uk/str-6581.m3u8
-#EXTINF:-1 channel-id="6529" tvg-id="6529" tvg-chno="932" tvg-name="" tvg-logo="" group-title="",6 NEWS NBC - WJAC - (Johnstown PA*)
+#EXTINF:-1 channel-id="6529" tvg-id="6529" tvg-chno="932" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",6 NEWS NBC - WJAC - (Johnstown PA*)
 https://jmp2.uk/str-6529.m3u8
-#EXTINF:-1 channel-id="6501" tvg-id="6501" tvg-chno="918" tvg-name="" tvg-logo="" group-title="",ABC 13 News - WLOS - (Asheville NC*)
+#EXTINF:-1 channel-id="6501" tvg-id="6501" tvg-chno="918" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ABC 13 News - WLOS - (Asheville NC*)
 https://jmp2.uk/str-6501.m3u8
-#EXTINF:-1 channel-id="6469" tvg-id="6469" tvg-chno="903" tvg-name="" tvg-logo="" group-title="",ABC 5 - KSTP - (Minneapolis-St. Paul MN)
+#EXTINF:-1 channel-id="6469" tvg-id="6469" tvg-chno="903" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ABC 5 - KSTP - (Minneapolis-St. Paul MN)
 https://jmp2.uk/str-6469.m3u8
-#EXTINF:-1 channel-id="6495" tvg-id="6495" tvg-chno="915" tvg-name="" tvg-logo="" group-title="",ABC 6 - WSYX - (Columbus OH*)	
+#EXTINF:-1 channel-id="6495" tvg-id="6495" tvg-chno="915" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ABC 6 - WSYX - (Columbus OH*)	
 https://jmp2.uk/str-6495.m3u8
-#EXTINF:-1 channel-id="6481" tvg-id="6481" tvg-chno="908" tvg-name="" tvg-logo="" group-title="",ABC 6 NEWS - KAAL - (Minnesota & Iowa)
+#EXTINF:-1 channel-id="6481" tvg-id="6481" tvg-chno="908" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ABC 6 NEWS - KAAL - (Minnesota & Iowa)
 https://jmp2.uk/str-6481.m3u8
-#EXTINF:-1 channel-id="6483" tvg-id="6483" tvg-chno="909" tvg-name="" tvg-logo="" group-title="",ABC 7 - WJLA - (Washington DC*)
+#EXTINF:-1 channel-id="6483" tvg-id="6483" tvg-chno="909" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ABC 7 - WJLA - (Washington DC*)
 https://jmp2.uk/str-6483.m3u8
-#EXTINF:-1 channel-id="6521" tvg-id="6521" tvg-chno="928" tvg-name="" tvg-logo="" group-title="",ABC NEWS 4 - WCIV - (Charleston SC*)
+#EXTINF:-1 channel-id="6521" tvg-id="6521" tvg-chno="928" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ABC NEWS 4 - WCIV - (Charleston SC*)
 https://jmp2.uk/str-6521.m3u8
-#EXTINF:-1 channel-id="5740" tvg-id="5740" tvg-chno="435" tvg-name="" tvg-logo="" group-title="",Ace TV
+#EXTINF:-1 channel-id="5740" tvg-id="5740" tvg-chno="435" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ace TV
 https://jmp2.uk/str-5740.m3u8
-#EXTINF:-1 channel-id="5293" tvg-id="5293" tvg-chno="9021" tvg-name="" tvg-logo="" group-title="",Adventure Sports TV (Died)
+#EXTINF:-1 channel-id="5293" tvg-id="5293" tvg-chno="9021" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Adventure Sports TV (Died)
 https://jmp2.uk/str-5293.m3u8
-#EXTINF:-1 channel-id="6701" tvg-id="6701" tvg-chno="211" tvg-name="" tvg-logo="" group-title="",Al Jazeera
+#EXTINF:-1 channel-id="6701" tvg-id="6701" tvg-chno="211" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Al Jazeera
 https://jmp2.uk/str-6701.m3u8
-#EXTINF:-1 channel-id="7321" tvg-id="7321" tvg-chno="623" tvg-name="" tvg-logo="" group-title="",American Stories Network
+#EXTINF:-1 channel-id="7321" tvg-id="7321" tvg-chno="623" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",American Stories Network
 https://jmp2.uk/str-7321.m3u8
-#EXTINF:-1 channel-id="5721" tvg-id="5721" tvg-chno="305" tvg-name="" tvg-logo="" group-title="",Automotions
+#EXTINF:-1 channel-id="5721" tvg-id="5721" tvg-chno="305" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Automotions
 https://jmp2.uk/str-5721.m3u8
-#EXTINF:-1 channel-id="5289" tvg-id="5289" tvg-chno="600" tvg-name="" tvg-logo="" group-title="",AWE plus
+#EXTINF:-1 channel-id="5289" tvg-id="5289" tvg-chno="600" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",AWE plus
 https://jmp2.uk/str-5289.m3u8
-#EXTINF:-1 channel-id="6503" tvg-id="6503" tvg-chno="919" tvg-name="" tvg-logo="" group-title="",CBS 12 - WPEC - (West Palm Beach FL*)
+#EXTINF:-1 channel-id="6503" tvg-id="6503" tvg-chno="919" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS 12 - WPEC - (West Palm Beach FL*)
 https://jmp2.uk/str-6503.m3u8
-#EXTINF:-1 channel-id="6491" tvg-id="6491" tvg-chno="913" tvg-name="" tvg-logo="" group-title="",CBS 2 News - KUTV - (Salt Lake City UT*)
+#EXTINF:-1 channel-id="6491" tvg-id="6491" tvg-chno="913" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS 2 News - KUTV - (Salt Lake City UT*)
 https://jmp2.uk/str-6491.m3u8
-#EXTINF:-1 channel-id="6509" tvg-id="6509" tvg-chno="922" tvg-name="" tvg-logo="" group-title="",CBS 21 News - WHP - (Harrisburg PA*)
+#EXTINF:-1 channel-id="6509" tvg-id="6509" tvg-chno="922" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS 21 News - WHP - (Harrisburg PA*)
 https://jmp2.uk/str-6509.m3u8
-#EXTINF:-1 channel-id="6523" tvg-id="6523" tvg-chno="929" tvg-name="" tvg-logo="" group-title="",CBS 4 News - KDBC - (El Paso TX*)
+#EXTINF:-1 channel-id="6523" tvg-id="6523" tvg-chno="929" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS 4 News - KDBC - (El Paso TX*)
 https://jmp2.uk/str-6523.m3u8
-#EXTINF:-1 channel-id="6497" tvg-id="6497" tvg-chno="916" tvg-name="" tvg-logo="" group-title="",CBS Austin - KEYE - (Austin TX*)
+#EXTINF:-1 channel-id="6497" tvg-id="6497" tvg-chno="916" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS Austin - KEYE - (Austin TX*)
 https://jmp2.uk/str-6497.m3u8
-#EXTINF:-1 channel-id="1072" tvg-id="1072" tvg-chno="320" tvg-name="" tvg-logo="" group-title="",Channel Fight
+#EXTINF:-1 channel-id="1072" tvg-id="1072" tvg-chno="320" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Channel Fight
 https://jmp2.uk/str-1072.m3u8
-#EXTINF:-1 channel-id="6633" tvg-id="6633" tvg-chno="481" tvg-name="" tvg-logo="" group-title="",Cigar TV
+#EXTINF:-1 channel-id="6633" tvg-id="6633" tvg-chno="481" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cigar TV
 https://jmp2.uk/str-6633.m3u8
-#EXTINF:-1 channel-id="5745" tvg-id="5745" tvg-chno="645" tvg-name="" tvg-logo="" group-title="",Cowboy Movie Channel
+#EXTINF:-1 channel-id="5745" tvg-id="5745" tvg-chno="645" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cowboy Movie Channel
 https://jmp2.uk/str-5745.m3u8
-#EXTINF:-1 channel-id="6413" tvg-id="6413" tvg-chno="502" tvg-name="" tvg-logo="" group-title="",CraftsyTV
+#EXTINF:-1 channel-id="6413" tvg-id="6413" tvg-chno="502" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CraftsyTV
 https://jmp2.uk/str-6413.m3u8
-#EXTINF:-1 channel-id="5294" tvg-id="5294" tvg-chno="440" tvg-name="" tvg-logo="" group-title="",Cricket Gold
+#EXTINF:-1 channel-id="5294" tvg-id="5294" tvg-chno="440" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cricket Gold
 https://jmp2.uk/str-5294.m3u8
-#EXTINF:-1 channel-id="5273" tvg-id="5273" tvg-chno="690" tvg-name="" tvg-logo="" group-title="",CrimeFlix - Free Crime TV That’ll Keep You Hooked
+#EXTINF:-1 channel-id="5273" tvg-id="5273" tvg-chno="690" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CrimeFlix - Free Crime TV That’ll Keep You Hooked
 https://jmp2.uk/str-5273.m3u8
-#EXTINF:-1 channel-id="7275" tvg-id="7275" tvg-chno="171" tvg-name="" tvg-logo="" group-title="",Cuisine Culture
+#EXTINF:-1 channel-id="7275" tvg-id="7275" tvg-chno="171" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cuisine Culture
 https://jmp2.uk/str-7275.m3u8
-#EXTINF:-1 channel-id="6408" tvg-id="6408" tvg-chno="157" tvg-name="" tvg-logo="" group-title="",Dark Matters TV
+#EXTINF:-1 channel-id="6408" tvg-id="6408" tvg-chno="157" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Dark Matters TV
 https://jmp2.uk/str-6408.m3u8
-#EXTINF:-1 channel-id="6759" tvg-id="6759" tvg-chno="208" tvg-name="" tvg-logo="" group-title="",DeFiance Media
+#EXTINF:-1 channel-id="6759" tvg-id="6759" tvg-chno="208" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",DeFiance Media
 https://jmp2.uk/str-6759.m3u8
-#EXTINF:-1 channel-id="5739" tvg-id="5739" tvg-chno="625" tvg-name="" tvg-logo="" group-title="",Docu Vision
+#EXTINF:-1 channel-id="5739" tvg-id="5739" tvg-chno="625" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Docu Vision
 https://jmp2.uk/str-5739.m3u8
-#EXTINF:-1 channel-id="7277" tvg-id="7277" tvg-chno="307" tvg-name="" tvg-logo="" group-title="",DRIVE+SPEED
+#EXTINF:-1 channel-id="7277" tvg-id="7277" tvg-chno="307" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",DRIVE+SPEED
 https://jmp2.uk/str-7277.m3u8
-#EXTINF:-1 channel-id="5407" tvg-id="5407" tvg-chno="480" tvg-name="" tvg-logo="" group-title="",Drone TV
+#EXTINF:-1 channel-id="5407" tvg-id="5407" tvg-chno="480" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Drone TV
 https://jmp2.uk/str-5407.m3u8
-#EXTINF:-1 channel-id="5309" tvg-id="5309" tvg-chno="150" tvg-name="" tvg-logo="" group-title="",Electric Now
+#EXTINF:-1 channel-id="5309" tvg-id="5309" tvg-chno="150" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Electric Now
 https://jmp2.uk/str-5309.m3u8
-#EXTINF:-1 channel-id="7309" tvg-id="7309" tvg-chno="667" tvg-name="" tvg-logo="" group-title="",Elevation Church
+#EXTINF:-1 channel-id="7309" tvg-id="7309" tvg-chno="667" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Elevation Church
 https://jmp2.uk/str-7309.m3u8
-#EXTINF:-1 channel-id="5746" tvg-id="5746" tvg-chno="120" tvg-name="" tvg-logo="" group-title="",ENCORE+
+#EXTINF:-1 channel-id="5746" tvg-id="5746" tvg-chno="120" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ENCORE+
 https://jmp2.uk/str-5746.m3u8
-#EXTINF:-1 channel-id="5295" tvg-id="5295" tvg-chno="450" tvg-name="" tvg-logo="" group-title="",Equus TV
+#EXTINF:-1 channel-id="5295" tvg-id="5295" tvg-chno="450" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Equus TV
 https://jmp2.uk/str-5295.m3u8
-#EXTINF:-1 channel-id="1549" tvg-id="1549" tvg-chno="410" tvg-name="" tvg-logo="" group-title="",Extreme+
+#EXTINF:-1 channel-id="1549" tvg-id="1549" tvg-chno="410" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Extreme+
 https://jmp2.uk/str-1549.m3u8
-#EXTINF:-1 channel-id="5297" tvg-id="5297" tvg-chno="819" tvg-name="" tvg-logo="" group-title="",Feva Music
+#EXTINF:-1 channel-id="5297" tvg-id="5297" tvg-chno="819" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Feva Music
 https://jmp2.uk/str-5297.m3u8
-#EXTINF:-1 channel-id="5298" tvg-id="5298" tvg-chno="660" tvg-name="" tvg-logo="" group-title="",Feva TV
+#EXTINF:-1 channel-id="5298" tvg-id="5298" tvg-chno="660" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Feva TV
 https://jmp2.uk/str-5298.m3u8
-#EXTINF:-1 channel-id="7279" tvg-id="7279" tvg-chno="321" tvg-name="" tvg-logo="" group-title="",Fight TV
+#EXTINF:-1 channel-id="7279" tvg-id="7279" tvg-chno="321" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fight TV
 https://jmp2.uk/str-7279.m3u8
-#EXTINF:-1 channel-id="771" tvg-id="771" tvg-chno="300" tvg-name="" tvg-logo="" group-title="",FITE 24 7
+#EXTINF:-1 channel-id="771" tvg-id="771" tvg-chno="300" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FITE 24 7
 https://jmp2.uk/str-771.m3u8
-#EXTINF:-1 channel-id="7281" tvg-id="7281" tvg-chno="419" tvg-name="" tvg-logo="" group-title="",Fooseball TV
+#EXTINF:-1 channel-id="7281" tvg-id="7281" tvg-chno="419" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fooseball TV
 https://jmp2.uk/str-7281.m3u8
-#EXTINF:-1 channel-id="6519" tvg-id="6519" tvg-chno="927" tvg-name="" tvg-logo="" group-title="",FOX 11 - WLUK - (Green Bay WI*)
+#EXTINF:-1 channel-id="6519" tvg-id="6519" tvg-chno="927" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FOX 11 - WLUK - (Green Bay WI*)
 https://jmp2.uk/str-6519.m3u8
-#EXTINF:-1 channel-id="7053" tvg-id="7053" tvg-chno="950" tvg-name="" tvg-logo="" group-title="",FOX 11 - WLUK - (Green Bay WI*) #2
+#EXTINF:-1 channel-id="7053" tvg-id="7053" tvg-chno="950" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FOX 11 - WLUK - (Green Bay WI*) #2
 https://jmp2.uk/str-7053.m3u8
-#EXTINF:-1 channel-id="6511" tvg-id="6511" tvg-chno="923" tvg-name="" tvg-logo="" group-title="",Fox 25 - KOKH - (Oklahoma City OK*)
+#EXTINF:-1 channel-id="6511" tvg-id="6511" tvg-chno="923" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fox 25 - KOKH - (Oklahoma City OK*)
 https://jmp2.uk/str-6511.m3u8
-#EXTINF:-1 channel-id="6515" tvg-id="6515" tvg-chno="925" tvg-name="" tvg-logo="" group-title="",Fox 26 - KMPH - (Fresno CA*)
+#EXTINF:-1 channel-id="6515" tvg-id="6515" tvg-chno="925" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fox 26 - KMPH - (Fresno CA*)
 https://jmp2.uk/str-6515.m3u8
-#EXTINF:-1 channel-id="6531" tvg-id="6531" tvg-chno="933" tvg-name="" tvg-logo="" group-title="",FOX 9 - WTOV - (Steubenville OH*)
+#EXTINF:-1 channel-id="6531" tvg-id="6531" tvg-chno="933" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FOX 9 - WTOV - (Steubenville OH*)
 https://jmp2.uk/str-6531.m3u8
-#EXTINF:-1 channel-id="5299" tvg-id="5299" tvg-chno="610" tvg-name="" tvg-logo="" group-title="",Freebie TV - Watch Live Instantly
+#EXTINF:-1 channel-id="5299" tvg-id="5299" tvg-chno="610" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Freebie TV - Watch Live Instantly
 https://jmp2.uk/str-5299.m3u8
-#EXTINF:-1 channel-id="6411" tvg-id="6411" tvg-chno="304" tvg-name="" tvg-logo="" group-title="",Fuel TV
+#EXTINF:-1 channel-id="6411" tvg-id="6411" tvg-chno="304" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fuel TV
 https://jmp2.uk/str-6411.m3u8
-#EXTINF:-1 channel-id="6430" tvg-id="6430" tvg-chno="224" tvg-name="" tvg-logo="" group-title="",GenB TV
+#EXTINF:-1 channel-id="6430" tvg-id="6430" tvg-chno="224" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",GenB TV
 https://jmp2.uk/str-6430.m3u8
-#EXTINF:-1 channel-id="7283" tvg-id="7283" tvg-chno="406" tvg-name="" tvg-logo="" group-title="",Goal TV
+#EXTINF:-1 channel-id="7283" tvg-id="7283" tvg-chno="406" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Goal TV
 https://jmp2.uk/str-7283.m3u8
-#EXTINF:-1 channel-id="5453" tvg-id="5453" tvg-chno="705" tvg-name="" tvg-logo="" group-title="",Gotraveler
+#EXTINF:-1 channel-id="5453" tvg-id="5453" tvg-chno="705" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Gotraveler
 https://jmp2.uk/str-5453.m3u8
-#EXTINF:-1 channel-id="7295" tvg-id="7295" tvg-chno="221" tvg-name="" tvg-logo="" group-title="",Gritos TV
+#EXTINF:-1 channel-id="7295" tvg-id="7295" tvg-chno="221" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Gritos TV
 https://jmp2.uk/str-7295.m3u8
-#EXTINF:-1 channel-id="7319" tvg-id="7319" tvg-chno="703" tvg-name="" tvg-logo="" group-title="",H20 TV
+#EXTINF:-1 channel-id="7319" tvg-id="7319" tvg-chno="703" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",H20 TV
 https://jmp2.uk/str-7319.m3u8
-#EXTINF:-1 channel-id="5291" tvg-id="5291" tvg-chno="510" tvg-name="" tvg-logo="" group-title="",Home Shopping Network
+#EXTINF:-1 channel-id="5291" tvg-id="5291" tvg-chno="510" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Home Shopping Network
 https://jmp2.uk/str-5291.m3u8
-#EXTINF:-1 channel-id="7285" tvg-id="7285" tvg-chno="422" tvg-name="" tvg-logo="" group-title="",Homerun TV
+#EXTINF:-1 channel-id="7285" tvg-id="7285" tvg-chno="422" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Homerun TV
 https://jmp2.uk/str-7285.m3u8
-#EXTINF:-1 channel-id="7287" tvg-id="7287" tvg-chno="434" tvg-name="" tvg-logo="" group-title="",Hoop TV
+#EXTINF:-1 channel-id="7287" tvg-id="7287" tvg-chno="434" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Hoop TV
 https://jmp2.uk/str-7287.m3u8
-#EXTINF:-1 channel-id="7303" tvg-id="7303" tvg-chno="302" tvg-name="" tvg-logo="" group-title="",Horizon Sports
+#EXTINF:-1 channel-id="7303" tvg-id="7303" tvg-chno="302" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Horizon Sports
 https://jmp2.uk/str-7303.m3u8
-#EXTINF:-1 channel-id="7289" tvg-id="7289" tvg-chno="451" tvg-name="" tvg-logo="" group-title="",Horse TV
+#EXTINF:-1 channel-id="7289" tvg-id="7289" tvg-chno="451" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Horse TV
 https://jmp2.uk/str-7289.m3u8
-#EXTINF:-1 channel-id="5302" tvg-id="5302" tvg-chno="630" tvg-name="" tvg-logo="" group-title="",Humor Mill TV
+#EXTINF:-1 channel-id="5302" tvg-id="5302" tvg-chno="630" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Humor Mill TV
 https://jmp2.uk/str-5302.m3u8
-#EXTINF:-1 channel-id="5747" tvg-id="5747" tvg-chno="465" tvg-name="" tvg-logo="" group-title="",Hunt Fish TV
+#EXTINF:-1 channel-id="5747" tvg-id="5747" tvg-chno="465" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Hunt Fish TV
 https://jmp2.uk/str-5747.m3u8
-#EXTINF:-1 channel-id="6585" tvg-id="6585" tvg-chno="166" tvg-name="" tvg-logo="" group-title="",Imagine PlayWorld
+#EXTINF:-1 channel-id="6585" tvg-id="6585" tvg-chno="166" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Imagine PlayWorld
 https://jmp2.uk/str-6585.m3u8
-#EXTINF:-1 channel-id="7047" tvg-id="7047" tvg-chno="701" tvg-name="" tvg-logo="" group-title="",INTRAVEL
+#EXTINF:-1 channel-id="7047" tvg-id="7047" tvg-chno="701" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",INTRAVEL
 https://jmp2.uk/str-7047.m3u8
-#EXTINF:-1 channel-id="7041" tvg-id="7041" tvg-chno="161" tvg-name="" tvg-logo="" group-title="",INTROUBLE
+#EXTINF:-1 channel-id="7041" tvg-id="7041" tvg-chno="161" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",INTROUBLE
 https://jmp2.uk/str-7041.m3u8
-#EXTINF:-1 channel-id="7043" tvg-id="7043" tvg-chno="160" tvg-name="" tvg-logo="" group-title="",INWILD
+#EXTINF:-1 channel-id="7043" tvg-id="7043" tvg-chno="160" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",INWILD
 https://jmp2.uk/str-7043.m3u8
-#EXTINF:-1 channel-id="7045" tvg-id="7045" tvg-chno="162" tvg-name="" tvg-logo="" group-title="",INWONDER
+#EXTINF:-1 channel-id="7045" tvg-id="7045" tvg-chno="162" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",INWONDER
 https://jmp2.uk/str-7045.m3u8
-#EXTINF:-1 channel-id="5428" tvg-id="5428" tvg-chno="615" tvg-name="" tvg-logo="" group-title="",JLTV
+#EXTINF:-1 channel-id="5428" tvg-id="5428" tvg-chno="615" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",JLTV
 https://jmp2.uk/str-5428.m3u8
-#EXTINF:-1 channel-id="5735" tvg-id="5735" tvg-chno="90" tvg-name="" tvg-logo="" group-title="",Just for Laughs
+#EXTINF:-1 channel-id="5735" tvg-id="5735" tvg-chno="90" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Just for Laughs
 https://jmp2.uk/str-5735.m3u8
-#EXTINF:-1 channel-id="6487" tvg-id="6487" tvg-chno="911" tvg-name="" tvg-logo="" group-title="",KATU 2 ABC - (Portland OR*)	
+#EXTINF:-1 channel-id="6487" tvg-id="6487" tvg-chno="911" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",KATU 2 ABC - (Portland OR*)	
 https://jmp2.uk/str-6487.m3u8
-#EXTINF:-1 channel-id="5748" tvg-id="5748" tvg-chno="165" tvg-name="" tvg-logo="" group-title="",KIDDO+
+#EXTINF:-1 channel-id="5748" tvg-id="5748" tvg-chno="165" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",KIDDO+
 https://jmp2.uk/str-5748.m3u8
-#EXTINF:-1 channel-id="6473" tvg-id="6473" tvg-chno="904" tvg-name="" tvg-logo="" group-title="",KOB 4 - (Albuquerque NM)
+#EXTINF:-1 channel-id="6473" tvg-id="6473" tvg-chno="904" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",KOB 4 - (Albuquerque NM)
 https://jmp2.uk/str-6473.m3u8
-#EXTINF:-1 channel-id="6485" tvg-id="6485" tvg-chno="910" tvg-name="" tvg-logo="" group-title="",KOMO NEWS 4 - ABC - (Seattle WA*)
+#EXTINF:-1 channel-id="6485" tvg-id="6485" tvg-chno="910" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",KOMO NEWS 4 - ABC - (Seattle WA*)
 https://jmp2.uk/str-6485.m3u8
-#EXTINF:-1 channel-id="5725" tvg-id="5725" tvg-chno="445" tvg-name="" tvg-logo="" group-title="",KOZOOM - The Billiard Channel
+#EXTINF:-1 channel-id="5725" tvg-id="5725" tvg-chno="445" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",KOZOOM - The Billiard Channel
 https://jmp2.uk/str-5725.m3u8
-#EXTINF:-1 channel-id="6535" tvg-id="6535" tvg-chno="934" tvg-name="" tvg-logo="" group-title="",KSL-TV -5 - (Salt Lake City UT)
+#EXTINF:-1 channel-id="6535" tvg-id="6535" tvg-chno="934" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",KSL-TV -5 - (Salt Lake City UT)
 https://jmp2.uk/str-6535.m3u8
-#EXTINF:-1 channel-id="6208" tvg-id="6208" tvg-chno="125" tvg-name="" tvg-logo="" group-title="",Law & Crime
+#EXTINF:-1 channel-id="6208" tvg-id="6208" tvg-chno="125" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Law & Crime
 https://jmp2.uk/str-6208.m3u8
-#EXTINF:-1 channel-id="6499" tvg-id="6499" tvg-chno="917" tvg-name="" tvg-logo="" group-title="",Local 12 - WKRC - (Cincinnati OH*)
+#EXTINF:-1 channel-id="6499" tvg-id="6499" tvg-chno="917" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Local 12 - WKRC - (Cincinnati OH*)
 https://jmp2.uk/str-6499.m3u8
-#EXTINF:-1 channel-id="5752" tvg-id="5752" tvg-chno="675" tvg-name="" tvg-logo="" group-title="",MERCURY+
+#EXTINF:-1 channel-id="5752" tvg-id="5752" tvg-chno="675" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MERCURY+
 https://jmp2.uk/str-5752.m3u8
-#EXTINF:-1 channel-id="7297" tvg-id="7297" tvg-chno="222" tvg-name="" tvg-logo="" group-title="",Mi Miedo Canal
+#EXTINF:-1 channel-id="7297" tvg-id="7297" tvg-chno="222" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mi Miedo Canal
 https://jmp2.uk/str-7297.m3u8
-#EXTINF:-1 channel-id="6641" tvg-id="6641" tvg-chno="691" tvg-name="" tvg-logo="" group-title="",Mi Raza Canal
+#EXTINF:-1 channel-id="6641" tvg-id="6641" tvg-chno="691" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mi Raza Canal
 https://jmp2.uk/str-6641.m3u8
-#EXTINF:-1 channel-id="6643" tvg-id="6643" tvg-chno="692" tvg-name="" tvg-logo="" group-title="",Mi Raza Canal Plus
+#EXTINF:-1 channel-id="6643" tvg-id="6643" tvg-chno="692" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mi Raza Canal Plus
 https://jmp2.uk/str-6643.m3u8
-#EXTINF:-1 channel-id="7273" tvg-id="7273" tvg-chno="331" tvg-name="" tvg-logo="" group-title="",MMA TV
+#EXTINF:-1 channel-id="7273" tvg-id="7273" tvg-chno="331" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MMA TV
 https://jmp2.uk/str-7273.m3u8
-#EXTINF:-1 channel-id="7301" tvg-id="7301" tvg-chno="308" tvg-name="" tvg-logo="" group-title="",Motor Racing
+#EXTINF:-1 channel-id="7301" tvg-id="7301" tvg-chno="308" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Motor Racing
 https://jmp2.uk/str-7301.m3u8
-#EXTINF:-1 channel-id="7063" tvg-id="7063" tvg-chno="226" tvg-name="" tvg-logo="" group-title="",MVMT of Culture
+#EXTINF:-1 channel-id="7063" tvg-id="7063" tvg-chno="226" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MVMT of Culture
 https://jmp2.uk/str-7063.m3u8
-#EXTINF:-1 channel-id="6441" tvg-id="6441" tvg-chno="209" tvg-name="" tvg-logo="" group-title="",My Money
+#EXTINF:-1 channel-id="6441" tvg-id="6441" tvg-chno="209" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",My Money
 https://jmp2.uk/str-6441.m3u8
-#EXTINF:-1 channel-id="5726" tvg-id="5726" tvg-chno="425" tvg-name="" tvg-logo="" group-title="",Nautical Channel
+#EXTINF:-1 channel-id="5726" tvg-id="5726" tvg-chno="425" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Nautical Channel
 https://jmp2.uk/str-5726.m3u8
-#EXTINF:-1 channel-id="6517" tvg-id="6517" tvg-chno="926" tvg-name="" tvg-logo="" group-title="",NEWS 22 ABC - WKEF - (Dayton OH*)
+#EXTINF:-1 channel-id="6517" tvg-id="6517" tvg-chno="926" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",NEWS 22 ABC - WKEF - (Dayton OH*)
 https://jmp2.uk/str-6517.m3u8
-#EXTINF:-1 channel-id="6505" tvg-id="6505" tvg-chno="920" tvg-name="" tvg-logo="" group-title="",News 3 NBC - KSNV - (Las Vegas NV*)
+#EXTINF:-1 channel-id="6505" tvg-id="6505" tvg-chno="920" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",News 3 NBC - KSNV - (Las Vegas NV*)
 https://jmp2.uk/str-6505.m3u8
-#EXTINF:-1 channel-id="6493" tvg-id="6493" tvg-chno="914" tvg-name="" tvg-logo="" group-title="",News 4 - WOAI - (San Antonio TX*)
+#EXTINF:-1 channel-id="6493" tvg-id="6493" tvg-chno="914" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",News 4 - WOAI - (San Antonio TX*)
 https://jmp2.uk/str-6493.m3u8
-#EXTINF:-1 channel-id="6467" tvg-id="6467" tvg-chno="902" tvg-name="" tvg-logo="" group-title="",News 9 - KWTV - (Oklahoma City OK)
+#EXTINF:-1 channel-id="6467" tvg-id="6467" tvg-chno="902" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",News 9 - KWTV - (Oklahoma City OK)
 https://jmp2.uk/str-6467.m3u8
-#EXTINF:-1 channel-id="6507" tvg-id="6507" tvg-chno="921" tvg-name="" tvg-logo="" group-title="",News Channel 3 CBS - WWMT - (Grand Rapids MI*)
+#EXTINF:-1 channel-id="6507" tvg-id="6507" tvg-chno="921" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",News Channel 3 CBS - WWMT - (Grand Rapids MI*)
 https://jmp2.uk/str-6507.m3u8
-#EXTINF:-1 channel-id="6465" tvg-id="6465" tvg-chno="901" tvg-name="" tvg-logo="" group-title="",News On 6 - KOTV - (Tulsa OK)
+#EXTINF:-1 channel-id="6465" tvg-id="6465" tvg-chno="901" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",News On 6 - KOTV - (Tulsa OK)
 https://jmp2.uk/str-6465.m3u8
-#EXTINF:-1 channel-id="6477" tvg-id="6477" tvg-chno="906" tvg-name="" tvg-logo="" group-title="",News10NBC - WHEC - (Rochester NY)
+#EXTINF:-1 channel-id="6477" tvg-id="6477" tvg-chno="906" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",News10NBC - WHEC - (Rochester NY)
 https://jmp2.uk/str-6477.m3u8
-#EXTINF:-1 channel-id="6475" tvg-id="6475" tvg-chno="905" tvg-name="" tvg-logo="" group-title="",NewsChannel 13 - WNYT - (Albany NY)
+#EXTINF:-1 channel-id="6475" tvg-id="6475" tvg-chno="905" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",NewsChannel 13 - WNYT - (Albany NY)
 https://jmp2.uk/str-6475.m3u8
-#EXTINF:-1 channel-id="6625" tvg-id="6625" tvg-chno="218" tvg-name="" tvg-logo="" group-title="",Nightmare Network
+#EXTINF:-1 channel-id="6625" tvg-id="6625" tvg-chno="218" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Nightmare Network
 https://jmp2.uk/str-6625.m3u8
-#EXTINF:-1 channel-id="5730" tvg-id="5730" tvg-chno="310" tvg-name="" tvg-logo="" group-title="",Nitro TV
+#EXTINF:-1 channel-id="5730" tvg-id="5730" tvg-chno="310" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Nitro TV
 https://jmp2.uk/str-5730.m3u8
-#EXTINF:-1 channel-id="6414" tvg-id="6414" tvg-chno="214" tvg-name="" tvg-logo="" group-title="",NTD
+#EXTINF:-1 channel-id="6414" tvg-id="6414" tvg-chno="214" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",NTD
 https://jmp2.uk/str-6414.m3u8
-#EXTINF:-1 channel-id="5288" tvg-id="5288" tvg-chno="200" tvg-name="" tvg-logo="" group-title="",OAN plus
+#EXTINF:-1 channel-id="5288" tvg-id="5288" tvg-chno="200" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",OAN plus
 https://jmp2.uk/str-5288.m3u8
-#EXTINF:-1 channel-id="3353" tvg-id="3353" tvg-chno="700" tvg-name="" tvg-logo="" group-title="",Omstars
+#EXTINF:-1 channel-id="3353" tvg-id="3353" tvg-chno="700" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Omstars
 https://jmp2.uk/str-3353.m3u8
-#EXTINF:-1 channel-id="5395" tvg-id="5395" tvg-chno="520" tvg-name="" tvg-logo="" group-title="",ONTV4U - Free Live Shopping & Lifestyle TV
+#EXTINF:-1 channel-id="5395" tvg-id="5395" tvg-chno="520" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ONTV4U - Free Live Shopping & Lifestyle TV
 https://jmp2.uk/str-5395.m3u8
-#EXTINF:-1 channel-id="6443" tvg-id="6443" tvg-chno="805" tvg-name="" tvg-logo="" group-title="",Our Vinyl 
+#EXTINF:-1 channel-id="6443" tvg-id="6443" tvg-chno="805" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Our Vinyl 
 https://jmp2.uk/str-6443.m3u8
-#EXTINF:-1 channel-id="6635" tvg-id="6635" tvg-chno="804" tvg-name="" tvg-logo="" group-title="",Playing for Change
+#EXTINF:-1 channel-id="6635" tvg-id="6635" tvg-chno="804" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Playing for Change
 https://jmp2.uk/str-6635.m3u8
-#EXTINF:-1 channel-id="5303" tvg-id="5303" tvg-chno="820" tvg-name="" tvg-logo="" group-title="",Plymouth Rock TV
+#EXTINF:-1 channel-id="5303" tvg-id="5303" tvg-chno="820" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Plymouth Rock TV
 https://jmp2.uk/str-5303.m3u8
-#EXTINF:-1 channel-id="5436" tvg-id="5436" tvg-chno="635" tvg-name="" tvg-logo="" group-title="",Popstar! TV
+#EXTINF:-1 channel-id="5436" tvg-id="5436" tvg-chno="635" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Popstar! TV
 https://jmp2.uk/str-5436.m3u8
-#EXTINF:-1 channel-id="7307" tvg-id="7307" tvg-chno="309" tvg-name="" tvg-logo="" group-title="",Powertube TV
+#EXTINF:-1 channel-id="7307" tvg-id="7307" tvg-chno="309" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Powertube TV
 https://jmp2.uk/str-7307.m3u8
-#EXTINF:-1 channel-id="6435" tvg-id="6435" tvg-chno="104" tvg-name="" tvg-logo="" group-title="",PursuitUP
+#EXTINF:-1 channel-id="6435" tvg-id="6435" tvg-chno="104" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",PursuitUP
 https://jmp2.uk/str-6435.m3u8
-#EXTINF:-1 channel-id="5421" tvg-id="5421" tvg-chno="500" tvg-name="" tvg-logo="" group-title="",QVC
+#EXTINF:-1 channel-id="5421" tvg-id="5421" tvg-chno="500" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",QVC
 https://jmp2.uk/str-5421.m3u8
-#EXTINF:-1 channel-id="5430" tvg-id="5430" tvg-chno="110" tvg-name="" tvg-logo="" group-title="",RightNow TV
+#EXTINF:-1 channel-id="5430" tvg-id="5430" tvg-chno="110" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",RightNow TV
 https://jmp2.uk/str-5430.m3u8
-#EXTINF:-1 channel-id="5408" tvg-id="5408" tvg-chno="702" tvg-name="" tvg-logo="" group-title="",RVTV
+#EXTINF:-1 channel-id="5408" tvg-id="5408" tvg-chno="702" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",RVTV
 https://jmp2.uk/str-5408.m3u8
-#EXTINF:-1 channel-id="7271" tvg-id="7271" tvg-chno="204" tvg-name="" tvg-logo="" group-title="",Salem News Channel
+#EXTINF:-1 channel-id="7271" tvg-id="7271" tvg-chno="204" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Salem News Channel
 https://jmp2.uk/str-7271.m3u8
-#EXTINF:-1 channel-id="7293" tvg-id="7293" tvg-chno="220" tvg-name="" tvg-logo="" group-title="",Screams TV
+#EXTINF:-1 channel-id="7293" tvg-id="7293" tvg-chno="220" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Screams TV
 https://jmp2.uk/str-7293.m3u8
-#EXTINF:-1 channel-id="5417" tvg-id="5417" tvg-chno="550" tvg-name="" tvg-logo="" group-title="",Shop LC
+#EXTINF:-1 channel-id="5417" tvg-id="5417" tvg-chno="550" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Shop LC
 https://jmp2.uk/str-5417.m3u8
-#EXTINF:-1 channel-id="6587" tvg-id="6587" tvg-chno="167" tvg-name="" tvg-logo="" group-title="",Slick Slime Sam
+#EXTINF:-1 channel-id="6587" tvg-id="6587" tvg-chno="167" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Slick Slime Sam
 https://jmp2.uk/str-6587.m3u8
-#EXTINF:-1 channel-id="6637" tvg-id="6637" tvg-chno="153" tvg-name="" tvg-logo="" group-title="",Sooner: Coming of Age
+#EXTINF:-1 channel-id="6637" tvg-id="6637" tvg-chno="153" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sooner: Coming of Age
 https://jmp2.uk/str-6637.m3u8
-#EXTINF:-1 channel-id="6639" tvg-id="6639" tvg-chno="154" tvg-name="" tvg-logo="" group-title="",Sooner: Next Gen
+#EXTINF:-1 channel-id="6639" tvg-id="6639" tvg-chno="154" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sooner: Next Gen
 https://jmp2.uk/str-6639.m3u8
-#EXTINF:-1 channel-id="7291" tvg-id="7291" tvg-chno="624" tvg-name="" tvg-logo="" group-title="",Space Series
+#EXTINF:-1 channel-id="7291" tvg-id="7291" tvg-chno="624" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Space Series
 https://jmp2.uk/str-7291.m3u8
-#EXTINF:-1 channel-id="6424" tvg-id="6424" tvg-chno="306" tvg-name="" tvg-logo="" group-title="",SPEED SPORT 1
+#EXTINF:-1 channel-id="6424" tvg-id="6424" tvg-chno="306" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",SPEED SPORT 1
 https://jmp2.uk/str-6424.m3u8
-#EXTINF:-1 channel-id="5305" tvg-id="5305" tvg-chno="421" tvg-name="" tvg-logo="" group-title="",Sports First - Stream Free Now
+#EXTINF:-1 channel-id="5305" tvg-id="5305" tvg-chno="421" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sports First - Stream Free Now
 https://jmp2.uk/str-5305.m3u8
-#EXTINF:-1 channel-id="5887" tvg-id="5887" tvg-chno="405" tvg-name="" tvg-logo="" group-title="",Surfing Plus
+#EXTINF:-1 channel-id="5887" tvg-id="5887" tvg-chno="405" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Surfing Plus
 https://jmp2.uk/str-5887.m3u8
-#EXTINF:-1 channel-id="5441" tvg-id="5441" tvg-chno="665" tvg-name="" tvg-logo="" group-title="",TBN -Trinity Broadcasting Network
+#EXTINF:-1 channel-id="5441" tvg-id="5441" tvg-chno="665" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TBN -Trinity Broadcasting Network
 https://jmp2.uk/str-5441.m3u8
-#EXTINF:-1 channel-id="6589" tvg-id="6589" tvg-chno="164" tvg-name="" tvg-logo="" group-title="",Teenvee
+#EXTINF:-1 channel-id="6589" tvg-id="6589" tvg-chno="164" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Teenvee
 https://jmp2.uk/str-6589.m3u8
-#EXTINF:-1 channel-id="5290" tvg-id="5290" tvg-chno="900" tvg-name="" tvg-logo="" group-title="",The Big Dish Channel
+#EXTINF:-1 channel-id="5290" tvg-id="5290" tvg-chno="900" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Big Dish Channel
 https://jmp2.uk/str-5290.m3u8
-#EXTINF:-1 channel-id="5300" tvg-id="5300" tvg-chno="330" tvg-name="" tvg-logo="" group-title="",The Grappling Network
+#EXTINF:-1 channel-id="5300" tvg-id="5300" tvg-chno="330" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Grappling Network
 https://jmp2.uk/str-5300.m3u8
-#EXTINF:-1 channel-id="6429" tvg-id="6429" tvg-chno="803" tvg-name="" tvg-logo="" group-title="",TRACE Brazuca 
+#EXTINF:-1 channel-id="6429" tvg-id="6429" tvg-chno="803" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TRACE Brazuca 
 https://jmp2.uk/str-6429.m3u8
-#EXTINF:-1 channel-id="6428" tvg-id="6428" tvg-chno="802" tvg-name="" tvg-logo="" group-title="",TRACE Latina
+#EXTINF:-1 channel-id="6428" tvg-id="6428" tvg-chno="802" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TRACE Latina
 https://jmp2.uk/str-6428.m3u8
-#EXTINF:-1 channel-id="6425" tvg-id="6425" tvg-chno="301" tvg-name="" tvg-logo="" group-title="",TRACE Sportstar
+#EXTINF:-1 channel-id="6425" tvg-id="6425" tvg-chno="301" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TRACE Sportstar
 https://jmp2.uk/str-6425.m3u8
-#EXTINF:-1 channel-id="6427" tvg-id="6427" tvg-chno="801" tvg-name="" tvg-logo="" group-title="",TRACE UK
+#EXTINF:-1 channel-id="6427" tvg-id="6427" tvg-chno="801" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TRACE UK
 https://jmp2.uk/str-6427.m3u8
-#EXTINF:-1 channel-id="6426" tvg-id="6426" tvg-chno="800" tvg-name="" tvg-logo="" group-title="",TRACE Urban
+#EXTINF:-1 channel-id="6426" tvg-id="6426" tvg-chno="800" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TRACE Urban
 https://jmp2.uk/str-6426.m3u8
-#EXTINF:-1 channel-id="7323" tvg-id="7323" tvg-chno="172" tvg-name="" tvg-logo="" group-title="",Unchained TV
+#EXTINF:-1 channel-id="7323" tvg-id="7323" tvg-chno="172" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Unchained TV
 https://jmp2.uk/str-7323.m3u8
-#EXTINF:-1 channel-id="7017" tvg-id="7017" tvg-chno="158" tvg-name="" tvg-logo="" group-title="",Unleashed by DOGTV
+#EXTINF:-1 channel-id="7017" tvg-id="7017" tvg-chno="158" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Unleashed by DOGTV
 https://jmp2.uk/str-7017.m3u8
-#EXTINF:-1 channel-id="6921" tvg-id="6921" tvg-chno="201" tvg-name="" tvg-logo="" group-title="",USA Today
+#EXTINF:-1 channel-id="6921" tvg-id="6921" tvg-chno="201" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",USA Today
 https://jmp2.uk/str-6921.m3u8
-#EXTINF:-1 channel-id="6479" tvg-id="6479" tvg-chno="907" tvg-name="" tvg-logo="" group-title="",WDIO ABC News - (Duluth MN)
+#EXTINF:-1 channel-id="6479" tvg-id="6479" tvg-chno="907" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",WDIO ABC News - (Duluth MN)
 https://jmp2.uk/str-6479.m3u8
-#EXTINF:-1 channel-id="6595" tvg-id="6595" tvg-chno="151" tvg-name="" tvg-logo="" group-title="",Western Bound
+#EXTINF:-1 channel-id="6595" tvg-id="6595" tvg-chno="151" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Western Bound
 https://jmp2.uk/str-6595.m3u8
-#EXTINF:-1 channel-id="7061" tvg-id="7061" tvg-chno="159" tvg-name="" tvg-logo="" group-title="",Wild Nature 
+#EXTINF:-1 channel-id="7061" tvg-id="7061" tvg-chno="159" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Wild Nature 
 https://jmp2.uk/str-7061.m3u8
-#EXTINF:-1 channel-id="6439" tvg-id="6439" tvg-chno="103" tvg-name="" tvg-logo="" group-title="",Wild TV: Nonstop Outdoor Action & Adventure
+#EXTINF:-1 channel-id="6439" tvg-id="6439" tvg-chno="103" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Wild TV: Nonstop Outdoor Action & Adventure
 https://jmp2.uk/str-6439.m3u8
-#EXTINF:-1 channel-id="7269" tvg-id="7269" tvg-chno="170" tvg-name="" tvg-logo="" group-title="",Wine Watches & Whiskey
+#EXTINF:-1 channel-id="7269" tvg-id="7269" tvg-chno="170" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Wine Watches & Whiskey
 https://jmp2.uk/str-7269.m3u8
-#EXTINF:-1 channel-id="5306" tvg-id="5306" tvg-chno="420" tvg-name="" tvg-logo="" group-title="",World Poker Tour
+#EXTINF:-1 channel-id="5306" tvg-id="5306" tvg-chno="420" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",World Poker Tour
 https://jmp2.uk/str-5306.m3u8
-#EXTINF:-1 channel-id="6527" tvg-id="6527" tvg-chno="931" tvg-name="" tvg-logo="" group-title="",WPDE 15 ABC - (Myrtle Beach FL*)
+#EXTINF:-1 channel-id="6527" tvg-id="6527" tvg-chno="931" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",WPDE 15 ABC - (Myrtle Beach FL*)
 https://jmp2.uk/str-6527.m3u8
-#EXTINF:-1 channel-id="6525" tvg-id="6525" tvg-chno="930" tvg-name="" tvg-logo="" group-title="",WSBT 22 CBS - (South Bend IN*)
+#EXTINF:-1 channel-id="6525" tvg-id="6525" tvg-chno="930" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",WSBT 22 CBS - (South Bend IN*)
 https://jmp2.uk/str-6525.m3u8
-#EXTINF:-1 channel-id="7305" tvg-id="7305" tvg-chno="199" tvg-name="" tvg-logo="" group-title="",Yachting tv
+#EXTINF:-1 channel-id="7305" tvg-id="7305" tvg-chno="199" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Yachting tv
 https://jmp2.uk/str-7305.m3u8
-#EXTINF:-1 channel-id="5308" tvg-id="5308" tvg-chno="650" tvg-name="" tvg-logo="" group-title="",Zoomer TV
+#EXTINF:-1 channel-id="5308" tvg-id="5308" tvg-chno="650" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Zoomer TV
 https://jmp2.uk/str-5308.m3u8
