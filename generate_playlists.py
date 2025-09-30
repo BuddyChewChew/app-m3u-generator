@@ -89,7 +89,7 @@ def format_extinf(channel_id, tvg_id, tvg_chno, tvg_name, tvg_logo, group_title,
             f'tvg-id="{tvg_id}" '
             f'tvg-chno="{chno_str}" '
             f'tvg-name="" '
-            f'tvg-logo="" '
+            f'tvg-logo="http://www.example.com/example.png" '
             f'group-title="",'
             f'{sanitized_display_name}\n')
 
