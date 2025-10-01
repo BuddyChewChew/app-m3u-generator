@@ -285,6 +285,8 @@ https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
 https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
 #EXTINF:-1 channel-id="67f4ff72dea1c5e0d5c205fe" tvg-id="67f4ff72dea1c5e0d5c205fe" tvg-chno="152" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Slasher Movies
 https://jmp2.uk/plu-67f4ff72dea1c5e0d5c205fe.m3u8
+#EXTINF:-1 channel-id="655b7cbb2c46f300086f0afa" tvg-id="655b7cbb2c46f300086f0afa" tvg-chno="1" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Snooker 900
+https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 #EXTINF:-1 channel-id="5dbc2f98777f2e0009934ae7" tvg-id="5dbc2f98777f2e0009934ae7" tvg-chno="802" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Space
 https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 #EXTINF:-1 channel-id="5dbfedccc563080009b60f4a" tvg-id="5dbfedccc563080009b60f4a" tvg-chno="104" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Thrillers
@@ -335,8 +337,6 @@ https://jmp2.uk/plu-66ebf9bc55567d0008de3b29.m3u8
 https://jmp2.uk/plu-66275e41cee0d900085fde6e.m3u8
 #EXTINF:-1 channel-id="5e393d5c696b3b0009775c8b" tvg-id="5e393d5c696b3b0009775c8b" tvg-chno="363" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The New Detectives
 https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
-#EXTINF:-1 channel-id="664c951df99922000842870c" tvg-id="664c951df99922000842870c" tvg-chno="894" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tiny Pop
-https://jmp2.uk/plu-664c951df99922000842870c.m3u8
 #EXTINF:-1 channel-id="656ef4af4261ca00083c8f37" tvg-id="656ef4af4261ca00083c8f37" tvg-chno="886" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Totally Turtles
 https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
 #EXTINF:-1 channel-id="68504098f212bedacf63a7e1" tvg-id="68504098f212bedacf63a7e1" tvg-chno="255" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Touched by an Angel

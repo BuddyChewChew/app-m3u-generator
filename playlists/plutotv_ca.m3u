@@ -295,6 +295,8 @@ https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
 https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
 #EXTINF:-1 channel-id="66166cb1307fa30008f275e7" tvg-id="66166cb1307fa30008f275e7" tvg-chno="272" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Sci-fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:-1 channel-id="639b4f75d3d35c0007d37b30" tvg-id="639b4f75d3d35c0007d37b30" tvg-chno="711" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Snooker 900
+https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
 #EXTINF:-1 channel-id="62e9289f8d467f0007fbc701" tvg-id="62e9289f8d467f0007fbc701" tvg-chno="256" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV True Crime
 https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 #EXTINF:-1 channel-id="62bdacc96a3751000811842d" tvg-id="62bdacc96a3751000811842d" tvg-chno="213" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Westerns
