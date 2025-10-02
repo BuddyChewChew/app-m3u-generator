@@ -65,8 +65,6 @@ https://jmp2.uk/rok-f450ca31c0f7dde46cfdccb15d2154cb.m3u8
 https://jmp2.uk/rok-30459d2ebf175a8b8eac472b8750e07c.m3u8
 #EXTINF:-1 channel-id="c0b79a332cfd90b8eeb6d4a0dcb63674" tvg-id="c0b79a332cfd90b8eeb6d4a0dcb63674" tvg-chno="240" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Top Rank Classics
 https://jmp2.uk/rok-c0b79a332cfd90b8eeb6d4a0dcb63674.m3u8
-#EXTINF:-1 channel-id="6d8659091f745b8b864f438f06c56fae" tvg-id="6d8659091f745b8b864f438f06c56fae" tvg-chno="241" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TNA Wrestling Channel
-https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8
 #EXTINF:-1 channel-id="b6a492b04d7d534fa0e9e69380382d02" tvg-id="b6a492b04d7d534fa0e9e69380382d02" tvg-chno="242" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",DAZN Ringside
 https://jmp2.uk/rok-b6a492b04d7d534fa0e9e69380382d02.m3u8
 #EXTINF:-1 channel-id="8c48bcf59acd57779977b83a41fac919" tvg-id="8c48bcf59acd57779977b83a41fac919" tvg-chno="243" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Swerve Combat
@@ -141,8 +139,6 @@ https://jmp2.uk/rok-8346cc0f3d415e39875fca80b67fd951.m3u8
 https://jmp2.uk/rok-923cd8e7aa1e5a5898aad41fdf6a0f0f.m3u8
 #EXTINF:-1 channel-id="306550b8677f5fd3937c26808531d5f3" tvg-id="306550b8677f5fd3937c26808531d5f3" tvg-chno="324" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Wild West TV
 https://jmp2.uk/rok-306550b8677f5fd3937c26808531d5f3.m3u8
-#EXTINF:-1 channel-id="01ff0accf1e9586f8a0f3db77b5afe2d" tvg-id="01ff0accf1e9586f8a0f3db77b5afe2d" tvg-chno="326" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Heartland
-https://jmp2.uk/rok-01ff0accf1e9586f8a0f3db77b5afe2d.m3u8
 #EXTINF:-1 channel-id="8c36c765b4415db78a85078c37df4a5f" tvg-id="8c36c765b4415db78a85078c37df4a5f" tvg-chno="327" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Lassie
 https://jmp2.uk/rok-8c36c765b4415db78a85078c37df4a5f.m3u8
 #EXTINF:-1 channel-id="dcecb48012b5c99824cb0b1667f4499c" tvg-id="dcecb48012b5c99824cb0b1667f4499c" tvg-chno="328" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Highway To Heaven
@@ -573,6 +569,8 @@ https://jmp2.uk/rok-eaeb1f4ef8ed510e8bc2a3fd78510c30.m3u8
 https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8
 #EXTINF:-1 channel-id="1d889b474b205fe385a2c552aa909b94" tvg-id="1d889b474b205fe385a2c552aa909b94" tvg-chno="1000" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ViX Novelas en familia
 https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
+#EXTINF:-1 channel-id="db95a237643ea0eea113c6c024515df2" tvg-id="db95a237643ea0eea113c6c024515df2" tvg-chno="1001" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Todo Novelas Más Pasiones
+https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8
 #EXTINF:-1 channel-id="09430bcd30bf5b30a96ca22ecb87e3e1" tvg-id="09430bcd30bf5b30a96ca22ecb87e3e1" tvg-chno="1002" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ViX Grandes Parejas
 https://jmp2.uk/rok-09430bcd30bf5b30a96ca22ecb87e3e1.m3u8
 #EXTINF:-1 channel-id="c51c18ade0bd5b68b5e9bfa83410e372" tvg-id="c51c18ade0bd5b68b5e9bfa83410e372" tvg-chno="1004" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ViX Jajaja

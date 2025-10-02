@@ -57,8 +57,18 @@ https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 channel-id="60f760bbdf090700075d7bfe" tvg-id="60f760bbdf090700075d7bfe" tvg-chno="2430" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Best of Dr. Phil
 https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8
+#EXTINF:-1 channel-id="58af4c093a41ca9d4ecabe96" tvg-id="58af4c093a41ca9d4ecabe96" tvg-chno="100" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BET Cinema
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+#EXTINF:-1 channel-id="60f85644a9493e0007a1f035" tvg-id="60f85644a9493e0007a1f035" tvg-chno="530" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BET Classics
+https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+#EXTINF:-1 channel-id="68c32d88f56983aba40052bd" tvg-id="68c32d88f56983aba40052bd" tvg-chno="105" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BET Comedy Movies
+https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 #EXTINF:-1 channel-id="5ca670f6593a5d78f0e85aed" tvg-id="5ca670f6593a5d78f0e85aed" tvg-chno="2040" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BET Pluto TV
 https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+#EXTINF:-1 channel-id="61326275b3c86a00078e4833" tvg-id="61326275b3c86a00078e4833" tvg-chno="320" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BET Throwbacks
+https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
+#EXTINF:-1 channel-id="663946c1b18d700008d9c168" tvg-id="663946c1b18d700008d9c168" tvg-chno="110" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BET Visionaries
+https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 #EXTINF:-1 channel-id="666b265722acab000885c6aa" tvg-id="666b265722acab000885c6aa" tvg-chno="325" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BET x Tyler Perry Comedy
 https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8
 #EXTINF:-1 channel-id="666b38a5efa2a10008b15b3a" tvg-id="666b38a5efa2a10008b15b3a" tvg-chno="1015" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BET x Tyler Perry Drama
@@ -71,18 +81,10 @@ https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 channel-id="6661f11a41af6400080e90d8" tvg-id="6661f11a41af6400080e90d8" tvg-chno="1940" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Big Brother
 https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
-#EXTINF:-1 channel-id="58af4c093a41ca9d4ecabe96" tvg-id="58af4c093a41ca9d4ecabe96" tvg-chno="100" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Black Cinema
-https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
-#EXTINF:-1 channel-id="60f85644a9493e0007a1f035" tvg-id="60f85644a9493e0007a1f035" tvg-chno="530" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Black Classics
-https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
 #EXTINF:-1 channel-id="686d61503484d6073283059d" tvg-id="686d61503484d6073283059d" tvg-chno="327" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Black Family Sitcoms
 https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 #EXTINF:-1 channel-id="5d51e2bceca5b4b2c0e06c50" tvg-id="5d51e2bceca5b4b2c0e06c50" tvg-chno="1680" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Black Ink Crew
 https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
-#EXTINF:-1 channel-id="61326275b3c86a00078e4833" tvg-id="61326275b3c86a00078e4833" tvg-chno="320" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Black Throwbacks
-https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
-#EXTINF:-1 channel-id="663946c1b18d700008d9c168" tvg-id="663946c1b18d700008d9c168" tvg-chno="110" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Black Visionaries
-https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 #EXTINF:-1 channel-id="5e46fba0c43b0d00096e5ac1" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-chno="2680" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Blaze Live
 https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
 #EXTINF:-1 channel-id="54ff7ba69222cb1c2624c584" tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="2640" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Bloomberg TV+
@@ -223,6 +225,8 @@ https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
 https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
 #EXTINF:-1 channel-id="632b606e12a67b0007c9e371" tvg-id="632b606e12a67b0007c9e371" tvg-chno="4270" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CSI: NY en español
 https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
+#EXTINF:-1 channel-id="5ef3958c66ac540007d6e6a7" tvg-id="5ef3958c66ac540007d6e6a7" tvg-chno="1415" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Dark Shadows
+https://jmp2.uk/plu-5ef3958c66ac540007d6e6a7.m3u8
 #EXTINF:-1 channel-id="637413d8531e0c0007442d6d" tvg-id="637413d8531e0c0007442d6d" tvg-chno="1250" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Dateline 24/7
 https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
 #EXTINF:-1 channel-id="651f239d9c7aeb0008286823" tvg-id="651f239d9c7aeb0008286823" tvg-chno="1670" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Dating Disasters
@@ -585,6 +589,8 @@ https://jmp2.uk/plu-677d672ef090ab00085b8e9b.m3u8
 https://jmp2.uk/plu-6565430c9d5ac4000822f508.m3u8
 #EXTINF:-1 channel-id="5fb584b7613a31000789de5a" tvg-id="5fb584b7613a31000789de5a" tvg-chno="3880" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ryan and Friends
 https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
+#EXTINF:-1 channel-id="65033c4b98020f0008547124" tvg-id="65033c4b98020f0008547124" tvg-chno="1040" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",S.W.A.T.
+https://jmp2.uk/plu-65033c4b98020f0008547124.m3u8
 #EXTINF:-1 channel-id="637e55347427a40007fac703" tvg-id="637e55347427a40007fac703" tvg-chno="4000" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sailor Moon
 https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
 #EXTINF:-1 channel-id="66ba53cda4ee2700083fac09" tvg-id="66ba53cda4ee2700083fac09" tvg-chno="4455" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sala de Emergencias: Historias Inéditas
@@ -613,10 +619,6 @@ https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1 channel-id="634dacf51d90320007fcd5fa" tvg-id="634dacf51d90320007fcd5fa" tvg-chno="850" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Star Trek Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
-#EXTINF:-1 channel-id="6675c88da1d7ad00084762cb" tvg-id="6675c88da1d7ad00084762cb" tvg-chno="25" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Star Trek: The Motion Pictures
-https://jmp2.uk/plu-6675c88da1d7ad00084762cb.m3u8
-#EXTINF:-1 channel-id="6695a2e4fe11e50008341303" tvg-id="6695a2e4fe11e50008341303" tvg-chno="856" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Star Trek: The Motion Pictures
-https://jmp2.uk/plu-6695a2e4fe11e50008341303.m3u8
 #EXTINF:-1 channel-id="620bfa7df72827000703ddb1" tvg-id="620bfa7df72827000703ddb1" tvg-chno="860" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 #EXTINF:-1 channel-id="6887aaf4e3703b7d42b71a1e" tvg-id="6887aaf4e3703b7d42b71a1e" tvg-chno="1467" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Storage Wars by A&E
