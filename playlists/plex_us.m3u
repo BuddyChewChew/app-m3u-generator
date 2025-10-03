@@ -273,6 +273,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67884bd6d37f2fd48d6220db.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-64224b7a7e28069f56b5d894" tvg-id="5e20b730f2f8d5003d739db7-64224b7a7e28069f56b5d894" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime & Justice
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64224b7a7e28069f56b5d894.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab" tvg-id="5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime Beat TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099c" tvg-id="5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099c" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime Scene TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" tvg-id="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime Scenes
@@ -399,10 +401,14 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5808.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f" tvg-id="5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise Classic TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" tvg-id="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise Comedy
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5802" tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5802" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise Concursos de Cocina
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5802.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4e" tvg-id="5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4e" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise Crímenes Verdaderos
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4e.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68db6bc5475aa6420c85f232" tvg-id="5e20b730f2f8d5003d739db7-68db6bc5475aa6420c85f232" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise Drama
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db6bc5475aa6420c85f232.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66ea085d9502c5778b828d41" tvg-id="5e20b730f2f8d5003d739db7-66ea085d9502c5778b828d41" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise Free Movies
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ea085d9502c5778b828d41.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66ea09a39502c5778b828d43" tvg-id="5e20b730f2f8d5003d739db7-66ea09a39502c5778b828d43" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise Horror
@@ -923,8 +929,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64f0d3ddc2bc9b9001d46ea4.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",RetroCrush
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Revry
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68c86f0bda79d98d977dc90c" tvg-id="5e20b730f2f8d5003d739db7-68c86f0bda79d98d977dc90c" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Revry
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68c86f0bda79d98d977dc90c.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68c87052da79d98d977dc90e" tvg-id="5e20b730f2f8d5003d739db7-68c87052da79d98d977dc90e" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Revry Latinx
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68c87052da79d98d977dc90e.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" tvg-id="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Rig TV
