@@ -189,6 +189,8 @@ https://jmp2.uk/plu-686f7fa794a8f8fdc6db806a.m3u8
 https://jmp2.uk/plu-625eb3e245f5bc0007810046.m3u8
 #EXTINF:-1 channel-id="624303598e45140007d765c1" tvg-id="624303598e45140007d765c1" tvg-chno="905" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MTV Rocks
 https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
+#EXTINF:-1 channel-id="65a6939b4a10d800085cee92" tvg-id="65a6939b4a10d800085cee92" tvg-chno="904" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MTV: Best of
+https://jmp2.uk/plu-65a6939b4a10d800085cee92.m3u8
 #EXTINF:-1 channel-id="61c4a09d6c959f0007189c93" tvg-id="61c4a09d6c959f0007189c93" tvg-chno="58" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mystery TV
 https://jmp2.uk/plu-61c4a09d6c959f0007189c93.m3u8
 #EXTINF:-1 channel-id="5bd833b41843b56328bac189" tvg-id="5bd833b41843b56328bac189" tvg-chno="456" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mythbusters
