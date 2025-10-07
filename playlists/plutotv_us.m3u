@@ -119,8 +119,6 @@ https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8
 https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8
 #EXTINF:-1 channel-id="5eb1b12146cba40007aa7e5d" tvg-id="5eb1b12146cba40007aa7e5d" tvg-chno="5130" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Colorado
 https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8
-#EXTINF:-1 channel-id="634f24cf3ce5fa0007c68f39" tvg-id="634f24cf3ce5fa0007c68f39" tvg-chno="2570" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Detroit
-https://jmp2.uk/plu-634f24cf3ce5fa0007c68f39.m3u8
 #EXTINF:-1 channel-id="634f2610d5023700078f7dee" tvg-id="634f2610d5023700078f7dee" tvg-chno="5140" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Detroit
 https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8
 #EXTINF:-1 channel-id="5dc9b875e280c80009a8a44a" tvg-id="5dc9b875e280c80009a8a44a" tvg-chno="2560" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Los Angeles
@@ -129,6 +127,8 @@ https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8
 #EXTINF:-1 channel-id="60fb299b79498900070b29e0" tvg-id="60fb299b79498900070b29e0" tvg-chno="2570" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Miami
 https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
+#EXTINF:-1 channel-id="62cdc8fdb05d2b0007ef5035" tvg-id="62cdc8fdb05d2b0007ef5035" tvg-chno="2570" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Miami
+https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
 #EXTINF:-1 channel-id="5eb1b0bf2240d8000732a09c" tvg-id="5eb1b0bf2240d8000732a09c" tvg-chno="5170" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
 #EXTINF:-1 channel-id="5dc9b8223687ff000936ed79" tvg-id="5dc9b8223687ff000936ed79" tvg-chno="2550" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News New York
@@ -721,8 +721,6 @@ https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 https://jmp2.uk/plu-661827ffe8fba800086b217d.m3u8
 #EXTINF:-1 channel-id="673249ccc7626f0008c72076" tvg-id="673249ccc7626f0008c72076" tvg-chno="4453" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TuDiscovery
 https://jmp2.uk/plu-673249ccc7626f0008c72076.m3u8
-#EXTINF:-1 channel-id="6732497f3a61d400087a53b0" tvg-id="6732497f3a61d400087a53b0" tvg-chno="4235" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TuWarner
-https://jmp2.uk/plu-6732497f3a61d400087a53b0.m3u8
 #EXTINF:-1 channel-id="5d40bebc5e3d2750a2239d7e" tvg-id="5d40bebc5e3d2750a2239d7e" tvg-chno="1020" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 channel-id="5c2d64ffbdf11b71587184b8" tvg-id="5c2d64ffbdf11b71587184b8" tvg-chno="300" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TV Land Sitcoms
