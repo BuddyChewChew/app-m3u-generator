@@ -27,8 +27,6 @@ https://jmp2.uk/str-6483.m3u8
 https://jmp2.uk/str-6521.m3u8
 #EXTINF:-1 channel-id="5740" tvg-id="5740" tvg-chno="435" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ace TV
 https://jmp2.uk/str-5740.m3u8
-#EXTINF:-1 channel-id="5293" tvg-id="5293" tvg-chno="9021" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Adventure Sports TV (Died)
-https://jmp2.uk/str-5293.m3u8
 #EXTINF:-1 channel-id="6701" tvg-id="6701" tvg-chno="211" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Al Jazeera
 https://jmp2.uk/str-6701.m3u8
 #EXTINF:-1 channel-id="7321" tvg-id="7321" tvg-chno="623" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",American Stories Network
@@ -69,7 +67,7 @@ https://jmp2.uk/str-6759.m3u8
 https://jmp2.uk/str-5739.m3u8
 #EXTINF:-1 channel-id="7277" tvg-id="7277" tvg-chno="307" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",DRIVE+SPEED
 https://jmp2.uk/str-7277.m3u8
-#EXTINF:-1 channel-id="5407" tvg-id="5407" tvg-chno="480" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Drone TV
+#EXTINF:-1 channel-id="5407" tvg-id="5407" tvg-chno="88" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Drone TV
 https://jmp2.uk/str-5407.m3u8
 #EXTINF:-1 channel-id="5309" tvg-id="5309" tvg-chno="150" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Electric Now
 https://jmp2.uk/str-5309.m3u8
@@ -169,8 +167,6 @@ https://jmp2.uk/str-6641.m3u8
 https://jmp2.uk/str-6643.m3u8
 #EXTINF:-1 channel-id="7273" tvg-id="7273" tvg-chno="331" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MMA TV
 https://jmp2.uk/str-7273.m3u8
-#EXTINF:-1 channel-id="7301" tvg-id="7301" tvg-chno="308" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Motor Racing
-https://jmp2.uk/str-7301.m3u8
 #EXTINF:-1 channel-id="7063" tvg-id="7063" tvg-chno="226" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MVMT of Culture
 https://jmp2.uk/str-7063.m3u8
 #EXTINF:-1 channel-id="6441" tvg-id="6441" tvg-chno="209" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",My Money

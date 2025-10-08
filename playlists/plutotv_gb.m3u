@@ -15,7 +15,7 @@ https://jmp2.uk/plu-68503cfda1e091e16f000625.m3u8
 https://jmp2.uk/plu-64ff1d92d545e9000877fba4.m3u8
 #EXTINF:-1 channel-id="62e9184439d80c00076e166d" tvg-id="62e9184439d80c00076e166d" tvg-chno="359" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Aftershock
 https://jmp2.uk/plu-62e9184439d80c00076e166d.m3u8
-#EXTINF:-1 channel-id="686cd713e48af72bc250efb8" tvg-id="686cd713e48af72bc250efb8" tvg-chno="2" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",America's Next Top Model
+#EXTINF:-1 channel-id="686cd713e48af72bc250efb8" tvg-id="686cd713e48af72bc250efb8" tvg-chno="608" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",America's Next Top Model
 https://jmp2.uk/plu-686cd713e48af72bc250efb8.m3u8
 #EXTINF:-1 channel-id="5e8db96bccae160007c71eec" tvg-id="5e8db96bccae160007c71eec" tvg-chno="282" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Andromeda
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
@@ -33,7 +33,7 @@ https://jmp2.uk/plu-66fd37885049580008d295b6.m3u8
 https://jmp2.uk/plu-62ac405b3874370007419b7f.m3u8
 #EXTINF:-1 channel-id="611e672d4676bf00076a3837" tvg-id="611e672d4676bf00076a3837" tvg-chno="257" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Baywatch
 https://jmp2.uk/plu-611e672d4676bf00076a3837.m3u8
-#EXTINF:-1 channel-id="65a7b01907e03a0008913e8f" tvg-id="65a7b01907e03a0008913e8f" tvg-chno="607" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Best of Dr. Phil
+#EXTINF:-1 channel-id="65a7b01907e03a0008913e8f" tvg-id="65a7b01907e03a0008913e8f" tvg-chno="605" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Best of Dr. Phil
 https://jmp2.uk/plu-65a7b01907e03a0008913e8f.m3u8
 #EXTINF:-1 channel-id="604f8f8622166000071a929f" tvg-id="604f8f8622166000071a929f" tvg-chno="452" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BET Pluto TV
 https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8
@@ -49,7 +49,7 @@ https://jmp2.uk/plu-66a10f11a79dea0008aa73b0.m3u8
 https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8
 #EXTINF:-1 channel-id="650315163a0d700008bb07f8" tvg-id="650315163a0d700008bb07f8" tvg-chno="366" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Born to Kill
 https://jmp2.uk/plu-650315163a0d700008bb07f8.m3u8
-#EXTINF:-1 channel-id="686cd7bd8aeeaaa91a153161" tvg-id="686cd7bd8aeeaaa91a153161" tvg-chno="3" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Britain's Next Top Model
+#EXTINF:-1 channel-id="686cd7bd8aeeaaa91a153161" tvg-id="686cd7bd8aeeaaa91a153161" tvg-chno="609" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Britain's Next Top Model
 https://jmp2.uk/plu-686cd7bd8aeeaaa91a153161.m3u8
 #EXTINF:-1 channel-id="65031534d545e9000881ed10" tvg-id="65031534d545e9000881ed10" tvg-chno="114" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",British Screen Classics
 https://jmp2.uk/plu-65031534d545e9000881ed10.m3u8
@@ -65,7 +65,7 @@ https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8
 https://jmp2.uk/plu-66dff9d46ad04d0008fda4de.m3u8
 #EXTINF:-1 channel-id="66c45afaa72e7b0008a2b153" tvg-id="66c45afaa72e7b0008a2b153" tvg-chno="845" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CNNi
 https://jmp2.uk/plu-66c45afaa72e7b0008a2b153.m3u8
-#EXTINF:-1 channel-id="6514346fa76507000887d441" tvg-id="6514346fa76507000887d441" tvg-chno="610" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Confess by Nosey
+#EXTINF:-1 channel-id="6514346fa76507000887d441" tvg-id="6514346fa76507000887d441" tvg-chno="607" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Confess by Nosey
 https://jmp2.uk/plu-6514346fa76507000887d441.m3u8
 #EXTINF:-1 channel-id="661cf62d24e1d000087dae0d" tvg-id="661cf62d24e1d000087dae0d" tvg-chno="707" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",COPS
 https://jmp2.uk/plu-661cf62d24e1d000087dae0d.m3u8
@@ -105,6 +105,8 @@ https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8
 https://jmp2.uk/plu-64c37e47dac71b000809abab.m3u8
 #EXTINF:-1 channel-id="5ad8d883e738977e2c31096b" tvg-id="5ad8d883e738977e2c31096b" tvg-chno="314" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FailArmy
 https://jmp2.uk/plu-5ad8d883e738977e2c31096b.m3u8
+#EXTINF:-1 channel-id="620bb260821a860007b2d3df" tvg-id="620bb260821a860007b2d3df" tvg-chno="3" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Family Ties
+https://jmp2.uk/plu-620bb260821a860007b2d3df.m3u8
 #EXTINF:-1 channel-id="680bb31c56ff83bcd685d64e" tvg-id="680bb31c56ff83bcd685d64e" tvg-chno="283" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Farscape
 https://jmp2.uk/plu-680bb31c56ff83bcd685d64e.m3u8
 #EXTINF:-1 channel-id="5cb6f6f9a461406ffe4022cf" tvg-id="5cb6f6f9a461406ffe4022cf" tvg-chno="360" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FBI Files
@@ -119,6 +121,8 @@ https://jmp2.uk/plu-5e78faa05a0e200007a6f487.m3u8
 https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
 #EXTINF:-1 channel-id="65c4960d11ced7000812c433" tvg-id="65c4960d11ced7000812c433" tvg-chno="601" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Geordie Shore
 https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
+#EXTINF:-1 channel-id="5c45f5a9d40d58066869fa60" tvg-id="5c45f5a9d40d58066869fa60" tvg-chno="4" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ghost Dimension
+https://jmp2.uk/plu-5c45f5a9d40d58066869fa60.m3u8
 #EXTINF:-1 channel-id="5f27bbe4779de70007a6d1c1" tvg-id="5f27bbe4779de70007a6d1c1" tvg-chno="952" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ghost Hunters
 https://jmp2.uk/plu-5f27bbe4779de70007a6d1c1.m3u8
 #EXTINF:-1 channel-id="66ba1e4446762a000855cd87" tvg-id="66ba1e4446762a000855cd87" tvg-chno="304" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Girlfriends
@@ -185,7 +189,7 @@ https://jmp2.uk/plu-66866fc995e91900088768a5.m3u8
 https://jmp2.uk/plu-635bfb89b5cd9b0007ca9d63.m3u8
 #EXTINF:-1 channel-id="686f7fa794a8f8fdc6db806a" tvg-id="686f7fa794a8f8fdc6db806a" tvg-chno="61" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MTV Halloween
 https://jmp2.uk/plu-686f7fa794a8f8fdc6db806a.m3u8
-#EXTINF:-1 channel-id="625eb3e245f5bc0007810046" tvg-id="625eb3e245f5bc0007810046" tvg-chno="605" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MTV Reality
+#EXTINF:-1 channel-id="625eb3e245f5bc0007810046" tvg-id="625eb3e245f5bc0007810046" tvg-chno="604" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MTV Reality
 https://jmp2.uk/plu-625eb3e245f5bc0007810046.m3u8
 #EXTINF:-1 channel-id="624303598e45140007d765c1" tvg-id="624303598e45140007d765c1" tvg-chno="905" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MTV Rocks
 https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
@@ -217,6 +221,8 @@ https://jmp2.uk/plu-667ac79c15f35c00088a2409.m3u8
 https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
 #EXTINF:-1 channel-id="66d885aef0f17500084b6750" tvg-id="66d885aef0f17500084b6750" tvg-chno="27" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",PGA TOUR
 https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8
+#EXTINF:-1 channel-id="619243059541940007d1ff86" tvg-id="619243059541940007d1ff86" tvg-chno="2" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pimp my Ride
+https://jmp2.uk/plu-619243059541940007d1ff86.m3u8
 #EXTINF:-1 channel-id="66d717d2abec540008ba7ec4" tvg-id="66d717d2abec540008ba7ec4" tvg-chno="251" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV 80's Action
 https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
 #EXTINF:-1 channel-id="67f4fe432ebe80e29299573b" tvg-id="67f4fe432ebe80e29299573b" tvg-chno="58" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV 80's Horror
@@ -249,7 +255,7 @@ https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8
 https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
 #EXTINF:-1 channel-id="5c5c31f2f21b553c1f673fb0" tvg-id="5c5c31f2f21b553c1f673fb0" tvg-chno="103" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Cult Films
 https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
-#EXTINF:-1 channel-id="65a7ab137bdc8d0008487dfb" tvg-id="65a7ab137bdc8d0008487dfb" tvg-chno="4" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Erotica
+#EXTINF:-1 channel-id="65a7ab137bdc8d0008487dfb" tvg-id="65a7ab137bdc8d0008487dfb" tvg-chno="104" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Erotica
 https://jmp2.uk/plu-65a7ab137bdc8d0008487dfb.m3u8
 #EXTINF:-1 channel-id="5dc3fc6b9133f500099c7d98" tvg-id="5dc3fc6b9133f500099c7d98" tvg-chno="112" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Family Movie Club
 https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
@@ -291,11 +297,11 @@ https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
 https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
 #EXTINF:-1 channel-id="67f4ff72dea1c5e0d5c205fe" tvg-id="67f4ff72dea1c5e0d5c205fe" tvg-chno="57" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Slasher Movies
 https://jmp2.uk/plu-67f4ff72dea1c5e0d5c205fe.m3u8
-#EXTINF:-1 channel-id="655b7cbb2c46f300086f0afa" tvg-id="655b7cbb2c46f300086f0afa" tvg-chno="1" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Snooker 900
+#EXTINF:-1 channel-id="655b7cbb2c46f300086f0afa" tvg-id="655b7cbb2c46f300086f0afa" tvg-chno="5" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Snooker 900
 https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 #EXTINF:-1 channel-id="5dbc2f98777f2e0009934ae7" tvg-id="5dbc2f98777f2e0009934ae7" tvg-chno="802" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Space
 https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
-#EXTINF:-1 channel-id="5dbfedccc563080009b60f4a" tvg-id="5dbfedccc563080009b60f4a" tvg-chno="104" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Thrillers
+#EXTINF:-1 channel-id="5dbfedccc563080009b60f4a" tvg-id="5dbfedccc563080009b60f4a" tvg-chno="105" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Thrillers
 https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 #EXTINF:-1 channel-id="5d4bdb635ce813b38639e6a3" tvg-id="5d4bdb635ce813b38639e6a3" tvg-chno="111" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pluto TV Westerns
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
@@ -307,7 +313,7 @@ https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
 https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
 #EXTINF:-1 channel-id="664c953db18d700008fcc158" tvg-id="664c953db18d700008fcc158" tvg-chno="893" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",POP UP
 https://jmp2.uk/plu-664c953db18d700008fcc158.m3u8
-#EXTINF:-1 channel-id="66d82143abec540008bd2b1c" tvg-id="66d82143abec540008bd2b1c" tvg-chno="608" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Project Runway
+#EXTINF:-1 channel-id="66d82143abec540008bd2b1c" tvg-id="66d82143abec540008bd2b1c" tvg-chno="606" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Project Runway
 https://jmp2.uk/plu-66d82143abec540008bd2b1c.m3u8
 #EXTINF:-1 channel-id="68503da136c9361b191f9366" tvg-id="68503da136c9361b191f9366" tvg-chno="558" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Rawhide
 https://jmp2.uk/plu-68503da136c9361b191f9366.m3u8
@@ -333,9 +339,11 @@ https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
 https://jmp2.uk/plu-6695294632e25300084bb61b.m3u8
 #EXTINF:-1 channel-id="64edf6eaa7ec0d000812f58c" tvg-id="64edf6eaa7ec0d000812f58c" tvg-chno="300" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",South Park
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
+#EXTINF:-1 channel-id="5bd81b1053ed2c6334ea0856" tvg-id="5bd81b1053ed2c6334ea0856" tvg-chno="1" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Strongman
+https://jmp2.uk/plu-5bd81b1053ed2c6334ea0856.m3u8
 #EXTINF:-1 channel-id="6850408053d981d1fdb01696" tvg-id="6850408053d981d1fdb01696" tvg-chno="301" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Taxi
 https://jmp2.uk/plu-6850408053d981d1fdb01696.m3u8
-#EXTINF:-1 channel-id="62d550d81054990007db7798" tvg-id="62d550d81054990007db7798" tvg-chno="604" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Teen Mom
+#EXTINF:-1 channel-id="62d550d81054990007db7798" tvg-id="62d550d81054990007db7798" tvg-chno="603" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Teen Mom
 https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
 #EXTINF:-1 channel-id="66a10eeb46762a0008201e85" tvg-id="66a10eeb46762a0008201e85" tvg-chno="883" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Teletubbies
 https://jmp2.uk/plu-66a10eeb46762a0008201e85.m3u8
