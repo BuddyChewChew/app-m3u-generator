@@ -227,6 +227,10 @@ https://jmp2.uk/rok-498b53f6f63455bbba27754ceb5fcefc.m3u8
 https://jmp2.uk/rok-9bd570b8bf145f73bba7532221e12666.m3u8
 #EXTINF:-1 channel-id="a3c405bfca9b525983054aa761b10dfb" tvg-id="a3c405bfca9b525983054aa761b10dfb" tvg-chno="433" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Super Mario Brothers
 https://jmp2.uk/rok-a3c405bfca9b525983054aa761b10dfb.m3u8
+#EXTINF:-1 channel-id="9dd23031622757d1944e4782b2a192ef" tvg-id="9dd23031622757d1944e4782b2a192ef" tvg-chno="436" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ninja Kidz TV
+https://jmp2.uk/rok-9dd23031622757d1944e4782b2a192ef.m3u8
+#EXTINF:-1 channel-id="9cb058af15a0fdacf5aa87b78b2e3d33" tvg-id="9cb058af15a0fdacf5aa87b78b2e3d33" tvg-chno="437" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",QVC2
+https://jmp2.uk/rok-9cb058af15a0fdacf5aa87b78b2e3d33.m3u8
 #EXTINF:-1 channel-id="015c83c4485a597d9e2132252e2a75ae" tvg-id="015c83c4485a597d9e2132252e2a75ae" tvg-chno="438" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",QVC
 https://jmp2.uk/rok-015c83c4485a597d9e2132252e2a75ae.m3u8
 #EXTINF:-1 channel-id="0057bb20ce6c5717a5a025f2a73b682a" tvg-id="0057bb20ce6c5717a5a025f2a73b682a" tvg-chno="439" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",HSN
@@ -353,16 +357,6 @@ https://jmp2.uk/rok-07143b8eb2940144933e5faadb8c19e2.m3u8
 https://jmp2.uk/rok-5199d161259a5f3c93c3c5d3532d3732.m3u8
 #EXTINF:-1 channel-id="3d0de33bcd7a9560562294ebf7603934" tvg-id="3d0de33bcd7a9560562294ebf7603934" tvg-chno="579" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cirque du Soleil
 https://jmp2.uk/rok-3d0de33bcd7a9560562294ebf7603934.m3u8
-#EXTINF:-1 channel-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-chno="586" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Naturescape
-https://jmp2.uk/rok-d12329eda6e3dcc1f42ce2a350a4623d.m3u8
-#EXTINF:-1 channel-id="79876f8f79d0394ba8982259393e5e32" tvg-id="79876f8f79d0394ba8982259393e5e32" tvg-chno="587" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Zen Life
-https://jmp2.uk/rok-79876f8f79d0394ba8982259393e5e32.m3u8
-#EXTINF:-1 channel-id="8b564fb868f8f1d49a1986123724ef18" tvg-id="8b564fb868f8f1d49a1986123724ef18" tvg-chno="588" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Stargaze
-https://jmp2.uk/rok-8b564fb868f8f1d49a1986123724ef18.m3u8
-#EXTINF:-1 channel-id="f8f717f72440fb688192f83faa71a8ab" tvg-id="f8f717f72440fb688192f83faa71a8ab" tvg-chno="589" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Cozy Cafe
-https://jmp2.uk/rok-f8f717f72440fb688192f83faa71a8ab.m3u8
-#EXTINF:-1 channel-id="73991aa61267bcc005a855c7b6303afc" tvg-id="73991aa61267bcc005a855c7b6303afc" tvg-chno="590" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Cityscapes
-https://jmp2.uk/rok-73991aa61267bcc005a855c7b6303afc.m3u8
 #EXTINF:-1 channel-id="d90a57a66251fdda967c2e2b9e6aa25d" tvg-id="d90a57a66251fdda967c2e2b9e6aa25d" tvg-chno="591" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Free Riding
 https://jmp2.uk/rok-d90a57a66251fdda967c2e2b9e6aa25d.m3u8
 #EXTINF:-1 channel-id="23427355f7f35851b75a210d7cca22a4" tvg-id="23427355f7f35851b75a210d7cca22a4" tvg-chno="611" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Celebrity Name Game
@@ -609,6 +603,16 @@ https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
 https://jmp2.uk/rok-f2bbfc9566f9519aad982aea41b95f83.m3u8
 #EXTINF:-1 channel-id="5b18fd4082c85d698f6f71702d82be28" tvg-id="5b18fd4082c85d698f6f71702d82be28" tvg-chno="1052" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",COPS en Español
 https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
+#EXTINF:-1 channel-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-chno="1070" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Naturescape
+https://jmp2.uk/rok-d12329eda6e3dcc1f42ce2a350a4623d.m3u8
+#EXTINF:-1 channel-id="79876f8f79d0394ba8982259393e5e32" tvg-id="79876f8f79d0394ba8982259393e5e32" tvg-chno="1071" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Zen Life
+https://jmp2.uk/rok-79876f8f79d0394ba8982259393e5e32.m3u8
+#EXTINF:-1 channel-id="8b564fb868f8f1d49a1986123724ef18" tvg-id="8b564fb868f8f1d49a1986123724ef18" tvg-chno="1072" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Stargaze
+https://jmp2.uk/rok-8b564fb868f8f1d49a1986123724ef18.m3u8
+#EXTINF:-1 channel-id="f8f717f72440fb688192f83faa71a8ab" tvg-id="f8f717f72440fb688192f83faa71a8ab" tvg-chno="1073" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Cozy Cafe
+https://jmp2.uk/rok-f8f717f72440fb688192f83faa71a8ab.m3u8
+#EXTINF:-1 channel-id="73991aa61267bcc005a855c7b6303afc" tvg-id="73991aa61267bcc005a855c7b6303afc" tvg-chno="1074" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Cityscapes
+https://jmp2.uk/rok-73991aa61267bcc005a855c7b6303afc.m3u8
 #EXTINF:-1 channel-id="b1ad1b681f5d5b2eb071445b284336ff" tvg-id="b1ad1b681f5d5b2eb071445b284336ff" tvg-chno="1090" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FreeTV Banda
 https://jmp2.uk/rok-b1ad1b681f5d5b2eb071445b284336ff.m3u8
 #EXTINF:-1 channel-id="60db737695c95b599dad50d2c5595fe3" tvg-id="60db737695c95b599dad50d2c5595fe3" tvg-chno="1101" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Vevo Reggaeton & Trap

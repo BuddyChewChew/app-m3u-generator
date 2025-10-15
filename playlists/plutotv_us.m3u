@@ -27,7 +27,7 @@ https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8
 #EXTINF:-1 channel-id="68757c45759366af05b3b199" tvg-id="68757c45759366af05b3b199" tvg-chno="1873" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",America's Next Top Model
 https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
-#EXTINF:-1 channel-id="5e84f54a82f05300080e6746" tvg-id="5e84f54a82f05300080e6746" tvg-chno="3420" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",America's Test Kitchen
+#EXTINF:-1 channel-id="5e84f54a82f05300080e6746" tvg-id="5e84f54a82f05300080e6746" tvg-chno="3490" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",America's Test Kitchen
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:-1 channel-id="5e1f7da4bc7d740009831259" tvg-id="5e1f7da4bc7d740009831259" tvg-chno="2690" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",America's Voice News
 https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
@@ -37,9 +37,9 @@ https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 https://jmp2.uk/plu-6887a8fd8e92b5e0a7244e88.m3u8
 #EXTINF:-1 channel-id="6793eaa4bc03978b9bc63db1" tvg-id="6793eaa4bc03978b9bc63db1" tvg-chno="3992" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ANIME x HIDIVE
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
-#EXTINF:-1 channel-id="615b8ec39e878900073f419a" tvg-id="615b8ec39e878900073f419a" tvg-chno="3410" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Antiques Road Trip
+#EXTINF:-1 channel-id="615b8ec39e878900073f419a" tvg-id="615b8ec39e878900073f419a" tvg-chno="3420" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Antiques Road Trip
 https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8
-#EXTINF:-1 channel-id="5ce44810b421747ae467b7cd" tvg-id="5ce44810b421747ae467b7cd" tvg-chno="3400" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Antiques Roadshow UK
+#EXTINF:-1 channel-id="5ce44810b421747ae467b7cd" tvg-id="5ce44810b421747ae467b7cd" tvg-chno="3410" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Antiques Roadshow UK
 https://jmp2.uk/plu-5ce44810b421747ae467b7cd.m3u8
 #EXTINF:-1 channel-id="682e43b21295f98347710917" tvg-id="682e43b21295f98347710917" tvg-chno="2900" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",AWSN
 https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
@@ -53,8 +53,12 @@ https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 #EXTINF:-1 channel-id="65d92a8c8b24c80008e285c0" tvg-id="65d92a8c8b24c80008e285c0" tvg-chno="2629" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BBC News
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
+#EXTINF:-1 channel-id="68bb162bb3900870ec364cbe" tvg-id="68bb162bb3900870ec364cbe" tvg-chno="3340" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Beach Day
+https://jmp2.uk/plu-68bb162bb3900870ec364cbe.m3u8
 #EXTINF:-1 channel-id="5ebc8688f3697d00072f7cf8" tvg-id="5ebc8688f3697d00072f7cf8" tvg-chno="2870" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+#EXTINF:-1 channel-id="68bb167e00a2f063fdf7ee8f" tvg-id="68bb167e00a2f063fdf7ee8f" tvg-chno="3450" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Best of Bobby Flay by Food Network
+https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8
 #EXTINF:-1 channel-id="60f760bbdf090700075d7bfe" tvg-id="60f760bbdf090700075d7bfe" tvg-chno="2430" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Best of Dr. Phil
 https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8
 #EXTINF:-1 channel-id="58af4c093a41ca9d4ecabe96" tvg-id="58af4c093a41ca9d4ecabe96" tvg-chno="100" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BET Cinema
@@ -149,6 +153,10 @@ https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8
 #EXTINF:-1 channel-id="66ba495ffe11e5000881f049" tvg-id="66ba495ffe11e5000881f049" tvg-chno="295" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
+#EXTINF:-1 channel-id="68bb16a500a2f063fdf89f8c" tvg-id="68bb16a500a2f063fdf89f8c" tvg-chno="3440" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Chef vs Chef by Food Network
+https://jmp2.uk/plu-68bb16a500a2f063fdf89f8c.m3u8
+#EXTINF:-1 channel-id="68bb16e7f89c82a68bcc4397" tvg-id="68bb16e7f89c82a68bcc4397" tvg-chno="3310" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Chip & Jo: Feels Like Home by Magnolia Network
+https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
 #EXTINF:-1 channel-id="5d8d164d92e97a5e107638d2" tvg-id="5d8d164d92e97a5e107638d2" tvg-chno="4130" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cine adrenalina
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 #EXTINF:-1 channel-id="5f5136317aedfb0007016f93" tvg-id="5f5136317aedfb0007016f93" tvg-chno="4160" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cine Amor
@@ -239,6 +247,8 @@ https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
 https://jmp2.uk/plu-5e9debf8c881310007d7bde1.m3u8
 #EXTINF:-1 channel-id="5c6eeb85c05dfc257e5a50c4" tvg-id="5c6eeb85c05dfc257e5a50c4" tvg-chno="1170" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Degrassi
 https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
+#EXTINF:-1 channel-id="68bb16ba3efb41cd971f3ce6" tvg-id="68bb16ba3efb41cd971f3ce6" tvg-chno="3520" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Delicious Eats by Food Network
+https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
 #EXTINF:-1 channel-id="673bf05ddaad7f0008ac7a5c" tvg-id="673bf05ddaad7f0008ac7a5c" tvg-chno="3565" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Dinos 24/7
 https://jmp2.uk/plu-673bf05ddaad7f0008ac7a5c.m3u8
 #EXTINF:-1 channel-id="5ce4475cd43850831ca91ce7" tvg-id="5ce4475cd43850831ca91ce7" tvg-chno="870" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Doctor Who Classic
@@ -321,11 +331,13 @@ https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
 https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
 #EXTINF:-1 channel-id="68939e206727ec919bb39061" tvg-id="68939e206727ec919bb39061" tvg-chno="535" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Hogan's Heroes
 https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
-#EXTINF:-1 channel-id="65654230c917a5000844ce96" tvg-id="65654230c917a5000844ce96" tvg-chno="3325" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Home Crashers
+#EXTINF:-1 channel-id="68bb16916523408b14bac7f8" tvg-id="68bb16916523408b14bac7f8" tvg-chno="3480" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Home Cooking by Food Network
+https://jmp2.uk/plu-68bb16916523408b14bac7f8.m3u8
+#EXTINF:-1 channel-id="65654230c917a5000844ce96" tvg-id="65654230c917a5000844ce96" tvg-chno="3350" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Home Crashers
 https://jmp2.uk/plu-65654230c917a5000844ce96.m3u8
-#EXTINF:-1 channel-id="5dc1cb279c91420009db261d" tvg-id="5dc1cb279c91420009db261d" tvg-chno="3370" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Home.Made.Nation
+#EXTINF:-1 channel-id="5dc1cb279c91420009db261d" tvg-id="5dc1cb279c91420009db261d" tvg-chno="3390" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Home.Made.Nation
 https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
-#EXTINF:-1 channel-id="66df8aa7abec540008ca8cb6" tvg-id="66df8aa7abec540008ca8cb6" tvg-chno="3322" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Homeful
+#EXTINF:-1 channel-id="66df8aa7abec540008ca8cb6" tvg-id="66df8aa7abec540008ca8cb6" tvg-chno="3330" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Homeful
 https://jmp2.uk/plu-66df8aa7abec540008ca8cb6.m3u8
 #EXTINF:-1 channel-id="6036e6e7ac69c400072afca2" tvg-id="6036e6e7ac69c400072afca2" tvg-chno="2480" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Hot Bench
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
@@ -375,6 +387,8 @@ https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 https://jmp2.uk/plu-6887a4e01067b66fa16966ec.m3u8
 #EXTINF:-1 channel-id="63d025db4e83e700086eaa96" tvg-id="63d025db4e83e700086eaa96" tvg-chno="2534" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",LiveNOW from FOX
 https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
+#EXTINF:-1 channel-id="68bb164fb3900870ec368759" tvg-id="68bb164fb3900870ec368759" tvg-chno="1265" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Living With Evil
+https://jmp2.uk/plu-68bb164fb3900870ec368759.m3u8
 #EXTINF:-1 channel-id="5ce5a8954311f992edbe1da2" tvg-id="5ce5a8954311f992edbe1da2" tvg-chno="2160" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Logo Pluto TV
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 #EXTINF:-1 channel-id="5d51ddf0369acdb278dfb05e" tvg-id="5d51ddf0369acdb278dfb05e" tvg-chno="1690" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Love & Hip Hop
@@ -461,7 +475,7 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 channel-id="5ca673e0d0bd6c2689c94ce3" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-chno="3770" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-#EXTINF:-1 channel-id="66ff0cf663292d0008320cf8" tvg-id="66ff0cf663292d0008320cf8" tvg-chno="3435" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",No Reservations
+#EXTINF:-1 channel-id="66ff0cf663292d0008320cf8" tvg-id="66ff0cf663292d0008320cf8" tvg-chno="3510" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",No Reservations
 https://jmp2.uk/plu-66ff0cf663292d0008320cf8.m3u8
 #EXTINF:-1 channel-id="5aec96ec5126c2157123c657" tvg-id="5aec96ec5126c2157123c657" tvg-chno="2440" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Nosey
 https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
@@ -481,7 +495,7 @@ https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:-1 channel-id="60d39387706fe50007fda8e8" tvg-id="60d39387706fe50007fda8e8" tvg-chno="2840" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",PBR RidePass
 https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
-#EXTINF:-1 channel-id="636c2b3c55d2e700074105c4" tvg-id="636c2b3c55d2e700074105c4" tvg-chno="3390" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",PBS Antiques Roadshow
+#EXTINF:-1 channel-id="636c2b3c55d2e700074105c4" tvg-id="636c2b3c55d2e700074105c4" tvg-chno="3400" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",PBS Antiques Roadshow
 https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
 #EXTINF:-1 channel-id="640a64bd73e013000893d4e0" tvg-id="640a64bd73e013000893d4e0" tvg-chno="3580" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",PBS Nature
 https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
@@ -585,7 +599,7 @@ https://jmp2.uk/plu-674f735a2fb8a100087bf253.m3u8
 https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 #EXTINF:-1 channel-id="677d672ef090ab00085b8e9b" tvg-id="677d672ef090ab00085b8e9b" tvg-chno="1923" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Robot Wars by MECH+
 https://jmp2.uk/plu-677d672ef090ab00085b8e9b.m3u8
-#EXTINF:-1 channel-id="6565430c9d5ac4000822f508" tvg-id="6565430c9d5ac4000822f508" tvg-chno="3335" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Rustic Retreats
+#EXTINF:-1 channel-id="6565430c9d5ac4000822f508" tvg-id="6565430c9d5ac4000822f508" tvg-chno="3370" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Rustic Retreats
 https://jmp2.uk/plu-6565430c9d5ac4000822f508.m3u8
 #EXTINF:-1 channel-id="5fb584b7613a31000789de5a" tvg-id="5fb584b7613a31000789de5a" tvg-chno="3880" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ryan and Friends
 https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
@@ -635,7 +649,7 @@ https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
 #EXTINF:-1 channel-id="683df56f5195c2a60a3f5559" tvg-id="683df56f5195c2a60a3f5559" tvg-chno="2905" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Swerve Sports
 https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
-#EXTINF:-1 channel-id="68509fe882d704acfc5bacd1" tvg-id="68509fe882d704acfc5bacd1" tvg-chno="3425" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tastemade Smokehouse
+#EXTINF:-1 channel-id="68509fe882d704acfc5bacd1" tvg-id="68509fe882d704acfc5bacd1" tvg-chno="3500" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tastemade Smokehouse
 https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
 #EXTINF:-1 channel-id="6127e12ed140e900077e7b6f" tvg-id="6127e12ed140e900077e7b6f" tvg-chno="1740" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Teen Mom
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
@@ -655,7 +669,7 @@ https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
 #EXTINF:-1 channel-id="5d48685da7e9f476aa8a1888" tvg-id="5d48685da7e9f476aa8a1888" tvg-chno="1970" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Challenge
 https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
-#EXTINF:-1 channel-id="67d07b7b798df95b8e9484b5" tvg-id="67d07b7b798df95b8e9484b5" tvg-chno="3418" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Emeril Lagasse Channel
+#EXTINF:-1 channel-id="67d07b7b798df95b8e9484b5" tvg-id="67d07b7b798df95b8e9484b5" tvg-chno="3460" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Emeril Lagasse Channel
 https://jmp2.uk/plu-67d07b7b798df95b8e9484b5.m3u8
 #EXTINF:-1 channel-id="5d486acc34ceb37d3c458a64" tvg-id="5d486acc34ceb37d3c458a64" tvg-chno="2705" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The First
 https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
@@ -663,7 +677,7 @@ https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
 https://jmp2.uk/plu-6887aaade3703b7d42b64be8.m3u8
 #EXTINF:-1 channel-id="66df70cd61dbf00008fa26ff" tvg-id="66df70cd61dbf00008fa26ff" tvg-chno="1003" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Good Wife
 https://jmp2.uk/plu-66df70cd61dbf00008fa26ff.m3u8
-#EXTINF:-1 channel-id="64dab9df3d48f40008868091" tvg-id="64dab9df3d48f40008868091" tvg-chno="3480" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Jamie Oliver Channel
+#EXTINF:-1 channel-id="64dab9df3d48f40008868091" tvg-id="64dab9df3d48f40008868091" tvg-chno="3470" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Jamie Oliver Channel
 https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
 #EXTINF:-1 channel-id="6283d51144ad8f0007fa382d" tvg-id="6283d51144ad8f0007fa382d" tvg-chno="2470" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Judge Judy Channel
 https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
@@ -693,11 +707,11 @@ https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 #EXTINF:-1 channel-id="664e640a0120f40008be4582" tvg-id="664e640a0120f40008be4582" tvg-chno="800" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
-#EXTINF:-1 channel-id="5d51e791b7dba3b2ae990ab2" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-chno="3310" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",This Old House
+#EXTINF:-1 channel-id="5d51e791b7dba3b2ae990ab2" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-chno="3320" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",This Old House
 https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
 #EXTINF:-1 channel-id="5ef3977e5d773400077de284" tvg-id="5ef3977e5d773400077de284" tvg-chno="590" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Three's Company
 https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
-#EXTINF:-1 channel-id="601a0342dcf4370007566891" tvg-id="601a0342dcf4370007566891" tvg-chno="3360" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tiny House Nation
+#EXTINF:-1 channel-id="601a0342dcf4370007566891" tvg-id="601a0342dcf4370007566891" tvg-chno="3380" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tiny House Nation
 https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
 #EXTINF:-1 channel-id="59b722526996084038c01e1b" tvg-id="59b722526996084038c01e1b" tvg-chno="2890" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",TNA Wrestling
 https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
@@ -729,7 +743,7 @@ https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 channel-id="677d9adfa9a51b0008497fa0" tvg-id="677d9adfa9a51b0008497fa0" tvg-chno="2850" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
-#EXTINF:-1 channel-id="656542ae4261ca00082154a8" tvg-id="656542ae4261ca00082154a8" tvg-chno="3330" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ultimate Builds
+#EXTINF:-1 channel-id="656542ae4261ca00082154a8" tvg-id="656542ae4261ca00082154a8" tvg-chno="3360" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ultimate Builds
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
 #EXTINF:-1 channel-id="654933e253fc970008390114" tvg-id="654933e253fc970008390114" tvg-chno="1050" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Universal Action
 https://jmp2.uk/plu-654933e253fc970008390114.m3u8
@@ -769,7 +783,7 @@ https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 https://jmp2.uk/plu-673249afc7626f0008c7205d.m3u8
 #EXTINF:-1 channel-id="6532e8342cf13100083b404c" tvg-id="6532e8342cf13100083b404c" tvg-chno="1805" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Warner Bros. TV Say Yes to the Dress
 https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8
-#EXTINF:-1 channel-id="6532e7fa045c3d0008514ca7" tvg-id="6532e7fa045c3d0008514ca7" tvg-chno="3440" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Warner Bros. TV Sweet Escapes
+#EXTINF:-1 channel-id="6532e7fa045c3d0008514ca7" tvg-id="6532e7fa045c3d0008514ca7" tvg-chno="3430" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Warner Bros. TV Sweet Escapes
 https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
 #EXTINF:-1 channel-id="61e9af6bfbbcc6000700119b" tvg-id="61e9af6bfbbcc6000700119b" tvg-chno="2620" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",WeatherNation Los Angeles
 https://jmp2.uk/plu-61e9af6bfbbcc6000700119b.m3u8
@@ -779,8 +793,6 @@ https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 https://jmp2.uk/plu-686c2677ed17cf4c900a496d.m3u8
 #EXTINF:-1 channel-id="5d48678d34ceb37d3c458a55" tvg-id="5d48678d34ceb37d3c458a55" tvg-chno="380" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Wild 'N Out
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
-#EXTINF:-1 channel-id="6661f88f3d173b000845958c" tvg-id="6661f88f3d173b000845958c" tvg-chno="830" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Wild West TV
-https://jmp2.uk/plu-6661f88f3d173b000845958c.m3u8
 #EXTINF:-1 channel-id="686d8dd294a028da3ac59566" tvg-id="686d8dd294a028da3ac59566" tvg-chno="2903" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Women's Sports Network
 https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8
 #EXTINF:-1 channel-id="5616f9c0ada51f8004c4b091" tvg-id="5616f9c0ada51f8004c4b091" tvg-chno="2930" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",World Poker Tour
