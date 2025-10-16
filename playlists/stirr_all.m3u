@@ -189,8 +189,6 @@ https://jmp2.uk/str-6465.m3u8
 https://jmp2.uk/str-6477.m3u8
 #EXTINF:-1 channel-id="6475" tvg-id="6475" tvg-chno="905" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",NewsChannel 13 - WNYT - (Albany NY)
 https://jmp2.uk/str-6475.m3u8
-#EXTINF:-1 channel-id="6625" tvg-id="6625" tvg-chno="218" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Nightmare Network
-https://jmp2.uk/str-6625.m3u8
 #EXTINF:-1 channel-id="5730" tvg-id="5730" tvg-chno="310" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Nitro TV
 https://jmp2.uk/str-5730.m3u8
 #EXTINF:-1 channel-id="6414" tvg-id="6414" tvg-chno="214" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",NTD
@@ -265,6 +263,8 @@ https://jmp2.uk/str-7017.m3u8
 https://jmp2.uk/str-6921.m3u8
 #EXTINF:-1 channel-id="6479" tvg-id="6479" tvg-chno="907" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",WDIO ABC News - (Duluth MN)
 https://jmp2.uk/str-6479.m3u8
+#EXTINF:-1 channel-id="7327" tvg-id="7327" tvg-chno="203" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Weather Nation
+https://jmp2.uk/str-7327.m3u8
 #EXTINF:-1 channel-id="6595" tvg-id="6595" tvg-chno="151" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Western Bound
 https://jmp2.uk/str-6595.m3u8
 #EXTINF:-1 channel-id="7061" tvg-id="7061" tvg-chno="159" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Wild Nature 
