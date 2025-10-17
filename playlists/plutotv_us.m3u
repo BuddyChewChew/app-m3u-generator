@@ -741,6 +741,8 @@ https://jmp2.uk/plu-654933e253fc970008390114.m3u8
 https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 #EXTINF:-1 channel-id="65a9b20f0c7ff50008d3a3b6" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-chno="905" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Universal Monsters
 https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
+#EXTINF:-1 channel-id="68c8a5c6b3900870ec0de73a" tvg-id="68c8a5c6b3900870ec0de73a" tvg-chno="208" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Universal Movies
+https://jmp2.uk/plu-68c8a5c6b3900870ec0de73a.m3u8
 #EXTINF:-1 channel-id="5b4e96a0423e067bd6df6901" tvg-id="5b4e96a0423e067bd6df6901" tvg-chno="1270" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Unsolved Mysteries
 https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
 #EXTINF:-1 channel-id="656538f8954b020008d389db" tvg-id="656538f8954b020008d389db" tvg-chno="1530" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",UnXplained Zone
@@ -787,8 +789,8 @@ https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8
 #EXTINF:-1 channel-id="5616f9c0ada51f8004c4b091" tvg-id="5616f9c0ada51f8004c4b091" tvg-chno="2930" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",World Poker Tour
 https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
-#EXTINF:-1 channel-id="66b66b9e14a2bb000872f606" tvg-id="66b66b9e14a2bb000872f606" tvg-chno="2895" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",WOW – Women of Wrestling
-https://jmp2.uk/plu-66b66b9e14a2bb000872f606.m3u8
+#EXTINF:-1 channel-id="68c85164b7af374ee483210f" tvg-id="68c85164b7af374ee483210f" tvg-chno="2895" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Wrestling Central
+https://jmp2.uk/plu-68c85164b7af374ee483210f.m3u8
 #EXTINF:-1 channel-id="623b92a2ccefed0007b1db48" tvg-id="623b92a2ccefed0007b1db48" tvg-chno="4690" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",XITE Classic Country
 https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
 #EXTINF:-1 channel-id="623b93628e6ded0007337d4d" tvg-id="623b93628e6ded0007337d4d" tvg-chno="4800" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",XITE Gospel
