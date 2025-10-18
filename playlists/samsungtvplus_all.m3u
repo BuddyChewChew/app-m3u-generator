@@ -1223,7 +1223,7 @@ https://jmp2.uk/sam-US4100022W9.m3u8
 https://jmp2.uk/sam-CA18000010N.m3u8
 #EXTINF:-1 channel-id="USBB2300002Q6-us" tvg-id="USBB2300002Q6" tvg-chno="2720" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fear Factor
 https://jmp2.uk/sam-USBB2300002Q6.m3u8
-#EXTINF:-1 channel-id="USBC1300012VK-us" tvg-id="USBC1300012VK" tvg-chno="1000" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fear Zone
+#EXTINF:-1 channel-id="USBC1300012VK-us" tvg-id="USBC1300012VK" tvg-chno="3005" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fear Zone
 https://jmp2.uk/sam-USBC1300012VK.m3u8
 #EXTINF:-1 channel-id="GBBC400000345-gb" tvg-id="GBBC400000345" tvg-chno="4009" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Festive Hub
 https://jmp2.uk/sam-GBBC400000345.m3u8
@@ -1745,7 +1745,7 @@ https://jmp2.uk/sam-CABA800002RW.m3u8
 https://jmp2.uk/sam-INBA4900005PV.m3u8
 #EXTINF:-1 channel-id="USBA300023G8-us" tvg-id="USBA300023G8" tvg-chno="3538" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",InWonder
 https://jmp2.uk/sam-USBA300023G8.m3u8
-#EXTINF:-1 channel-id="USBD300002TU-us" tvg-id="USBD300002TU" tvg-chno="1510" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ION
+#EXTINF:-1 channel-id="USBD300002TU-us" tvg-id="USBD300002TU" tvg-chno="1000" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ION
 https://jmp2.uk/sam-USBD300002TU.m3u8
 #EXTINF:-1 channel-id="USBC24000223S-us" tvg-id="USBC24000223S" tvg-chno="1810" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",ION Mystery
 https://jmp2.uk/sam-USBC24000223S.m3u8
@@ -2235,7 +2235,7 @@ https://jmp2.uk/sam-USBD17000051M.m3u8
 https://jmp2.uk/sam-ITBD300001GI.m3u8
 #EXTINF:-1 channel-id="USBB5200019FO-us" tvg-id="USBB5200019FO" tvg-chno="1225" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Movie Favorites By Lifetime
 https://jmp2.uk/sam-USBB5200019FO.m3u8
-#EXTINF:-1 channel-id="USBA3000041ZP-us" tvg-id="USBA3000041ZP" tvg-chno="1200" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Movie Hub
+#EXTINF:-1 channel-id="USBA3000041ZP-us" tvg-id="USBA3000041ZP" tvg-chno="1001" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Movie Hub
 https://jmp2.uk/sam-USBA3000041ZP.m3u8
 #EXTINF:-1 channel-id="USBD3500032H0-us" tvg-id="USBD3500032H0" tvg-chno="1204" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Movie Hub Action
 https://jmp2.uk/sam-USBD3500032H0.m3u8
@@ -3133,7 +3133,7 @@ https://jmp2.uk/sam-US4700001B4.m3u8
 https://jmp2.uk/sam-ITBC1100002ZU.m3u8
 #EXTINF:-1 channel-id="CA21000060M-ca" tvg-id="CA21000060M" tvg-chno="2623" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Smosh
 https://jmp2.uk/sam-CA21000060M.m3u8
-#EXTINF:-1 channel-id="US2100007V7-us" tvg-id="US2100007V7" tvg-chno="1001" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Smosh
+#EXTINF:-1 channel-id="US2100007V7-us" tvg-id="US2100007V7" tvg-chno="2623" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Smosh
 https://jmp2.uk/sam-US2100007V7.m3u8
 #EXTINF:-1 channel-id="CA1000003PR-ca" tvg-id="CA1000003PR" tvg-chno="4443" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",SMTOWN
 https://jmp2.uk/sam-CA1000003PR.m3u8
