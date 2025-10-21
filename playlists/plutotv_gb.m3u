@@ -75,7 +75,7 @@ https://jmp2.uk/plu-661cf62d24e1d000087dae0d.m3u8
 https://jmp2.uk/plu-667d664815f35c00089489bf.m3u8
 #EXTINF:-1 channel-id="5ea18cd42ee5410007e349dc" tvg-id="5ea18cd42ee5410007e349dc" tvg-chno="364" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime Investigation
 https://jmp2.uk/plu-5ea18cd42ee5410007e349dc.m3u8
-#EXTINF:-1 channel-id="63fe2ea349839300086d6d3e" tvg-id="63fe2ea349839300086d6d3e" tvg-chno="12" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime Scene Solvers
+#EXTINF:-1 channel-id="63fe2ea349839300086d6d3e" tvg-id="63fe2ea349839300086d6d3e" tvg-chno="367" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime Scene Solvers
 https://jmp2.uk/plu-63fe2ea349839300086d6d3e.m3u8
 #EXTINF:-1 channel-id="66ba1e23d2d50d00084a1e57" tvg-id="66ba1e23d2d50d00084a1e57" tvg-chno="365" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crimes That Shook Britain
 https://jmp2.uk/plu-66ba1e23d2d50d00084a1e57.m3u8
@@ -167,8 +167,6 @@ https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
 https://jmp2.uk/plu-68b5a5900777559fa5bc13f0.m3u8
 #EXTINF:-1 channel-id="620f6f9e36a49b000761f0d5" tvg-id="620f6f9e36a49b000761f0d5" tvg-chno="834" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Location location location
 https://jmp2.uk/plu-620f6f9e36a49b000761f0d5.m3u8
-#EXTINF:-1 channel-id="65dde148ec9fda0008b3c541" tvg-id="65dde148ec9fda0008b3c541" tvg-chno="459" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Love Pets
-https://jmp2.uk/plu-65dde148ec9fda0008b3c541.m3u8
 #EXTINF:-1 channel-id="68503d585965a2fd49fc2f0b" tvg-id="68503d585965a2fd49fc2f0b" tvg-chno="250" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",MacGyver
 https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
 #EXTINF:-1 channel-id="5f6b51af068f49000746e432" tvg-id="5f6b51af068f49000746e432" tvg-chno="10" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Master Chef Australia
@@ -359,7 +357,7 @@ https://jmp2.uk/plu-6695294632e25300084bb61b.m3u8
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 #EXTINF:-1 channel-id="5bd81b1053ed2c6334ea0856" tvg-id="5bd81b1053ed2c6334ea0856" tvg-chno="32" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Strongman
 https://jmp2.uk/plu-5bd81b1053ed2c6334ea0856.m3u8
-#EXTINF:-1 channel-id="68d67005bdb33359705bbed3" tvg-id="68d67005bdb33359705bbed3" tvg-chno="1" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",SUMO London 2025
+#EXTINF:-1 channel-id="68d67005bdb33359705bbed3" tvg-id="68d67005bdb33359705bbed3" tvg-chno="33" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",SUMO London 2025
 https://jmp2.uk/plu-68d67005bdb33359705bbed3.m3u8
 #EXTINF:-1 channel-id="6850408053d981d1fdb01696" tvg-id="6850408053d981d1fdb01696" tvg-chno="301" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Taxi
 https://jmp2.uk/plu-6850408053d981d1fdb01696.m3u8
@@ -367,6 +365,8 @@ https://jmp2.uk/plu-6850408053d981d1fdb01696.m3u8
 https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
 #EXTINF:-1 channel-id="66a10eeb46762a0008201e85" tvg-id="66a10eeb46762a0008201e85" tvg-chno="883" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Teletubbies
 https://jmp2.uk/plu-66a10eeb46762a0008201e85.m3u8
+#EXTINF:-1 channel-id="6627621d56fc840008e47c90" tvg-id="6627621d56fc840008e47c90" tvg-chno="1" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tennis Channel
+https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8
 #EXTINF:-1 channel-id="66ebf9bc55567d0008de3b29" tvg-id="66ebf9bc55567d0008de3b29" tvg-chno="832" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Hotel Inspector
 https://jmp2.uk/plu-66ebf9bc55567d0008de3b29.m3u8
 #EXTINF:-1 channel-id="66275e41cee0d900085fde6e" tvg-id="66275e41cee0d900085fde6e" tvg-chno="553" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Love Boat

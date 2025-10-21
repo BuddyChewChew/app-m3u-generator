@@ -137,12 +137,12 @@ https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
 #EXTINF:-1 channel-id="5eb1b05ea168cc000767ba67" tvg-id="5eb1b05ea168cc000767ba67" tvg-chno="5210" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
+#EXTINF:-1 channel-id="62cdcac1be7a970008781a64" tvg-id="62cdcac1be7a970008781a64" tvg-chno="2570" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Pittsburgh
+https://jmp2.uk/plu-62cdcac1be7a970008781a64.m3u8
 #EXTINF:-1 channel-id="5eb1b17aa5277e00083f6521" tvg-id="5eb1b17aa5277e00083f6521" tvg-chno="5220" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Pittsburgh
 https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
 #EXTINF:-1 channel-id="60cb6df2b2ad610008cd5bea" tvg-id="60cb6df2b2ad610008cd5bea" tvg-chno="5230" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Sacramento
 https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
-#EXTINF:-1 channel-id="62cdc813f5def500070361eb" tvg-id="62cdc813f5def500070361eb" tvg-chno="2570" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Texas
-https://jmp2.uk/plu-62cdc813f5def500070361eb.m3u8
 #EXTINF:-1 channel-id="5eceb0d4065c240007688ec6" tvg-id="5eceb0d4065c240007688ec6" tvg-chno="5250" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS News Texas
 https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8
 #EXTINF:-1 channel-id="5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-chno="2780" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBS Sports HQ
@@ -627,6 +627,8 @@ https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 channel-id="620bfa7df72827000703ddb1" tvg-id="620bfa7df72827000703ddb1" tvg-chno="860" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
+#EXTINF:-1 channel-id="66ff1d5a565d3a000892bdcd" tvg-id="66ff1d5a565d3a000892bdcd" tvg-chno="279" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stingray Holidayscapes
+https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
 #EXTINF:-1 channel-id="6887aaf4e3703b7d42b71a1e" tvg-id="6887aaf4e3703b7d42b71a1e" tvg-chno="1467" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Storage Wars by A&E
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 #EXTINF:-1 channel-id="62f2ce24f328e00007e7f55a" tvg-id="62f2ce24f328e00007e7f55a" tvg-chno="1070" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Stories by AMC
