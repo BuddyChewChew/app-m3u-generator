@@ -605,6 +605,8 @@ https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
 https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
 #EXTINF:-1 channel-id="5459795fc9f133a519bc0bef" tvg-id="5459795fc9f133a519bc0bef" tvg-chno="2600" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Scripps News
 https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8
+#EXTINF:-1 channel-id="68ee9a999938143525bfc385" tvg-id="68ee9a999938143525bfc385" tvg-chno="2512" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Shop LC
+https://jmp2.uk/plu-68ee9a999938143525bfc385.m3u8
 #EXTINF:-1 channel-id="633354b63df9700007f6a1b7" tvg-id="633354b63df9700007f6a1b7" tvg-chno="290" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sitcom Legends
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
 #EXTINF:-1 channel-id="67882c1c7b11714b795c2008" tvg-id="67882c1c7b11714b795c2008" tvg-chno="335" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sketchy AF
