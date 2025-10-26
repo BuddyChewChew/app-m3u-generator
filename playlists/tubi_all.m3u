@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
-# Generated on 2025-10-25T01:55:32.799863
+# Generated on 2025-10-26T02:04:40.433371
 #EXTINF:-1 tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/ca2EvME4kxBv3g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjhAAQ==" group-title="True Crime",A&E Crime 360
 https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/sE__djfzPMUmUg==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjhAAQ==" group-title="National News",ABC News Live
@@ -195,7 +195,7 @@ https://live-manifest.production-public.tubi.io/live/d25f9356-8a66-41fb-826d-354
 https://live-manifest.production-public.tubi.io/live/550da437-5c67-44a3-a95e-a897fc7d6612/playlist.m3u8
 #EXTINF:-1 tvg-id="700418" tvg-logo="https://canvas-lb.tubitv.com/opts/vJproBq1EsozMw==/1c502e7b-e295-4f49-a248-cbe59b17d0f1/CHgQeDoFMS4xLjhAAQ==" group-title="Science & Nature",Love Nature
 https://live-manifest.production-public.tubi.io/live/470abd8a-dea0-41a1-98bc-bf7f98671ab5/playlist.m3u8
-#EXTINF:-1 tvg-id="692262" tvg-logo="https://canvas-lb.tubitv.com/opts/EeMddyLF4LaGlw==/3a8b8571-2800-45a7-b43b-93c6ba975bcd/CHgQeDoFMS4xLjhAAQ==" group-title="Black Entertainment",Maverick Black Cinema
+#EXTINF:-1 tvg-id="692262" tvg-logo="https://canvas-lb.tubitv.com/opts/AgOeT1VSk4LO5g==/15ddd8ef-f96c-43eb-9640-673f573d4eeb/CHgQeDoFMS4xLjhAAQ==" group-title="Black Entertainment",Maverick Black Cinema
 https://live-manifest.production-public.tubi.io/live/f266b19b-a2b7-4e81-af7d-97915077cff3/playlist.m3u8
 #EXTINF:-1 tvg-id="700415" tvg-logo="https://canvas-lb.tubitv.com/opts/out8VdNya-rkZw==/34fa2e5d-6c68-4012-8c19-cc4afe6ad726/CHgQeDoFMS4xLjhAAQ==" group-title="Mystery",Midsomer Murders
 https://live-manifest.production-public.tubi.io/live/0ebfd814-cf17-4d01-a0e5-19f8df07cf68/playlist.m3u8

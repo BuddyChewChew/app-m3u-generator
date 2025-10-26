@@ -1,4 +1,14 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"
+#EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",LiveNOW from FOX
+https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
+#EXTINF:-1 channel-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-chno="141" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Euronews World
+https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
+#EXTINF:-1 channel-id="8db0f9f4abf6542ba95f97a545f98513" tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-chno="142" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBC News
+https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
+#EXTINF:-1 channel-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-chno="161" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",AccuWeather NOW
+https://jmp2.uk/rok-f95c40a17cfe5b9fb1970192e378fb0c.m3u8
+#EXTINF:-1 channel-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-chno="163" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Weathernation
+https://jmp2.uk/rok-a1e38b83ae2a56f09f4d2ee8ed206b35.m3u8
 #EXTINF:-1 channel-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-chno="164" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FOX Weather
 https://jmp2.uk/rok-0838d5ccb1d5564d98fb804ab314c85e.m3u8
 #EXTINF:-1 channel-id="d3f36d4a35fa5f40a24b96a51556b9b5" tvg-id="d3f36d4a35fa5f40a24b96a51556b9b5" tvg-chno="166" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Scripps News
@@ -175,6 +185,8 @@ https://jmp2.uk/rok-34e2d8f442ab5fa3aed29436c2f8ed63.m3u8
 https://jmp2.uk/rok-d0c6ac240cb8529992ee3340e5b7f102.m3u8
 #EXTINF:-1 channel-id="834e2a09799752b3be7ecaab726b7242" tvg-id="834e2a09799752b3be7ecaab726b7242" tvg-chno="379" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Maverick Black Cinema
 https://jmp2.uk/rok-834e2a09799752b3be7ecaab726b7242.m3u8
+#EXTINF:-1 channel-id="e7b30e2a58409242100d0edd2bfebbfd" tvg-id="e7b30e2a58409242100d0edd2bfebbfd" tvg-chno="380" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pam Grier's Soul Flix
+https://jmp2.uk/rok-e7b30e2a58409242100d0edd2bfebbfd.m3u8
 #EXTINF:-1 channel-id="885d5897052b53709a83c4947174cd09" tvg-id="885d5897052b53709a83c4947174cd09" tvg-chno="382" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise Black TV
 https://jmp2.uk/rok-885d5897052b53709a83c4947174cd09.m3u8
 #EXTINF:-1 channel-id="98bcc63f72a95c159f4b079c1a9152c1" tvg-id="98bcc63f72a95c159f4b079c1a9152c1" tvg-chno="384" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BlackPix
@@ -195,6 +207,8 @@ https://jmp2.uk/rok-d1bfe824cfee5369a493d7a8bbd96ec1.m3u8
 https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
 #EXTINF:-1 channel-id="d8b7e94b7edc53918e6afa251822df14" tvg-id="d8b7e94b7edc53918e6afa251822df14" tvg-chno="405" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pocket.watch Game-On
 https://jmp2.uk/rok-d8b7e94b7edc53918e6afa251822df14.m3u8
+#EXTINF:-1 channel-id="f66aa243a9465896ac3e7eaef7cba3fd" tvg-id="f66aa243a9465896ac3e7eaef7cba3fd" tvg-chno="412" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Power Rangers
+https://jmp2.uk/rok-f66aa243a9465896ac3e7eaef7cba3fd.m3u8
 #EXTINF:-1 channel-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-chno="417" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Toony Planet
 https://jmp2.uk/rok-8e0ba996e9985beb9c5e7f7f994ddc2e.m3u8
 #EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="419" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BABY SHARK TV
@@ -459,6 +473,14 @@ https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
 https://jmp2.uk/rok-e6f5a623c45d5757a50e602eb0591f62.m3u8
 #EXTINF:-1 channel-id="8e0bb4b7ca7c5ea1af52427462297f38" tvg-id="8e0bb4b7ca7c5ea1af52427462297f38" tvg-chno="907" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Telemundo Al Día
 https://jmp2.uk/rok-8e0bb4b7ca7c5ea1af52427462297f38.m3u8
+#EXTINF:-1 channel-id="ceb64d994c7756c2a8f09ace94c3e43f" tvg-id="ceb64d994c7756c2a8f09ace94c3e43f" tvg-chno="909" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Telediario Now
+https://jmp2.uk/rok-ceb64d994c7756c2a8f09ace94c3e43f.m3u8
+#EXTINF:-1 channel-id="91dff2b8a62b5fe1bdf64de721032cba" tvg-id="91dff2b8a62b5fe1bdf64de721032cba" tvg-chno="911" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Estrella TV
+https://jmp2.uk/rok-91dff2b8a62b5fe1bdf64de721032cba.m3u8
+#EXTINF:-1 channel-id="46eb1feb60da2bc45bee66f313b564de" tvg-id="46eb1feb60da2bc45bee66f313b564de" tvg-chno="912" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fuerza Informativa Azteca
+https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
+#EXTINF:-1 channel-id="34beeb8efcb656f08d91298bb94e1815" tvg-id="34beeb8efcb656f08d91298bb94e1815" tvg-chno="913" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",WAPA+
+https://jmp2.uk/rok-34beeb8efcb656f08d91298bb94e1815.m3u8
 #EXTINF:-1 channel-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-chno="915" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",RCN Noticias
 https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8
 #EXTINF:-1 channel-id="5cbb91d07dbd5b92ae3ef3e37be7f2ce" tvg-id="5cbb91d07dbd5b92ae3ef3e37be7f2ce" tvg-chno="919" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",C4 en Alerta
