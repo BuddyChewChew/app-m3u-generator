@@ -37,6 +37,10 @@ https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8
 https://jmp2.uk/rok-f17c82792f7cab26596e1a84ebc82a8b.m3u8
 #EXTINF:-1 channel-id="9210a8fbeab66e9d1ce20c187804ee7d" tvg-id="9210a8fbeab66e9d1ce20c187804ee7d" tvg-chno="206" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Bassmaster
 https://jmp2.uk/rok-9210a8fbeab66e9d1ce20c187804ee7d.m3u8
+#EXTINF:-1 channel-id="e46ac8cd0299b4c5f1403d999a432561" tvg-id="e46ac8cd0299b4c5f1403d999a432561" tvg-chno="207" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",PFL MMA
+https://jmp2.uk/rok-e46ac8cd0299b4c5f1403d999a432561.m3u8
+#EXTINF:-1 channel-id="c5e8a74546771de365652cd053f73351" tvg-id="c5e8a74546771de365652cd053f73351" tvg-chno="209" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Red Bull TV
+https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8
 #EXTINF:-1 channel-id="2d9aed2049f3c762acbed39bf6b9cc9f" tvg-id="2d9aed2049f3c762acbed39bf6b9cc9f" tvg-chno="214" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",NASCAR
 https://jmp2.uk/rok-2d9aed2049f3c762acbed39bf6b9cc9f.m3u8
 #EXTINF:-1 channel-id="8f7350535325c7fad29cb140ef240ed7" tvg-id="8f7350535325c7fad29cb140ef240ed7" tvg-chno="220" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Esports Edge
@@ -211,6 +215,10 @@ https://jmp2.uk/rok-8e0ba996e9985beb9c5e7f7f994ddc2e.m3u8
 https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
 #EXTINF:-1 channel-id="ac7629367b3f5fae93753623469c440d" tvg-id="ac7629367b3f5fae93753623469c440d" tvg-chno="421" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sensical Gaming
 https://jmp2.uk/rok-ac7629367b3f5fae93753623469c440d.m3u8
+#EXTINF:-1 channel-id="6a7a898965c75ae48bf889c00b1c35b7" tvg-id="6a7a898965c75ae48bf889c00b1c35b7" tvg-chno="426" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Polly Pocket
+https://jmp2.uk/rok-6a7a898965c75ae48bf889c00b1c35b7.m3u8
+#EXTINF:-1 channel-id="b5cde121f98257329346020e2a60295a" tvg-id="b5cde121f98257329346020e2a60295a" tvg-chno="428" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Moonbug Kids
+https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
 #EXTINF:-1 channel-id="9aff620ece2457a3a7572886ecae0495" tvg-id="9aff620ece2457a3a7572886ecae0495" tvg-chno="430" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Super Simple Songs
 https://jmp2.uk/rok-9aff620ece2457a3a7572886ecae0495.m3u8
 #EXTINF:-1 channel-id="498b53f6f63455bbba27754ceb5fcefc" tvg-id="498b53f6f63455bbba27754ceb5fcefc" tvg-chno="431" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Sonic The Hedgehog
@@ -579,6 +587,8 @@ https://jmp2.uk/rok-59d2dbddc997559bb7b689a7c887cba4.m3u8
 https://jmp2.uk/rok-308d792301e9897cbd41d0390abef68f.m3u8
 #EXTINF:-1 channel-id="b015fcbafb496320954672321e746f8a" tvg-id="b015fcbafb496320954672321e746f8a" tvg-chno="1017" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Todo Cine
 https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
+#EXTINF:-1 channel-id="2bc36154da3310eaa692d0ea141ef8e0" tvg-id="2bc36154da3310eaa692d0ea141ef8e0" tvg-chno="1020" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pitufo TV
+https://jmp2.uk/rok-2bc36154da3310eaa692d0ea141ef8e0.m3u8
 #EXTINF:-1 channel-id="3bc1756db0ef525b9cab86edcd426c55" tvg-id="3bc1756db0ef525b9cab86edcd426c55" tvg-chno="1029" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Canela.TV Narco-Drama
 https://jmp2.uk/rok-3bc1756db0ef525b9cab86edcd426c55.m3u8
 #EXTINF:-1 channel-id="42ee7ce6165d5342be3e509f0afe5048" tvg-id="42ee7ce6165d5342be3e509f0afe5048" tvg-chno="1030" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Canela.TV Clásicos
