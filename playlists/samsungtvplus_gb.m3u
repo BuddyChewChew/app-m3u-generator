@@ -51,9 +51,9 @@ https://jmp2.uk/sam-GBBD3600001NO.m3u8
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 channel-id="GBBD1900008O3" tvg-id="GBBD1900008O3" tvg-chno="4555" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CNN Headlines
 https://jmp2.uk/sam-GBBD1900008O3.m3u8
-#EXTINF:-1 channel-id="GBBC9000062G" tvg-id="GBBC9000062G" tvg-chno="4084" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Come Dine With Me
+#EXTINF:-1 channel-id="GBBC9000062G" tvg-id="GBBC9000062G" tvg-chno="4003" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Come Dine With Me
 https://jmp2.uk/sam-GBBC9000062G.m3u8
-#EXTINF:-1 channel-id="GBBD25000038Y" tvg-id="GBBD25000038Y" tvg-chno="4156" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Comedy Hub
+#EXTINF:-1 channel-id="GBBD25000038Y" tvg-id="GBBD25000038Y" tvg-chno="4001" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Comedy Hub
 https://jmp2.uk/sam-GBBD25000038Y.m3u8
 #EXTINF:-1 channel-id="GB2600020OP" tvg-id="GB2600020OP" tvg-chno="4005" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Comedy Movies - Rakuten TV
 https://jmp2.uk/sam-GB2600020OP.m3u8
@@ -65,7 +65,7 @@ https://jmp2.uk/sam-GB2500002K0.m3u8
 https://jmp2.uk/sam-GB3700008XB.m3u8
 #EXTINF:-1 channel-id="GBBD260000189" tvg-id="GBBD260000189" tvg-chno="4300" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime & Justice
 https://jmp2.uk/sam-GBBD260000189.m3u8
-#EXTINF:-1 channel-id="GBBD4100010H1" tvg-id="GBBD4100010H1" tvg-chno="4001" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime Network
+#EXTINF:-1 channel-id="GBBD4100010H1" tvg-id="GBBD4100010H1" tvg-chno="4291" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Crime Network
 https://jmp2.uk/sam-GBBD4100010H1.m3u8
 #EXTINF:-1 channel-id="GB1400001E4" tvg-id="GB1400001E4" tvg-chno="4425" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CURIOSITY Now
 https://jmp2.uk/sam-GB1400001E4.m3u8
@@ -119,8 +119,10 @@ https://jmp2.uk/sam-GBAJ40003642.m3u8
 https://jmp2.uk/sam-GB500007VM.m3u8
 #EXTINF:-1 channel-id="GBBC400000345" tvg-id="GBBC400000345" tvg-chno="4009" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Festive Hub
 https://jmp2.uk/sam-GBBC400000345.m3u8
-#EXTINF:-1 channel-id="GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4003" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FIFA+
+#EXTINF:-1 channel-id="GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4631" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FIFA+
 https://jmp2.uk/sam-GBBD1100008YW.m3u8
+#EXTINF:-1 channel-id="GB3800009F0" tvg-id="GB3800009F0" tvg-chno="4647" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FIFA+ Women
+https://jmp2.uk/sam-GB3800009F0.m3u8
 #EXTINF:-1 channel-id="GB2200001N2" tvg-id="GB2200001N2" tvg-chno="4218" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fireplace Vibes
 https://jmp2.uk/sam-GB2200001N2.m3u8
 #EXTINF:-1 channel-id="GB2700010NQ" tvg-id="GB2700010NQ" tvg-chno="4094" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Flipping Nation
@@ -279,7 +281,7 @@ https://jmp2.uk/sam-GBAK3504522A.m3u8
 https://jmp2.uk/sam-GB700004ET.m3u8
 #EXTINF:-1 channel-id="GBBD2500002QC" tvg-id="GBBD2500002QC" tvg-chno="4108" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Pointless UK: 'Powered by Banijay'
 https://jmp2.uk/sam-GBBD2500002QC.m3u8
-#EXTINF:-1 channel-id="GB280000829" tvg-id="GB280000829" tvg-chno="4236" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Poldark
+#EXTINF:-1 channel-id="GB280000829" tvg-id="GB280000829" tvg-chno="4002" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Poldark
 https://jmp2.uk/sam-GB280000829.m3u8
 #EXTINF:-1 channel-id="GBBC430000128" tvg-id="GBBC430000128" tvg-chno="4799" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",POP
 https://jmp2.uk/sam-GBBC430000128.m3u8
@@ -369,7 +371,7 @@ https://jmp2.uk/sam-GB2000010ML.m3u8
 https://jmp2.uk/sam-GB700006X7.m3u8
 #EXTINF:-1 channel-id="GB1100001EB" tvg-id="GB1100001EB" tvg-chno="4142" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Diary Of A CEO
 https://jmp2.uk/sam-GB1100001EB.m3u8
-#EXTINF:-1 channel-id="GB4000027F" tvg-id="GB4000027F" tvg-chno="4002" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Graham Norton Show
+#EXTINF:-1 channel-id="GB4000027F" tvg-id="GB4000027F" tvg-chno="4136" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Graham Norton Show
 https://jmp2.uk/sam-GB4000027F.m3u8
 #EXTINF:-1 channel-id="GB200000940" tvg-id="GB200000940" tvg-chno="4360" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Hotel Inspector
 https://jmp2.uk/sam-GB200000940.m3u8
@@ -377,6 +379,8 @@ https://jmp2.uk/sam-GB200000940.m3u8
 https://jmp2.uk/sam-GBBC4000002H3.m3u8
 #EXTINF:-1 channel-id="GBBC4300005AL" tvg-id="GBBC4300005AL" tvg-chno="4802" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The LEGO Channel
 https://jmp2.uk/sam-GBBC4300005AL.m3u8
+#EXTINF:-1 channel-id="GB3600002EB" tvg-id="GB3600002EB" tvg-chno="4068" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Osbournes
+https://jmp2.uk/sam-GB3600002EB.m3u8
 #EXTINF:-1 channel-id="GBAJ40003481" tvg-id="GBAJ40003481" tvg-chno="4171" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Pet Collective
 https://jmp2.uk/sam-GBAJ40003481.m3u8
 #EXTINF:-1 channel-id="GBBC900004G9" tvg-id="GBBC900004G9" tvg-chno="4352" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wicked Tuna Channel
@@ -411,6 +415,8 @@ https://jmp2.uk/sam-GB3700009AO.m3u8
 https://jmp2.uk/sam-GBBD1900009UD.m3u8
 #EXTINF:-1 channel-id="GBBC2100002HP" tvg-id="GBBC2100002HP" tvg-chno="4685" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Vevo '90s & '00s
 https://jmp2.uk/sam-GBBC2100002HP.m3u8
+#EXTINF:-1 channel-id="GB35000017V" tvg-id="GB35000017V" tvg-chno="4682" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Vevo Christmas
+https://jmp2.uk/sam-GB35000017V.m3u8
 #EXTINF:-1 channel-id="GBBD2300001C0" tvg-id="GBBD2300001C0" tvg-chno="4686" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Vevo Hip Hop & R&B
 https://jmp2.uk/sam-GBBD2300001C0.m3u8
 #EXTINF:-1 channel-id="GBBC19000017V" tvg-id="GBBC19000017V" tvg-chno="4683" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Vevo Pop
