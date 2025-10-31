@@ -165,20 +165,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-5ef11486d33ab9004048a1cd.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5ef11486d33ab9004048a1cd.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5ef11486d33ab9004048a1cd-fr" tvg-id="6430aa45fc3be5947780904e-5ef11486d33ab9004048a1cd" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Always Funny
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5ef11486d33ab9004048a1cd.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421-us" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Always Funny en Español
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421-au" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Always Funny en Español
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421-nz" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Always Funny en Español
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8
-#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421-mx" tvg-id="608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Always Funny en Español
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421-es" tvg-id="643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Always Funny en Español
-https://jmp2.uk/plex-643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5ef4e1b10d9ad000423c4421-ca" tvg-id="647f8d22a2fc3fadb4721685-5ef4e1b10d9ad000423c4421" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Always Funny en Español
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5ef4e1b10d9ad000423c4421.m3u8
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5ef4e1b10d9ad000423c4421-fr" tvg-id="6430aa45fc3be5947780904e-5ef4e1b10d9ad000423c4421" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Always Funny en Español
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-5ef4e1b10d9ad000423c4421.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6838eb6a38304666c89d4e3d-us" tvg-id="5e20b730f2f8d5003d739db7-6838eb6a38304666c89d4e3d" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Amasian TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6838eb6a38304666c89d4e3d.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6838eb6a38304666c89d4e3d-ca" tvg-id="647f8d22a2fc3fadb4721685-6838eb6a38304666c89d4e3d" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Amasian TV
@@ -201,6 +187,10 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6876f9be20555588ef322221.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64879f0908027d8957214048.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68161fa001a9a5584ff27e96-us" tvg-id="5e20b730f2f8d5003d739db7-68161fa001a9a5584ff27e96" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Ancient Aliens
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68161fa001a9a5584ff27e96.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68db63942be6c4ceb7947b98-au" tvg-id="5e20b730f2f8d5003d739db7-68db63942be6c4ceb7947b98" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Andromeda
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db63942be6c4ceb7947b98.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68db63942be6c4ceb7947b98-nz" tvg-id="5e20b730f2f8d5003d739db7-68db63942be6c4ceb7947b98" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Andromeda
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db63942be6c4ceb7947b98.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647-mx" tvg-id="608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Andromeda
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-656236cc5dbccec83a87b647-es" tvg-id="643054b1fc3be59477853717-656236cc5dbccec83a87b647" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Andromeda
@@ -595,10 +585,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65623e0eb7d737841f30a4ff.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-65623e0eb7d737841f30a4ff-es" tvg-id="643054b1fc3be59477853717-65623e0eb7d737841f30a4ff" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cheaters en Español
 https://jmp2.uk/plex-643054b1fc3be59477853717-65623e0eb7d737841f30a4ff.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af-us" tvg-id="5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cheddar
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af-ca" tvg-id="647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Cheddar
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3-us" tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Choppertown
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3-au" tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Choppertown
@@ -1405,6 +1391,8 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325-us" tvg-id="5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise True Crime
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-68e037c4c63d8255360a2cd9-ca" tvg-id="647f8d22a2fc3fadb4721685-68e037c4c63d8255360a2cd9" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise True Crime
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68e037c4c63d8255360a2cd9.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd-us" tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise Western
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05-ca" tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FilmRise Western
@@ -1427,6 +1415,10 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-62f15810a3ffe928ef806c75.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-671bf04b128bc4121f80aef1.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4d-us" tvg-id="5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4d" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Forensic Files
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4d.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68db6db222efe0c218a90a9d-au" tvg-id="5e20b730f2f8d5003d739db7-68db6db222efe0c218a90a9d" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Forensic Files
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db6db222efe0c218a90a9d.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68db6db222efe0c218a90a9d-nz" tvg-id="5e20b730f2f8d5003d739db7-68db6db222efe0c218a90a9d" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Forensic Files
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db6db222efe0c218a90a9d.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6449369f243fbe342a9c0b4d-ca" tvg-id="647f8d22a2fc3fadb4721685-6449369f243fbe342a9c0b4d" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Forensic Files
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6449369f243fbe342a9c0b4d.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6529ad9dc8221fe0db66c0b3-us" tvg-id="5e20b730f2f8d5003d739db7-6529ad9dc8221fe0db66c0b3" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fork & Flight
@@ -1763,6 +1755,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65847c56d60830ce4d4f303a.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-646c0794fb58444e4e1e2629.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e-us" tvg-id="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",HBCUGO SPORTS
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806-us" tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Heartland
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-679425abf343fe9fe16c47a7-ca" tvg-id="647f8d22a2fc3fadb4721685-679425abf343fe9fe16c47a7" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Heartland
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-679425abf343fe9fe16c47a7.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68dcb9f59beaa3a402966db8-au" tvg-id="5e20b730f2f8d5003d739db7-68dcb9f59beaa3a402966db8" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Hell's Kitchen
@@ -2497,6 +2491,10 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6196c8c01d310bf925e02615.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6196c8c01d310bf925e02615.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-6196c8c01d310bf925e02615-fr" tvg-id="6430aa45fc3be5947780904e-6196c8c01d310bf925e02615" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Music Legends
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6196c8c01d310bf925e02615.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68db66b2475aa6420c85f22a-au" tvg-id="5e20b730f2f8d5003d739db7-68db66b2475aa6420c85f22a" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mutant X
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db66b2475aa6420c85f22a.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68db66b2475aa6420c85f22a-nz" tvg-id="5e20b730f2f8d5003d739db7-68db66b2475aa6420c85f22a" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mutant X
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db66b2475aa6420c85f22a.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649-mx" tvg-id="608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mutant X
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-656237c55dbccec83a87b649-es" tvg-id="643054b1fc3be59477853717-656237c55dbccec83a87b649" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Mutant X
@@ -3989,6 +3987,20 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6623c335ed4918437ed56ec0.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6623c335ed4918437ed56ec0.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6623c335ed4918437ed56ec0-ca" tvg-id="647f8d22a2fc3fadb4721685-6623c335ed4918437ed56ec0" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wicked Tuna Channel
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6623c335ed4918437ed56ec0.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2-us" tvg-id="5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wiggles
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2-au" tvg-id="5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wiggles
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2-nz" tvg-id="5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wiggles
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2.m3u8
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-68e0371d8bbd79d66c631ab2-mx" tvg-id="608049aefa2b8ae93c2c3a63-68e0371d8bbd79d66c631ab2" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wiggles
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-68e0371d8bbd79d66c631ab2.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-68e0371d8bbd79d66c631ab2-es" tvg-id="643054b1fc3be59477853717-68e0371d8bbd79d66c631ab2" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wiggles
+https://jmp2.uk/plex-643054b1fc3be59477853717-68e0371d8bbd79d66c631ab2.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-68e0371d8bbd79d66c631ab2-ca" tvg-id="647f8d22a2fc3fadb4721685-68e0371d8bbd79d66c631ab2" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wiggles
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68e0371d8bbd79d66c631ab2.m3u8
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2-fr" tvg-id="6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The Wiggles
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f-us" tvg-id="5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The World Poker Tour
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-656fa24bdbcce28c3a417415-us" tvg-id="5e20b730f2f8d5003d739db7-656fa24bdbcce28c3a417415" tvg-chno="" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",The World Poker Tour
