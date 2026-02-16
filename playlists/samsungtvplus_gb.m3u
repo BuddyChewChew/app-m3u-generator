@@ -777,6 +777,218 @@ https://streamunoapp.com:3958/live/cibaenatvlive.m3u8?checkedby:iptvcat.com
 http://190.110.36.254:80/COLORVISION/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Vision (720p)
 http://190.110.36.254/COLORVISION/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV Cotui Canal 31 (1080p) [Not 24/7]
+#EXTINF:0,Tele Dominicana TV (720p)
+#EXTINF:0,Tele Antillas (480p)
+
+#EXTINF:0,CBS News Bay Area (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
+#EXTINF:0,CBS News Boston (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:0,CBS News Chicago (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:0,CBS News Colorado (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:0,CBS News Detroit (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:0,CBS News Los Angeles (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:0,CBS News Miami
+#EXTVLCOPT:network-caching=1000
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cdc8fdb05d2b0007ef5035/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=80e636fe-de74-416d-a020-379a7190ccaf
+#EXTINF:0,CBS News Miami (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:0,CBS News Minnesota (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+#EXTINF:0,CBS News New York (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:0,CBS News Philadelphia
+#EXTVLCOPT:network-caching=1000
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=454d5563-56d9-47ef-8298-2b11599a3515
+#EXTINF:0,CBS News Philadelphia (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+#EXTINF:0,CBS News Pittsburgh (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+#EXTINF:0,CBS News Sacramento (720p)
+#EXTVLCOPT:network-caching=1000
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
+#EXTINF:0,WBTV At the Movies [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
+#EXTINF:0,WBTV Chasing Criminals [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/2bbace1f-ef14-4f1d-84f3-4fa07e4cf498/playlist.m3u8
+#EXTINF:0,WBTV Classic Cinema [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8
+#EXTINF:0,WBTV Crime scenes [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/f825d887-cd89-4520-9960-699bb3ef076d/playlist.m3u8
+#EXTINF:0,WBTV Family Faves [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/39524910-cb76-47bb-bd3b-1ab8676f0981/playlist.m3u8
+#EXTINF:0,WBTV Family Unscripted [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/f451ef60-2bf2-4f54-8833-5e3495b7ea16/playlist.m3u8
+#EXTINF:0,WBTV Generation Drama [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/a8250c51-f628-4936-97cb-67a931d2d7d8/playlist.m3u8
+#EXTINF:0,WBTV Ghosts are Real [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/0893a942-6252-4604-9e43-147c920a3250/playlist.m3u8
+#EXTINF:0,WBTV HBO Boxing (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
+#EXTINF:0,WBTV How To [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/8ca40844-aba2-49f8-a58c-37e5597b170e/playlist.m3u8
+#EXTINF:0,WBTV In The Garage [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/2fe3d2d3-5dca-4da5-999f-4fcc54f4a34b/playlist.m3u8
+#EXTINF:0,WBTV Living With Evil [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/963f4a88-fe30-44f7-ae20-09a08eeb7cf7/playlist.m3u8
+#EXTINF:0,WBTV Love & Desire [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/d25f9356-8a66-41fb-826d-3545848cfec8/playlist.m3u8
+#EXTINF:0,WBTV Love and Marriage [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/550da437-5c67-44a3-a95e-a897fc7d6612/playlist.m3u8
+#EXTINF:0,WBTV Mysterious Worlds [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-8651180ca7ff/playlist.m3u8
+#EXTINF:0,WBTV Nikita [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/69aad4c1-9bb9-49db-9b2a-f8b26a7c3582/playlist.m3u8
+#EXTINF:0,WBTV Paws and Claws [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/29c0f72f-e546-4599-a7d5-ad1c2928d531/playlist.m3u8
+#EXTINF:0,WBTV Sweet Escapes [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/7b765297-03ed-4d4a-90d7-3879e776c938/playlist.m3u8
+#EXTINF:0,WBTV The FBI [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/0e9b3dc6-8b19-4854-b0d1-df85b9ffa282/playlist.m3u8
+#EXTINF:0,WBTV Travel and Adventure [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/399519f7-b848-4c8e-aaac-884546a1d916/playlist.m3u8
+#EXTINF:0,WBTV Unique Lives [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/5602f3d6-c62c-4109-8de7-b7d2434ab63b/playlist.m3u8
+#EXTINF:0,WBTV Watchlist [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/b399c32f-0c5f-4609-a2f2-94a773397b44/playlist.m3u8
+#EXTINF:0,WBTV Welcome Home [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/edb986fe-9600-4f83-8b6d-8593986f2f3a/playlist.m3u8
+#EXTINF:0,WBTV-DT1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8
+#EXTINF:0,WBZ CBS (Boston MA)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/MA_BOSTON_CBS/mpegts
+#EXTINF:0,WCAU NBC (Philadelphia PA)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8
+#EXTINF:0,WCBI (Columbus MI) (720p)
+#EXTVLCOPT:network-caching=1000
+https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
+#EXTINF:0,WCBS-DT1 (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tvpass.org/live/WCBSDT1/hd
+#EXTINF:0,WCCA 194 Worcester MA (WCCA-TV) (480p)
+#EXTVLCOPT:network-caching=1000
+https://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0,WCCO CBS (Minneapolis MN)
+#EXTVLCOPT:network-caching=1000
+https://fl2.moveonjoy.com/MN_MINNEAPOLIS_CBS/mpegts
+#EXTINF:0,WCGtv Public (720p)
+#EXTVLCOPT:network-caching=1000
+https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
+#EXTINF:0,WCJB ABC (Gainesville FL)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/FL_GAINESVILLE_ABC/index.m3u8
+#EXTINF:0,WCOT 13 (Tallahassee FL) (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
+#EXTINF:0,WCVB ABC (Boston MA)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/MA_BOSTON_ABC/index.m3u8
+#EXTINF:0,WDAF-DT1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:0,WDAF-DT2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+#EXTINF:0,WDBD FOX (Jackson MS)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/MS_JACKSON_FOX/index.m3u8
+#EXTINF:0,We TV East
+#EXTVLCOPT:network-caching=1000
+http://fl12.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:0,WFOR CBS (Miami FL)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/FL_Miami_CBS/index.m3u8
+#EXTINF:0,WFOX FOX (Jacksonville FL)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/FL_Jacksonville_FOX/index.m3u8
+#EXTINF:0,WFTS-DT1
+#EXTVLCOPT:network-caching=1000
+https://fl2.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:0,WFTT-DT1
+#EXTVLCOPT:network-caching=1000
+https://stream-tampa.scientology.org/master.m3u8
+#EXTINF:0,WFTX News Fort Myers FL (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:0,WGXA CBS (Macon GA)
+
+#EXTINF:0,WFUT-DT1 (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+#EXTINF:0,WFXG FOX (Augusta GA)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/GA_AUGUSTA_FOX/index.m3u8
+#EXTINF:0,WFXR FOX (Roanoke VA)
+#EXTVLCOPT:network-caching=1000
+https://fl2.moveonjoy.com/VA_Roanoke_FOX/mpegts
+#EXTINF:0,WFXT-DT2 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:0,WGCL CBS (Atlanta GA)
+
+#EXTINF:0,WDEF-TV News Chattanooga TN (720p)
+#EXTVLCOPT:network-caching=1000
+https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
+#EXTINF:0,WDFX FOX (Dothan AL)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/AL_DOTHAN_FOX/index.m3u8
+#EXTINF:0,WDIV NBC (Detroit MI)
+#EXTVLCOPT:network-caching=1000
+https://fl2.moveonjoy.com/MI_Detroit_NBC/index.m3u8
+
+#EXTINF:0,CBS News Texas
+#EXTVLCOPT:network-caching=1000
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ff653e65-be11-4974-91b2-8d50894ca645
+#EXTINF:0,CBS News Texas (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:0,CBS Sports Golazo Network
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:0,CBS Sports HQ
+
 #EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Visión (720p) [Not 24/7]
 http://paz.sytes.net:32769/memfs/6aa68aa7-49e0-427c-be37-d60daecb939f.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Visión (720p) [Not 24/7]
