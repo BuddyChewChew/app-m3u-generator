@@ -1,14 +1,230 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz"
-#EXTINF:-1 channel-id="GB3700007OZ" tvg-id="GB3700007OZ" tvg-chno="4245" tvg-name="&TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20250624T021650SQUARE.png" group-title="TV Series",&TV
-https://jmp2.uk/stvp-GB3700007OZ
+#EXTM3U
+#EXTINF:25,48 Hours
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176f39e709f160007ec61c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263250-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c0b95c9-8da8-4149-8f7a-ba568202266f&checkedby:iptvcat.com
+#EXTINF:94,A&E East (360p)
+https://tvpass.org/live/AEEast/sd?checkedby:iptvcat.com
+#EXTINF:21,ABC
+http://41.205.93.154/ABC/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ABC (WPLG) (480p)
+https://tx1.nexgen.bz/ABC/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ABC 28 Tampa Bay FL (WFTS) (720p)
+https://livetv-fa.tubi.video/wfts2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ABC 9 Charlotte NC (WSOC) (720p)
+https://lnc-wsoc.tubi.video/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ABC 9 Orlando FL (WFTV) (720p)
+https://lnc-wftv.tubi.video/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AMC East (1080p)
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AccuWeather Now (1080p) [Geo-blocked]
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,All Reality by WE tv
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268071-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa6a05a1-3247-4bc5-bd09-5c548c69aecb&checkedby:iptvcat.com
+#EXTINF:0,BET East
+https://fl3.moveonjoy.com/BET_EAST/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Badass novelas
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce95-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0a75436-d4f4-4f52-87e2-442141b131c8&checkedby:iptvcat.com
+#EXTINF:0,Black Cinema
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Black Throwbacks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61326275b3c86a00078e4833/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16224f18-2a57-4fa3-bf6a-994524fcf480&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Bounce
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bravo East
+https://fl3.moveonjoy.com/BRAVO/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bravo East
+https://fl1.moveonjoy.com/BRAVO/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CBS East (720p)
+https://fl3.moveonjoy.com/CBS_News/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CBS News Miami
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb299b79498900070b29e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f5951e3-be83-4440-8784-62a52e09b81b&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,CNN HEADLINES
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280714-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=094d5321-1bd1-4a68-84aa-0a3f4fef2e25&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,COPS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=61a222b5-87a2-410f-a84b-7319bf133c3a&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Caribbean World Channel
+https://vse2-eu-all7.secdn.net/tvsw4-chorigin/play/prod-1e7b0eabb35d4d0a9138f377fd013d96/chunklist_sess835370874.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Charlotte County CC-TV (Charlotte County FA) (720p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Cine Estrella (1080p)
+https://livetv-fa.tubi.video/cine-estrella/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Cine Clásico
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Court TV
+https://fl3.moveonjoy.com/COURT_TV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,E! East
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,E! East
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FOX 13 Tampa Bay FL (WTVT) (720p)
+https://livetv-fa.tubi.video/wtvt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FOX 35 Orlando FL (WOFL) (720p)
+https://livetv-fa.tubi.video/wofl/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FOX 5 New York NY (WNYW) (720p)
+https://livetv-fa.tubi.video/wnyw/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FX East
+https://fl1.moveonjoy.com/FX/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FYI East
+https://fl3.moveonjoy.com/FYI/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FXX East (720p)
+http://fl2.moveonjoy.com/FXX/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Family Ties
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2d96a4ae-0762-4da9-b4eb-3198467ed4a1&checkedby:iptvcat.com
+#EXTINF:0,Galavision
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8?checkedby:iptvcat.com
+#EXTINF:0,HBO 2 East (720p)
+https://fl2.moveonjoy.com/HBO_2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,I Love Lucy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f3011f4fff20007431641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f96-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1eac761-1c3c-4db5-a99d-ca830bcc95eb&checkedby:iptvcat.com
+#EXTINF:0,Jersey Shore
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609bfa51fbecc1000733152e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53c01b5-86bc-43d2-afd7-b739724c937c&checkedby:iptvcat.com
+#EXTINF:0,Lifetime East
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Lifetime Movies East
+https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Live Music
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24f8b91f-0237-469f-a450-a4f94a1f5b92&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Love & Hip Hop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e11538a9-9480-4566-aae4-83bfe5898920&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,MSNBC (720p)
+http://41.205.93.154/MSNBC/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MTV Biggest Pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c&checkedby:iptvcat.com
+#EXTINF:0,MTV Dating
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5ae0ea87-0212-4457-893b-bd236028e5de&checkedby:iptvcat.com
+#EXTINF:0,MTV East
+https://fl3.moveonjoy.com/MTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MTV Flow Latino
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=56382db3-6b4e-4882-a137-5d56dc5478e5&checkedby:iptvcat.com
+#EXTINF:0,MTV2 East
+https://fl3.moveonjoy.com/MTV_2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MeTV
+https://fl1.moveonjoy.com/ME_TV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Movie Favorites By Lifetime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16&checkedby:iptvcat.com
+#EXTINF:0,Movies! (480p)
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NBC 2 Orlando FL (WESH) (720p)
+https://livetv-fa.tubi.video/wesh/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NBC 4 Greenville SC (WYFF) (720p)
+https://livetv-fa.tubi.video/wyff/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NBC 4 New York NY (WNBC) [Geo-blocked]
+https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NBC 6 Miami FL (WTVJ) [Geo-blocked]
+https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NBCU Telemundo Florida
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NY en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285536-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fe6859ac-2fe0-4cfe-aa7f-b5f343d25841&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,National Geographic HD East (720p)
+https://tvpass.org/live/NationalGeographicEast/hd?checkedby:iptvcat.com
+#EXTINF:0,Oxygen East
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Paramount Movie Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Pranks & Fails (720p)
+https://linear-863.frequency.stream/dist/stirr/863/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Real Housewives Vault
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549316d2c1d330008631496/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b627a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=848484a3-f7c4-4cf7-a5dc-4fc9d5658a8e&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Showtime 2 East
+https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Showtime Extreme East
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Showtime West (1080p)
+https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Showtime Women East
+https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sony Canal Novelas (1080p)
+https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Stand-Up TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33a4d320-29a2-4c88-9bcb-84a407b88251&checkedby:iptvcat.com
+#EXTINF:0,Star Trek 2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Starz East
+https://fl3.moveonjoy.com/STARZ/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Starz Comedy East
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Starz Encore Classic East
+https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sundance TV East
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Survivor
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d8ecd073-183e-48e4-a98b-a1be120de05a&checkedby:iptvcat.com
+#EXTINF:0,Syfy East
+http://fl2.moveonjoy.com/SYFY/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TMZ (720p)
+https://livetv-fa.tubi.video/tmz/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV One
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Telemundo Noticias Noreste
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8b9d8440-9f8c-48af-b204-866c8629d07f&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,The Challenge
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f083f2f4-9b3a-4ea6-b138-51d7f23ebde9&checkedby:iptvcat.com
+#EXTINF:0,Three's Company
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ef3977e5d773400077de284/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=783c6417-7359-42c8-af71-bebb9ae0e7b6&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Tiny House Nation (1080p)
+https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,USA Network (720p)
+http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,UniMás East
+https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Universal Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4af3fb3-c7bd-419b-a2e3-da5c4363586a&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Universal Comedy (480p)
+http://190.2.212.209:8050/play/a0q4?checkedby:iptvcat.com
+#EXTINF:0,Universal Crime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc200-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8ea05b6-c631-4463-8491-a4394e906d3c&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Univision East
+https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,VH1 East
+https://fl3.moveonjoy.com/VH1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Vevo '80s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42&checkedby:iptvcat.com
+#EXTINF:0,Vevo '90s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1&checkedby:iptvcat.com
+#EXTINF:0,Vevo Latino
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb&checkedby:iptvcat.com
+#EXTINF:0,Vevo R&B
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6d8e13af63d0008278715/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce914-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b303005a-9948-4dcf-9591-1e047fa47b4d&checkedby:iptvcat.com
+#EXTINF:0,WAPA-DT1 (WAPA-TV) (1080p)
+https://live.field59.com/wapa/wapa1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,WBTV Love and Marriage [Geo-blocked]
+https://lnc-wbd-love-marriage.tubi.video/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,WeatherNation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,We TV East
+https://fl1.moveonjoy.com/WE_TV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Antena 7
+https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CDN (480p)
+http://38.159.227.126:8000/play/a05d/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Cinevision Canal 19 (720p)
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Color Vision (720p)
+http://190.110.36.254:80/COLORVISION/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,De Ultimo Minuto TV
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Digital 15 (480p)
+https://glb.bozztv.com/glb/ssh101/0015/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Santiago TV (720p)
+http://cdn.santiagotv.net:3228/live/santiagotvlive.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Big Brother Canada
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f30c19d5ac4000816e9b3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a43-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7100d07b-f28e-45b2-a51d-6e87563b3fba&checkedby:iptvcat.com
+#EXTINF:0,WJPX-DT1
+https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951140&checkedby:iptvcat.com
+#EXTINF:0,TeleOnce (1080p)
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Converting https://lnc-wsoc.tubi.video/playlist.m3u8?checkedby:iptvcat.com
+https://lnc-wsoc.tubi.video/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 channel-id="GBAK3504500A" tvg-id="GBAK3504500A" tvg-chno="4341" tvg-name="5 Cops" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20250107T022508SQUARE.png" group-title="Documentaries",5 Cops
 https://jmp2.uk/stvp-GBAK3504500A
-#EXTINF:-1 channel-id="GBAK3504501A" tvg-id="GBAK3504501A" tvg-chno="4342" tvg-name="5 Exploring Britain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504501A_20250107T022511SQUARE.png" group-title="Documentaries",5 Exploring Britain
-https://jmp2.uk/stvp-GBAK3504501A
-#EXTINF:-1 channel-id="GB1800002FA" tvg-id="GB1800002FA" tvg-chno="4158" tvg-name="8 Out Of 10 Cats" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800002FA_20250211T013901SQUARE.png" group-title="Entertainment",8 Out Of 10 Cats
-https://jmp2.uk/stvp-GB1800002FA
-#EXTINF:-1 channel-id="GB60000381" tvg-id="GB60000381" tvg-chno="4003" tvg-name="A New Life In The Sun" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000381_20260210T040013SQUARE.png" group-title="Reality",A New Life In The Sun
-https://jmp2.uk/stvp-GB60000381
 #EXTINF:-1 channel-id="GB2600015OS" tvg-id="GB2600015OS" tvg-chno="4999" tvg-name="Action Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20240924T050854SQUARE.png" group-title="Movies",Action Movies - Rakuten TV
 https://jmp2.uk/stvp-GB2600015OS
 #EXTINF:-1 channel-id="GBBC900015D3" tvg-id="GBBC900015D3" tvg-chno="4488" tvg-name="Adventure Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20250107T022812SQUARE.png" group-title="Nature",Adventure Earth
@@ -17,26 +233,6 @@ https://jmp2.uk/stvp-GBBC900015D3
 https://jmp2.uk/stvp-GB2300005ML
 #EXTINF:-1 channel-id="GB2000955S" tvg-id="GB2000955S" tvg-chno="4073" tvg-name="AMC Cupid" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2000955S_20260210T040016SQUARE.png" group-title="Reality",AMC Cupid
 https://jmp2.uk/stvp-GB2000955S
-#EXTINF:-1 channel-id="GB200096O2" tvg-id="GB200096O2" tvg-chno="4072" tvg-name="AMC Reality" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200096O2_20260210T040020SQUARE.png" group-title="Reality",AMC Reality
-https://jmp2.uk/stvp-GB200096O2
-#EXTINF:-1 channel-id="GBBC2300002GG" tvg-id="GBBC2300002GG" tvg-chno="4064" tvg-name="America's Got Talent" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20251013T054248SQUARE.png" group-title="Reality",America's Got Talent
-https://jmp2.uk/stvp-GBBC2300002GG
-#EXTINF:-1 channel-id="GBBC2300001X5" tvg-id="GBBC2300001X5" tvg-chno="4001" tvg-name="American Idol" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260127T040318SQUARE.png" group-title="Reality",American Idol
-https://jmp2.uk/stvp-GBBC2300001X5
-#EXTINF:-1 channel-id="GB3000387J" tvg-id="GB3000387J" tvg-chno="4088" tvg-name="Antiques Road Trip" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000387J_20251013T054251SQUARE.png" group-title="Reality",Antiques Road Trip
-https://jmp2.uk/stvp-GB3000387J
-#EXTINF:-1 channel-id="GBBB1600006RS" tvg-id="GBBB1600006RS" tvg-chno="4166" tvg-name="Are We There Yet?" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600006RS_20250107T022522SQUARE.png" group-title="Entertainment",Are We There Yet?
-https://jmp2.uk/stvp-GBBB1600006RS
-#EXTINF:-1 channel-id="GB2700016H5" tvg-id="GB2700016H5" tvg-chno="4040" tvg-name="Artist of the Year" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700016H5_20251013T054254SQUARE.png" group-title="Entertainment",Artist of the Year
-https://jmp2.uk/stvp-GB2700016H5
-#EXTINF:-1 channel-id="GB3200005SO" tvg-id="GB3200005SO" tvg-chno="4418" tvg-name="Autentic History" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3200005SO_20251013T054257SQUARE.png" group-title="Documentaries",Autentic History
-https://jmp2.uk/stvp-GB3200005SO
-#EXTINF:-1 channel-id="GB3200006AZ" tvg-id="GB3200006AZ" tvg-chno="4524" tvg-name="Autentic Travel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3200006AZ_20251111T012215SQUARE.png" group-title="Food & Travel",Autentic Travel
-https://jmp2.uk/stvp-GB3200006AZ
-#EXTINF:-1 channel-id="GB2700011DR" tvg-id="GB2700011DR" tvg-chno="4354" tvg-name="Ax Men" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700011DR_20250107T031058SQUARE.png" group-title="Documentaries",Ax Men
-https://jmp2.uk/stvp-GB2700011DR
-#EXTINF:-1 channel-id="GB1700005U8" tvg-id="GB1700005U8" tvg-chno="4774" tvg-name="BABY SHARK TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1700005U8_20251013T054301SQUARE.png" group-title="Kids",BABY SHARK TV
-https://jmp2.uk/stvp-GB1700005U8
 #EXTINF:-1 channel-id="GB37000128Y" tvg-id="GB37000128Y" tvg-chno="4305" tvg-name="Bloodline Detectives" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000128Y_20251111T012218SQUARE.png" group-title="Crime",Bloodline Detectives
 https://jmp2.uk/stvp-GB37000128Y
 #EXTINF:-1 channel-id="GBBA3300033C2" tvg-id="GBBA3300033C2" tvg-chno="4572" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300033C2_20250107T022527SQUARE.png" group-title="News",Bloomberg TV+
@@ -81,22 +277,6 @@ https://jmp2.uk/stvp-GB1400001E4
 https://jmp2.uk/stvp-GBBD3700001AB
 #EXTINF:-1 channel-id="GBBD30000038U" tvg-id="GBBD30000038U" tvg-chno="4610" tvg-name="DAZN Ringside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD30000038U_20250107T030621SQUARE.png" group-title="Sport",DAZN Ringside
 https://jmp2.uk/stvp-GBBD30000038U
-#EXTINF:-1 channel-id="GB4900001NW" tvg-id="GB4900001NW" tvg-chno="4295" tvg-name="Deadly Women: powered by Banijay" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4900001NW_20250811T172507SQUARE.png" group-title="Crime",Deadly Women: powered by Banijay
-https://jmp2.uk/stvp-GB4900001NW
-#EXTINF:-1 channel-id="GB12000037Y" tvg-id="GB12000037Y" tvg-chno="4091" tvg-name="Deal Masters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000037Y_20251013T054320SQUARE.png" group-title="Reality",Deal Masters
-https://jmp2.uk/stvp-GB12000037Y
-#EXTINF:-1 channel-id="GBBB38000068U" tvg-id="GBBB38000068U" tvg-chno="4118" tvg-name="Deal or No Deal US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB38000068U_20250617T031624SQUARE.png" group-title="Entertainment",Deal or No Deal US
-https://jmp2.uk/stvp-GBBB38000068U
-#EXTINF:-1 channel-id="GBBD3000004VR" tvg-id="GBBD3000004VR" tvg-chno="4744" tvg-name="Def Jam" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20250107T030629SQUARE.png" group-title="Music",Def Jam
-https://jmp2.uk/stvp-GBBD3000004VR
-#EXTINF:-1 channel-id="GB900005KI" tvg-id="GB900005KI" tvg-chno="4240" tvg-name="Demand Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900005KI_20250708T031725SQUARE.png" group-title="TV Series",Demand Drama
-https://jmp2.uk/stvp-GB900005KI
-#EXTINF:-1 channel-id="GB2400008GK" tvg-id="GB2400008GK" tvg-chno="4808" tvg-name="Dennis and Gnasher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400008GK_20251016T040107SQUARE.png" group-title="Kids",Dennis and Gnasher
-https://jmp2.uk/stvp-GB2400008GK
-#EXTINF:-1 channel-id="GB26000118T" tvg-id="GB26000118T" tvg-chno="4633" tvg-name="DFB Play TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB26000118T_20251230T031136SQUARE.png" group-title="Sport",DFB Play TV
-https://jmp2.uk/stvp-GB26000118T
-#EXTINF:-1 channel-id="GB3600003B3" tvg-id="GB3600003B3" tvg-chno="4157" tvg-name="Dhar Mann TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600003B3_20251013T054327SQUARE.png" group-title="Entertainment",Dhar Mann TV
-https://jmp2.uk/stvp-GB3600003B3
 #EXTINF:-1 channel-id="GB27000069E" tvg-id="GB27000069E" tvg-chno="4355" tvg-name="Dog The Bounty Hunter" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB27000069E_20250107T030634SQUARE.png" group-title="Documentaries",Dog The Bounty Hunter
 https://jmp2.uk/stvp-GB27000069E
 #EXTINF:-1 channel-id="GB5200001TM" tvg-id="GB5200001TM" tvg-chno="4604" tvg-name="DP World Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5200001TM_20250205T021308SQUARE.png" group-title="Sport",DP World Tour
@@ -111,16 +291,6 @@ https://jmp2.uk/stvp-GB1300001RX
 https://jmp2.uk/stvp-GBBD3200001E2
 #EXTINF:-1 channel-id="GB270001538" tvg-id="GB270001538" tvg-chno="4343" tvg-name="Emergency 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB270001538_20250107T153916SQUARE.png" group-title="Documentaries",Emergency 24/7
 https://jmp2.uk/stvp-GB270001538
-#EXTINF:-1 channel-id="GBBC2300003ZQ" tvg-id="GBBC2300003ZQ" tvg-chno="4007" tvg-name="Entertainment Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20260120T031427SQUARE.png" group-title="Entertainment",Entertainment Hub
-https://jmp2.uk/stvp-GBBC2300003ZQ
-#EXTINF:-1 channel-id="GB500006EX" tvg-id="GB500006EX" tvg-chno="4085" tvg-name="Escape to the Country" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20251125T100007SQUARE.png" group-title="Reality",Escape to the Country
-https://jmp2.uk/stvp-GB500006EX
-#EXTINF:-1 channel-id="GB2600019ON" tvg-id="GB2600019ON" tvg-chno="4004" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600019ON_20250415T020939SQUARE.png" group-title="News",Euronews LIVE
-https://jmp2.uk/stvp-GB2600019ON
-#EXTINF:-1 channel-id="GB3700011PO" tvg-id="GB3700011PO" tvg-chno="4307" tvg-name="Evidence of Evil" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700011PO_20251111T012230SQUARE.png" group-title="Crime",Evidence of Evil
-https://jmp2.uk/stvp-GB3700011PO
-#EXTINF:-1 channel-id="GB2700003KS" tvg-id="GB2700003KS" tvg-chno="4481" tvg-name="Evolution Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700003KS_20250107T031117SQUARE.png" group-title="Documentaries",Evolution Earth
-https://jmp2.uk/stvp-GB2700003KS
 #EXTINF:-1 channel-id="GBAJ40003642" tvg-id="GBAJ40003642" tvg-chno="4173" tvg-name="FailArmy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ40003642_20260210T040011SQUARE.png" group-title="Entertainment",FailArmy
 https://jmp2.uk/stvp-GBAJ40003642
 #EXTINF:-1 channel-id="GB2600017PX" tvg-id="GB2600017PX" tvg-chno="4852" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20251230T031130SQUARE.png" group-title="Movies",Family - Rakuten TV
@@ -135,18 +305,12 @@ https://jmp2.uk/stvp-GB3800009F0
 https://jmp2.uk/stvp-GB2200001N2
 #EXTINF:-1 channel-id="GB2700010NQ" tvg-id="GB2700010NQ" tvg-chno="4094" tvg-name="Flipping Nation" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700010NQ_20251013T054339SQUARE.png" group-title="Reality",Flipping Nation
 https://jmp2.uk/stvp-GB2700010NQ
-#EXTINF:-1 channel-id="GBBD1100002L5" tvg-id="GBBD1100002L5" tvg-chno="4561" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20250107T030646SQUARE.png" group-title="News",FRANCE 24 FAST
-https://jmp2.uk/stvp-GBBD1100002L5
 #EXTINF:-1 channel-id="GBBB1600008R3" tvg-id="GBBB1600008R3" tvg-chno="4553" tvg-name="GB News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20250107T022831SQUARE.png" group-title="News",GB News
 https://jmp2.uk/stvp-GBBB1600008R3
 #EXTINF:-1 channel-id="GB2100002R7" tvg-id="GB2100002R7" tvg-chno="4256" tvg-name="Genie K-Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2100002R7_20250811T172932SQUARE.png" group-title="TV Series",Genie K-Drama
 https://jmp2.uk/stvp-GB2100002R7
 #EXTINF:-1 channel-id="GB21000038X" tvg-id="GB21000038X" tvg-chno="4944" tvg-name="Genie K-Movie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB21000038X_20250811T172936SQUARE.png" group-title="Movies",Genie K-Movie
 https://jmp2.uk/stvp-GB21000038X
-#EXTINF:-1 channel-id="GB2700001R6" tvg-id="GB2700001R6" tvg-chno="4424" tvg-name="Get.Factual" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700001R6_20250107T031122SQUARE.png" group-title="Documentaries",Get.Factual
-https://jmp2.uk/stvp-GB2700001R6
-#EXTINF:-1 channel-id="GB2200002CC" tvg-id="GB2200002CC" tvg-chno="4636" tvg-name="GFN Soccer TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2200002CC_20250811T172929SQUARE.png" group-title="Sport",GFN Soccer TV
-https://jmp2.uk/stvp-GB2200002CC
 #EXTINF:-1 channel-id="GB2000008XP" tvg-id="GB2000008XP" tvg-chno="4441" tvg-name="Ghost Hunters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2000008XP_20250811T172940SQUARE.png" group-title="Documentaries",Ghost Hunters
 https://jmp2.uk/stvp-GB2000008XP
 #EXTINF:-1 channel-id="GBAJ49000197P" tvg-id="GBAJ49000197P" tvg-chno="4522" tvg-name="GoUSA TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000197P_20250513T005656SQUARE.png" group-title="Food & Travel",GoUSA TV
@@ -183,14 +347,6 @@ https://jmp2.uk/stvp-GB4600001W9
 https://jmp2.uk/stvp-GB27000089Z
 #EXTINF:-1 channel-id="GB2700007YH" tvg-id="GB2700007YH" tvg-chno="4351" tvg-name="Ice Road Truckers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700007YH_20250107T031129SQUARE.png" group-title="Documentaries",Ice Road Truckers
 https://jmp2.uk/stvp-GB2700007YH
-#EXTINF:-1 channel-id="GB12000052F" tvg-id="GB12000052F" tvg-chno="4878" tvg-name="Icon Film Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000052F_20260113T032609SQUARE.png" group-title="Movies",Icon Film Channel
-https://jmp2.uk/stvp-GB12000052F
-#EXTINF:-1 channel-id="GBBD500002R4" tvg-id="GBBD500002R4" tvg-chno="4296" tvg-name="Inside Crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500002R4_20250107T030707SQUARE.png" group-title="Crime",Inside Crime
-https://jmp2.uk/stvp-GBBD500002R4
-#EXTINF:-1 channel-id="GB3900003W4" tvg-id="GB3900003W4" tvg-chno="4087" tvg-name="Inside Outside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900003W4_20251013T054345SQUARE.png" group-title="Reality",Inside Outside
-https://jmp2.uk/stvp-GB3900003W4
-#EXTINF:-1 channel-id="GB310000151" tvg-id="GB310000151" tvg-chno="4643" tvg-name="INTER 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB310000151_20251118T015428SQUARE.png" group-title="Sport",INTER 24/7
-https://jmp2.uk/stvp-GB310000151
 #EXTINF:-1 channel-id="GB2700002F7" tvg-id="GB2700002F7" tvg-chno="4363" tvg-name="Intervention" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700002F7_20250326T013517SQUARE.png" group-title="Documentaries",Intervention
 https://jmp2.uk/stvp-GB2700002F7
 #EXTINF:-1 channel-id="GB400003BM" tvg-id="GB400003BM" tvg-chno="4526" tvg-name="INTRAVEL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB400003BM_20250107T030705SQUARE.png" group-title="Food & Travel",INTRAVEL
@@ -471,3 +627,372 @@ https://jmp2.uk/stvp-GBBB3800005QO
 https://jmp2.uk/stvp-GB340000289
 #EXTINF:-1 channel-id="GBBD1100013BJ" tvg-id="GBBD1100013BJ" tvg-chno="4243" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100013BJ_20250701T033240SQUARE.png" group-title="TV Series",Zee One
 https://jmp2.uk/stvp-GBBD1100013BJ
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",ABC
+http://41.205.93.154/ABC/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 28 Tampa Bay FL (WFTS) (720p)
+https://livetv-fa.tubi.video/wfts2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Charlotte NC (WSOC) (720p)
+https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BET East
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Undefined",Bravo East
+https://fl3.moveonjoy.com/BRAVO/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Bravo East
+https://fl1.moveonjoy.com/BRAVO/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="General",CBS East (720p)
+https://fl3.moveonjoy.com/CBS_News/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb8dad98-4322-41fe-bb83-595fb6bb9006&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN HEADLINES
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280714-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=094d5321-1bd1-4a68-84aa-0a3f4fef2e25&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",COPS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=61a222b5-87a2-410f-a84b-7319bf133c3a&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Charlotte County CC-TV (Charlotte County FA) (720p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Comedy Central (720p)
+https://fl1.moveonjoy.com/Comedy_Central/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Court TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Crime 360 by A&E
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e25-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cf4fab4-d242-4d08-9427-74ba9cdd33c5&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E! East
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",E! East
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",E! East (1080p)
+https://tvpass.org/live/EEast/hd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX 13 Tampa Bay FL (WTVT) (720p)
+https://livetv-fa.tubi.video/wtvt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX 35 Orlando FL (WOFL) (720p)
+https://livetv-fa.tubi.video/wofl/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX East (WFXT) (720p)
+http://143.244.60.30/FOX_EAST/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX East
+https://fl5.moveonjoy.com/FX/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX East (720p)
+https://tvpass.org/live/FXEast/hd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FXX East
+https://fl1.moveonjoy.com/FXX/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FYI East (720p)
+https://tvpass.org/live/FYIEast/hd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fuse East (1080p)
+https://tvpass.org/live/FuseEast/hd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Galavisión East [Geo-blocked]
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 East (720p)
+https://fl2.moveonjoy.com/HBO_2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Channel East
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Movies & More
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",IFC East (1080p)
+https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",I Love Lucy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f3011f4fff20007431641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f96-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1eac761-1c3c-4db5-a99d-ca830bcc95eb&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Entertainment",ION TV East
+https://fl3.moveonjoy.com/ION_TV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SssCaj1.png" group-title="Documentary",Jersey Shore
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609bfa51fbecc1000733152e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53c01b5-86bc-43d2-afd7-b739724c937c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime East
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/rhGyebf.png" group-title="Undefined",Love & Hip Hop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11538a9-9480-4566-aae4-83bfe5898920&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MGM+ East
+https://fl1.moveonjoy.com/EPIX/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="News",MSNBC (720p)
+http://41.205.93.154/MSNBC/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV Biggest Pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV Classic (360p)
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Medical Incredible
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6565436c9d5ac4000822f552/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9c4baf85-c54e-4b52-be3a-46a8711afead&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC 2 Orlando FL (WESH) (720p)
+https://livetv-fa.tubi.video/wesh/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",NBC New York News
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Real Housewives Vault
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549316d2c1d330008631496/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b627a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=848484a3-f7c4-4cf7-a5dc-4fc9d5658a8e&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Undefined",Showtime 2 East
+https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime 2 East
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Extreme East
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Women East
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Undefined",Starz East
+https://fl3.moveonjoy.com/STARZ/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Edge East
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore East
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Survivor
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d8ecd073-183e-48e4-a98b-a1be120de05a&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Syfy East
+http://fl2.moveonjoy.com/SYFY/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TMZ (720p)
+https://livetv-fa.tubi.video/tmz/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/l0RGbRI.png" group-title="Entertainment",TNT International
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV One
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telemundo telenovelas clásicas
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Undefined",USA Network (720p)
+http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Music",VH1 East
+https://fl3.moveonjoy.com/VH1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WDAF-DT2 (720p)
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Warner Bros. TV Say Yes to the Dress
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e8342cf13100083b404c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1026-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f2a7d6f8-3ba5-4ec9-acb3-0ba652bd6b1a&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/512px-We_TV_logo_2014.svg.png" group-title="Undefined",We TV East
+https://fl1.moveonjoy.com/WE_TV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Turismo HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Digital 15 (480p)
+https://ds.tvabierta.net/memfs/82427373-dadd-4f9d-8563-14d989e8c0c8_output_0.m3u8?session=R7bGLBMPvEpe3GEEin3BVq&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Digital 15 (480p)
+http://51.81.93.29:8084/hls/d15.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Digital 15 (480p)
+http://190.123.76.22:8000/play/a02u/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",JARABACOA TV (720p)
+https://streaming.jarabacoatv.com/Jarabacoa_tv/index.fmp4.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Antena 7
+https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",CDN
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/7ed9a111-1110-47df-3bd8-85a9e0a15e3c.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",CDN Deporte (720p)
+https://fl1002.bozztv.com/ssh101/cdndeportes/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Canal 56 (720p)
+https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Cibaeña TV (720p)
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Vision (720p)
+http://190.110.36.254:80/COLORVISION/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Vision (720p)
+http://190.110.36.254/COLORVISION/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TV Cotui Canal 31 (1080p) [Not 24/7]
+#EXTINF:0,Tele Dominicana TV (720p)
+#EXTINF:0,Tele Antillas (480p)
+
+#EXTINF:0,CBS News Bay Area (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
+#EXTINF:0,CBS News Boston (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:0,CBS News Chicago (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:0,CBS News Colorado (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:0,CBS News Detroit (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:0,CBS News Los Angeles (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:0,CBS News Miami
+#EXTVLCOPT:network-caching=1000
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cdc8fdb05d2b0007ef5035/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=80e636fe-de74-416d-a020-379a7190ccaf
+#EXTINF:0,CBS News Miami (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:0,CBS News Minnesota (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+#EXTINF:0,CBS News New York (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:0,CBS News Philadelphia
+#EXTVLCOPT:network-caching=1000
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=454d5563-56d9-47ef-8298-2b11599a3515
+#EXTINF:0,CBS News Philadelphia (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+#EXTINF:0,CBS News Pittsburgh (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+#EXTINF:0,CBS News Sacramento (720p)
+#EXTVLCOPT:network-caching=1000
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
+#EXTINF:0,WBTV At the Movies [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
+#EXTINF:0,WBTV Chasing Criminals [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/2bbace1f-ef14-4f1d-84f3-4fa07e4cf498/playlist.m3u8
+#EXTINF:0,WBTV Classic Cinema [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8
+#EXTINF:0,WBTV Crime scenes [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/f825d887-cd89-4520-9960-699bb3ef076d/playlist.m3u8
+#EXTINF:0,WBTV Family Faves [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/39524910-cb76-47bb-bd3b-1ab8676f0981/playlist.m3u8
+#EXTINF:0,WBTV Family Unscripted [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/f451ef60-2bf2-4f54-8833-5e3495b7ea16/playlist.m3u8
+#EXTINF:0,WBTV Generation Drama [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/a8250c51-f628-4936-97cb-67a931d2d7d8/playlist.m3u8
+#EXTINF:0,WBTV Ghosts are Real [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/0893a942-6252-4604-9e43-147c920a3250/playlist.m3u8
+#EXTINF:0,WBTV HBO Boxing (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
+#EXTINF:0,WBTV How To [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/8ca40844-aba2-49f8-a58c-37e5597b170e/playlist.m3u8
+#EXTINF:0,WBTV In The Garage [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/2fe3d2d3-5dca-4da5-999f-4fcc54f4a34b/playlist.m3u8
+#EXTINF:0,WBTV Living With Evil [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/963f4a88-fe30-44f7-ae20-09a08eeb7cf7/playlist.m3u8
+#EXTINF:0,WBTV Love & Desire [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/d25f9356-8a66-41fb-826d-3545848cfec8/playlist.m3u8
+#EXTINF:0,WBTV Love and Marriage [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/550da437-5c67-44a3-a95e-a897fc7d6612/playlist.m3u8
+#EXTINF:0,WBTV Mysterious Worlds [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-8651180ca7ff/playlist.m3u8
+#EXTINF:0,WBTV Nikita [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/69aad4c1-9bb9-49db-9b2a-f8b26a7c3582/playlist.m3u8
+#EXTINF:0,WBTV Paws and Claws [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/29c0f72f-e546-4599-a7d5-ad1c2928d531/playlist.m3u8
+#EXTINF:0,WBTV Sweet Escapes [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/7b765297-03ed-4d4a-90d7-3879e776c938/playlist.m3u8
+#EXTINF:0,WBTV The FBI [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/0e9b3dc6-8b19-4854-b0d1-df85b9ffa282/playlist.m3u8
+#EXTINF:0,WBTV Travel and Adventure [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/399519f7-b848-4c8e-aaac-884546a1d916/playlist.m3u8
+#EXTINF:0,WBTV Unique Lives [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/5602f3d6-c62c-4109-8de7-b7d2434ab63b/playlist.m3u8
+#EXTINF:0,WBTV Watchlist [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/b399c32f-0c5f-4609-a2f2-94a773397b44/playlist.m3u8
+#EXTINF:0,WBTV Welcome Home [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/edb986fe-9600-4f83-8b6d-8593986f2f3a/playlist.m3u8
+#EXTINF:0,WBTV-DT1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8
+#EXTINF:0,WBZ CBS (Boston MA)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/MA_BOSTON_CBS/mpegts
+#EXTINF:0,WCAU NBC (Philadelphia PA)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8
+#EXTINF:0,WCBI (Columbus MI) (720p)
+#EXTVLCOPT:network-caching=1000
+https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
+#EXTINF:0,WCBS-DT1 (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tvpass.org/live/WCBSDT1/hd
+#EXTINF:0,WCCA 194 Worcester MA (WCCA-TV) (480p)
+#EXTVLCOPT:network-caching=1000
+https://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0,WCCO CBS (Minneapolis MN)
+#EXTVLCOPT:network-caching=1000
+https://fl2.moveonjoy.com/MN_MINNEAPOLIS_CBS/mpegts
+#EXTINF:0,WCGtv Public (720p)
+#EXTVLCOPT:network-caching=1000
+https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
+#EXTINF:0,WCJB ABC (Gainesville FL)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/FL_GAINESVILLE_ABC/index.m3u8
+#EXTINF:0,WCOT 13 (Tallahassee FL) (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
+#EXTINF:0,WCVB ABC (Boston MA)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/MA_BOSTON_ABC/index.m3u8
+#EXTINF:0,WDAF-DT1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:0,WDAF-DT2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+#EXTINF:0,WDBD FOX (Jackson MS)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/MS_JACKSON_FOX/index.m3u8
+#EXTINF:0,We TV East
+#EXTVLCOPT:network-caching=1000
+http://fl12.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:0,WFOR CBS (Miami FL)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/FL_Miami_CBS/index.m3u8
+#EXTINF:0,WFOX FOX (Jacksonville FL)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/FL_Jacksonville_FOX/index.m3u8
+#EXTINF:0,WFTS-DT1
+#EXTVLCOPT:network-caching=1000
+https://fl2.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:0,WFTT-DT1
+#EXTVLCOPT:network-caching=1000
+https://stream-tampa.scientology.org/master.m3u8
+#EXTINF:0,WFTX News Fort Myers FL (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:0,WGXA CBS (Macon GA)
+
+#EXTINF:0,WFUT-DT1 (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+#EXTINF:0,WFXG FOX (Augusta GA)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/GA_AUGUSTA_FOX/index.m3u8
+#EXTINF:0,WFXR FOX (Roanoke VA)
+#EXTVLCOPT:network-caching=1000
+https://fl2.moveonjoy.com/VA_Roanoke_FOX/mpegts
+#EXTINF:0,WFXT-DT2 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:0,WGCL CBS (Atlanta GA)
+
+#EXTINF:0,WDEF-TV News Chattanooga TN (720p)
+#EXTVLCOPT:network-caching=1000
+https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
+#EXTINF:0,WDFX FOX (Dothan AL)
+#EXTVLCOPT:network-caching=1000
+http://fl41.moveonjoy.com/AL_DOTHAN_FOX/index.m3u8
+#EXTINF:0,WDIV NBC (Detroit MI)
+#EXTVLCOPT:network-caching=1000
+https://fl2.moveonjoy.com/MI_Detroit_NBC/index.m3u8
+
+#EXTINF:0,CBS News Texas
+#EXTVLCOPT:network-caching=1000
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ff653e65-be11-4974-91b2-8d50894ca645
+#EXTINF:0,CBS News Texas (720p)
+#EXTVLCOPT:network-caching=1000
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:0,CBS Sports Golazo Network
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:0,CBS Sports HQ
+
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Visión (720p) [Not 24/7]
+http://paz.sytes.net:32769/memfs/6aa68aa7-49e0-427c-be37-d60daecb939f.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Visión (720p) [Not 24/7]
+http://51.81.93.29:8084/hls/colorv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Visión (720p) [Not 24/7]
+https://glb.bozztv.com/glb/ssh101/0009/index.m3u8?checkedby:iptvcat.com
+
