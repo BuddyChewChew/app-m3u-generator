@@ -1,4 +1,4 @@
-#  Pluto now requires a login. My script does not fetch that way. People are working on a fix but I don't see getting around the login issue. I could be wrong. It's a wait and see situation. If there is a walk around. I will update with the changes. If not Pluto might be done on my end. 
+## Pluto now requires a login. My script does not fetch that way. People are working on a fix but I don't see getting around the login issue. I could be wrong. It's a wait and see situation. If there is a walk around. I will update with the changes. If not Pluto might be done on my end. 
 
 
 # ⚠️ 2/25/26
