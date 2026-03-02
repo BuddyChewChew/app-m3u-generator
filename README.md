@@ -1,6 +1,8 @@
-# ⚠️ 2/28/26 
+# ⚠️ 3/1/26 
 
-Pluto now requires a login. My script does not fetch that way. People are working on a fix but I don't see getting around the login issue. I could be wrong. It's a wait and see situation. If there is a walk around. I will update with the changes. If not Pluto might be done on my end.
+Give this a try it's in the testing phase.
+
+Pluto Fix: https://github.com/BuddyChewChew/pluto
 
 
 # ⚠️ 2/25/26
