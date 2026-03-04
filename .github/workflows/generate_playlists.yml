@@ -36,21 +36,20 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
+          # Added urllib3 as it's required by your script's SSL configuration
+          pip install requests beautifulsoup4 lxml urllib3
 
       - name: Run Playlist Generation Script
         run: python generate_playlists.py
 
       - name: Fix Tubi EPG URL (The TiviMate Fix)
         run: |
-          # 1. We build the full URL to your XML file on GitHub
-          # This creates: https://raw.githubusercontent.com/USER_NAME/REPO/main/playlists/tubi_epg.xml
+          # Dynamically builds the full URL to your XML file on GitHub
           GITHUB_RAW_URL="https://raw.githubusercontent.com/${{ github.repository }}/main/playlists/tubi_epg.xml"
           
           echo "Updating M3U to use full EPG URL: $GITHUB_RAW_URL"
           
-          # 2. Use sed to replace the local filename with the full URL
-          # We use '|' as a delimiter because the URL contains slashes '/'
+          # Replace the local filename with the full URL in the M3U header
           if [ -f "playlists/tubi_all.m3u" ]; then
             sed -i "s|url-tvg=\"tubi_epg.xml\"|url-tvg=\"$GITHUB_RAW_URL\"|g" playlists/tubi_all.m3u
           fi
@@ -60,11 +59,13 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
+          mkdir -p playlists
           git add -A playlists/
           
-          # Only commit if there are changes
-          git diff --staged --quiet || git commit -m "Update Tubi playlists and fix EPG URL [skip ci]"
-          
-          git push origin main || echo "Push failed or no changes"
-
-
+          # Only commit if there are changes to avoid workflow errors
+          if [ -n "$(git status --porcelain playlists/)" ]; then
+            git commit -m "Update FAST playlists and fix Tubi EPG URL [skip ci]"
+            git push origin main
+          else
+            echo "No changes to playlists. Skipping commit."
+          fi
