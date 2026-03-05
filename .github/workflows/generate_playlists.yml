@@ -64,9 +64,10 @@ jobs:
           
           # Only commit if there are changes to avoid workflow errors
           if [ -n "$(git status --porcelain playlists/)" ]; then
-            git commit -m "✅ Update FAST playlists"
+            git commit -m "📺 Updated FAST playlists"
             git push origin main
           else
             echo "No changes to playlists. Skipping commit."
           fi
+
 
