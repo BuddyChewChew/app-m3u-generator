@@ -43,6 +43,8 @@ https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
 https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 #EXTINF:-1 channel-id="6887a8fd8e92b5e0a7244e88" tvg-id="6887a8fd8e92b5e0a7244e88" tvg-chno="1405" tvg-name="Ancient Aliens" tvg-logo="https://images.pluto.tv/channels/6887a8fd8e92b5e0a7244e88/colorLogoPNG_1753992701393.png" group-title="Reality",Ancient Aliens
 https://jmp2.uk/plu-6887a8fd8e92b5e0a7244e88.m3u8
+#EXTINF:-1 channel-id="66c638726838ee00085ac20d" tvg-id="66c638726838ee00085ac20d" tvg-chno="875" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/66c638726838ee00085ac20d/colorLogoPNG_1772843691075.png" group-title="Sci-Fi",Andromeda
+https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 #EXTINF:-1 channel-id="615b8ec39e878900073f419a" tvg-id="615b8ec39e878900073f419a" tvg-chno="3420" tvg-name="Antiques Road Trip" tvg-logo="https://images.pluto.tv/channels/615b8ec39e878900073f419a/colorLogoPNG.png" group-title="Home + Food",Antiques Road Trip
 https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8
 #EXTINF:-1 channel-id="5ce44810b421747ae467b7cd" tvg-id="5ce44810b421747ae467b7cd" tvg-chno="3410" tvg-name="Antiques Roadshow UK" tvg-logo="https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" group-title="Home + Food",Antiques Roadshow UK
@@ -477,8 +479,6 @@ https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8
 https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
 #EXTINF:-1 channel-id="5f7790b3ed0c88000720b241" tvg-id="5f7790b3ed0c88000720b241" tvg-chno="4010" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" group-title="Anime",One Piece
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
-#EXTINF:-1 channel-id="66c638726838ee00085ac20d" tvg-id="66c638726838ee00085ac20d" tvg-chno="875" tvg-name="OuterSphere" tvg-logo="https://images.pluto.tv/channels/66c638726838ee00085ac20d/colorLogoPNG.png" group-title="Sci-Fi",OuterSphere
-https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 #EXTINF:-1 channel-id="654930a8346f420008d3b0b8" tvg-id="654930a8346f420008d3b0b8" tvg-chno="1310" tvg-name="Oxygen True Crime Archives" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png" group-title="True Crime",Oxygen True Crime Archives
 https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
 #EXTINF:-1 channel-id="60d39387706fe50007fda8e8" tvg-id="60d39387706fe50007fda8e8" tvg-chno="2840" tvg-name="PBR RidePass" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="Sports",PBR RidePass
