@@ -23,7 +23,9 @@ https://jmp2.uk/stvp-FRBC4700002RF
 https://jmp2.uk/stvp-FRBD3900001QP
 #EXTINF:-1 channel-id="FRBD300000170" tvg-id="FRBD300000170" tvg-chno="4144" tvg-name="Ardivision" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD300000170_20241030T154345SQUARE.png" group-title="Divertissement",Ardivision
 https://jmp2.uk/stvp-FRBD300000170
-#EXTINF:-1 channel-id="FR3200001NQ" tvg-id="FR3200001NQ" tvg-chno="4003" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260224T030931SQUARE.png" group-title="Documentaires",BBC Earth
+#EXTINF:-1 channel-id="FR3900002FW" tvg-id="FR3900002FW" tvg-chno="4372" tvg-name="Au coeur du danger" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900002FW_20260310T031715SQUARE.png" group-title="Documentaires",Au coeur du danger
+https://jmp2.uk/stvp-FR3900002FW
+#EXTINF:-1 channel-id="FR3200001NQ" tvg-id="FR3200001NQ" tvg-chno="4489" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260310T031719SQUARE.png" group-title="Documentaires",BBC Earth
 https://jmp2.uk/stvp-FR3200001NQ
 #EXTINF:-1 channel-id="FR2900001UF" tvg-id="FR2900001UF" tvg-chno="4239" tvg-name="BBC Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2900001UF_20250916T003553SQUARE.png" group-title="Séries TV",BBC Series
 https://jmp2.uk/stvp-FR2900001UF
@@ -45,7 +47,7 @@ https://jmp2.uk/stvp-FRAJ3800010QO
 https://jmp2.uk/stvp-FR370000288
 #EXTINF:-1 channel-id="FR3700003N4" tvg-id="FR3700003N4" tvg-chno="4961" tvg-name="Box Office Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png" group-title="Cinéma",Box Office Drama
 https://jmp2.uk/stvp-FR3700003N4
-#EXTINF:-1 channel-id="FR3700001AG" tvg-id="FR3700001AG" tvg-chno="4964" tvg-name="Box Office Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20251028T011454SQUARE.png" group-title="Cinéma",Box Office Thriller
+#EXTINF:-1 channel-id="FR3700001AG" tvg-id="FR3700001AG" tvg-chno="4003" tvg-name="Box Office Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20260310T031722SQUARE.png" group-title="Cinéma",Box Office Thriller
 https://jmp2.uk/stvp-FR3700001AG
 #EXTINF:-1 channel-id="FRBA1000009KO" tvg-id="FRBA1000009KO" tvg-chno="4866" tvg-name="Brefcinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000009KO_20241106T142654SQUARE.png" group-title="Cinéma",Brefcinema
 https://jmp2.uk/stvp-FRBA1000009KO
@@ -113,13 +115,13 @@ https://jmp2.uk/stvp-FR2600002X9
 https://jmp2.uk/stvp-FR2600003OZ
 #EXTINF:-1 channel-id="FR2200002HV" tvg-id="FR2200002HV" tvg-chno="4223" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2200002HV_20251216T040612SQUARE.png" group-title="Divertissement",Fireplace Vibes
 https://jmp2.uk/stvp-FR2200002HV
-#EXTINF:-1 channel-id="FRBC800001X0" tvg-id="FRBC800001X0" tvg-chno="4006" tvg-name="Fréquence Novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20260224T030934SQUARE.png" group-title="Séries TV",Fréquence Novelas
+#EXTINF:-1 channel-id="FRBC800001X0" tvg-id="FRBC800001X0" tvg-chno="4261" tvg-name="Fréquence Novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20260310T031725SQUARE.png" group-title="Séries TV",Fréquence Novelas
 https://jmp2.uk/stvp-FRBC800001X0
 #EXTINF:-1 channel-id="FRBC4700001XG" tvg-id="FRBC4700001XG" tvg-chno="4255" tvg-name="Génération Sitcoms" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250624T021408SQUARE.png" group-title="Séries TV",Génération Sitcoms
 https://jmp2.uk/stvp-FRBC4700001XG
 #EXTINF:-1 channel-id="FR500003PJ" tvg-id="FR500003PJ" tvg-chno="4206" tvg-name="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR500003PJ_20250408T021641SQUARE.png" group-title="Divertissement",H2O & Friends
 https://jmp2.uk/stvp-FR500003PJ
-#EXTINF:-1 channel-id="FRBB49000033R" tvg-id="FRBB49000033R" tvg-chno="4297" tvg-name="Homicide" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20250902T003711SQUARE.png" group-title="Crime",Homicide
+#EXTINF:-1 channel-id="FRBB49000033R" tvg-id="FRBB49000033R" tvg-chno="4006" tvg-name="Homicide" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20260310T031729SQUARE.png" group-title="Crime",Homicide
 https://jmp2.uk/stvp-FRBB49000033R
 #EXTINF:-1 channel-id="FRAJ38000061J" tvg-id="FRAJ38000061J" tvg-chno="4825" tvg-name="iCarly" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000061J_20241106T142552SQUARE.png" group-title="Jeunesse",iCarly
 https://jmp2.uk/stvp-FRAJ38000061J
@@ -129,7 +131,7 @@ https://jmp2.uk/stvp-FR600001I2
 https://jmp2.uk/stvp-FR300032ZK
 #EXTINF:-1 channel-id="FR3700004HZ" tvg-id="FR3700004HZ" tvg-chno="4526" tvg-name="Invitation au voyage" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20251230T031040SQUARE.png" group-title="Voyages et Gastronomie",Invitation au voyage
 https://jmp2.uk/stvp-FR3700004HZ
-#EXTINF:-1 channel-id="FRBD4800001P4" tvg-id="FRBD4800001P4" tvg-chno="4001" tvg-name="J'irai dormir chez vous" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260224T030937SQUARE.png" group-title="Documentaires",J'irai dormir chez vous
+#EXTINF:-1 channel-id="FRBD4800001P4" tvg-id="FRBD4800001P4" tvg-chno="4354" tvg-name="J'irai dormir chez vous" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Documentaires",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
 #EXTINF:-1 channel-id="FR4000001TX" tvg-id="FR4000001TX" tvg-chno="4277" tvg-name="Jodha Akbar" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000001TX_20251202T002642SQUARE.png" group-title="Séries TV",Jodha Akbar
 https://jmp2.uk/stvp-FR4000001TX
@@ -145,6 +147,8 @@ https://jmp2.uk/stvp-FRBD11000038N
 https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 channel-id="FR4200001BN" tvg-id="FR4200001BN" tvg-chno="4360" tvg-name="La Maison France 5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20251209T004439SQUARE.png" group-title="Documentaires",La Maison France 5
 https://jmp2.uk/stvp-FR4200001BN
+#EXTINF:-1 channel-id="FR3900003Y7" tvg-id="FR3900003Y7" tvg-chno="4364" tvg-name="La Vie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900003Y7_20260310T031736SQUARE.png" group-title="Documentaires",La Vie
+https://jmp2.uk/stvp-FR3900003Y7
 #EXTINF:-1 channel-id="FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-chno="4559" tvg-name="Le Figaro TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC1400002JN_20241015T040333SQUARE.png" group-title="Actualités",Le Figaro TV
 https://jmp2.uk/stvp-FRBC1400002JN
 #EXTINF:-1 channel-id="FRBD1900006NA" tvg-id="FRBD1900006NA" tvg-chno="4142" tvg-name="Le meilleur d'Arthur" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900006NA_20241015T040338SQUARE.png" group-title="Divertissement",Le meilleur d'Arthur
@@ -167,14 +171,14 @@ https://jmp2.uk/stvp-FR3100005MK
 https://jmp2.uk/stvp-FRBD410000436
 #EXTINF:-1 channel-id="FRBD1900005BA" tvg-id="FRBD1900005BA" tvg-chno="4116" tvg-name="Les Z'amours" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900005BA_20260224T030943SQUARE.png" group-title="Divertissement",Les Z'amours
 https://jmp2.uk/stvp-FRBD1900005BA
-#EXTINF:-1 channel-id="FR5000001UH" tvg-id="FR5000001UH" tvg-chno="4777" tvg-name="LooLoo Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR5000001UH_20250326T013223SQUARE.png" group-title="Jeunesse",LooLoo Kids
-https://jmp2.uk/stvp-FR5000001UH
 #EXTINF:-1 channel-id="FRBD43000016D" tvg-id="FRBD43000016D" tvg-chno="4299" tvg-name="Love Crime & History" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD43000016D_20250715T004340SQUARE.png" group-title="Crime",Love Crime & History
 https://jmp2.uk/stvp-FRBD43000016D
 #EXTINF:-1 channel-id="FR38000024W" tvg-id="FR38000024W" tvg-chno="4806" tvg-name="Masha et Michka" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR38000024W_20260120T031404SQUARE.png" group-title="Jeunesse",Masha et Michka
 https://jmp2.uk/stvp-FR38000024W
 #EXTINF:-1 channel-id="FR400000413" tvg-id="FR400000413" tvg-chno="4369" tvg-name="Mayday: Catastrophe Aérienne" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR400000413_20251209T004503SQUARE.png" group-title="Documentaires",Mayday: Catastrophe Aérienne
 https://jmp2.uk/stvp-FR400000413
+#EXTINF:-1 channel-id="FR3800003N7" tvg-id="FR3800003N7" tvg-chno="4275" tvg-name="Merhaba Amour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800003N7_20260310T031740SQUARE.png" group-title="Séries TV",Merhaba Amour
+https://jmp2.uk/stvp-FR3800003N7
 #EXTINF:-1 channel-id="FRBC3900003ZH" tvg-id="FRBC3900003ZH" tvg-chno="4218" tvg-name="MGG FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20250422T045312SQUARE.png" group-title="Divertissement",MGG FAST
 https://jmp2.uk/stvp-FRBC3900003ZH
 #EXTINF:-1 channel-id="FR700002UP" tvg-id="FR700002UP" tvg-chno="4362" tvg-name="Mission Intervention" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20251202T002629SQUARE.png" group-title="Documentaires",Mission Intervention
@@ -183,7 +187,7 @@ https://jmp2.uk/stvp-FR700002UP
 https://jmp2.uk/stvp-FRBD4100013LN
 #EXTINF:-1 channel-id="FRBB490000412" tvg-id="FRBB490000412" tvg-chno="4122" tvg-name="Motus" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB490000412_20241015T042740SQUARE.png" group-title="Divertissement",Motus
 https://jmp2.uk/stvp-FRBB490000412
-#EXTINF:-1 channel-id="FR42000023H" tvg-id="FR42000023H" tvg-chno="4880" tvg-name="Moviesphere" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR42000023H_20251209T004507SQUARE.png" group-title="Cinéma",Moviesphere
+#EXTINF:-1 channel-id="FR42000023H" tvg-id="FR42000023H" tvg-chno="4001" tvg-name="Moviesphere" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR42000023H_20260310T031744SQUARE.png" group-title="Cinéma",Moviesphere
 https://jmp2.uk/stvp-FR42000023H
 #EXTINF:-1 channel-id="FR90000160" tvg-id="FR90000160" tvg-chno="4260" tvg-name="Mr Bean Animated" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20251028T011422SQUARE.png" group-title="Séries TV",Mr Bean Animated
 https://jmp2.uk/stvp-FR90000160
@@ -251,7 +255,7 @@ https://jmp2.uk/stvp-FR1800003VF
 https://jmp2.uk/stvp-FR4000002JN
 #EXTINF:-1 channel-id="FR3400002VW" tvg-id="FR3400002VW" tvg-chno="4571" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400002VW_20250624T020534SQUARE.png" group-title="Actualités",Sky News International
 https://jmp2.uk/stvp-FR3400002VW
-#EXTINF:-1 channel-id="FR1000001XP" tvg-id="FR1000001XP" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1000001XP_20260224T030946SQUARE.png" group-title="Musique",SMTOWN
+#EXTINF:-1 channel-id="FR1000001XP" tvg-id="FR1000001XP" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1000001XP_20260310T031708SQUARE.png" group-title="Musique",SMTOWN
 https://jmp2.uk/stvp-FR1000001XP
 #EXTINF:-1 channel-id="FR3000139Z" tvg-id="FR3000139Z" tvg-chno="4996" tvg-name="Sony One Action HITS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000139Z_20260224T030949SQUARE.png" group-title="Cinéma",Sony One Action HITS
 https://jmp2.uk/stvp-FR3000139Z
