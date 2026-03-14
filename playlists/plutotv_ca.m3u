@@ -203,7 +203,7 @@ https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
 #EXTINF:-1 channel-id="6541010f770cf1000866be98" tvg-id="6541010f770cf1000866be98" tvg-chno="752" tvg-name="MTV Spankin’ New" tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" group-title="Music",MTV Spankin’ New
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
-#EXTINF:-1 channel-id="66bb3212fe11e5000883ea6b" tvg-id="66bb3212fe11e5000883ea6b" tvg-chno="106" tvg-name="Married... with Children" tvg-logo="https://images.pluto.tv/channels/66bb3212fe11e5000883ea6b/colorLogoPNG.png" group-title="New on Pluto TV",Married... with Children
+#EXTINF:-1 channel-id="66bb3212fe11e5000883ea6b" tvg-id="66bb3212fe11e5000883ea6b" tvg-chno="106" tvg-name="Married... with Children" tvg-logo="https://images.pluto.tv/channels/66bb3212fe11e5000883ea6b/colorLogoPNG.png" group-title="Comedy",Married... with Children
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 #EXTINF:-1 channel-id="63da365f60bc8f0008a50f44" tvg-id="63da365f60bc8f0008a50f44" tvg-chno="202" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" group-title="Classic TV",Matlock
 https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
@@ -269,6 +269,8 @@ https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
 https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8
 #EXTINF:-1 channel-id="62ea3f8a38acc80007072d26" tvg-id="62ea3f8a38acc80007072d26" tvg-chno="55" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png" group-title="Movies",Pluto TV Horror
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
+#EXTINF:-1 channel-id="66c45c601e11410009b27011" tvg-id="66c45c601e11410009b27011" tvg-chno="600" tvg-name="Pluto TV Kids Movie Club" tvg-logo="https://images.pluto.tv/channels/66c45c601e11410009b27011/colorLogoPNG_1732013077175.png" group-title="Kids",Pluto TV Kids Movie Club
+https://jmp2.uk/plu-66c45c601e11410009b27011.m3u8
 #EXTINF:-1 channel-id="62e92a58f3e4290007290c96" tvg-id="62e92a58f3e4290007290c96" tvg-chno="292" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="Paranormal",Pluto TV Paranormal
 https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
 #EXTINF:-1 channel-id="67922858b83355184c699699" tvg-id="67922858b83355184c699699" tvg-chno="466" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png" group-title="Reality",Pluto TV Reality
