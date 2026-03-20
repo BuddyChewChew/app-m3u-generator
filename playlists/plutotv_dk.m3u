@@ -61,7 +61,7 @@ https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
 https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8
 #EXTINF:-1 channel-id="685029cda1e091e16ff57fc8" tvg-id="685029cda1e091e16ff57fc8" tvg-chno="217" tvg-name="Brøndby TV" tvg-logo="https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png" group-title="Sport",Brøndby TV
 https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
-#EXTINF:-1 channel-id="6964b982ca459f9b939da8e6" tvg-id="6964b982ca459f9b939da8e6" tvg-chno="3" tvg-name="Bull" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="Nyt på Pluto TV",Bull
+#EXTINF:-1 channel-id="6964b982ca459f9b939da8e6" tvg-id="6964b982ca459f9b939da8e6" tvg-chno="4" tvg-name="Bull" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="Nyt på Pluto TV",Bull
 https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
 #EXTINF:-1 channel-id="61e82af27027f9000753c6e4" tvg-id="61e82af27027f9000753c6e4" tvg-chno="931" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/61e82af27027f9000753c6e4/colorLogoPNG.png" group-title="News",CBS News 24/7
 https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8
@@ -351,6 +351,8 @@ https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
 https://jmp2.uk/plu-627254d6ba35210007e5d4ca.m3u8
 #EXTINF:-1 channel-id="65649791954b020008d09565" tvg-id="65649791954b020008d09565" tvg-chno="126" tvg-name="På Tur" tvg-logo="https://images.pluto.tv/channels/65649791954b020008d09565/colorLogoPNG.png" group-title="Dansk reality & underholdning",På Tur
 https://jmp2.uk/plu-65649791954b020008d09565.m3u8
+#EXTINF:-1 channel-id="6964ba787e92438c2754e924" tvg-id="6964ba787e92438c2754e924" tvg-chno="2" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="Nyt på Pluto TV",Rawhide
+https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 #EXTINF:-1 channel-id="692ec3a76f84242a60f75f59" tvg-id="692ec3a76f84242a60f75f59" tvg-chno="131" tvg-name="Reality Awards" tvg-logo="https://images.pluto.tv/channels/692ec3a76f84242a60f75f59/colorLogoPNG_1766133823688.png" group-title="Dansk reality & underholdning",Reality Awards
 https://jmp2.uk/plu-692ec3a76f84242a60f75f59.m3u8
 #EXTINF:-1 channel-id="660d714719ca71000849cc1f" tvg-id="660d714719ca71000849cc1f" tvg-chno="218" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/660d714719ca71000849cc1f/colorLogoPNG.png" group-title="Sport",Realmadrid TV

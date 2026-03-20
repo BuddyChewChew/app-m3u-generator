@@ -51,7 +51,7 @@ https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
 https://jmp2.uk/plu-67a09e5921af38000808900a.m3u8
 #EXTINF:-1 channel-id="65cba7b1ec452d0008acbed8" tvg-id="65cba7b1ec452d0008acbed8" tvg-chno="960" tvg-name="Broad City" tvg-logo="https://images.pluto.tv/channels/65cba7b1ec452d0008acbed8/colorLogoPNG.png" group-title="Komedi",Broad City
 https://jmp2.uk/plu-65cba7b1ec452d0008acbed8.m3u8
-#EXTINF:-1 channel-id="6964b9e19bf57be1537fc7d7" tvg-id="6964b9e19bf57be1537fc7d7" tvg-chno="2" tvg-name="Bull" tvg-logo="https://images.pluto.tv/channels/6964b9e19bf57be1537fc7d7/colorLogoPNG_1770901125039.png" group-title="Nytt på Pluto TV",Bull
+#EXTINF:-1 channel-id="6964b9e19bf57be1537fc7d7" tvg-id="6964b9e19bf57be1537fc7d7" tvg-chno="4" tvg-name="Bull" tvg-logo="https://images.pluto.tv/channels/6964b9e19bf57be1537fc7d7/colorLogoPNG_1770901125039.png" group-title="Nytt på Pluto TV",Bull
 https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
 #EXTINF:-1 channel-id="63c6a7544faf1c0007b496d7" tvg-id="63c6a7544faf1c0007b496d7" tvg-chno="514" tvg-name="Buying Blind Denmark" tvg-logo="https://images.pluto.tv/channels/63c6a7544faf1c0007b496d7/colorLogoPNG.png" group-title="Mat & livsstil",Buying Blind Denmark
 https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
@@ -265,7 +265,7 @@ https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
 https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
 #EXTINF:-1 channel-id="63dbe8c8a9957100087798a3" tvg-id="63dbe8c8a9957100087798a3" tvg-chno="316" tvg-name="Pluto TV Kultfilmer" tvg-logo="https://images.pluto.tv/channels/63dbe8c8a9957100087798a3/colorLogoPNG.png" group-title="Filmer",Pluto TV Kultfilmer
 https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
-#EXTINF:-1 channel-id="68ac52fac9b5923e0585578b" tvg-id="68ac52fac9b5923e0585578b" tvg-chno="4" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/68ac52fac9b5923e0585578b/colorLogoPNG_1761126274333.png" group-title="Nytt på Pluto TV",Pluto TV Motor
+#EXTINF:-1 channel-id="68ac52fac9b5923e0585578b" tvg-id="68ac52fac9b5923e0585578b" tvg-chno="5" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/68ac52fac9b5923e0585578b/colorLogoPNG_1761126274333.png" group-title="Nytt på Pluto TV",Pluto TV Motor
 https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8
 #EXTINF:-1 channel-id="62b1e4189f5db20007ff03be" tvg-id="62b1e4189f5db20007ff03be" tvg-chno="634" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/62b1e4189f5db20007ff03be/colorLogoPNG.png" group-title="Övernaturligt",Pluto TV Paranormal
 https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
@@ -291,11 +291,13 @@ https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
 https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
 #EXTINF:-1 channel-id="62724c8465731f0007b6cd86" tvg-id="62724c8465731f0007b6cd86" tvg-chno="510" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/62724c8465731f0007b6cd86/colorLogoPNG.png" group-title="Mat & livsstil",Project Runway
 https://jmp2.uk/plu-62724c8465731f0007b6cd86.m3u8
+#EXTINF:-1 channel-id="6964bb3640c8de392514a0c6" tvg-id="6964bb3640c8de392514a0c6" tvg-chno="1" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/6964bb3640c8de392514a0c6/colorLogoPNG_1768209281938.png" group-title="Nytt på Pluto TV",Rawhide
+https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
 #EXTINF:-1 channel-id="660d7232635c75000828c95a" tvg-id="660d7232635c75000828c95a" tvg-chno="122" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/660d7232635c75000828c95a/colorLogoPNG.png" group-title="Sport",Realmadrid TV
 https://jmp2.uk/plu-660d7232635c75000828c95a.m3u8
 #EXTINF:-1 channel-id="65e9781a2873090008b48d8a" tvg-id="65e9781a2873090008b48d8a" tvg-chno="964" tvg-name="Reno 911" tvg-logo="https://images.pluto.tv/channels/65e9781a2873090008b48d8a/colorLogoPNG.png" group-title="Komedi",Reno 911
 https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
-#EXTINF:-1 channel-id="69a164f76c0414a7ec68de54" tvg-id="69a164f76c0414a7ec68de54" tvg-chno="1" tvg-name="Retake E-sport Live" tvg-logo="https://images.pluto.tv/channels/69a164f76c0414a7ec68de54/colorLogoPNG_1772184910096.png" group-title="Nytt på Pluto TV",Retake E-sport Live
+#EXTINF:-1 channel-id="69a164f76c0414a7ec68de54" tvg-id="69a164f76c0414a7ec68de54" tvg-chno="3" tvg-name="Retake E-sport Live" tvg-logo="https://images.pluto.tv/channels/69a164f76c0414a7ec68de54/colorLogoPNG_1772184910096.png" group-title="Nytt på Pluto TV",Retake E-sport Live
 https://jmp2.uk/plu-69a164f76c0414a7ec68de54.m3u8
 #EXTINF:-1 channel-id="68dfa1e7fae18f8db6218703" tvg-id="68dfa1e7fae18f8db6218703" tvg-chno="461" tvg-name="Ridiculousness - Nya avsnitt" tvg-logo="https://images.pluto.tv/channels/68dfa1e7fae18f8db6218703/colorLogoPNG_1762543429004.png" group-title="Det bästa från MTV",Ridiculousness - Nya avsnitt
 https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
