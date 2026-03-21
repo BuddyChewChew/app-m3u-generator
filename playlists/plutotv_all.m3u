@@ -1285,6 +1285,8 @@ https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 https://jmp2.uk/plu-6049295e7dcef800073c2499.m3u8
 #EXTINF:-1 channel-id="65c69bbfd77d450008c7ffee-us" tvg-id="65c69bbfd77d450008c7ffee" tvg-chno="844" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="United States",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 channel-id="695c32671ca20bb8ca7fd8f7-us" tvg-id="695c32671ca20bb8ca7fd8f7" tvg-chno="848" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/695c32671ca20bb8ca7fd8f7/colorLogoPNG_1768440939423.png" group-title="United States",Star Trek: Enterprise
+https://jmp2.uk/plu-695c32671ca20bb8ca7fd8f7.m3u8
 #EXTINF:-1 channel-id="6675c88da1d7ad00084762cb-us" tvg-id="6675c88da1d7ad00084762cb" tvg-chno="25" tvg-name="Star Trek: The Motion Pictures" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" group-title="United States",Star Trek: The Motion Pictures
 https://jmp2.uk/plu-6675c88da1d7ad00084762cb.m3u8
 #EXTINF:-1 channel-id="695c32e61ca20bb8ca802eb9-us" tvg-id="695c32e61ca20bb8ca802eb9" tvg-chno="842" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" group-title="United States",Star Trek: The Next Generation
@@ -1619,8 +1621,6 @@ https://jmp2.uk/plu-6319ee0cf78bb10007ee5e6b.m3u8
 https://jmp2.uk/plu-69699b6d23ea437206f4a036.m3u8
 #EXTINF:-1 channel-id="667d419415f35c0008942dd1-ca" tvg-id="667d419415f35c0008942dd1" tvg-chno="473" tvg-name="World of Love Island" tvg-logo="https://images.pluto.tv/channels/667d419415f35c0008942dd1/colorLogoPNG_1763400822102.png" group-title="Canada",World of Love Island
 https://jmp2.uk/plu-667d419415f35c0008942dd1.m3u8
-#EXTINF:-1 channel-id="68c85164b7af374ee483210f-us" tvg-id="68c85164b7af374ee483210f" tvg-chno="2895" tvg-name="Wrestling Central" tvg-logo="https://images.pluto.tv/channels/68c85164b7af374ee483210f/colorLogoPNG_1760475182481.png" group-title="United States",Wrestling Central
-https://jmp2.uk/plu-68c85164b7af374ee483210f.m3u8
 #EXTINF:-1 channel-id="68c820525ec82769fdfcd104-gb" tvg-id="68c820525ec82769fdfcd104" tvg-chno="958" tvg-name="Wrestling Legends TV" tvg-logo="https://images.pluto.tv/channels/68c820525ec82769fdfcd104/colorLogoPNG_1765359753710.png" group-title="United Kingdom",Wrestling Legends TV
 https://jmp2.uk/plu-68c820525ec82769fdfcd104.m3u8
 #EXTINF:-1 channel-id="623b92a2ccefed0007b1db48-us" tvg-id="623b92a2ccefed0007b1db48" tvg-chno="4690" tvg-name="XITE Classic Country" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="United States",XITE Classic Country
@@ -4059,8 +4059,6 @@ https://jmp2.uk/plu-69441fd9e4674206f0a51245.m3u8
 https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
 #EXTINF:-1 channel-id="5f32d2db0af67400077f29c4-br" tvg-id="5f32d2db0af67400077f29c4" tvg-chno="827" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1762439215914.png" group-title="Brazil",Pluto TV Esportes
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
-#EXTINF:-1 channel-id="69440d7d56acdcad6af9c8f3-br" tvg-id="69440d7d56acdcad6af9c8f3" tvg-chno="828" tvg-name="Pluto TV Esportes 2" tvg-logo="https://images.pluto.tv/channels/69440d7d56acdcad6af9c8f3/colorLogoPNG_1768442739098.png" group-title="Brazil",Pluto TV Esportes 2
-https://jmp2.uk/plu-69440d7d56acdcad6af9c8f3.m3u8
 #EXTINF:-1 channel-id="5dcde0657444a40009cd2422-mx" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Mexico",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 #EXTINF:-1 channel-id="5dcde0657444a40009cd2422-cl" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Chile",Pluto TV Estilo de Vida
@@ -5227,6 +5225,12 @@ https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 #EXTINF:-1 channel-id="678aa0b3680721c77c5035dd-ar" tvg-id="678aa0b3680721c77c5035dd" tvg-chno="130" tvg-name="The Walking Dead by AMC" tvg-logo="https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png" group-title="Argentina",The Walking Dead by AMC
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
+#EXTINF:-1 channel-id="6964bca2a6c400fd418854a2-no" tvg-id="6964bca2a6c400fd418854a2" tvg-chno="2" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bca2a6c400fd418854a2/colorLogoPNG_1768209614642.png" group-title="Norway",The Wild Wild West
+https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
+#EXTINF:-1 channel-id="6964bcf9ae33e24d911d7e1c-se" tvg-id="6964bcf9ae33e24d911d7e1c" tvg-chno="2" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bcf9ae33e24d911d7e1c/colorLogoPNG_1768209721347.png" group-title="Sweden",The Wild Wild West
+https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
+#EXTINF:-1 channel-id="6964bc3806d76f50db3e315e-dk" tvg-id="6964bc3806d76f50db3e315e" tvg-chno="3" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Denmark",The Wild Wild West
+https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
 #EXTINF:-1 channel-id="63dac32bda711800088a2ba3-br" tvg-id="63dac32bda711800088a2ba3" tvg-chno="455" tvg-name="TikTok Radio Brasil" tvg-logo="https://images.pluto.tv/channels/63dac32bda711800088a2ba3/colorLogoPNG_1758347017431.png" group-title="Brazil",TikTok Radio Brasil
 https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8
 #EXTINF:-1 channel-id="63dac1b78795f300086d5ca6-mx" tvg-id="63dac1b78795f300086d5ca6" tvg-chno="1515" tvg-name="TikTok Radio en Español" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png" group-title="Mexico",TikTok Radio en Español
@@ -5391,8 +5395,6 @@ https://jmp2.uk/plu-62a0ae8b2241f500073e0925.m3u8
 https://jmp2.uk/plu-62a0b114a1c8650007e93688.m3u8
 #EXTINF:-1 channel-id="62a0aefc7c5f9f00075b4e24-dk" tvg-id="62a0aefc7c5f9f00075b4e24" tvg-chno="601" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/channels/62a0aefc7c5f9f00075b4e24/colorLogoPNG.png" group-title="Denmark",Walker Texas Ranger
 https://jmp2.uk/plu-62a0aefc7c5f9f00075b4e24.m3u8
-#EXTINF:-1 channel-id="609539fa709d6b0007b19887-de" tvg-id="609539fa709d6b0007b19887" tvg-chno="61" tvg-name="Wer ist hier der Boss?" tvg-logo="https://images.pluto.tv/channels/609539fa709d6b0007b19887/colorLogoPNG.png" group-title="Germany",Wer ist hier der Boss?
-https://jmp2.uk/plu-609539fa709d6b0007b19887.m3u8
 #EXTINF:-1 channel-id="65253d66c52b3600083d8dd2-de" tvg-id="65253d66c52b3600083d8dd2" tvg-chno="452" tvg-name="Wicked Tuna" tvg-logo="https://images.pluto.tv/channels/65253d66c52b3600083d8dd2/colorLogoPNG.png" group-title="Germany",Wicked Tuna
 https://jmp2.uk/plu-65253d66c52b3600083d8dd2.m3u8
 #EXTINF:-1 channel-id="67c832cc9b53325ee16fb899-it" tvg-id="67c832cc9b53325ee16fb899" tvg-chno="415" tvg-name="Wicked Tuna" tvg-logo="https://images.pluto.tv/channels/67c832cc9b53325ee16fb899/colorLogoPNG.png" group-title="Italy",Wicked Tuna

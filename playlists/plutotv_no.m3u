@@ -335,6 +335,8 @@ https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8
 https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8
 #EXTINF:-1 channel-id="6512d3a0bdcb19000799cc82" tvg-id="6512d3a0bdcb19000799cc82" tvg-chno="686" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/6512d3a0bdcb19000799cc82/colorLogoPNG.png" group-title="Overnaturlig",The Twilight Zone
 https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
+#EXTINF:-1 channel-id="6964bca2a6c400fd418854a2" tvg-id="6964bca2a6c400fd418854a2" tvg-chno="2" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bca2a6c400fd418854a2/colorLogoPNG_1768209614642.png" group-title="Nytt på Pluto TV",The Wild Wild West
+https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
 #EXTINF:-1 channel-id="6202357dea93940007d723ca" tvg-id="6202357dea93940007d723ca" tvg-chno="162" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/6202357dea93940007d723ca/colorLogoPNG.png" group-title="Sport",Top Gear
 https://jmp2.uk/plu-6202357dea93940007d723ca.m3u8
 #EXTINF:-1 channel-id="660d64a7aec9680008f8ba77" tvg-id="660d64a7aec9680008f8ba77" tvg-chno="163" tvg-name="Top Gear Classics" tvg-logo="https://images.pluto.tv/channels/660d64a7aec9680008f8ba77/colorLogoPNG.png" group-title="Sport",Top Gear Classics
