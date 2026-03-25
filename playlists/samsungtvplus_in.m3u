@@ -9,7 +9,7 @@ https://jmp2.uk/stvp-INBC2800011JL
 https://jmp2.uk/stvp-IN38000050P
 #EXTINF:-1 channel-id="IN4900011OU" tvg-id="IN4900011OU" tvg-chno="1466" tvg-name="@K-MUSIC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900011OU_20260225T010232SQUARE.png" group-title="Music",@K-MUSIC
 https://jmp2.uk/stvp-IN4900011OU
-#EXTINF:-1 channel-id="IN3800001ZH" tvg-id="IN3800001ZH" tvg-chno="1000" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20260318T004134SQUARE.png" group-title="Hindi News",Aaj Tak HD
+#EXTINF:-1 channel-id="IN3800001ZH" tvg-id="IN3800001ZH" tvg-chno="1004" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20260325T012257SQUARE.png" group-title="Hindi News",Aaj Tak HD
 https://jmp2.uk/stvp-IN3800001ZH
 #EXTINF:-1 channel-id="IN3800004BF" tvg-id="IN3800004BF" tvg-chno="1031" tvg-name="AajTak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800004BF_20251126T004244SQUARE.png" group-title="Hindi News",AajTak
 https://jmp2.uk/stvp-IN3800004BF
@@ -19,7 +19,7 @@ https://jmp2.uk/stvp-IN4000006CF
 https://jmp2.uk/stvp-INBD400010BD
 #EXTINF:-1 channel-id="IN4000005BW" tvg-id="IN4000005BW" tvg-chno="1060" tvg-name="ABP Majha" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000005BW_20260121T010750SQUARE.png" group-title="Regional News",ABP Majha
 https://jmp2.uk/stvp-IN4000005BW
-#EXTINF:-1 channel-id="IN4600012BD" tvg-id="IN4600012BD" tvg-chno="1021" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20251126T004241SQUARE.png" group-title="Hindi News",ABP News
+#EXTINF:-1 channel-id="IN4600012BD" tvg-id="IN4600012BD" tvg-chno="1005" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20260325T012254SQUARE.png" group-title="Hindi News",ABP News
 https://jmp2.uk/stvp-IN4600012BD
 #EXTINF:-1 channel-id="IN800012RO" tvg-id="IN800012RO" tvg-chno="1109" tvg-name="Asianet News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800012RO_20250507T003805SQUARE.png" group-title="Regional News",Asianet News
 https://jmp2.uk/stvp-IN800012RO
@@ -51,7 +51,7 @@ https://jmp2.uk/stvp-IN4600011RZ
 https://jmp2.uk/stvp-INBA5100022O4
 #EXTINF:-1 channel-id="INBA5100021WP" tvg-id="INBA5100021WP" tvg-chno="1053" tvg-name="Bloomberg TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100021WP_20240131T032221SQUARE.png_20240131032222.png" group-title="English News",Bloomberg TV
 https://jmp2.uk/stvp-INBA5100021WP
-#EXTINF:-1 channel-id="IN4000555E" tvg-id="IN4000555E" tvg-chno="1007" tvg-name="Bollywood Masala" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000555E_20260311T004426SQUARE.png" group-title="Entertainment",Bollywood Masala
+#EXTINF:-1 channel-id="IN4000555E" tvg-id="IN4000555E" tvg-chno="1119" tvg-name="Bollywood Masala" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000555E_20260325T012300SQUARE.png" group-title="Entertainment",Bollywood Masala
 https://jmp2.uk/stvp-IN4000555E
 #EXTINF:-1 channel-id="IN2400004WL" tvg-id="IN2400004WL" tvg-chno="1372" tvg-name="Bon Voyage" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400004WL_20250820T005408SQUARE.png" group-title="Lifestyle",Bon Voyage
 https://jmp2.uk/stvp-IN2400004WL
@@ -105,13 +105,15 @@ https://jmp2.uk/stvp-IN4900001AQ
 https://jmp2.uk/stvp-INBA5100030AO
 #EXTINF:-1 channel-id="IN270000230" tvg-id="IN270000230" tvg-chno="1212" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20260211T003300SQUARE.png" group-title="Sports",FIFA+
 https://jmp2.uk/stvp-IN270000230
+#EXTINF:-1 channel-id="IN300086YL" tvg-id="IN300086YL" tvg-chno="1217" tvg-name="Fight TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300086YL_20260325T012302SQUARE.png" group-title="Sports",Fight TV
+https://jmp2.uk/stvp-IN300086YL
 #EXTINF:-1 channel-id="IN460000313" tvg-id="IN460000313" tvg-chno="1365" tvg-name="Foodie Hub" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20250205T004601SQUARE.png" group-title="Lifestyle",Foodie Hub
 https://jmp2.uk/stvp-IN460000313
 #EXTINF:-1 channel-id="IN3000003QJ" tvg-id="IN3000003QJ" tvg-chno="1370" tvg-name="Foodxp" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png" group-title="Lifestyle",Foodxp
 https://jmp2.uk/stvp-IN3000003QJ
 #EXTINF:-1 channel-id="IN2400002A3" tvg-id="IN2400002A3" tvg-chno="1180" tvg-name="Go Wild" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400002A3_20250811T033501SQUARE.png" group-title="Infotainment",Go Wild
 https://jmp2.uk/stvp-IN2400002A3
-#EXTINF:-1 channel-id="IN400057EZ" tvg-id="IN400057EZ" tvg-chno="1006" tvg-name="Golf Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400057EZ_20260318T004137SQUARE.png" group-title="Sports",Golf Network
+#EXTINF:-1 channel-id="IN400057EZ" tvg-id="IN400057EZ" tvg-chno="1233" tvg-name="Golf Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400057EZ_20260325T012305SQUARE.png" group-title="Sports",Golf Network
 https://jmp2.uk/stvp-IN400057EZ
 #EXTINF:-1 channel-id="IN17000129W" tvg-id="IN17000129W" tvg-chno="1029" tvg-name="Good News Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000129W_20241016T011359SQUARE.png" group-title="Hindi News",Good News Today
 https://jmp2.uk/stvp-IN17000129W
@@ -127,7 +129,7 @@ https://jmp2.uk/stvp-IN4000526Y
 https://jmp2.uk/stvp-IN1600008DN
 #EXTINF:-1 channel-id="IN1600009NL" tvg-id="IN1600009NL" tvg-chno="1163" tvg-name="HISTORY TV18 - Hindi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20240912T093622SQUARE.png" group-title="Infotainment",HISTORY TV18 - Hindi
 https://jmp2.uk/stvp-IN1600009NL
-#EXTINF:-1 channel-id="IN3800010SH" tvg-id="IN3800010SH" tvg-chno="1313" tvg-name="Hollywood Desi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20260311T004442SQUARE.png" group-title="Movies",Hollywood Desi
+#EXTINF:-1 channel-id="IN3800010SH" tvg-id="IN3800010SH" tvg-chno="1322" tvg-name="Hollywood Desi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20260325T012308SQUARE.png" group-title="Movies",Hollywood Desi
 https://jmp2.uk/stvp-IN3800010SH
 #EXTINF:-1 channel-id="IN4600009F9" tvg-id="IN4600009F9" tvg-chno="1270" tvg-name="Hooray Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20260225T010336SQUARE.png" group-title="Kids",Hooray Kids
 https://jmp2.uk/stvp-IN4600009F9
@@ -165,7 +167,7 @@ https://jmp2.uk/stvp-IN490000951
 https://jmp2.uk/stvp-IN3800006RD
 #EXTINF:-1 channel-id="IN4600008T4" tvg-id="IN4600008T4" tvg-chno="1268" tvg-name="KidDo MATIX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20260225T010333SQUARE.png" group-title="Kids",KidDo MATIX
 https://jmp2.uk/stvp-IN4600008T4
-#EXTINF:-1 channel-id="IN46000184H" tvg-id="IN46000184H" tvg-chno="1002" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260311T004445SQUARE.png" group-title="Entertainment",Kings Of Comedy
+#EXTINF:-1 channel-id="IN46000184H" tvg-id="IN46000184H" tvg-chno="1001" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260325T012311SQUARE.png" group-title="Entertainment",Kings Of Comedy
 https://jmp2.uk/stvp-IN46000184H
 #EXTINF:-1 channel-id="IN3600005NF" tvg-id="IN3600005NF" tvg-chno="1114" tvg-name="Korean TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600005NF_20260318T004139SQUARE.png" group-title="Entertainment",Korean TV
 https://jmp2.uk/stvp-IN3600005NF
@@ -195,7 +197,7 @@ https://jmp2.uk/stvp-INBC2800002WJ
 https://jmp2.uk/stvp-IN800013RB
 #EXTINF:-1 channel-id="INBC2800006GF" tvg-id="INBC2800006GF" tvg-chno="1051" tvg-name="NDTV Profit" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800006GF_20240912T093654SQUARE.png" group-title="English News",NDTV Profit
 https://jmp2.uk/stvp-INBC2800006GF
-#EXTINF:-1 channel-id="IN46000210J" tvg-id="IN46000210J" tvg-chno="1005" tvg-name="News Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000210J_20260311T004451SQUARE.png" group-title="Hindi News",News Nation
+#EXTINF:-1 channel-id="IN46000210J" tvg-id="IN46000210J" tvg-chno="1006" tvg-name="News Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000210J_20260325T012313SQUARE.png" group-title="Hindi News",News Nation
 https://jmp2.uk/stvp-IN46000210J
 #EXTINF:-1 channel-id="IN300085JT" tvg-id="IN300085JT" tvg-chno="1468" tvg-name="News State BR JH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300085JT_20260311T004454SQUARE.png" group-title="Regional News",News State BR JH
 https://jmp2.uk/stvp-IN300085JT
@@ -261,9 +263,9 @@ https://jmp2.uk/stvp-INBD4700017SL
 https://jmp2.uk/stvp-INBD4700016S7
 #EXTINF:-1 channel-id="IN4600019L1" tvg-id="IN4600019L1" tvg-chno="1140" tvg-name="Series K BY MBC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600019L1_20260225T010345SQUARE.png" group-title="Entertainment",Series K BY MBC
 https://jmp2.uk/stvp-IN4600019L1
-#EXTINF:-1 channel-id="IN4900008ZP" tvg-id="IN4900008ZP" tvg-chno="1460" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20260311T004356SQUARE.png" group-title="Music",SMTOWN
+#EXTINF:-1 channel-id="IN4900008ZP" tvg-id="IN4900008ZP" tvg-chno="1460" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900008ZP_20260325T012251SQUARE.png" group-title="Music",SMTOWN
 https://jmp2.uk/stvp-IN4900008ZP
-#EXTINF:-1 channel-id="IN3800008CX" tvg-id="IN3800008CX" tvg-chno="1004" tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260311T004506SQUARE.png" group-title="Movies",South Station
+#EXTINF:-1 channel-id="IN3800008CX" tvg-id="IN3800008CX" tvg-chno="1007" tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="Movies",South Station
 https://jmp2.uk/stvp-IN3800008CX
 #EXTINF:-1 channel-id="IN24000052F" tvg-id="IN24000052F" tvg-chno="1124" tvg-name="Star Central" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000052F_20250811T033512SQUARE.png" group-title="Entertainment",Star Central
 https://jmp2.uk/stvp-IN24000052F
@@ -281,7 +283,7 @@ https://jmp2.uk/stvp-IN800003JE
 https://jmp2.uk/stvp-IN25000020M
 #EXTINF:-1 channel-id="IN3800002VK" tvg-id="IN3800002VK" tvg-chno="1118" tvg-name="The Lallantop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20251015T010515SQUARE.png" group-title="Entertainment",The Lallantop
 https://jmp2.uk/stvp-IN3800002VK
-#EXTINF:-1 channel-id="IN38000072R" tvg-id="IN38000072R" tvg-chno="1003" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260311T004511SQUARE.png" group-title="Movies",The Movie Club
+#EXTINF:-1 channel-id="IN38000072R" tvg-id="IN38000072R" tvg-chno="1000" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="Movies",The Movie Club
 https://jmp2.uk/stvp-IN38000072R
 #EXTINF:-1 channel-id="IN40000100Y" tvg-id="IN40000100Y" tvg-chno="1320" tvg-name="The Movie Club+2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png" group-title="Movies",The Movie Club+2
 https://jmp2.uk/stvp-IN40000100Y
@@ -291,7 +293,7 @@ https://jmp2.uk/stvp-INBA5100029JI
 https://jmp2.uk/stvp-IN390002534
 #EXTINF:-1 channel-id="IN39000260R" tvg-id="IN39000260R" tvg-chno="1385" tvg-name="TheSorryGirls TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000260R_20251217T003136SQUARE.png" group-title="Lifestyle",TheSorryGirls TV
 https://jmp2.uk/stvp-IN39000260R
-#EXTINF:-1 channel-id="IN400059ZR" tvg-id="IN400059ZR" tvg-chno="1001" tvg-name="Times Now Navbharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400059ZR_20260318T004142SQUARE.png" group-title="Hindi News",Times Now Navbharat
+#EXTINF:-1 channel-id="IN400059ZR" tvg-id="IN400059ZR" tvg-chno="1025" tvg-name="Times Now Navbharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400059ZR_20260325T012321SQUARE.png" group-title="Hindi News",Times Now Navbharat
 https://jmp2.uk/stvp-IN400059ZR
 #EXTINF:-1 channel-id="INBA4900026FJ" tvg-id="INBA4900026FJ" tvg-chno="1269" tvg-name="Toon Goggles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900026FJ_20220427T054717SQUARE.png_20220427054718.png" group-title="Kids",Toon Goggles
 https://jmp2.uk/stvp-INBA4900026FJ
@@ -335,5 +337,15 @@ https://jmp2.uk/stvp-INBD4000027E
 https://jmp2.uk/stvp-INBD400001CP
 #EXTINF:-1 channel-id="INBD400004NS" tvg-id="INBD400004NS" tvg-chno="1037" tvg-name="Zee Business" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400004NS_20250612T083831SQUARE.png" group-title="Hindi News",Zee Business
 https://jmp2.uk/stvp-INBD400004NS
+#EXTINF:-1 channel-id="IN21000014R" tvg-id="IN21000014R" tvg-chno="1314" tvg-name="Zee Cine Classic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20260325T012324SQUARE.png" group-title="Movies",Zee Cine Classic
+https://jmp2.uk/stvp-IN21000014R
+#EXTINF:-1 channel-id="IN2100002GD" tvg-id="IN2100002GD" tvg-chno="1002" tvg-name="Zee Comedy Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png" group-title="Entertainment",Zee Comedy Nation
+https://jmp2.uk/stvp-IN2100002GD
+#EXTINF:-1 channel-id="IN2100003OJ" tvg-id="IN2100003OJ" tvg-chno="1003" tvg-name="Zee Dil Se" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100003OJ_20260325T012331SQUARE.png" group-title="Entertainment",Zee Dil Se
+https://jmp2.uk/stvp-IN2100003OJ
+#EXTINF:-1 channel-id="IN2100004C4" tvg-id="IN2100004C4" tvg-chno="1473" tvg-name="Zee Horror Nights" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100004C4_20260325T012334SQUARE.png" group-title="Entertainment",Zee Horror Nights
+https://jmp2.uk/stvp-IN2100004C4
 #EXTINF:-1 channel-id="INBC4300010Z6" tvg-id="INBC4300010Z6" tvg-chno="1039" tvg-name="Zee News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20250612T083833SQUARE.png" group-title="Hindi News",Zee News
 https://jmp2.uk/stvp-INBC4300010Z6
+#EXTINF:-1 channel-id="IN2100005T2" tvg-id="IN2100005T2" tvg-chno="1321" tvg-name="Zee South Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100005T2_20260325T012340SQUARE.png" group-title="Movies",Zee South Flix
+https://jmp2.uk/stvp-IN2100005T2

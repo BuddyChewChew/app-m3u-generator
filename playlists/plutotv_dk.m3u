@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/dk.xml.gz"
+#EXTINF:-1 channel-id="699c15a9f0b71f2e2eec4393" tvg-id="699c15a9f0b71f2e2eec4393" tvg-chno="2" tvg-name="21 Jump Street" tvg-logo="https://images.pluto.tv/channels/699c15a9f0b71f2e2eec4393/colorLogoPNG_1771836893290.png" group-title="Nyt på Pluto TV",21 Jump Street
+https://jmp2.uk/plu-699c15a9f0b71f2e2eec4393.m3u8
 #EXTINF:-1 channel-id="6720bc6cdaad7f000872a6e2" tvg-id="6720bc6cdaad7f000872a6e2" tvg-chno="307" tvg-name="2900 Happiness" tvg-logo="https://images.pluto.tv/channels/6720bc6cdaad7f000872a6e2/colorLogoPNG.png" group-title="Drama",2900 Happiness
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
 #EXTINF:-1 channel-id="65b915780cb1a1000889b837" tvg-id="65b915780cb1a1000889b837" tvg-chno="214" tvg-name="3point.dk" tvg-logo="https://images.pluto.tv/channels/65b915780cb1a1000889b837/colorLogoPNG.png" group-title="Sport",3point.dk
@@ -61,7 +63,7 @@ https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
 https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8
 #EXTINF:-1 channel-id="685029cda1e091e16ff57fc8" tvg-id="685029cda1e091e16ff57fc8" tvg-chno="217" tvg-name="Brøndby TV" tvg-logo="https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png" group-title="Sport",Brøndby TV
 https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
-#EXTINF:-1 channel-id="6964b982ca459f9b939da8e6" tvg-id="6964b982ca459f9b939da8e6" tvg-chno="4" tvg-name="Bull" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="Nyt på Pluto TV",Bull
+#EXTINF:-1 channel-id="6964b982ca459f9b939da8e6" tvg-id="6964b982ca459f9b939da8e6" tvg-chno="5" tvg-name="Bull" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="Nyt på Pluto TV",Bull
 https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
 #EXTINF:-1 channel-id="61e82af27027f9000753c6e4" tvg-id="61e82af27027f9000753c6e4" tvg-chno="931" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/61e82af27027f9000753c6e4/colorLogoPNG.png" group-title="News",CBS News 24/7
 https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8
@@ -351,7 +353,7 @@ https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
 https://jmp2.uk/plu-627254d6ba35210007e5d4ca.m3u8
 #EXTINF:-1 channel-id="65649791954b020008d09565" tvg-id="65649791954b020008d09565" tvg-chno="126" tvg-name="På Tur" tvg-logo="https://images.pluto.tv/channels/65649791954b020008d09565/colorLogoPNG.png" group-title="Dansk reality & underholdning",På Tur
 https://jmp2.uk/plu-65649791954b020008d09565.m3u8
-#EXTINF:-1 channel-id="6964ba787e92438c2754e924" tvg-id="6964ba787e92438c2754e924" tvg-chno="2" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="Nyt på Pluto TV",Rawhide
+#EXTINF:-1 channel-id="6964ba787e92438c2754e924" tvg-id="6964ba787e92438c2754e924" tvg-chno="3" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="Nyt på Pluto TV",Rawhide
 https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 #EXTINF:-1 channel-id="692ec3a76f84242a60f75f59" tvg-id="692ec3a76f84242a60f75f59" tvg-chno="131" tvg-name="Reality Awards" tvg-logo="https://images.pluto.tv/channels/692ec3a76f84242a60f75f59/colorLogoPNG_1766133823688.png" group-title="Dansk reality & underholdning",Reality Awards
 https://jmp2.uk/plu-692ec3a76f84242a60f75f59.m3u8
@@ -431,7 +433,7 @@ https://jmp2.uk/plu-686d0130ed17cf4c902cbd19.m3u8
 https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
 #EXTINF:-1 channel-id="6512ec9f3a0d700008db4f0c" tvg-id="6512ec9f3a0d700008db4f0c" tvg-chno="757" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="Sci-Fi",The Twilight Zone
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
-#EXTINF:-1 channel-id="6964bc3806d76f50db3e315e" tvg-id="6964bc3806d76f50db3e315e" tvg-chno="3" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Nyt på Pluto TV",The Wild Wild West
+#EXTINF:-1 channel-id="6964bc3806d76f50db3e315e" tvg-id="6964bc3806d76f50db3e315e" tvg-chno="4" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Nyt på Pluto TV",The Wild Wild West
 https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
 #EXTINF:-1 channel-id="61c1a05ef30f5d0007e562f3" tvg-id="61c1a05ef30f5d0007e562f3" tvg-chno="559" tvg-name="Til Middag Hos" tvg-logo="https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png" group-title="Mad & livsstil",Til Middag Hos
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
