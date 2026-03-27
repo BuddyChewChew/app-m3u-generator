@@ -547,8 +547,6 @@ https://jmp2.uk/stvp-USBD700016JY
 https://jmp2.uk/stvp-GB5200001TM
 #EXTINF:-1 channel-id="US4600010KE-us" tvg-id="US4600010KE" tvg-chno="2437" tvg-name="DP World Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600010KE_20250204T014300SQUARE.png" group-title="United States",DP World Tour
 https://jmp2.uk/stvp-US4600010KE
-#EXTINF:-1 channel-id="US70001475-us" tvg-id="US70001475" tvg-chno="2926" tvg-name="Dr Phil's MeritTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US70001475_20250707T234407SQUARE.png" group-title="United States",Dr Phil's MeritTV
-https://jmp2.uk/stvp-US70001475
 #EXTINF:-1 channel-id="CABB2600009WE-ca" tvg-id="CABB2600009WE" tvg-chno="1827" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600009WE_20250311T003516SQUARE.png" group-title="Canada",Dr. G: Medical Examiner
 https://jmp2.uk/stvp-CABB2600009WE
 #EXTINF:-1 channel-id="USBB3200004X3-us" tvg-id="USBB3200004X3" tvg-chno="1827" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200004X3_20240625T011347SQUARE.png" group-title="United States",Dr. G: Medical Examiner
@@ -655,6 +653,8 @@ https://jmp2.uk/stvp-USBB2300002Q6
 https://jmp2.uk/stvp-USBC1300012VK
 #EXTINF:-1 channel-id="US4100029G5-us" tvg-id="US4100029G5" tvg-chno="1569" tvg-name="Felicity" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100029G5_20260310T031322SQUARE.png" group-title="United States",Felicity
 https://jmp2.uk/stvp-US4100029G5
+#EXTINF:-1 channel-id="USBD1200020Y4-us" tvg-id="USBD1200020Y4" tvg-chno="2491" tvg-name="Field & Stream" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20260325T191716SQUARE.png" group-title="United States",Field & Stream
+https://jmp2.uk/stvp-USBD1200020Y4
 #EXTINF:-1 channel-id="CABD1200008JG-ca" tvg-id="CABD1200008JG" tvg-chno="2368" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20260303T094657SQUARE.png" group-title="Canada",FIFA+
 https://jmp2.uk/stvp-CABD1200008JG
 #EXTINF:-1 channel-id="GBBD1100008YW-gb" tvg-id="GBBD1100008YW" tvg-chno="4631" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20251028T010331SQUARE.png" group-title="United Kingdom",FIFA+
@@ -1273,8 +1273,6 @@ https://jmp2.uk/stvp-US2600006VY
 https://jmp2.uk/stvp-CABB2500026WM
 #EXTINF:-1 channel-id="USBC6000219D-us" tvg-id="USBC6000219D" tvg-chno="1962" tvg-name="Operation Repo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20241008T212636SQUARE.png" group-title="United States",Operation Repo
 https://jmp2.uk/stvp-USBC6000219D
-#EXTINF:-1 channel-id="USBD1200020Y4-us" tvg-id="USBD1200020Y4" tvg-chno="2491" tvg-name="Outdoor America" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20250325T015246SQUARE.png" group-title="United States",Outdoor America
-https://jmp2.uk/stvp-USBD1200020Y4
 #EXTINF:-1 channel-id="USBD1200007FE-us" tvg-id="USBD1200007FE" tvg-chno="3030" tvg-name="OuterSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" group-title="United States",OuterSphere
 https://jmp2.uk/stvp-USBD1200007FE
 #EXTINF:-1 channel-id="CA800002TN-ca" tvg-id="CA800002TN" tvg-chno="2962" tvg-name="OUTflix Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800002TN_20260324T032047SQUARE.png" group-title="Canada",OUTflix Movies
