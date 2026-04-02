@@ -37,7 +37,7 @@ https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
 https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
 #EXTINF:-1 channel-id="66e1978babec540008ce41ac" tvg-id="66e1978babec540008ce41ac" tvg-chno="330" tvg-name="Ciné Horreur by Pluto TV" tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" group-title="Cinéma",Ciné Horreur by Pluto TV
 https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
-#EXTINF:-1 channel-id="60812fc8539963000707d1e1" tvg-id="60812fc8539963000707d1e1" tvg-chno="355" tvg-name="Ciné Romance by Pluto TV: Regards de femmes" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1772442286267.png" group-title="Cinéma",Ciné Romance by Pluto TV: Regards de femmes
+#EXTINF:-1 channel-id="60812fc8539963000707d1e1" tvg-id="60812fc8539963000707d1e1" tvg-chno="355" tvg-name="Ciné Romance by Pluto TV" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png" group-title="Cinéma",Ciné Romance by Pluto TV
 https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
 #EXTINF:-1 channel-id="5f8ed168f72fcd0007e56269" tvg-id="5f8ed168f72fcd0007e56269" tvg-chno="375" tvg-name="Ciné Rétro by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" group-title="Cinéma",Ciné Rétro by Pluto TV
 https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
@@ -47,7 +47,7 @@ https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
 https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 #EXTINF:-1 channel-id="65cca3e2ec452d0008af3a65" tvg-id="65cca3e2ec452d0008af3a65" tvg-chno="370" tvg-name="Ciné Western by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="Cinéma",Ciné Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
-#EXTINF:-1 channel-id="5f8ed0f17564a300082b676a" tvg-id="5f8ed0f17564a300082b676a" tvg-chno="365" tvg-name="Ciné au féminin by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1772442347546.png" group-title="Cinéma",Ciné au féminin by Pluto TV
+#EXTINF:-1 channel-id="5f8ed0f17564a300082b676a" tvg-id="5f8ed0f17564a300082b676a" tvg-chno="365" tvg-name="Ciné by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" group-title="Cinéma",Ciné by Pluto TV
 https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
 #EXTINF:-1 channel-id="62f3e2d000418d00070f7dbc" tvg-id="62f3e2d000418d00070f7dbc" tvg-chno="320" tvg-name="Ciné d'Asie by Pluto TV" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="Cinéma",Ciné d'Asie by Pluto TV
 https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
@@ -57,6 +57,8 @@ https://jmp2.uk/plu-62f3dd1c2f29ce0007e18596.m3u8
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 channel-id="6683b680efa2a10008e8a393" tvg-id="6683b680efa2a10008e8a393" tvg-chno="505" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png" group-title="Animation",Daria
 https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
+#EXTINF:-1 channel-id="69aadc5551df9542f2521e1a" tvg-id="69aadc5551df9542f2521e1a" tvg-chno="10" tvg-name="Dawson" tvg-logo="https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/colorLogoPNG_1775030813222.png" group-title="Nouveau sur Pluto TV",Dawson
+https://jmp2.uk/plu-69aadc5551df9542f2521e1a.m3u8
 #EXTINF:-1 channel-id="611e71322f5f180007001dde" tvg-id="611e71322f5f180007001dde" tvg-chno="150" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png" group-title="À Binge-Watch",Degrassi
 https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
 #EXTINF:-1 channel-id="62f3e8ad2a8e8000077b013d" tvg-id="62f3e8ad2a8e8000077b013d" tvg-chno="506" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG-1745586573083.png" group-title="Animation",Detective Conan
@@ -183,8 +185,6 @@ https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
 https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
 #EXTINF:-1 channel-id="611e771e2f5f180007002224" tvg-id="611e771e2f5f180007002224" tvg-chno="900" tvg-name="Pluto TV Histoire" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="Documentaire",Pluto TV Histoire
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
-#EXTINF:-1 channel-id="625ec7a1c853fd00073b38fd" tvg-id="625ec7a1c853fd00073b38fd" tvg-chno="120" tvg-name="Pluto TV Héroïnes Fantastiques" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1772442122118.png" group-title="À Binge-Watch",Pluto TV Héroïnes Fantastiques
-https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 #EXTINF:-1 channel-id="5f8ed3892ed7bb000741a1d2" tvg-id="5f8ed3892ed7bb000741a1d2" tvg-chno="825" tvg-name="Pluto TV Inside" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" group-title="Divertissement",Pluto TV Inside
 https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
 #EXTINF:-1 channel-id="5f8ecb336537e8000764a17f" tvg-id="5f8ecb336537e8000764a17f" tvg-chno="1049" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG_1748328452590.png" group-title="Kids",Pluto TV Junior
@@ -205,6 +205,8 @@ https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
 https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
 #EXTINF:-1 channel-id="652557d93fd33c000802f995" tvg-id="652557d93fd33c000802f995" tvg-chno="1000" tvg-name="Pluto TV Super Kids" tvg-logo="https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png" group-title="Kids",Pluto TV Super Kids
 https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
+#EXTINF:-1 channel-id="625ec7a1c853fd00073b38fd" tvg-id="625ec7a1c853fd00073b38fd" tvg-chno="120" tvg-name="Pluto TV Séries Fantastiques" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png" group-title="À Binge-Watch",Pluto TV Séries Fantastiques
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 #EXTINF:-1 channel-id="5f8eba14a4ffb8000764e950" tvg-id="5f8eba14a4ffb8000764e950" tvg-chno="1045" tvg-name="Pluto TV Toons" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG_1749628479570.png" group-title="Kids",Pluto TV Toons
 https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
 #EXTINF:-1 channel-id="678f894ef5c74bff95c20a7f" tvg-id="678f894ef5c74bff95c20a7f" tvg-chno="815" tvg-name="Pêche à haut risque" tvg-logo="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/colorLogoPNG.png" group-title="Divertissement",Pêche à haut risque
@@ -213,10 +215,10 @@ https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
 https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8
 #EXTINF:-1 channel-id="5f8eb8a8b2619a000710605c" tvg-id="5f8eb8a8b2619a000710605c" tvg-chno="1110" tvg-name="Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" group-title="Comédie",Ridiculousness
 https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
+#EXTINF:-1 channel-id="5f8ed2d1c34c2300073bf02c" tvg-id="5f8ed2d1c34c2300073bf02c" tvg-chno="165" tvg-name="Series by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png" group-title="À Binge-Watch",Series by Pluto TV
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1 channel-id="67b4b3c51a5ca760802cc1c7" tvg-id="67b4b3c51a5ca760802cc1c7" tvg-chno="111" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/67b4b3c51a5ca760802cc1c7/colorLogoPNG_1752571349761.png" group-title="À Binge-Watch",Star Trek: The Original Series
 https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8
-#EXTINF:-1 channel-id="5f8ed2d1c34c2300073bf02c" tvg-id="5f8ed2d1c34c2300073bf02c" tvg-chno="165" tvg-name="Séries Girls Club by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1772442205837.png" group-title="À Binge-Watch",Séries Girls Club by Pluto TV
-https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1 channel-id="62f3f05505e621000783df2f" tvg-id="62f3f05505e621000783df2f" tvg-chno="720" tvg-name="Teen Mom" tvg-logo="https://images.pluto.tv/channels/62f3f05505e621000783df2f/colorLogoPNG.png" group-title="TV Réalité",Teen Mom
 https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 #EXTINF:-1 channel-id="5f8ece1a89d79800072510e6" tvg-id="5f8ece1a89d79800072510e6" tvg-chno="350" tvg-name="The Asylum" tvg-logo="https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/colorLogoPNG.png" group-title="Cinéma",The Asylum
