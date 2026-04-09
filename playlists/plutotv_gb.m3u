@@ -49,15 +49,13 @@ https://jmp2.uk/plu-63d91cc58795f30008678e9d.m3u8
 https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8
 #EXTINF:-1 channel-id="660be37e7bcd860008793a6a" tvg-id="660be37e7bcd860008793a6a" tvg-chno="708" tvg-name="Bondi Rescue" tvg-logo="https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png" group-title="Real Life Adventure",Bondi Rescue
 https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8
-#EXTINF:-1 channel-id="650315163a0d700008bb07f8" tvg-id="650315163a0d700008bb07f8" tvg-chno="367" tvg-name="Born to Kill" tvg-logo="https://images.pluto.tv/channels/650315163a0d700008bb07f8/colorLogoPNG_1752723392861.png" group-title="True Crime",Born to Kill
-https://jmp2.uk/plu-650315163a0d700008bb07f8.m3u8
 #EXTINF:-1 channel-id="65031534d545e9000881ed10" tvg-id="65031534d545e9000881ed10" tvg-chno="115" tvg-name="British Screen Classics" tvg-logo="https://images.pluto.tv/channels/65031534d545e9000881ed10/colorLogoPNG.png" group-title="Movies",British Screen Classics
 https://jmp2.uk/plu-65031534d545e9000881ed10.m3u8
 #EXTINF:-1 channel-id="6231eb3865be650007f59595" tvg-id="6231eb3865be650007f59595" tvg-chno="850" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/6231eb3865be650007f59595/colorLogoPNG.png" group-title="News",CBS News 24/7
 https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8
 #EXTINF:-1 channel-id="66dff9d46ad04d0008fda4de" tvg-id="66dff9d46ad04d0008fda4de" tvg-chno="854" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/66dff9d46ad04d0008fda4de/colorLogoPNG_1775159788463.png" group-title="News",CNN Headlines International
 https://jmp2.uk/plu-66dff9d46ad04d0008fda4de.m3u8
-#EXTINF:-1 channel-id="66c45afaa72e7b0008a2b153" tvg-id="66c45afaa72e7b0008a2b153" tvg-chno="855" tvg-name="CNNi" tvg-logo="https://images.pluto.tv/channels/66c45afaa72e7b0008a2b153/colorLogoPNG.png" group-title="News",CNNi
+#EXTINF:-1 channel-id="66c45afaa72e7b0008a2b153" tvg-id="66c45afaa72e7b0008a2b153" tvg-chno="855" tvg-name="CNNi" tvg-logo="https://images.pluto.tv/channels/66c45afaa72e7b0008a2b153/colorLogoPNG_1775663059595.png" group-title="News",CNNi
 https://jmp2.uk/plu-66c45afaa72e7b0008a2b153.m3u8
 #EXTINF:-1 channel-id="661cf62d24e1d000087dae0d" tvg-id="661cf62d24e1d000087dae0d" tvg-chno="707" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/661cf62d24e1d000087dae0d/colorLogoPNG.png" group-title="Real Life Adventure",COPS
 https://jmp2.uk/plu-661cf62d24e1d000087dae0d.m3u8
@@ -77,10 +75,12 @@ https://jmp2.uk/plu-68c8202f5ec82769fdfcd0a2.m3u8
 https://jmp2.uk/plu-6514346fa76507000887d441.m3u8
 #EXTINF:-1 channel-id="667d664815f35c00089489bf" tvg-id="667d664815f35c00089489bf" tvg-chno="308" tvg-name="Corner Gas" tvg-logo="https://images.pluto.tv/channels/667d664815f35c00089489bf/colorLogoPNG.png" group-title="Comedy",Corner Gas
 https://jmp2.uk/plu-667d664815f35c00089489bf.m3u8
-#EXTINF:-1 channel-id="5ea18cd42ee5410007e349dc" tvg-id="5ea18cd42ee5410007e349dc" tvg-chno="365" tvg-name="Crime Investigation" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png" group-title="True Crime",Crime Investigation
+#EXTINF:-1 channel-id="5ea18cd42ee5410007e349dc" tvg-id="5ea18cd42ee5410007e349dc" tvg-chno="365" tvg-name="Crime Investigation Australia" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png" group-title="True Crime",Crime Investigation Australia
 https://jmp2.uk/plu-5ea18cd42ee5410007e349dc.m3u8
 #EXTINF:-1 channel-id="66ba1e23d2d50d00084a1e57" tvg-id="66ba1e23d2d50d00084a1e57" tvg-chno="366" tvg-name="Crimes That Shook Britain" tvg-logo="https://images.pluto.tv/channels/66ba1e23d2d50d00084a1e57/colorLogoPNG.png" group-title="True Crime",Crimes That Shook Britain
 https://jmp2.uk/plu-66ba1e23d2d50d00084a1e57.m3u8
+#EXTINF:-1 channel-id="650315163a0d700008bb07f8" tvg-id="650315163a0d700008bb07f8" tvg-chno="367" tvg-name="Criminal Confessions" tvg-logo="https://images.pluto.tv/channels/650315163a0d700008bb07f8/colorLogoPNG_1775634705053.png" group-title="True Crime",Criminal Confessions
+https://jmp2.uk/plu-650315163a0d700008bb07f8.m3u8
 #EXTINF:-1 channel-id="68b5a7b69ac85c428f54c441" tvg-id="68b5a7b69ac85c428f54c441" tvg-chno="112" tvg-name="Curzon" tvg-logo="https://images.pluto.tv/channels/68b5a7b69ac85c428f54c441/colorLogoPNG_1762359402221.png" group-title="Movies",Curzon
 https://jmp2.uk/plu-68b5a7b69ac85c428f54c441.m3u8
 #EXTINF:-1 channel-id="65b14aae0cb1a100087a216e" tvg-id="65b14aae0cb1a100087a216e" tvg-chno="957" tvg-name="DAZN Ringside" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" group-title="Sports",DAZN Ringside

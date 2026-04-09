@@ -201,8 +201,6 @@ https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8
 #EXTINF:-1 channel-id="66166989635c7500084105a2-ca" tvg-id="66166989635c7500084105a2" tvg-chno="465" tvg-name="Bondi Rescue" tvg-logo="https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png" group-title="Canada",Bondi Rescue
 https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
-#EXTINF:-1 channel-id="650315163a0d700008bb07f8-gb" tvg-id="650315163a0d700008bb07f8" tvg-chno="367" tvg-name="Born to Kill" tvg-logo="https://images.pluto.tv/channels/650315163a0d700008bb07f8/colorLogoPNG_1752723392861.png" group-title="United Kingdom",Born to Kill
-https://jmp2.uk/plu-650315163a0d700008bb07f8.m3u8
 #EXTINF:-1 channel-id="696997049889f8db34c936c2-us" tvg-id="696997049889f8db34c936c2" tvg-chno="4022" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://images.pluto.tv/channels/696997049889f8db34c936c2/colorLogoPNG_1771029425876.png" group-title="United States",Boruto: Naruto Next Generations
 https://jmp2.uk/plu-696997049889f8db34c936c2.m3u8
 #EXTINF:-1 channel-id="6176fd25e83a5f0007a464c9-us" tvg-id="6176fd25e83a5f0007a464c9" tvg-chno="2100" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="United States",Bounce XL
@@ -277,7 +275,7 @@ https://jmp2.uk/plu-66c45c274f25dd00092739ee.m3u8
 https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8
 #EXTINF:-1 channel-id="673248f9030a2c0008033af8-us" tvg-id="673248f9030a2c0008033af8" tvg-chno="4525" tvg-name="CNN XPRESS" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1755019014490.png" group-title="United States",CNN XPRESS
 https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8
-#EXTINF:-1 channel-id="66c45afaa72e7b0008a2b153-gb" tvg-id="66c45afaa72e7b0008a2b153" tvg-chno="855" tvg-name="CNNi" tvg-logo="https://images.pluto.tv/channels/66c45afaa72e7b0008a2b153/colorLogoPNG.png" group-title="United Kingdom",CNNi
+#EXTINF:-1 channel-id="66c45afaa72e7b0008a2b153-gb" tvg-id="66c45afaa72e7b0008a2b153" tvg-chno="855" tvg-name="CNNi" tvg-logo="https://images.pluto.tv/channels/66c45afaa72e7b0008a2b153/colorLogoPNG_1775663059595.png" group-title="United Kingdom",CNNi
 https://jmp2.uk/plu-66c45afaa72e7b0008a2b153.m3u8
 #EXTINF:-1 channel-id="5e1f7e089f23700009d66303-us" tvg-id="5e1f7e089f23700009d66303" tvg-chno="1380" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="United States",COPS
 https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
@@ -385,7 +383,7 @@ https://jmp2.uk/plu-667d664815f35c00089489bf.m3u8
 https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 #EXTINF:-1 channel-id="6601948129adfd0008a1c0ba-ca" tvg-id="6601948129adfd0008a1c0ba" tvg-chno="258" tvg-name="Crime & Justice" tvg-logo="https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png" group-title="Canada",Crime & Justice
 https://jmp2.uk/plu-6601948129adfd0008a1c0ba.m3u8
-#EXTINF:-1 channel-id="5ea18cd42ee5410007e349dc-gb" tvg-id="5ea18cd42ee5410007e349dc" tvg-chno="365" tvg-name="Crime Investigation" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png" group-title="United Kingdom",Crime Investigation
+#EXTINF:-1 channel-id="5ea18cd42ee5410007e349dc-gb" tvg-id="5ea18cd42ee5410007e349dc" tvg-chno="365" tvg-name="Crime Investigation Australia" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png" group-title="United Kingdom",Crime Investigation Australia
 https://jmp2.uk/plu-5ea18cd42ee5410007e349dc.m3u8
 #EXTINF:-1 channel-id="6703a96763292d000836b4fa-ca" tvg-id="6703a96763292d000836b4fa" tvg-chno="257" tvg-name="Crime Up Close" tvg-logo="https://images.pluto.tv/channels/6703a96763292d000836b4fa/colorLogoPNG.png" group-title="Canada",Crime Up Close
 https://jmp2.uk/plu-6703a96763292d000836b4fa.m3u8
@@ -393,6 +391,8 @@ https://jmp2.uk/plu-6703a96763292d000836b4fa.m3u8
 https://jmp2.uk/plu-6732499ce40c4a0008bb9894.m3u8
 #EXTINF:-1 channel-id="66ba1e23d2d50d00084a1e57-gb" tvg-id="66ba1e23d2d50d00084a1e57" tvg-chno="366" tvg-name="Crimes That Shook Britain" tvg-logo="https://images.pluto.tv/channels/66ba1e23d2d50d00084a1e57/colorLogoPNG.png" group-title="United Kingdom",Crimes That Shook Britain
 https://jmp2.uk/plu-66ba1e23d2d50d00084a1e57.m3u8
+#EXTINF:-1 channel-id="650315163a0d700008bb07f8-gb" tvg-id="650315163a0d700008bb07f8" tvg-chno="367" tvg-name="Criminal Confessions" tvg-logo="https://images.pluto.tv/channels/650315163a0d700008bb07f8/colorLogoPNG_1775634705053.png" group-title="United Kingdom",Criminal Confessions
+https://jmp2.uk/plu-650315163a0d700008bb07f8.m3u8
 #EXTINF:-1 channel-id="65653817c917a5000844bc30-us" tvg-id="65653817c917a5000844bc30" tvg-chno="990" tvg-name="Criminal Minds" tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png" group-title="United States",Criminal Minds
 https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
 #EXTINF:-1 channel-id="65652f7fc0fc88000883537a-us" tvg-id="65652f7fc0fc88000883537a" tvg-chno="3990" tvg-name="Crunchyroll" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" group-title="United States",Crunchyroll
@@ -1323,7 +1323,7 @@ https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
 #EXTINF:-1 channel-id="6874ac742704ca31d815b8ed-ca" tvg-id="6874ac742704ca31d815b8ed" tvg-chno="470" tvg-name="Survivor" tvg-logo="https://images.pluto.tv/channels/6874ac742704ca31d815b8ed/colorLogoPNG_1752490474311.png" group-title="Canada",Survivor
 https://jmp2.uk/plu-6874ac742704ca31d815b8ed.m3u8
-#EXTINF:-1 channel-id="683df56f5195c2a60a3f5559-us" tvg-id="683df56f5195c2a60a3f5559" tvg-chno="2905" tvg-name="Swerve Sports" tvg-logo="https://images.pluto.tv/channels/683df56f5195c2a60a3f5559/colorLogoPNG_1750976158732.png" group-title="United States",Swerve Sports
+#EXTINF:-1 channel-id="683df56f5195c2a60a3f5559-us" tvg-id="683df56f5195c2a60a3f5559" tvg-chno="2905" tvg-name="Swerve Women’s Sports" tvg-logo="https://images.pluto.tv/channels/683df56f5195c2a60a3f5559/colorLogoPNG_1775667541424.png" group-title="United States",Swerve Women’s Sports
 https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
 #EXTINF:-1 channel-id="59b722526996084038c01e1b-us" tvg-id="59b722526996084038c01e1b" tvg-chno="2890" tvg-name="TNA Wrestling" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="United States",TNA Wrestling
 https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
@@ -2065,7 +2065,7 @@ https://jmp2.uk/plu-66337e365a402e00087eccaf.m3u8
 https://jmp2.uk/plu-66c45b36a72e7b0008a2b291.m3u8
 #EXTINF:-1 channel-id="66c45ba803e3b20008d8c294-it" tvg-id="66c45ba803e3b20008d8c294" tvg-chno="905" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/66c45ba803e3b20008d8c294/colorLogoPNG_1775159849441.png" group-title="Italy",CNN Headlines International
 https://jmp2.uk/plu-66c45ba803e3b20008d8c294.m3u8
-#EXTINF:-1 channel-id="66c45b1803e3b20008d8c200-de" tvg-id="66c45b1803e3b20008d8c200" tvg-chno="522" tvg-name="CNNi" tvg-logo="https://images.pluto.tv/channels/66c45b1803e3b20008d8c200/colorLogoPNG.png" group-title="Germany",CNNi
+#EXTINF:-1 channel-id="66c45b1803e3b20008d8c200-de" tvg-id="66c45b1803e3b20008d8c200" tvg-chno="522" tvg-name="CNNi" tvg-logo="https://images.pluto.tv/channels/66c45b1803e3b20008d8c200/colorLogoPNG_1775663079265.png" group-title="Germany",CNNi
 https://jmp2.uk/plu-66c45b1803e3b20008d8c200.m3u8
 #EXTINF:-1 channel-id="6554bd45aa9ffb00088e5589-es" tvg-id="6554bd45aa9ffb00088e5589" tvg-chno="156" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png" group-title="Spain",COPS
 https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
@@ -2351,7 +2351,7 @@ https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8
 https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
 #EXTINF:-1 channel-id="691b2b690d121b44ad4a53ef-de" tvg-id="691b2b690d121b44ad4a53ef" tvg-chno="443" tvg-name="Dating hinter Gittern" tvg-logo="https://images.pluto.tv/channels/691b2b690d121b44ad4a53ef/colorLogoPNG_1768906011060.png" group-title="Germany",Dating hinter Gittern
 https://jmp2.uk/plu-691b2b690d121b44ad4a53ef.m3u8
-#EXTINF:-1 channel-id="69aadc5551df9542f2521e1a-fr" tvg-id="69aadc5551df9542f2521e1a" tvg-chno="10" tvg-name="Dawson" tvg-logo="https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/colorLogoPNG_1775030813222.png" group-title="France",Dawson
+#EXTINF:-1 channel-id="69aadc5551df9542f2521e1a-fr" tvg-id="69aadc5551df9542f2521e1a" tvg-chno="10" tvg-name="Dawson" tvg-logo="https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/colorLogoPNG_1775658935857.png" group-title="France",Dawson
 https://jmp2.uk/plu-69aadc5551df9542f2521e1a.m3u8
 #EXTINF:-1 channel-id="69172a4fcf4a1101befdd894-dk" tvg-id="69172a4fcf4a1101befdd894" tvg-chno="5" tvg-name="De unge mødre" tvg-logo="https://images.pluto.tv/channels/69172a4fcf4a1101befdd894/colorLogoPNG_1770030924752.png" group-title="Denmark",De unge mødre
 https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8
