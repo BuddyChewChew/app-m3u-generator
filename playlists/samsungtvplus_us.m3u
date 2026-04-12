@@ -1029,8 +1029,10 @@ https://jmp2.uk/stvp-US190000918
 https://jmp2.uk/stvp-US41000060J
 #EXTINF:-1 channel-id="USBB440002055" tvg-id="USBB440002055" tvg-chno="2487" tvg-name="Waypoint TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20240722T230849SQUARE.png" group-title="Sports & Outdoors",Waypoint TV
 https://jmp2.uk/stvp-USBB440002055
-#EXTINF:-1 channel-id="USBC1500009LD" tvg-id="USBC1500009LD" tvg-chno="1135" tvg-name="WeatherNation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png" group-title="News & Opinion",WeatherNation
-https://jmp2.uk/stvp-USBC1500009LD
+#EXTINF:-1 channel-id="US700004OA" tvg-id="US700004OA" tvg-chno="1123" tvg-name="WBTV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png" group-title="News & Opinion",WBTV News
+https://jmp2.uk/stvp-US700004OA
+#EXTINF:-1 channel-id="US1400004HN" tvg-id="US1400004HN" tvg-chno="1124" tvg-name="WCNC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png" group-title="News & Opinion",WCNC
+https://jmp2.uk/stvp-US1400004HN
 #EXTINF:-1 channel-id="USAJ3400014LK" tvg-id="USAJ3400014LK" tvg-chno="3562" tvg-name="WeatherSpy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400014LK_20240520T214723SQUARE.png" group-title="Nature, History & Science",WeatherSpy
 https://jmp2.uk/stvp-USAJ3400014LK
 #EXTINF:-1 channel-id="USBC3200020QF" tvg-id="USBC3200020QF" tvg-chno="1420" tvg-name="Western Bound" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200020QF_20250623T224734SQUARE.png" group-title="Western & Classic TV",Western Bound
@@ -1053,12 +1055,16 @@ https://jmp2.uk/stvp-US20000131M
 https://jmp2.uk/stvp-USBB4400018LR
 #EXTINF:-1 channel-id="US700010XK" tvg-id="US700010XK" tvg-chno="1833" tvg-name="Witness to Justice" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700010XK_20250915T233927SQUARE.png" group-title="Crime",Witness to Justice
 https://jmp2.uk/stvp-US700010XK
+#EXTINF:-1 channel-id="USBC3200001S5" tvg-id="USBC3200001S5" tvg-chno="1135" tvg-name="WN Charlotte" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png" group-title="News & Opinion",WN Charlotte
+https://jmp2.uk/stvp-USBC3200001S5
 #EXTINF:-1 channel-id="US4100001KP" tvg-id="US4100001KP" tvg-chno="2430" tvg-name="Women's Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100001KP_20241210T013946SQUARE.png" group-title="Sports & Outdoors",Women's Sports Network
 https://jmp2.uk/stvp-US4100001KP
 #EXTINF:-1 channel-id="USBD1700009P5" tvg-id="USBD1700009P5" tvg-chno="2448" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20250602T231543SQUARE.png" group-title="Sports & Outdoors",World Poker Tour
 https://jmp2.uk/stvp-USBD1700009P5
 #EXTINF:-1 channel-id="USBC1000002NP" tvg-id="USBC1000002NP" tvg-chno="1829" tvg-name="World’s Most Evil Killers" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20241014T232212SQUARE.png" group-title="Crime",World’s Most Evil Killers
 https://jmp2.uk/stvp-USBC1000002NP
+#EXTINF:-1 channel-id="USBC1000017D8" tvg-id="USBC1000017D8" tvg-chno="1122" tvg-name="WSOC Charlotte" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png" group-title="News & Opinion",WSOC Charlotte
+https://jmp2.uk/stvp-USBC1000017D8
 #EXTINF:-1 channel-id="US700005ID" tvg-id="US700005ID" tvg-chno="2904" tvg-name="WWE Superstar Central" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png" group-title="Lifestyle & Pop Culture",WWE Superstar Central
 https://jmp2.uk/stvp-US700005ID
 #EXTINF:-1 channel-id="USBB320000647" tvg-id="USBB320000647" tvg-chno="4318" tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png" group-title="Music",XITE 80s Flashback
