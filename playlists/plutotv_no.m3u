@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/no.xml.gz"
-#EXTINF:-1 channel-id="699c162a684d0f308795258f" tvg-id="699c162a684d0f308795258f" tvg-chno="6" tvg-name="21 Jump Street" tvg-logo="https://images.pluto.tv/channels/699c162a684d0f308795258f/colorLogoPNG_1771837011327.png" group-title="Nytt på Pluto TV",21 Jump Street
+#EXTINF:-1 channel-id="699c162a684d0f308795258f" tvg-id="699c162a684d0f308795258f" tvg-chno="7" tvg-name="21 Jump Street" tvg-logo="https://images.pluto.tv/channels/699c162a684d0f308795258f/colorLogoPNG_1771837011327.png" group-title="Nytt på Pluto TV",21 Jump Street
 https://jmp2.uk/plu-699c162a684d0f308795258f.m3u8
 #EXTINF:-1 channel-id="634690323ce5fa0007c621f2" tvg-id="634690323ce5fa0007c621f2" tvg-chno="732" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/634690323ce5fa0007c621f2/colorLogoPNG.png" group-title="True Crime",48 Hours
 https://jmp2.uk/plu-634690323ce5fa0007c621f2.m3u8
@@ -119,7 +119,7 @@ https://jmp2.uk/plu-61781077929e930007c194ee.m3u8
 https://jmp2.uk/plu-654a4f7bf9cc8200086877d5.m3u8
 #EXTINF:-1 channel-id="65cb8bd911ced7000820bff2" tvg-id="65cb8bd911ced7000820bff2" tvg-chno="56" tvg-name="Fangene på Fortet" tvg-logo="https://images.pluto.tv/channels/65cb8bd911ced7000820bff2/colorLogoPNG.png" group-title="Norsk reality og underholdning",Fangene på Fortet
 https://jmp2.uk/plu-65cb8bd911ced7000820bff2.m3u8
-#EXTINF:-1 channel-id="699c1bd39a3f3bb4887e045e" tvg-id="699c1bd39a3f3bb4887e045e" tvg-chno="5" tvg-name="Farscape" tvg-logo="https://images.pluto.tv/channels/699c1bd39a3f3bb4887e045e/colorLogoPNG_1771838500157.png" group-title="Nytt på Pluto TV",Farscape
+#EXTINF:-1 channel-id="699c1bd39a3f3bb4887e045e" tvg-id="699c1bd39a3f3bb4887e045e" tvg-chno="6" tvg-name="Farscape" tvg-logo="https://images.pluto.tv/channels/699c1bd39a3f3bb4887e045e/colorLogoPNG_1771838500157.png" group-title="Nytt på Pluto TV",Farscape
 https://jmp2.uk/plu-699c1bd39a3f3bb4887e045e.m3u8
 #EXTINF:-1 channel-id="698dde17c7f3f49e64e3414a" tvg-id="698dde17c7f3f49e64e3414a" tvg-chno="4" tvg-name="Flipper: The New Adventures" tvg-logo="https://images.pluto.tv/channels/698dde17c7f3f49e64e3414a/colorLogoPNG_1775742020032.png" group-title="Nytt på Pluto TV",Flipper: The New Adventures
 https://jmp2.uk/plu-698dde17c7f3f49e64e3414a.m3u8
@@ -279,9 +279,11 @@ https://jmp2.uk/plu-61814ff322e67b00074a5c43.m3u8
 https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
 #EXTINF:-1 channel-id="660d71e2aec9680008f8f18a" tvg-id="660d71e2aec9680008f8f18a" tvg-chno="164" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/660d71e2aec9680008f8f18a/colorLogoPNG.png" group-title="Sport",Realmadrid TV
 https://jmp2.uk/plu-660d71e2aec9680008f8f18a.m3u8
+#EXTINF:-1 channel-id="699c192688133556bd253602" tvg-id="699c192688133556bd253602" tvg-chno="5" tvg-name="Renegade" tvg-logo="https://images.pluto.tv/channels/699c192688133556bd253602/colorLogoPNG_1771837795164.png" group-title="Nytt på Pluto TV",Renegade
+https://jmp2.uk/plu-699c192688133556bd253602.m3u8
 #EXTINF:-1 channel-id="65e977874e01740008c9fb4c" tvg-id="65e977874e01740008c9fb4c" tvg-chno="914" tvg-name="Reno 911" tvg-logo="https://images.pluto.tv/channels/65e977874e01740008c9fb4c/colorLogoPNG.png" group-title="Komedie",Reno 911
 https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8
-#EXTINF:-1 channel-id="69a162eb762ae48b4302fb7c" tvg-id="69a162eb762ae48b4302fb7c" tvg-chno="7" tvg-name="Retake E-sport Live" tvg-logo="https://images.pluto.tv/channels/69a162eb762ae48b4302fb7c/colorLogoPNG_1772184651598.png" group-title="Nytt på Pluto TV",Retake E-sport Live
+#EXTINF:-1 channel-id="69a162eb762ae48b4302fb7c" tvg-id="69a162eb762ae48b4302fb7c" tvg-chno="8" tvg-name="Retake E-sport Live" tvg-logo="https://images.pluto.tv/channels/69a162eb762ae48b4302fb7c/colorLogoPNG_1772184651598.png" group-title="Nytt på Pluto TV",Retake E-sport Live
 https://jmp2.uk/plu-69a162eb762ae48b4302fb7c.m3u8
 #EXTINF:-1 channel-id="68dfa1a7fae18f8db6218222" tvg-id="68dfa1a7fae18f8db6218222" tvg-chno="512" tvg-name="Ridiculousness - Nye episoder" tvg-logo="https://images.pluto.tv/channels/68dfa1a7fae18f8db6218222/colorLogoPNG_1762510989212.png" group-title="Det beste fra MTV",Ridiculousness - Nye episoder
 https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
