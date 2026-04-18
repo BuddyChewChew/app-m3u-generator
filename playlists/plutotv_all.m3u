@@ -753,6 +753,8 @@ https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
 #EXTINF:-1 channel-id="5e66968a70f34c0007d050be-us" tvg-id="5e66968a70f34c0007d050be" tvg-chno="2810" tvg-name="MLB" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="United States",MLB
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
+#EXTINF:-1 channel-id="690d0a3a1187b68782e27beb-us" tvg-id="690d0a3a1187b68782e27beb" tvg-chno="2945" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/690d0a3a1187b68782e27beb/colorLogoPNG_1763658709514.png" group-title="United States",MODUS Super Series Darts
+https://jmp2.uk/plu-690d0a3a1187b68782e27beb.m3u8
 #EXTINF:-1 channel-id="67063e78b2ffb10008195d08-gb" tvg-id="67063e78b2ffb10008195d08" tvg-chno="962" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/67063e78b2ffb10008195d08/colorLogoPNG.png" group-title="United Kingdom",MODUS Super Series Darts
 https://jmp2.uk/plu-67063e78b2ffb10008195d08.m3u8
 #EXTINF:-1 channel-id="671645c4529ac900080c9a0b-ca" tvg-id="671645c4529ac900080c9a0b" tvg-chno="1315" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671645c4529ac900080c9a0b/colorLogoPNG.png" group-title="Canada",MODUS Super Series Darts
@@ -2853,7 +2855,7 @@ https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
 https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
 #EXTINF:-1 channel-id="6537abf42cf1310008441686-se" tvg-id="6537abf42cf1310008441686" tvg-chno="60" tvg-name="Högspänning" tvg-logo="https://images.pluto.tv/channels/6537abf42cf1310008441686/colorLogoPNG.png" group-title="Sweden",Högspänning
 https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
-#EXTINF:-1 channel-id="62442f28afe626000747f195-it" tvg-id="62442f28afe626000747f195" tvg-chno="50" tvg-name="I Jefferson" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG-1652710570039.png" group-title="Italy",I Jefferson
+#EXTINF:-1 channel-id="62442f28afe626000747f195-it" tvg-id="62442f28afe626000747f195" tvg-chno="51" tvg-name="I Jefferson" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG-1652710570039.png" group-title="Italy",I Jefferson
 https://jmp2.uk/plu-62442f28afe626000747f195.m3u8
 #EXTINF:-1 channel-id="68adb5853efb41cd97ce413d-it" tvg-id="68adb5853efb41cd97ce413d" tvg-chno="705" tvg-name="I Puffi" tvg-logo="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png" group-title="Italy",I Puffi
 https://jmp2.uk/plu-68adb5853efb41cd97ce413d.m3u8
@@ -3867,6 +3869,8 @@ https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
 #EXTINF:-1 channel-id="611e7811eb9daf000764cbfd-fr" tvg-id="611e7811eb9daf000764cbfd" tvg-chno="925" tvg-name="Pluto TV Aventure" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" group-title="France",Pluto TV Aventure
 https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 channel-id="6994800c470389f33df8e090-it" tvg-id="6994800c470389f33df8e090" tvg-chno="50" tvg-name="Pluto TV Azione Cult" tvg-logo="https://images.pluto.tv/channels/6994800c470389f33df8e090/colorLogoPNG_1774006898101.png" group-title="Italy",Pluto TV Azione Cult
+https://jmp2.uk/plu-6994800c470389f33df8e090.m3u8
 #EXTINF:-1 channel-id="663b9dc7cb3ea10008f1a0ce-br" tvg-id="663b9dc7cb3ea10008f1a0ce" tvg-chno="54" tvg-name="Pluto TV Bang Bang" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png" group-title="Brazil",Pluto TV Bang Bang
 https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
 #EXTINF:-1 channel-id="6995daa579545c21a10e84de-es" tvg-id="6995daa579545c21a10e84de" tvg-chno="31" tvg-name="Pluto TV Basadas en libros" tvg-logo="https://images.pluto.tv/channels/6995daa579545c21a10e84de/colorLogoPNG_1774623953804.png" group-title="Spain",Pluto TV Basadas en libros
@@ -4307,8 +4311,6 @@ https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 #EXTINF:-1 channel-id="67d984408d8dc3d7754dccf2-de" tvg-id="67d984408d8dc3d7754dccf2" tvg-chno="246" tvg-name="Pluto TV Nordic Crime" tvg-logo="https://images.pluto.tv/channels/67d984408d8dc3d7754dccf2/colorLogoPNG_1746817551952.png" group-title="Germany",Pluto TV Nordic Crime
 https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
-#EXTINF:-1 channel-id="6911c9b88caba6f046c5ca8f-it" tvg-id="6911c9b88caba6f046c5ca8f" tvg-chno="83" tvg-name="Pluto TV Notti di Crimine" tvg-logo="https://images.pluto.tv/channels/6911c9b88caba6f046c5ca8f/colorLogoPNG_1766041133171.png" group-title="Italy",Pluto TV Notti di Crimine
-https://jmp2.uk/plu-6911c9b88caba6f046c5ca8f.m3u8
 #EXTINF:-1 channel-id="6911c9704316999535eb21cf-it" tvg-id="6911c9704316999535eb21cf" tvg-chno="80" tvg-name="Pluto TV Notti di Passione" tvg-logo="https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png" group-title="Italy",Pluto TV Notti di Passione
 https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
 #EXTINF:-1 channel-id="6911c92b4316999535eb1e08-it" tvg-id="6911c92b4316999535eb1e08" tvg-chno="81" tvg-name="Pluto TV Notti di Sangue" tvg-logo="https://images.pluto.tv/channels/6911c92b4316999535eb1e08/colorLogoPNG_1766041125862.png" group-title="Italy",Pluto TV Notti di Sangue
