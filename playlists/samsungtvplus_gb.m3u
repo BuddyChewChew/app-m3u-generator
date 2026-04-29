@@ -43,8 +43,6 @@ https://jmp2.uk/stvp-GB1700005U8
 https://jmp2.uk/stvp-GB37000128Y
 #EXTINF:-1 channel-id="GBBA3300033C2" tvg-id="GBBA3300033C2" tvg-chno="4572" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300033C2_20260421T123851SQUARE.png" group-title="News",Bloomberg TV+
 https://jmp2.uk/stvp-GBBA3300033C2
-#EXTINF:-1 channel-id="GBBD4100006KV" tvg-id="GBBD4100006KV" tvg-chno="4292" tvg-name="Born to Kill" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20250610T011248SQUARE.png" group-title="Crime",Born to Kill
-https://jmp2.uk/stvp-GBBD4100006KV
 #EXTINF:-1 channel-id="GB32000024G" tvg-id="GB32000024G" tvg-chno="4929" tvg-name="British Screen Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB32000024G_20250107T031100SQUARE.png" group-title="Movies",British Screen Classics
 https://jmp2.uk/stvp-GB32000024G
 #EXTINF:-1 channel-id="GB3500002R8" tvg-id="GB3500002R8" tvg-chno="4003" tvg-name="Bundesliga" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500002R8_20260421T125744SQUARE.png" group-title="Sport",Bundesliga
@@ -79,6 +77,8 @@ https://jmp2.uk/stvp-GB3700008XB
 https://jmp2.uk/stvp-GBBD260000189
 #EXTINF:-1 channel-id="GBBD4100010H1" tvg-id="GBBD4100010H1" tvg-chno="4291" tvg-name="Crime Network" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20260421T125749SQUARE.png" group-title="Crime",Crime Network
 https://jmp2.uk/stvp-GBBD4100010H1
+#EXTINF:-1 channel-id="GBBD4100006KV" tvg-id="GBBD4100006KV" tvg-chno="4292" tvg-name="Criminal Confessions" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20260428T031429SQUARE.png" group-title="Crime",Criminal Confessions
+https://jmp2.uk/stvp-GBBD4100006KV
 #EXTINF:-1 channel-id="GB1400001E4" tvg-id="GB1400001E4" tvg-chno="4425" tvg-name="CURIOSITY Now" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1400001E4_20250107T031103SQUARE.png" group-title="Documentaries",CURIOSITY Now
 https://jmp2.uk/stvp-GB1400001E4
 #EXTINF:-1 channel-id="GBBD3700001AB" tvg-id="GBBD3700001AB" tvg-chno="4293" tvg-name="DATELINE 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3700001AB_20250211T013910SQUARE.png" group-title="Crime",DATELINE 24/7
@@ -123,6 +123,8 @@ https://jmp2.uk/stvp-GBBC2300003ZQ
 https://jmp2.uk/stvp-GB500006EX
 #EXTINF:-1 channel-id="GB2600019ON" tvg-id="GB2600019ON" tvg-chno="4004" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600019ON_20250415T020939SQUARE.png" group-title="News",Euronews LIVE
 https://jmp2.uk/stvp-GB2600019ON
+#EXTINF:-1 channel-id="GB3800003OS" tvg-id="GB3800003OS" tvg-chno="4611" tvg-name="Eurovision Sport" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800003OS_20260428T031432SQUARE.png" group-title="Sport",Eurovision Sport
+https://jmp2.uk/stvp-GB3800003OS
 #EXTINF:-1 channel-id="GB3700011PO" tvg-id="GB3700011PO" tvg-chno="4307" tvg-name="Evidence of Evil" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700011PO_20251111T012230SQUARE.png" group-title="Crime",Evidence of Evil
 https://jmp2.uk/stvp-GB3700011PO
 #EXTINF:-1 channel-id="GB2700003KS" tvg-id="GB2700003KS" tvg-chno="4481" tvg-name="Evolution Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700003KS_20250107T031117SQUARE.png" group-title="Documentaries",Evolution Earth
