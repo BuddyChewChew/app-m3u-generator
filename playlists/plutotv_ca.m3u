@@ -85,8 +85,6 @@ https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 https://jmp2.uk/plu-6540fec1770cf1000866b65b.m3u8
 #EXTINF:-1 channel-id="62e92951c2db99000787c00d" tvg-id="62e92951c2db99000787c00d" tvg-chno="890" tvg-name="Deal or no Deal" tvg-logo="https://images.pluto.tv/channels/62e92951c2db99000787c00d/colorLogoPNG.png" group-title="Game Shows",Deal or no Deal
 https://jmp2.uk/plu-62e92951c2db99000787c00d.m3u8
-#EXTINF:-1 channel-id="62bdaf9cf1bdc500073a8bcb" tvg-id="62bdaf9cf1bdc500073a8bcb" tvg-chno="985" tvg-name="Declassified" tvg-logo="https://images.pluto.tv/channels/62bdaf9cf1bdc500073a8bcb/colorLogoPNG.png" group-title="Documentary + Science",Declassified
-https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8
 #EXTINF:-1 channel-id="62bdaf3470f09a000714a2f6" tvg-id="62bdaf3470f09a000714a2f6" tvg-chno="640" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png" group-title="Drama",Degrassi
 https://jmp2.uk/plu-62bdaf3470f09a000714a2f6.m3u8
 #EXTINF:-1 channel-id="65fd548f29adfd00089c662c" tvg-id="65fd548f29adfd00089c662c" tvg-chno="435" tvg-name="Diagnosis Murder" tvg-logo="https://images.pluto.tv/channels/65fd548f29adfd00089c662c/colorLogoPNG.png" group-title="Crime Drama",Diagnosis Murder
@@ -163,6 +161,8 @@ https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
 https://jmp2.uk/plu-691b012d1148fa1cd8a75d5c.m3u8
 #EXTINF:-1 channel-id="63934c218ef524000757b122" tvg-id="63934c218ef524000757b122" tvg-chno="595" tvg-name="HauntTV" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Paranormal",HauntTV
 https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
+#EXTINF:-1 channel-id="69dd5d7bfcb9bf5e3063cb16" tvg-id="69dd5d7bfcb9bf5e3063cb16" tvg-chno="985" tvg-name="History & Warfare" tvg-logo="https://images.pluto.tv/channels/69dd5d7bfcb9bf5e3063cb16/colorLogoPNG_1778684950927.png" group-title="Documentary + Science",History & Warfare
+https://jmp2.uk/plu-69dd5d7bfcb9bf5e3063cb16.m3u8
 #EXTINF:-1 channel-id="69b83e4169056557a9252f61" tvg-id="69b83e4169056557a9252f61" tvg-chno="100" tvg-name="Hit Sitcoms" tvg-logo="https://images.pluto.tv/channels/69b83e4169056557a9252f61/colorLogoPNG_1773682310878.png" group-title="Comedy",Hit Sitcoms
 https://jmp2.uk/plu-69b83e4169056557a9252f61.m3u8
 #EXTINF:-1 channel-id="62e92967cd663f0007e604fd" tvg-id="62e92967cd663f0007e604fd" tvg-chno="1140" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/62e92967cd663f0007e604fd/colorLogoPNG.png" group-title="Home + Food",Homeful
@@ -343,6 +343,8 @@ https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 channel-id="693bf37b75432d022c85ef01" tvg-id="693bf37b75432d022c85ef01" tvg-chno="540" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png" group-title="Sci-Fi + Fantasy",Stargate
 https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
+#EXTINF:-1 channel-id="6654adb1f99922000854388c" tvg-id="6654adb1f99922000854388c" tvg-chno="45" tvg-name="Summer of Movies" tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png" group-title="Movies",Summer of Movies
+https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 #EXTINF:-1 channel-id="6729d651c7626f0008b5dacf" tvg-id="6729d651c7626f0008b5dacf" tvg-chno="650" tvg-name="Super Channel Hearties" tvg-logo="https://images.pluto.tv/channels/6729d651c7626f0008b5dacf/colorLogoPNG_1767627073238.png" group-title="Drama",Super Channel Hearties
 https://jmp2.uk/plu-6729d651c7626f0008b5dacf.m3u8
 #EXTINF:-1 channel-id="6874ac742704ca31d815b8ed" tvg-id="6874ac742704ca31d815b8ed" tvg-chno="800" tvg-name="Survivor" tvg-logo="https://images.pluto.tv/channels/6874ac742704ca31d815b8ed/colorLogoPNG_1752490474311.png" group-title="Competition Reality",Survivor
