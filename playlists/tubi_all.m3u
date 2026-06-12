@@ -9,6 +9,8 @@ https://live-manifest.production-public.tubi.io/live/f1e8b38c-7c04-4630-9d0d-763
 https://live-manifest.production-public.tubi.io/live/89665105-448b-4e13-b89a-127f3eed0e45/playlist.m3u8
 #EXTINF:-1 tvg-id="653208" tvg-logo="https://canvas-lb.tubitv.com/opts/5dQ1izCyXmvqBg==/e8f543f1-3086-4896-a76e-20e86b782bd3/CHgQeDoFMS4xLjlAAQ==" group-title="Comedy",Always Funny
 https://live-manifest.production-public.tubi.io/live/6181c031-9a68-4206-b0e6-7655f96ab6bc/playlist.m3u8
+#EXTINF:-1 tvg-id="400000295" tvg-logo="https://canvas-lb.tubitv.com/opts/7qSNHXFtmWebGw==/8fd7e5c9-2383-4d34-80ce-b41b5326c193/CHgQeDoFMS4xLjlAAQ==" group-title="FIFA World Cup 2026™ Coverage",Always On | FIFA World Cup™ '26
+https://live-manifest.production-public.tubi.io/live/ce1a1d86-9cb9-4783-861c-50c1b5062980/playlist.m3u8
 #EXTINF:-1 tvg-id="691129" tvg-logo="https://canvas-lb.tubitv.com/opts/W9ioP8rN2WZEdQ==/9804e812-0cda-4c43-b18e-ed951546a0b6/CHgQeDoFMS4xLjlAAQ==" group-title="Good Eats",America's Test Kitchen
 https://live-manifest.production-public.tubi.io/live/c1bdcaaf-728a-4656-9763-f766ea7a12e0/playlist.m3u8
 #EXTINF:-1 tvg-id="682059" tvg-logo="https://canvas-lb.tubitv.com/opts/nDFPtoJN0b7OYw==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjlAAQ==" group-title="Comedy",Anger Management
@@ -25,7 +27,7 @@ https://live-manifest.production-public.tubi.io/live/f5cdc6d4-6e9b-4a1a-8d5c-077
 https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1fcc0aab891/playlist.m3u8
 #EXTINF:-1 tvg-id="400000063" tvg-logo="https://canvas-lb.tubitv.com/opts/KV6JQ9jiJwD74g==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjlAAQ==" group-title="Science & Nature",BBC Earth
 https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
-#EXTINF:-1 tvg-id="613758" tvg-logo="https://canvas-lb.tubitv.com/opts/ZznIonCFpZqA2g==/937ec9ac-b4bd-4c16-863b-75dc816129d7/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",beIN Sports XTRA
+#EXTINF:-1 tvg-id="613758" tvg-logo="https://canvas-lb.tubitv.com/opts/ZznIonCFpZqA2g==/937ec9ac-b4bd-4c16-863b-75dc816129d7/CHgQeDoFMS4xLjlAAQ==" group-title="FIFA World Cup 2026™ Coverage",beIN Sports XTRA
 https://live-manifest.production-public.tubi.io/live/2fd3d156-b63c-47c8-9d04-5961ddd9cee8/playlist.m3u8
 #EXTINF:-1 tvg-id="613759" tvg-logo="https://canvas-lb.tubitv.com/opts/y4jAUpeHq4ELHg==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjlAAQ==" group-title="Español",beIN Sports XTRA En Español
 https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8
@@ -133,13 +135,13 @@ https://live-manifest.production-public.tubi.io/live/8243cded-cf4c-489a-a5f1-6a2
 https://live-manifest.production-public.tubi.io/live/99849dd6-1831-49d8-9cec-408d4e404445/playlist.m3u8
 #EXTINF:-1 tvg-id="613695" tvg-logo="https://canvas-lb.tubitv.com/opts/Rt5VK8q8c6pWvw==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjlAAQ==" group-title="Español",Fox Sports En Español
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:-1 tvg-id="613683" tvg-logo="https://canvas-lb.tubitv.com/opts/50bQ3M9R_pEUzg==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",FOX Sports on Tubi
+#EXTINF:-1 tvg-id="613683" tvg-logo="https://canvas-lb.tubitv.com/opts/50bQ3M9R_pEUzg==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjlAAQ==" group-title="FIFA World Cup 2026™ Coverage",FOX Sports on Tubi
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 #EXTINF:-1 tvg-id="628893" tvg-logo="https://canvas-lb.tubitv.com/opts/GnNXSUczAo3hrg==/ac3a8a9b-0068-488b-a5c6-380f373cc446/CHgQeDoFMS4xLjlAAQ==" group-title="Weather",FOX Weather
 https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8
-#EXTINF:-1 tvg-id="557344" tvg-logo="https://canvas-lb.tubitv.com/opts/ADINZ0CxEk4Nzg==/134cd1d6-d194-49e9-a057-076ea9c0947d/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",Fubo Sports Network
+#EXTINF:-1 tvg-id="557344" tvg-logo="https://canvas-lb.tubitv.com/opts/ADINZ0CxEk4Nzg==/134cd1d6-d194-49e9-a057-076ea9c0947d/CHgQeDoFMS4xLjlAAQ==" group-title="FIFA World Cup 2026™ Coverage",Fubo Sports Network
 https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8
-#EXTINF:-1 tvg-id="400000284" tvg-logo="https://canvas-lb.tubitv.com/opts/eI1d7cSPZQFhOQ==/67bea288-0819-444f-80ed-33c65e5fc502/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",Futcrunch
+#EXTINF:-1 tvg-id="400000284" tvg-logo="https://canvas-lb.tubitv.com/opts/eI1d7cSPZQFhOQ==/67bea288-0819-444f-80ed-33c65e5fc502/CHgQeDoFMS4xLjlAAQ==" group-title="FIFA World Cup 2026™ Coverage",Futcrunch
 https://live-manifest.production-public.tubi.io/live/d1356c7e-a1a7-4cc7-8a33-563f287531a6/playlist.m3u8
 #EXTINF:-1 tvg-id="673411" tvg-logo="https://canvas-lb.tubitv.com/opts/ZiXULUiKSeFNHQ==/6f7f3b3f-a050-4254-82eb-2c705dab77a6/CHgQeDoFMS4xLjlAAQ==" group-title="Games & Competition",Game Show Central
 https://live-manifest.production-public.tubi.io/live/94afd871-77af-49a7-b040-10b1a9cbcddd/playlist.m3u8
@@ -177,7 +179,7 @@ https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd
 https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
 #EXTINF:-1 tvg-id="684165" tvg-logo="https://canvas-lb.tubitv.com/opts/i_iUUrOlkunMhA==/979fd7e0-d2df-4c2b-90d0-af690c9405cb/CHgQeDoFMS4xLjlAAQ==" group-title="TV Dramas",ION Plus
 https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8
-#EXTINF:-1 tvg-id="400000296" tvg-logo="https://canvas-lb.tubitv.com/opts/f0Sr69MF832Sjg==/70ee8b58-bb2f-4860-95a4-cc78382fd3be/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",Jesser
+#EXTINF:-1 tvg-id="400000296" tvg-logo="https://canvas-lb.tubitv.com/opts/f0Sr69MF832Sjg==/70ee8b58-bb2f-4860-95a4-cc78382fd3be/CHgQeDoFMS4xLjlAAQ==" group-title="FIFA World Cup 2026™ Coverage",Jesser
 https://live-manifest.production-public.tubi.io/live/82a813ec-c9e6-4a9d-b967-6f30b7e5f78a/playlist.m3u8
 #EXTINF:-1 tvg-id="400000287" tvg-logo="https://canvas-lb.tubitv.com/opts/WXg--EMARkp8-A==/65c250e3-cda5-4181-b7d2-94be0ae1a88f/CHgQeDoFMS4xLjlAAQ==" group-title="Pop Culture",Jubilee
 https://live-manifest.production-public.tubi.io/live/8a2841ab-5bd2-41d1-b93f-ce531ebc5e2a/playlist.m3u8
@@ -243,13 +245,13 @@ https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad9
 https://live-manifest.production-public.tubi.io/live/a85525c7-da51-4d48-87bc-d5de1e7ca02f/playlist.m3u8
 #EXTINF:-1 tvg-id="400000045" tvg-logo="https://canvas-lb.tubitv.com/opts/MBvtJt_BcDScDg==/3a6b2ab5-d20e-4b25-9231-65bc11c8b3c0/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",PokerGO
 https://live-manifest.production-public.tubi.io/live/66b710ce-f250-41d7-a052-7c4353f5e77d/playlist.m3u8
-#EXTINF:-1 tvg-id="613762" tvg-logo="https://canvas-lb.tubitv.com/opts/0eZIOEWFj-zM3A==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",Real Madrid
+#EXTINF:-1 tvg-id="613762" tvg-logo="https://canvas-lb.tubitv.com/opts/0eZIOEWFj-zM3A==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjlAAQ==" group-title="FIFA World Cup 2026™ Coverage",Real Madrid
 https://live-manifest.production-public.tubi.io/live/5cfbe5af-a9c2-45cc-ade9-8e13e39fa2d0/playlist.m3u8
 #EXTINF:-1 tvg-id="641290" tvg-logo="https://canvas-lb.tubitv.com/opts/ugZA0exwfgSpHA==/942bdeac-9411-4562-a78c-5402d04711a7/CHgQeDoFMS4xLjlAAQ==" group-title="Pop Culture",REELZ Famous & Infamous
 https://live-manifest.production-public.tubi.io/live/6e2a5ee3-d2ea-44db-bc14-b4d3e85442c2/playlist.m3u8
 #EXTINF:-1 tvg-id="578086" tvg-logo="https://canvas-lb.tubitv.com/opts/W-Z-xUm9GB3tRQ==/d7933070-b9eb-4ce4-9c59-9631dd5815be/CHgQeDoFMS4xLjlAAQ==" group-title="National News",Scripps News
 https://live-manifest.production-public.tubi.io/live/95479c29-c997-4f1d-9feb-b5a4981504aa/playlist.m3u8
-#EXTINF:-1 tvg-id="400000286" tvg-logo="https://canvas-lb.tubitv.com/opts/bee-OUuto3TH9w==/73b2cd96-916d-4081-b14f-c6f503ebf2be/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",Scripps Sports Network
+#EXTINF:-1 tvg-id="400000286" tvg-logo="https://canvas-lb.tubitv.com/opts/bee-OUuto3TH9w==/73b2cd96-916d-4081-b14f-c6f503ebf2be/CHgQeDoFMS4xLjlAAQ==" group-title="FIFA World Cup 2026™ Coverage",Scripps Sports Network
 https://live-manifest.production-public.tubi.io/live/001d9604-4483-4da4-9504-dc20fa2cd168/playlist.m3u8
 #EXTINF:-1 tvg-id="400000064" tvg-logo="https://canvas-lb.tubitv.com/opts/dt0VWOtvi4zTRw==/2601f920-7f1b-4a8f-a583-00b77ede189e/CHgQeDoFMS4xLjlAAQ==" group-title="Mystery",Silent Witness and New Tricks
 https://live-manifest.production-public.tubi.io/live/0dbee090-5f28-4184-8d79-95fe8756904b/playlist.m3u8
