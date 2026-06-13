@@ -53,7 +53,7 @@ https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
 https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
 #EXTINF:-1 channel-id="60c716084d842c00085f6e64" tvg-id="60c716084d842c00085f6e64" tvg-chno="351" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" group-title="South Park",Comedy Central South Park
 https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
-#EXTINF:-1 channel-id="64b67f0424ade50008a3be17" tvg-id="64b67f0424ade50008a3be17" tvg-chno="90" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Live Sports",DAZN Darts x Pluto TV
+#EXTINF:-1 channel-id="64b67f0424ade50008a3be17" tvg-id="64b67f0424ade50008a3be17" tvg-chno="89" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Live Sports",DAZN Darts x Pluto TV
 https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 #EXTINF:-1 channel-id="6683f7fe36a2f9000804940c" tvg-id="6683f7fe36a2f9000804940c" tvg-chno="93" tvg-name="DAZN Handball x Pluto TV" tvg-logo="https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/colorLogoPNG.png" group-title="Live Sports",DAZN Handball x Pluto TV
 https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
@@ -311,6 +311,8 @@ https://jmp2.uk/plu-64be635a40962900080aaca5.m3u8
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 #EXTINF:-1 channel-id="65b9268fc798e800085add89" tvg-id="65b9268fc798e800085add89" tvg-chno="298" tvg-name="SPIEGEL TV Konflikte" tvg-logo="https://images.pluto.tv/channels/65b9268fc798e800085add89/colorLogoPNG.png" group-title="Dokus + Wissen",SPIEGEL TV Konflikte
 https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
+#EXTINF:-1 channel-id="68d669f9508ba507f075b5fe" tvg-id="68d669f9508ba507f075b5fe" tvg-chno="90" tvg-name="SUMO Paris 2026" tvg-logo="https://images.pluto.tv/channels/68d669f9508ba507f075b5fe/colorLogoPNG_1760526697414.png" group-title="Live Sports",SUMO Paris 2026
+https://jmp2.uk/plu-68d669f9508ba507f075b5fe.m3u8
 #EXTINF:-1 channel-id="622f40c901d4b70007ad7609" tvg-id="622f40c901d4b70007ad7609" tvg-chno="58" tvg-name="Sabrina - Total verhext!" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" group-title="Sitcoms + Comedy",Sabrina - Total verhext!
 https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 #EXTINF:-1 channel-id="666fe4768768aa0008c31ddf" tvg-id="666fe4768768aa0008c31ddf" tvg-chno="185" tvg-name="Saving Hope" tvg-logo="https://images.pluto.tv/channels/666fe4768768aa0008c31ddf/colorLogoPNG_1768982344485.png" group-title="Serien-Marathon",Saving Hope
