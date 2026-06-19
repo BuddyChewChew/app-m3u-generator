@@ -263,6 +263,8 @@ https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
 https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
 #EXTINF:-1 channel-id="69c592dff0f1a7d732dc6e36" tvg-id="69c592dff0f1a7d732dc6e36" tvg-chno="1302" tvg-name="Pluto TV Cars" tvg-logo="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png" group-title="Sports",Pluto TV Cars
 https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
+#EXTINF:-1 channel-id="696e61287d2afdec4ff2cb75" tvg-id="696e61287d2afdec4ff2cb75" tvg-chno="315" tvg-name="Pluto TV Classic TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/696e61287d2afdec4ff2cb75/colorLogoPNG_1768842232781.png" group-title="Classic TV",Pluto TV Classic TV Crime Drama
+https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1 channel-id="62e91af00c43540007f2bb43" tvg-id="62e91af00c43540007f2bb43" tvg-chno="240" tvg-name="Pluto TV Classic TV Families" tvg-logo="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png" group-title="Classic TV Comedy",Pluto TV Classic TV Families
 https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
 #EXTINF:-1 channel-id="68d25c623175a2780d051d3a" tvg-id="68d25c623175a2780d051d3a" tvg-chno="300" tvg-name="Pluto TV Classic TV Variety" tvg-logo="https://images.pluto.tv/channels/68d25c623175a2780d051d3a/colorLogoPNG_1758809678864.png" group-title="Classic TV",Pluto TV Classic TV Variety
@@ -303,8 +305,6 @@ https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
 #EXTINF:-1 channel-id="681b16158f97d58ff194a3a9" tvg-id="681b16158f97d58ff194a3a9" tvg-chno="815" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/681b16158f97d58ff194a3a9/colorLogoPNG_1746816920521.png" group-title="Competition Reality",Project Runway
 https://jmp2.uk/plu-681b16158f97d58ff194a3a9.m3u8
-#EXTINF:-1 channel-id="696e61287d2afdec4ff2cb75" tvg-id="696e61287d2afdec4ff2cb75" tvg-chno="315" tvg-name="Puto TV Classic TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/696e61287d2afdec4ff2cb75/colorLogoPNG_1768842232781.png" group-title="Classic TV",Puto TV Classic TV Crime Drama
-https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1 channel-id="64240d3d466225000827412b" tvg-id="64240d3d466225000827412b" tvg-chno="1410" tvg-name="Qello Concerts" tvg-logo="https://images.pluto.tv/channels/64240d3d466225000827412b/colorLogoPNG.png" group-title="Music",Qello Concerts
 https://jmp2.uk/plu-64240d3d466225000827412b.m3u8
 #EXTINF:-1 channel-id="62cc1e1e0d0611000837dc1d" tvg-id="62cc1e1e0d0611000837dc1d" tvg-chno="1010" tvg-name="Radio-Canada INFO" tvg-logo="https://images.pluto.tv/channels/62cc1e1e0d0611000837dc1d/colorLogoPNG.png" group-title="News + Opinion",Radio-Canada INFO
