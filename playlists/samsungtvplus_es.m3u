@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/es.xml.gz"
-#EXTINF:-1 channel-id="ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-chno="4551" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260224T030740SQUARE.png" group-title="Noticias",24H
+#EXTINF:-1 channel-id="ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-chno="4551" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260622T063654SQUARE.png" group-title="Noticias",24H
 https://jmp2.uk/stvp-ESBC4100004J1
 #EXTINF:-1 channel-id="ES4700001VS" tvg-id="ES4700001VS" tvg-chno="4219" tvg-name="2M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20260224T030748SQUARE.png" group-title="Entretenimiento",2M
 https://jmp2.uk/stvp-ES4700001VS
@@ -49,13 +49,13 @@ https://jmp2.uk/stvp-ESBD800001RJ
 https://jmp2.uk/stvp-ES2300005G7
 #EXTINF:-1 channel-id="ESBC2700011AZ" tvg-id="ESBC2700011AZ" tvg-chno="4872" tvg-name="Cines Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Cine",Cines Verdi TV
 https://jmp2.uk/stvp-ESBC2700011AZ
-#EXTINF:-1 channel-id="ESBC4100003WE" tvg-id="ESBC4100003WE" tvg-chno="4771" tvg-name="Clan" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260224T030737SQUARE.png" group-title="Niños",Clan
+#EXTINF:-1 channel-id="ESBC4100003WE" tvg-id="ESBC4100003WE" tvg-chno="4771" tvg-name="Clan" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260622T063701SQUARE.png" group-title="Niños",Clan
 https://jmp2.uk/stvp-ESBC4100003WE
 #EXTINF:-1 channel-id="ES32000027M" tvg-id="ES32000027M" tvg-chno="4748" tvg-name="CLIPS don't lie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250729T045050SQUARE.png" group-title="Música & ambiente",CLIPS don't lie
 https://jmp2.uk/stvp-ES32000027M
 #EXTINF:-1 channel-id="ESBD36000026Z" tvg-id="ESBD36000026Z" tvg-chno="4563" tvg-name="CNBC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20260317T034118SQUARE.png" group-title="Noticias",CNBC
 https://jmp2.uk/stvp-ESBD36000026Z
-#EXTINF:-1 channel-id="ES34000039I" tvg-id="ES34000039I" tvg-chno="4569" tvg-name="CNN en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png" group-title="Noticias",CNN en Español
+#EXTINF:-1 channel-id="ES34000039I" tvg-id="ES34000039I" tvg-chno="4569" tvg-name="CNN en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20260622T063630SQUARE.png" group-title="Noticias",CNN en Español
 https://jmp2.uk/stvp-ES34000039I
 #EXTINF:-1 channel-id="ESBD190000137" tvg-id="ESBD190000137" tvg-chno="4561" tvg-name="CNN Headlines International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20260331T032325SQUARE.png" group-title="Noticias",CNN Headlines International
 https://jmp2.uk/stvp-ESBD190000137
@@ -149,15 +149,15 @@ https://jmp2.uk/stvp-ESBC2700008SK
 https://jmp2.uk/stvp-ESBD4100001DU
 #EXTINF:-1 channel-id="ES3900001QG" tvg-id="ES3900001QG" tvg-chno="4750" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png" group-title="Música & ambiente",K-POP by CJ ENM
 https://jmp2.uk/stvp-ES3900001QG
-#EXTINF:-1 channel-id="ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-chno="4001" tvg-name="La 1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20260609T042957SQUARE.png" group-title="Entretenimiento",La 1
+#EXTINF:-1 channel-id="ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-chno="4001" tvg-name="La 1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20260622T063708SQUARE.png" group-title="Entretenimiento",La 1
 https://jmp2.uk/stvp-ESBC4100001NZ
-#EXTINF:-1 channel-id="ESBC4100002AG" tvg-id="ESBC4100002AG" tvg-chno="4035" tvg-name="La 2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20260224T030735SQUARE.png" group-title="Entretenimiento",La 2
+#EXTINF:-1 channel-id="ESBC4100002AG" tvg-id="ESBC4100002AG" tvg-chno="4035" tvg-name="La 2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20260622T063715SQUARE.png" group-title="Entretenimiento",La 2
 https://jmp2.uk/stvp-ESBC4100002AG
 #EXTINF:-1 channel-id="ESBD3200002V5" tvg-id="ESBD3200002V5" tvg-chno="4803" tvg-name="La Abeja Maya" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png" group-title="Niños",La Abeja Maya
 https://jmp2.uk/stvp-ESBD3200002V5
 #EXTINF:-1 channel-id="ES1600002QL" tvg-id="ES1600002QL" tvg-chno="4347" tvg-name="La Fiebre del Jade" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png" group-title="Documentales",La Fiebre del Jade
 https://jmp2.uk/stvp-ES1600002QL
-#EXTINF:-1 channel-id="ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-chno="4633" tvg-name="La Liga Inside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="Deporte",La Liga Inside
+#EXTINF:-1 channel-id="ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-chno="4633" tvg-name="La Liga Inside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20260622T063635SQUARE.png" group-title="Deporte",La Liga Inside
 https://jmp2.uk/stvp-ESBD3600001Q1
 #EXTINF:-1 channel-id="ES4400001N3" tvg-id="ES4400001N3" tvg-chno="4817" tvg-name="Las 3 Mellizas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400001N3_20260421T125609SQUARE.png" group-title="Niños",Las 3 Mellizas
 https://jmp2.uk/stvp-ES4400001N3
@@ -175,7 +175,7 @@ https://jmp2.uk/stvp-ES2800002MM
 https://jmp2.uk/stvp-ES4400004OX
 #EXTINF:-1 channel-id="ES700006IP" tvg-id="ES700006IP" tvg-chno="4747" tvg-name="Metallica Takeover" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700006IP_20260528T055807SQUARE.png" group-title="Música & ambiente",Metallica Takeover
 https://jmp2.uk/stvp-ES700006IP
-#EXTINF:-1 channel-id="ES4400002LI" tvg-id="ES4400002LI" tvg-chno="4221" tvg-name="Mi Casa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400002LI_20260505T035715SQUARE.png" group-title="Entretenimiento",Mi Casa
+#EXTINF:-1 channel-id="ES4400002LI" tvg-id="ES4400002LI" tvg-chno="4221" tvg-name="Mi Casa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400002LI_20260622T063722SQUARE.png" group-title="Entretenimiento",Mi Casa
 https://jmp2.uk/stvp-ES4400002LI
 #EXTINF:-1 channel-id="ESBD3200001EG" tvg-id="ESBD3200001EG" tvg-chno="4658" tvg-name="Motorvision" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png" group-title="Deporte",Motorvision
 https://jmp2.uk/stvp-ESBD3200001EG
@@ -235,9 +235,9 @@ https://jmp2.uk/stvp-ESBD2300003S5
 https://jmp2.uk/stvp-ES1800006ZS
 #EXTINF:-1 channel-id="ES51000017V" tvg-id="ES51000017V" tvg-chno="4663" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES51000017V_20260120T031334SQUARE.png" group-title="Deporte",Rally.TV FAST+
 https://jmp2.uk/stvp-ES51000017V
-#EXTINF:-1 channel-id="ES2600008NX" tvg-id="ES2600008NX" tvg-chno="4815" tvg-name="Rantaró, El Ninja Boy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600008NX_20241210T052643SQUARE.png" group-title="Niños",Rantaró El Ninja Boy
+#EXTINF:-1 channel-id="ES2600008NX" tvg-id="ES2600008NX" tvg-chno="4815" tvg-name="Rantaró, El Ninja Boy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600008NX_20260622T063640SQUARE.png" group-title="Niños",Rantaró El Ninja Boy
 https://jmp2.uk/stvp-ES2600008NX
-#EXTINF:-1 channel-id="ES3600001Y7" tvg-id="ES3600001Y7" tvg-chno="4003" tvg-name="Rebelde" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260609T043014SQUARE.png" group-title="Telenovela",Rebelde
+#EXTINF:-1 channel-id="ES3600001Y7" tvg-id="ES3600001Y7" tvg-chno="4003" tvg-name="Rebelde" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260622T063730SQUARE.png" group-title="Telenovela",Rebelde
 https://jmp2.uk/stvp-ES3600001Y7
 #EXTINF:-1 channel-id="ES3800001V1" tvg-id="ES3800001V1" tvg-chno="4609" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png" group-title="Deporte",Red Bull TV
 https://jmp2.uk/stvp-ES3800001V1
@@ -277,7 +277,7 @@ https://jmp2.uk/stvp-ES200041FT
 https://jmp2.uk/stvp-ES200040YF
 #EXTINF:-1 channel-id="ES3400004SS" tvg-id="ES3400004SS" tvg-chno="4571" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400004SS_20250624T020505SQUARE.png" group-title="Noticias",Sky News International
 https://jmp2.uk/stvp-ES3400004SS
-#EXTINF:-1 channel-id="ES1000001EF" tvg-id="ES1000001EF" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20260528T055643SQUARE.png" group-title="Música & ambiente",SMTOWN
+#EXTINF:-1 channel-id="ES1000001EF" tvg-id="ES1000001EF" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20260622T063625SQUARE.png" group-title="Música & ambiente",SMTOWN
 https://jmp2.uk/stvp-ES1000001EF
 #EXTINF:-1 channel-id="ESBD2300004Y7" tvg-id="ESBD2300004Y7" tvg-chno="4740" tvg-name="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="Música & ambiente",Sol Música
 https://jmp2.uk/stvp-ESBD2300004Y7
@@ -307,7 +307,7 @@ https://jmp2.uk/stvp-ESBD5100001G0
 https://jmp2.uk/stvp-ES3400002PY
 #EXTINF:-1 channel-id="ESBC4700003RJ" tvg-id="ESBC4700003RJ" tvg-chno="4215" tvg-name="Teen Vee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241106T142207SQUARE.png" group-title="Entretenimiento",Teen Vee
 https://jmp2.uk/stvp-ESBC4700003RJ
-#EXTINF:-1 channel-id="ESBC410000577" tvg-id="ESBC410000577" tvg-chno="4002" tvg-name="Teledeporte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260609T043038SQUARE.png" group-title="Deporte",Teledeporte
+#EXTINF:-1 channel-id="ESBC410000577" tvg-id="ESBC410000577" tvg-chno="4002" tvg-name="Teledeporte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260622T063739SQUARE.png" group-title="Deporte",Teledeporte
 https://jmp2.uk/stvp-ESBC410000577
 #EXTINF:-1 channel-id="ESBD2600001ME" tvg-id="ESBD2600001ME" tvg-chno="4603" tvg-name="Tennis Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250923T011606SQUARE.png" group-title="Deporte",Tennis Channel
 https://jmp2.uk/stvp-ESBD2600001ME
@@ -335,9 +335,9 @@ https://jmp2.uk/stvp-ESBA3300042Y6
 https://jmp2.uk/stvp-ESBA3300043M0
 #EXTINF:-1 channel-id="ESBC1700004PX" tvg-id="ESBC1700004PX" tvg-chno="4868" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" group-title="Cine",Trailers
 https://jmp2.uk/stvp-ESBC1700004PX
-#EXTINF:-1 channel-id="ES70000710" tvg-id="ES70000710" tvg-chno="4204" tvg-name="Ubeat Lite" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES70000710_20260421T123711SQUARE.png" group-title="Entretenimiento",Ubeat Lite
+#EXTINF:-1 channel-id="ES70000710" tvg-id="ES70000710" tvg-chno="4204" tvg-name="Ubeat Lite" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES70000710_20260622T063647SQUARE.png" group-title="Entretenimiento",Ubeat Lite
 https://jmp2.uk/stvp-ES70000710
-#EXTINF:-1 channel-id="ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-chno="4683" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png" group-title="Música & ambiente",Vevo Latino
+#EXTINF:-1 channel-id="ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-chno="4683" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20260622T063755SQUARE.png" group-title="Música & ambiente",Vevo Latino
 https://jmp2.uk/stvp-ESBC2100002LV
 #EXTINF:-1 channel-id="ESBC2100001IU" tvg-id="ESBC2100001IU" tvg-chno="4689" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png" group-title="Música & ambiente",Vevo Pop
 https://jmp2.uk/stvp-ESBC2100001IU
