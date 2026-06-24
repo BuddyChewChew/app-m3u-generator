@@ -21,7 +21,7 @@ https://jmp2.uk/stvp-GB2300005ML
 https://jmp2.uk/stvp-GB2000955S
 #EXTINF:-1 channel-id="GB200096O2" tvg-id="GB200096O2" tvg-chno="4072" tvg-name="AMC Reality" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200096O2_20260210T040020SQUARE.png" group-title="Reality",AMC Reality
 https://jmp2.uk/stvp-GB200096O2
-#EXTINF:-1 channel-id="GBBC2300002GG" tvg-id="GBBC2300002GG" tvg-chno="4002" tvg-name="America's Got Talent" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20260622T064035SQUARE.png" group-title="Reality",America's Got Talent
+#EXTINF:-1 channel-id="GBBC2300002GG" tvg-id="GBBC2300002GG" tvg-chno="4064" tvg-name="America's Got Talent" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20260622T064035SQUARE.png" group-title="Reality",America's Got Talent
 https://jmp2.uk/stvp-GBBC2300002GG
 #EXTINF:-1 channel-id="GBBC2300001X5" tvg-id="GBBC2300001X5" tvg-chno="4065" tvg-name="American Idol" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260528T054034SQUARE.png" group-title="Reality",American Idol
 https://jmp2.uk/stvp-GBBC2300001X5
@@ -295,6 +295,8 @@ https://jmp2.uk/stvp-GBBC900003B2
 https://jmp2.uk/stvp-GB300033HI
 #EXTINF:-1 channel-id="GB180001295" tvg-id="GB180001295" tvg-chno="4768" tvg-name="Ocean Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB180001295_20260528T054140SQUARE.png" group-title="Music & Ambient",Ocean Vibes
 https://jmp2.uk/stvp-GB180001295
+#EXTINF:-1 channel-id="GB4700003NV" tvg-id="GB4700003NV" tvg-chno="4621" tvg-name="Padel Time TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4700003NV_20260622T064044SQUARE.png" group-title="Sport",Padel Time TV
+https://jmp2.uk/stvp-GB4700003NV
 #EXTINF:-1 channel-id="GB300036IM" tvg-id="GB300036IM" tvg-chno="4605" tvg-name="PGA Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300036IM_20250218T040040SQUARE.png" group-title="Sport",PGA Tour
 https://jmp2.uk/stvp-GB300036IM
 #EXTINF:-1 channel-id="GB270001473" tvg-id="GB270001473" tvg-chno="4500" tvg-name="PICK Monkey Rescue" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB270001473_20260407T040237SQUARE.png" group-title="Nature",PICK Monkey Rescue
@@ -389,7 +391,7 @@ https://jmp2.uk/stvp-GB1000001G0
 https://jmp2.uk/stvp-GBBD1300001WA
 #EXTINF:-1 channel-id="GB370000369" tvg-id="GB370000369" tvg-chno="4810" tvg-name="Sonic The Hedgehog" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB370000369_20250107T031224SQUARE.png" group-title="Kids",Sonic The Hedgehog
 https://jmp2.uk/stvp-GB370000369
-#EXTINF:-1 channel-id="GB3000041I" tvg-id="GB3000041I" tvg-chno="4996" tvg-name="Sony One Action HITS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20260622T064048SQUARE.png" group-title="Movies",Sony One Action HITS
+#EXTINF:-1 channel-id="GB3000041I" tvg-id="GB3000041I" tvg-chno="4002" tvg-name="Sony One Action HITS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20260622T064048SQUARE.png" group-title="Movies",Sony One Action HITS
 https://jmp2.uk/stvp-GB3000041I
 #EXTINF:-1 channel-id="GB300003UI" tvg-id="GB300003UI" tvg-chno="4905" tvg-name="Sony One Comedy HITS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260421T123812SQUARE.png" group-title="Movies",Sony One Comedy HITS
 https://jmp2.uk/stvp-GB300003UI
@@ -407,6 +409,8 @@ https://jmp2.uk/stvp-GBBD1100009M9
 https://jmp2.uk/stvp-GB3800007C5
 #EXTINF:-1 channel-id="GBAJ400042T1" tvg-id="GBAJ400042T1" tvg-chno="4892" tvg-name="Sparkle Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ400042T1_20250107T025804SQUARE.png" group-title="Movies",Sparkle Movies
 https://jmp2.uk/stvp-GBAJ400042T1
+#EXTINF:-1 channel-id="GB380000473" tvg-id="GB380000473" tvg-chno="4616" tvg-name="Sports First TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB380000473_20260622T064057SQUARE.png" group-title="Sport",Sports First TV
+https://jmp2.uk/stvp-GB380000473
 #EXTINF:-1 channel-id="GB1800013A2" tvg-id="GB1800013A2" tvg-chno="4766" tvg-name="Spring Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800013A2_20260528T054211SQUARE.png" group-title="Music & Ambient",Spring Vibes
 https://jmp2.uk/stvp-GB1800013A2
 #EXTINF:-1 channel-id="GB1900005OD" tvg-id="GB1900005OD" tvg-chno="4764" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1900005OD_20260528T054221SQUARE.png" group-title="Music & Ambient",Storm Vibes
