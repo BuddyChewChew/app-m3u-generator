@@ -67,7 +67,7 @@ https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
 https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
 #EXTINF:-1 channel-id="61e82af27027f9000753c6e4" tvg-id="61e82af27027f9000753c6e4" tvg-chno="931" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/61e82af27027f9000753c6e4/colorLogoPNG.png" group-title="News",CBS News 24/7
 https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8
-#EXTINF:-1 channel-id="69c2940612e978ee4920d9b0" tvg-id="69c2940612e978ee4920d9b0" tvg-chno="1" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/69c2940612e978ee4920d9b0/colorLogoPNG_1779186474278.png" group-title="Nyt på Pluto TV",CNN Headlines International
+#EXTINF:-1 channel-id="69c2940612e978ee4920d9b0" tvg-id="69c2940612e978ee4920d9b0" tvg-chno="2" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/69c2940612e978ee4920d9b0/colorLogoPNG_1779186474278.png" group-title="Nyt på Pluto TV",CNN Headlines International
 https://jmp2.uk/plu-69c2940612e978ee4920d9b0.m3u8
 #EXTINF:-1 channel-id="6400bc50953da40008b94668" tvg-id="6400bc50953da40008b94668" tvg-chno="853" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6400bc50953da40008b94668/colorLogoPNG.png" group-title="True Crime",COPS
 https://jmp2.uk/plu-6400bc50953da40008b94668.m3u8
@@ -163,6 +163,8 @@ https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8
 https://jmp2.uk/plu-6400c095498393000878a634.m3u8
 #EXTINF:-1 channel-id="6969fc6c3b9ce349c9e41670" tvg-id="6969fc6c3b9ce349c9e41670" tvg-chno="112" tvg-name="Fristet" tvg-logo="https://images.pluto.tv/channels/6969fc6c3b9ce349c9e41670/colorLogoPNG_1774366158444.png" group-title="Dansk reality & underholdning",Fristet
 https://jmp2.uk/plu-6969fc6c3b9ce349c9e41670.m3u8
+#EXTINF:-1 channel-id="69afee21684d0f30872ca3e6" tvg-id="69afee21684d0f30872ca3e6" tvg-chno="1" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee21684d0f30872ca3e6/colorLogoPNG_1778675384556.png" group-title="Nyt på Pluto TV",From Dusk Till Dawn: The Series
+https://jmp2.uk/plu-69afee21684d0f30872ca3e6.m3u8
 #EXTINF:-1 channel-id="6442512cee6a2f0008d3351f" tvg-id="6442512cee6a2f0008d3351f" tvg-chno="513" tvg-name="Geordie Shore" tvg-logo="https://images.pluto.tv/channels/6442512cee6a2f0008d3351f/colorLogoPNG.png" group-title="Det bedste fra MTV",Geordie Shore
 https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8
 #EXTINF:-1 channel-id="619e1bb3e9af5a0007f235ad" tvg-id="619e1bb3e9af5a0007f235ad" tvg-chno="806" tvg-name="Ghost Dimension" tvg-logo="https://images.pluto.tv/channels/619e1bb3e9af5a0007f235ad/colorLogoPNG.png" group-title="Paranormal",Ghost Dimension
