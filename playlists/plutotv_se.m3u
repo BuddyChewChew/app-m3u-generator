@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/se.xml.gz"
 #EXTINF:-1 channel-id="699c169077cdde1f05252eb9" tvg-id="699c169077cdde1f05252eb9" tvg-chno="563" tvg-name="21 Jump Street" tvg-logo="https://images.pluto.tv/channels/699c169077cdde1f05252eb9/colorLogoPNG_1771837108146.png" group-title="Gamla godingar",21 Jump Street
 https://jmp2.uk/plu-699c169077cdde1f05252eb9.m3u8
+#EXTINF:-1 channel-id="69e776facd3ebf08a2fb1e3c" tvg-id="69e776facd3ebf08a2fb1e3c" tvg-chno="1" tvg-name="3ICE Hockey World Cup 2026" tvg-logo="https://images.pluto.tv/channels/69e776facd3ebf08a2fb1e3c/colorLogoPNG_1782226028220.png" group-title="Nytt på Pluto TV",3ICE Hockey World Cup 2026
+https://jmp2.uk/plu-69e776facd3ebf08a2fb1e3c.m3u8
 #EXTINF:-1 channel-id="6346935b94aa8c0007c5b7a2" tvg-id="6346935b94aa8c0007c5b7a2" tvg-chno="704" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6346935b94aa8c0007c5b7a2/colorLogoPNG.png" group-title="True Crime",48 Hours
 https://jmp2.uk/plu-6346935b94aa8c0007c5b7a2.m3u8
 #EXTINF:-1 channel-id="6728cab6e482950008b76d8c" tvg-id="6728cab6e482950008b76d8c" tvg-chno="210" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6728cab6e482950008b76d8c/colorLogoPNG.png" group-title="Drama",7th Heaven
@@ -131,7 +133,7 @@ https://jmp2.uk/plu-699c1c633d27d6da460bbcae.m3u8
 https://jmp2.uk/plu-698dde7c8b5c1e0795b85739.m3u8
 #EXTINF:-1 channel-id="618124b2e53c8d00077b37f8" tvg-id="618124b2e53c8d00077b37f8" tvg-chno="718" tvg-name="Forensic Files" tvg-logo="https://images.pluto.tv/channels/618124b2e53c8d00077b37f8/colorLogoPNG.png" group-title="True Crime",Forensic Files
 https://jmp2.uk/plu-618124b2e53c8d00077b37f8.m3u8
-#EXTINF:-1 channel-id="69afee7a3bd16a4ed071080d" tvg-id="69afee7a3bd16a4ed071080d" tvg-chno="1" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee7a3bd16a4ed071080d/colorLogoPNG_1778675522972.png" group-title="Nytt på Pluto TV",From Dusk Till Dawn: The Series
+#EXTINF:-1 channel-id="69afee7a3bd16a4ed071080d" tvg-id="69afee7a3bd16a4ed071080d" tvg-chno="2" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee7a3bd16a4ed071080d/colorLogoPNG_1778675522972.png" group-title="Nytt på Pluto TV",From Dusk Till Dawn: The Series
 https://jmp2.uk/plu-69afee7a3bd16a4ed071080d.m3u8
 #EXTINF:-1 channel-id="61c19099bf8c520007a93cff" tvg-id="61c19099bf8c520007a93cff" tvg-chno="56" tvg-name="Frusna Vägar" tvg-logo="https://images.pluto.tv/channels/61c19099bf8c520007a93cff/colorLogoPNG.png" group-title="Svensk reality och underhållning",Frusna Vägar
 https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
