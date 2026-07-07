@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz"
-#EXTINF:-1 channel-id="6a0f1d7502b6c1c00aa59d0e" tvg-id="6a0f1d7502b6c1c00aa59d0e" tvg-chno="1" tvg-name="3ICE Hockey World Cup 2026" tvg-logo="https://images.pluto.tv/channels/6a0f1d7502b6c1c00aa59d0e/colorLogoPNG_1782226152994.png" group-title="New on Pluto TV",3ICE Hockey World Cup 2026
-https://jmp2.uk/plu-6a0f1d7502b6c1c00aa59d0e.m3u8
 #EXTINF:-1 channel-id="5d2c571faeb3e2738ae27933" tvg-id="5d2c571faeb3e2738ae27933" tvg-chno="700" tvg-name="5 Cops" tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png" group-title="Real Life Adventure",5 Cops
 https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 #EXTINF:-1 channel-id="63c1384e829c850007922ca4" tvg-id="63c1384e829c850007922ca4" tvg-chno="712" tvg-name="5 Emergency Rescue" tvg-logo="https://images.pluto.tv/channels/63c1384e829c850007922ca4/colorLogoPNG.png" group-title="Real Life Adventure",5 Emergency Rescue

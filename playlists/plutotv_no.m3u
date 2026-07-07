@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/no.xml.gz"
 #EXTINF:-1 channel-id="699c162a684d0f308795258f" tvg-id="699c162a684d0f308795258f" tvg-chno="613" tvg-name="21 Jump Street" tvg-logo="https://images.pluto.tv/channels/699c162a684d0f308795258f/colorLogoPNG_1771837011327.png" group-title="Gamle godbiter",21 Jump Street
 https://jmp2.uk/plu-699c162a684d0f308795258f.m3u8
-#EXTINF:-1 channel-id="69e776c8c0df7f39504df5d5" tvg-id="69e776c8c0df7f39504df5d5" tvg-chno="1" tvg-name="3ICE Hockey World Cup 2026" tvg-logo="https://images.pluto.tv/channels/69e776c8c0df7f39504df5d5/colorLogoPNG_1782225959758.png" group-title="Nytt på Pluto TV",3ICE Hockey World Cup 2026
-https://jmp2.uk/plu-69e776c8c0df7f39504df5d5.m3u8
 #EXTINF:-1 channel-id="634690323ce5fa0007c621f2" tvg-id="634690323ce5fa0007c621f2" tvg-chno="732" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/634690323ce5fa0007c621f2/colorLogoPNG.png" group-title="True Crime",48 Hours
 https://jmp2.uk/plu-634690323ce5fa0007c621f2.m3u8
 #EXTINF:-1 channel-id="6728ca75529ac9000830ab14" tvg-id="6728ca75529ac9000830ab14" tvg-chno="258" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6728ca75529ac9000830ab14/colorLogoPNG_1733013720652.png" group-title="Drama",7th Heaven
@@ -187,7 +185,7 @@ https://jmp2.uk/plu-671656dfdaad7f00085d2133.m3u8
 https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8
 #EXTINF:-1 channel-id="685140bd21f49d1b9d177e21" tvg-id="685140bd21f49d1b9d177e21" tvg-chno="515" tvg-name="MTV Dating" tvg-logo="https://images.pluto.tv/channels/685140bd21f49d1b9d177e21/colorLogoPNG_1750843390559.png" group-title="Det beste fra MTV",MTV Dating
 https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
-#EXTINF:-1 channel-id="68513950f212bedacf8ec48f" tvg-id="68513950f212bedacf8ec48f" tvg-chno="9" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/68513950f212bedacf8ec48f/colorLogoPNG_1780302351813.png" group-title="Nytt på Pluto TV",MTV Pride
+#EXTINF:-1 channel-id="68513950f212bedacf8ec48f" tvg-id="68513950f212bedacf8ec48f" tvg-chno="9" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/68513950f212bedacf8ec48f/colorLogoPNG_1783323419422.png" group-title="Nytt på Pluto TV",MTV Reality
 https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8
 #EXTINF:-1 channel-id="62cd9e0d10bb020007005628" tvg-id="62cd9e0d10bb020007005628" tvg-chno="514" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/62cd9e0d10bb020007005628/colorLogoPNG_1762762294202.png" group-title="Det beste fra MTV",MTV Ridiculousness
 https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8

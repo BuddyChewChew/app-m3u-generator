@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz"
-#EXTINF:-1 channel-id="69fc876bdf0b6d462c093432" tvg-id="69fc876bdf0b6d462c093432" tvg-chno="1299" tvg-name="3ICE Hockey World Cup 2026" tvg-logo="https://images.pluto.tv/channels/69fc876bdf0b6d462c093432/colorLogoPNG_1782227180985.png" group-title="Sports",3ICE Hockey World Cup 2026
-https://jmp2.uk/plu-69fc876bdf0b6d462c093432.m3u8
 #EXTINF:-1 channel-id="62e925bc68d18a00077bb990" tvg-id="62e925bc68d18a00077bb990" tvg-chno="460" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/62e925bc68d18a00077bb990/colorLogoPNG.png" group-title="True Crime",48 Hours
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 channel-id="68b9afd66985e192657a2b7f" tvg-id="68b9afd66985e192657a2b7f" tvg-chno="580" tvg-name="APTN Beyond" tvg-logo="https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png" group-title="Paranormal",APTN Beyond
