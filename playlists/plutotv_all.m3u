@@ -1301,7 +1301,7 @@ https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
 #EXTINF:-1 channel-id="696689d13b9ce349c9be3a18-us" tvg-id="696689d13b9ce349c9be3a18" tvg-chno="4815" tvg-name="Stingray DJAZZ" tvg-logo="https://images.pluto.tv/channels/696689d13b9ce349c9be3a18/colorLogoPNG_1771027556714.png" group-title="United States",Stingray DJAZZ
 https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8
-#EXTINF:-1 channel-id="66ff1d5a565d3a000892bdcd-us" tvg-id="66ff1d5a565d3a000892bdcd" tvg-chno="262" tvg-name="Stingray Holidayscapes" tvg-logo="https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/colorLogoPNG_1782756348460.png" group-title="United States",Stingray Holidayscapes
+#EXTINF:-1 channel-id="66ff1d5a565d3a000892bdcd-us" tvg-id="66ff1d5a565d3a000892bdcd" tvg-chno="262" tvg-name="Stingray Holidayscapes" tvg-logo="https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/colorLogoPNG_1783464909269.png" group-title="United States",Stingray Holidayscapes
 https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
 #EXTINF:-1 channel-id="6887aaf4e3703b7d42b71a1e-us" tvg-id="6887aaf4e3703b7d42b71a1e" tvg-chno="1467" tvg-name="Storage Wars by A&E" tvg-logo="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/colorLogoPNG_1755034317630.png" group-title="United States",Storage Wars by A&E
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
@@ -3115,6 +3115,8 @@ https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8
 https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8
 #EXTINF:-1 channel-id="60549d97cd7b090007c73314-fr" tvg-id="60549d97cd7b090007c73314" tvg-chno="235" tvg-name="Les filles d'à côté" tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png" group-title="France",Les filles d'à côté
 https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
+#EXTINF:-1 channel-id="691b33ae8a64bd1811e923f2-fr" tvg-id="691b33ae8a64bd1811e923f2" tvg-chno="11" tvg-name="Les vacances de l'amour" tvg-logo="https://images.pluto.tv/channels/691b33ae8a64bd1811e923f2/colorLogoPNG_1771923699657.png" group-title="France",Les vacances de l'amour
+https://jmp2.uk/plu-691b33ae8a64bd1811e923f2.m3u8
 #EXTINF:-1 channel-id="68d276ce59fd82da32267d0d-de" tvg-id="68d276ce59fd82da32267d0d" tvg-chno="221" tvg-name="Liebe Sünde" tvg-logo="https://images.pluto.tv/channels/68d276ce59fd82da32267d0d/colorLogoPNG_1763647481975.png" group-title="Germany",Liebe Sünde
 https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8
 #EXTINF:-1 channel-id="5f1aca8310a30e00074fab92-es" tvg-id="5f1aca8310a30e00074fab92" tvg-chno="106" tvg-name="Los Asesinatos de Midsomer" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="Spain",Los Asesinatos de Midsomer
@@ -4827,7 +4829,7 @@ https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
 https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
 #EXTINF:-1 channel-id="6320ddef274b1b0007b2ee88-ar" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="1049" tvg-name="Revive Gran Hermano" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG_1762821719974.png" group-title="Argentina",Revive Gran Hermano
 https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
-#EXTINF:-1 channel-id="691b332aa4385c191ee44b57-fr" tvg-id="691b332aa4385c191ee44b57" tvg-chno="11" tvg-name="Rex, chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png" group-title="France",Rex chien flic
+#EXTINF:-1 channel-id="691b332aa4385c191ee44b57-fr" tvg-id="691b332aa4385c191ee44b57" tvg-chno="36" tvg-name="Rex, chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png" group-title="France",Rex chien flic
 https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8
 #EXTINF:-1 channel-id="5f8eb8a8b2619a000710605c-fr" tvg-id="5f8eb8a8b2619a000710605c" tvg-chno="1110" tvg-name="Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" group-title="France",Ridiculousness
 https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
