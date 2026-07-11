@@ -179,6 +179,16 @@ https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 channel-id="6661f11a41af6400080e90d8-us" tvg-id="6661f11a41af6400080e90d8" tvg-chno="1940" tvg-name="Big Brother" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="United States",Big Brother
 https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
+#EXTINF:-1 channel-id="64a765c04ea480000823917a-us" tvg-id="64a765c04ea480000823917a" tvg-chno="1835" tvg-name="Big Brother Camera 1" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG_1749506871042.png" group-title="United States",Big Brother Camera 1
+https://jmp2.uk/plu-64a765c04ea480000823917a.m3u8
+#EXTINF:-1 channel-id="64a765fb798def0008734632-us" tvg-id="64a765fb798def0008734632" tvg-chno="1840" tvg-name="Big Brother Camera 2" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG_1749507013773.png" group-title="United States",Big Brother Camera 2
+https://jmp2.uk/plu-64a765fb798def0008734632.m3u8
+#EXTINF:-1 channel-id="64a7665b902f2300085d7901-us" tvg-id="64a7665b902f2300085d7901" tvg-chno="1845" tvg-name="Big Brother Camera 3" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG_1749507197432.png" group-title="United States",Big Brother Camera 3
+https://jmp2.uk/plu-64a7665b902f2300085d7901.m3u8
+#EXTINF:-1 channel-id="64a766a794635e0008626601-us" tvg-id="64a766a794635e0008626601" tvg-chno="1850" tvg-name="Big Brother Camera 4" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG_1749507400605.png" group-title="United States",Big Brother Camera 4
+https://jmp2.uk/plu-64a766a794635e0008626601.m3u8
+#EXTINF:-1 channel-id="64a766cd798def0008734695-us" tvg-id="64a766cd798def0008734695" tvg-chno="1830" tvg-name="Big Brother Quad View" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG_1752489905508.png" group-title="United States",Big Brother Quad View
+https://jmp2.uk/plu-64a766cd798def0008734695.m3u8
 #EXTINF:-1 channel-id="686d61503484d6073283059d-us" tvg-id="686d61503484d6073283059d" tvg-chno="327" tvg-name="Black Family Sitcoms" tvg-logo="https://images.pluto.tv/channels/686d61503484d6073283059d/colorLogoPNG_1752619670829.png" group-title="United States",Black Family Sitcoms
 https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 #EXTINF:-1 channel-id="5d51e2bceca5b4b2c0e06c50-us" tvg-id="5d51e2bceca5b4b2c0e06c50" tvg-chno="1680" tvg-name="Black Ink Crew" tvg-logo="https://images.pluto.tv/channels/5d51e2bceca5b4b2c0e06c50/colorLogoPNG_1731835399139.png" group-title="United States",Black Ink Crew
@@ -3409,11 +3419,11 @@ https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
 https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
 #EXTINF:-1 channel-id="61c19edbf535220007075c4e-dk" tvg-id="61c19edbf535220007075c4e" tvg-chno="551" tvg-name="MasterChef Danmarks største madtalenter" tvg-logo="https://images.pluto.tv/channels/61c19edbf535220007075c4e/colorLogoPNG.png" group-title="Denmark",MasterChef Danmarks største madtalenter
 https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
-#EXTINF:-1 channel-id="5e3ddbd27091820009f86dd9-mx" tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="435" tvg-name="MasterChef México" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1780939055727.png" group-title="Mexico",MasterChef México
+#EXTINF:-1 channel-id="5e3ddbd27091820009f86dd9-mx" tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="435" tvg-name="MasterChef México" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1783712159843.png" group-title="Mexico",MasterChef México
 https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
-#EXTINF:-1 channel-id="5e3ddbd27091820009f86dd9-cl" tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="435" tvg-name="MasterChef México" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1780939055727.png" group-title="Chile",MasterChef México
+#EXTINF:-1 channel-id="5e3ddbd27091820009f86dd9-cl" tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="435" tvg-name="MasterChef México" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1783712159843.png" group-title="Chile",MasterChef México
 https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
-#EXTINF:-1 channel-id="5e3ddbd27091820009f86dd9-ar" tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="435" tvg-name="MasterChef México" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1780939055727.png" group-title="Argentina",MasterChef México
+#EXTINF:-1 channel-id="5e3ddbd27091820009f86dd9-ar" tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="435" tvg-name="MasterChef México" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1783712159843.png" group-title="Argentina",MasterChef México
 https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
 #EXTINF:-1 channel-id="66290b7523e24f000832cc17-no" tvg-id="66290b7523e24f000832cc17" tvg-chno="608" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/66290b7523e24f000832cc17/colorLogoPNG.png" group-title="Norway",Matlock
 https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
