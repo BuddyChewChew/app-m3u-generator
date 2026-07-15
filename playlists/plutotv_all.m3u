@@ -1255,6 +1255,8 @@ https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
 https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
 #EXTINF:-1 channel-id="6874ad2f3484d60732267ba8-ca" tvg-id="6874ad2f3484d60732267ba8" tvg-chno="149" tvg-name="Scare Tactics" tvg-logo="https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png" group-title="Canada",Scare Tactics
 https://jmp2.uk/plu-6874ad2f3484d60732267ba8.m3u8
+#EXTINF:-1 channel-id="63d000ef4e83e700086e0d6c-gb" tvg-id="63d000ef4e83e700086e0d6c" tvg-chno="204" tvg-name="Scorpion" tvg-logo="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png" group-title="United Kingdom",Scorpion
+https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 #EXTINF:-1 channel-id="5459795fc9f133a519bc0bef-us" tvg-id="5459795fc9f133a519bc0bef" tvg-chno="2600" tvg-name="Scripps News" tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="United States",Scripps News
 https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8
 #EXTINF:-1 channel-id="5e9ed47c26ebb000074af566-gb" tvg-id="5e9ed47c26ebb000074af566" tvg-chno="403" tvg-name="Sensing Murder" tvg-logo="https://images.pluto.tv/channels/5e9ed47c26ebb000074af566/colorLogoPNG.png" group-title="United Kingdom",Sensing Murder
@@ -1871,7 +1873,7 @@ https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
 https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
 #EXTINF:-1 channel-id="61c1939b8929e40007ff6382-dk" tvg-id="61c1939b8929e40007ff6382" tvg-chno="324" tvg-name="BET" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="Denmark",BET
 https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
-#EXTINF:-1 channel-id="5ff768b6a4c8b80008498610-br" tvg-id="5ff768b6a4c8b80008498610" tvg-chno="168" tvg-name="BET Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1780944616804.png" group-title="Brazil",BET Pluto TV
+#EXTINF:-1 channel-id="5ff768b6a4c8b80008498610-br" tvg-id="5ff768b6a4c8b80008498610" tvg-chno="168" tvg-name="BET Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1784064875197.png" group-title="Brazil",BET Pluto TV
 https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 #EXTINF:-1 channel-id="6405d444d200410008009419-dk" tvg-id="6405d444d200410008009419" tvg-chno="203" tvg-name="BET25 LIVE" tvg-logo="https://images.pluto.tv/channels/6405d444d200410008009419/colorLogoPNG.png" group-title="Denmark",BET25 LIVE
 https://jmp2.uk/plu-6405d444d200410008009419.m3u8
