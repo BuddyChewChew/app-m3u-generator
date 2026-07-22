@@ -245,8 +245,8 @@ https://jmp2.uk/stvp-GBBD1100003I0
 https://jmp2.uk/stvp-GBBD500001F5
 #EXTINF:-1 channel-id="GB4100001E2" tvg-id="GB4100001E2" tvg-chno="4202" tvg-name="Mark Rober TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100001E2_20251111T012240SQUARE.png" group-title="Entertainment",Mark Rober TV
 https://jmp2.uk/stvp-GB4100001E2
-#EXTINF:-1 channel-id="GB38000026H" tvg-id="GB38000026H" tvg-chno="4806" tvg-name="Masha & the Bear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB38000026H_20260120T031424SQUARE.png" group-title="Kids",Masha & the Bear
-https://jmp2.uk/stvp-GB38000026H
+#EXTINF:-1 channel-id="GB22000040Z" tvg-id="GB22000040Z" tvg-chno="4806" tvg-name="Masha & the Bear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB22000040Z_20260721T035934SQUARE.png" group-title="Kids",Masha & the Bear
+https://jmp2.uk/stvp-GB22000040Z
 #EXTINF:-1 channel-id="GBBD25000019N" tvg-id="GBBD25000019N" tvg-chno="4513" tvg-name="Masterchef UK: 'Powered by Banijay'" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000019N_20250107T030719SQUARE.png" group-title="Food & Travel",Masterchef UK: 'Powered by Banijay'
 https://jmp2.uk/stvp-GBBD25000019N
 #EXTINF:-1 channel-id="GB28000063B" tvg-id="GB28000063B" tvg-chno="4369" tvg-name="Mayday: Air Disaster" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB28000063B_20250811T172943SQUARE.png" group-title="Documentaries",Mayday: Air Disaster
@@ -427,7 +427,7 @@ https://jmp2.uk/stvp-GBBD5100001HL
 https://jmp2.uk/stvp-GBBB3800007BN
 #EXTINF:-1 channel-id="GB1200006IV" tvg-id="GB1200006IV" tvg-chno="4557" tvg-name="Talk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200006IV_20250506T021119SQUARE.png" group-title="News",Talk
 https://jmp2.uk/stvp-GB1200006IV
-#EXTINF:-1 channel-id="GB30003577" tvg-id="GB30003577" tvg-chno="4003" tvg-name="talkSPORT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20260609T043745SQUARE.png" group-title="Sport",talkSPORT
+#EXTINF:-1 channel-id="GB30003577" tvg-id="GB30003577" tvg-chno="4603" tvg-name="talkSPORT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB30003577_20260721T035939SQUARE.png" group-title="Sport",talkSPORT
 https://jmp2.uk/stvp-GB30003577
 #EXTINF:-1 channel-id="GB2400007FA" tvg-id="GB2400007FA" tvg-chno="4773" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400007FA_20250819T032541SQUARE.png" group-title="Kids",Teletubbies
 https://jmp2.uk/stvp-GB2400007FA
@@ -511,7 +511,7 @@ https://jmp2.uk/stvp-GBBD2900001VD
 https://jmp2.uk/stvp-GBBD1100001UI
 #EXTINF:-1 channel-id="GB500013LT" tvg-id="GB500013LT" tvg-chno="4613" tvg-name="Wrestling Legends TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500013LT_20260505T035911SQUARE.png" group-title="Sport",Wrestling Legends TV
 https://jmp2.uk/stvp-GB500013LT
-#EXTINF:-1 channel-id="GBBB3800005QO" tvg-id="GBBB3800005QO" tvg-chno="4704" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20250107T025842SQUARE.png" group-title="Music & Ambient",XITE Hits
+#EXTINF:-1 channel-id="GBBB3800005QO" tvg-id="GBBB3800005QO" tvg-chno="4003" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20260721T041129SQUARE.png" group-title="Music & Ambient",XITE Hits
 https://jmp2.uk/stvp-GBBB3800005QO
 #EXTINF:-1 channel-id="GB340000289" tvg-id="GB340000289" tvg-chno="4795" tvg-name="YAAAS!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB340000289_20250107T031304SQUARE.png" group-title="Kids",YAAAS!
 https://jmp2.uk/stvp-GB340000289
