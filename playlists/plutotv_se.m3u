@@ -243,7 +243,7 @@ https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
 https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8
 #EXTINF:-1 channel-id="61c0b0688a80a4000703fbcb" tvg-id="61c0b0688a80a4000703fbcb" tvg-chno="308" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/61c0b0688a80a4000703fbcb/colorLogoPNG.png" group-title="Filmer",Pluto TV Action
 https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
-#EXTINF:-1 channel-id="6a0f0df0c3b940365926c3e9" tvg-id="6a0f0df0c3b940365926c3e9" tvg-chno="2" tvg-name="Pluto TV Body Bags" tvg-logo="https://images.pluto.tv/channels/6a0f0df0c3b940365926c3e9/colorLogoPNG_1780465739382.png" group-title="Nytt på Pluto TV",Pluto TV Body Bags
+#EXTINF:-1 channel-id="6a0f0df0c3b940365926c3e9" tvg-id="6a0f0df0c3b940365926c3e9" tvg-chno="3" tvg-name="Pluto TV Body Bags" tvg-logo="https://images.pluto.tv/channels/6a0f0df0c3b940365926c3e9/colorLogoPNG_1780465739382.png" group-title="Nytt på Pluto TV",Pluto TV Body Bags
 https://jmp2.uk/plu-6a0f0df0c3b940365926c3e9.m3u8
 #EXTINF:-1 channel-id="65b917720d9ab4000833f323" tvg-id="65b917720d9ab4000833f323" tvg-chno="303" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/65b917720d9ab4000833f323/colorLogoPNG.png" group-title="Filmer",Pluto TV Bud & Terence
 https://jmp2.uk/plu-65b917720d9ab4000833f323.m3u8
@@ -403,6 +403,8 @@ https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
 https://jmp2.uk/plu-6181498caf6afc0007de9e72.m3u8
 #EXTINF:-1 channel-id="62f64ec9eb1045000728cad6" tvg-id="62f64ec9eb1045000728cad6" tvg-chno="330" tvg-name="Viafree Movies" tvg-logo="https://images.pluto.tv/channels/62f64ec9eb1045000728cad6/colorLogoPNG.png" group-title="Filmer",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+#EXTINF:-1 channel-id="6391e0b4bad1970007ee5733" tvg-id="6391e0b4bad1970007ee5733" tvg-chno="1" tvg-name="Våra värsta år" tvg-logo="https://images.pluto.tv/channels/6391e0b4bad1970007ee5733/colorLogoPNG.png" group-title="Nytt på Pluto TV",Våra värsta år
+https://jmp2.uk/plu-6391e0b4bad1970007ee5733.m3u8
 #EXTINF:-1 channel-id="62a0b114a1c8650007e93688" tvg-id="62a0b114a1c8650007e93688" tvg-chno="556" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/channels/62a0b114a1c8650007e93688/colorLogoPNG.png" group-title="Gamla godingar",Walker Texas Ranger
 https://jmp2.uk/plu-62a0b114a1c8650007e93688.m3u8
 #EXTINF:-1 channel-id="62beb0de371e6c000775930c" tvg-id="62beb0de371e6c000775930c" tvg-chno="213" tvg-name="Wildfire" tvg-logo="https://images.pluto.tv/channels/62beb0de371e6c000775930c/colorLogoPNG.png" group-title="Drama",Wildfire
