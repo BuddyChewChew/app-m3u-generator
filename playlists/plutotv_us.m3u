@@ -145,8 +145,6 @@ https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8
 https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 #EXTINF:-1 channel-id="5dc481cda1d430000948a1b4" tvg-id="5dc481cda1d430000948a1b4" tvg-chno="5150" tvg-name="CBS News Los Angeles" tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" group-title="Local News",CBS News Los Angeles
 https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8
-#EXTINF:-1 channel-id="62cdc8fdb05d2b0007ef5035" tvg-id="62cdc8fdb05d2b0007ef5035" tvg-chno="2570" tvg-name="CBS News Miami" tvg-logo="https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png" group-title="News + Opinion",CBS News Miami
-https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
 #EXTINF:-1 channel-id="60fb299b79498900070b29e0" tvg-id="60fb299b79498900070b29e0" tvg-chno="5160" tvg-name="CBS News Miami" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" group-title="Local News",CBS News Miami
 https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
 #EXTINF:-1 channel-id="5eb1b0bf2240d8000732a09c" tvg-id="5eb1b0bf2240d8000732a09c" tvg-chno="5170" tvg-name="CBS News Minnesota" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" group-title="Local News",CBS News Minnesota
@@ -161,6 +159,8 @@ https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
 https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
 #EXTINF:-1 channel-id="60cb6df2b2ad610008cd5bea" tvg-id="60cb6df2b2ad610008cd5bea" tvg-chno="5230" tvg-name="CBS News Sacramento" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="Local News",CBS News Sacramento
 https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
+#EXTINF:-1 channel-id="62cdc813f5def500070361eb" tvg-id="62cdc813f5def500070361eb" tvg-chno="2570" tvg-name="CBS News Texas" tvg-logo="https://images.pluto.tv/channels/62cdc813f5def500070361eb/colorLogoPNG.png" group-title="News + Opinion",CBS News Texas
+https://jmp2.uk/plu-62cdc813f5def500070361eb.m3u8
 #EXTINF:-1 channel-id="5eceb0d4065c240007688ec6" tvg-id="5eceb0d4065c240007688ec6" tvg-chno="5250" tvg-name="CBS News Texas" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="Local News",CBS News Texas
 https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8
 #EXTINF:-1 channel-id="5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-chno="2780" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png" group-title="Sports",CBS Sports HQ
@@ -327,7 +327,7 @@ https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
 https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
 #EXTINF:-1 channel-id="6a2b0e66c2b638404f0a4ffb" tvg-id="6a2b0e66c2b638404f0a4ffb" tvg-chno="860" tvg-name="Ghost Whisperer" tvg-logo="https://images.pluto.tv/channels/6a2b0e66c2b638404f0a4ffb/colorLogoPNG_1782946863231.png" group-title="Sci-Fi",Ghost Whisperer
 https://jmp2.uk/plu-6a2b0e66c2b638404f0a4ffb.m3u8
-#EXTINF:-1 channel-id="6a5ff6d9c868f8fd984e005c" tvg-id="6a5ff6d9c868f8fd984e005c" tvg-chno="302" tvg-name="Ghosts" tvg-logo="https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785533131338.png" group-title="Comedy",Ghosts
+#EXTINF:-1 channel-id="6a5ff6d9c868f8fd984e005c" tvg-id="6a5ff6d9c868f8fd984e005c" tvg-chno="302" tvg-name="Ghosts" tvg-logo="https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785791941652.png" group-title="Comedy",Ghosts
 https://jmp2.uk/plu-6a5ff6d9c868f8fd984e005c.m3u8
 #EXTINF:-1 channel-id="667f3852efa2a10008e1e514" tvg-id="667f3852efa2a10008e1e514" tvg-chno="3815" tvg-name="Go Go Gadget!" tvg-logo="https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png" group-title="Kids",Go Go Gadget!
 https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
@@ -655,6 +655,8 @@ https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 https://jmp2.uk/plu-6049295e7dcef800073c2499.m3u8
 #EXTINF:-1 channel-id="65c69bbfd77d450008c7ffee" tvg-id="65c69bbfd77d450008c7ffee" tvg-chno="844" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="Sci-Fi",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 channel-id="695c32671ca20bb8ca7fd8f7" tvg-id="695c32671ca20bb8ca7fd8f7" tvg-chno="848" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/695c32671ca20bb8ca7fd8f7/colorLogoPNG_1768440939423.png" group-title="Sci-Fi",Star Trek: Enterprise
+https://jmp2.uk/plu-695c32671ca20bb8ca7fd8f7.m3u8
 #EXTINF:-1 channel-id="6675c88da1d7ad00084762cb" tvg-id="6675c88da1d7ad00084762cb" tvg-chno="25" tvg-name="Star Trek: The Motion Pictures" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" group-title="Movies",Star Trek: The Motion Pictures
 https://jmp2.uk/plu-6675c88da1d7ad00084762cb.m3u8
 #EXTINF:-1 channel-id="695c32e61ca20bb8ca802eb9" tvg-id="695c32e61ca20bb8ca802eb9" tvg-chno="842" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" group-title="Sci-Fi",Star Trek: The Next Generation
@@ -769,7 +771,7 @@ https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 #EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="Sports",UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
-#EXTINF:-1 channel-id="677d9adfa9a51b0008497fa0" tvg-id="677d9adfa9a51b0008497fa0" tvg-chno="2850" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="Competition Reality",UFC
+#EXTINF:-1 channel-id="677d9adfa9a51b0008497fa0" tvg-id="677d9adfa9a51b0008497fa0" tvg-chno="2779" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="Competition Reality",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 #EXTINF:-1 channel-id="656542ae4261ca00082154a8" tvg-id="656542ae4261ca00082154a8" tvg-chno="3360" tvg-name="Ultimate Builds" tvg-logo="https://images.pluto.tv/channels/656542ae4261ca00082154a8/colorLogoPNG.png" group-title="Home + Food",Ultimate Builds
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
