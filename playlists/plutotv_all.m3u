@@ -39,6 +39,8 @@ https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1 channel-id="6793ea255225b515b4ba91a7-us" tvg-id="6793ea255225b515b4ba91a7" tvg-chno="2103" tvg-name="ALLBLK Gems" tvg-logo="https://images.pluto.tv/channels/6793ea255225b515b4ba91a7/colorLogoPNG.png" group-title="United States",ALLBLK Gems
 https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8
+#EXTINF:-1 channel-id="682456eb31bbd3e002d8c06b-gb" tvg-id="682456eb31bbd3e002d8c06b" tvg-chno="2" tvg-name="AMC Reality" tvg-logo="https://images.pluto.tv/channels/682456eb31bbd3e002d8c06b/colorLogoPNG_1779891567799.png" group-title="United Kingdom",AMC Reality
+https://jmp2.uk/plu-682456eb31bbd3e002d8c06b.m3u8
 #EXTINF:-1 channel-id="6793eaa4bc03978b9bc63db1-us" tvg-id="6793eaa4bc03978b9bc63db1" tvg-chno="3992" tvg-name="ANIME x HIDIVE" tvg-logo="https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/colorLogoPNG_1746815871603.png" group-title="United States",ANIME x HIDIVE
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 #EXTINF:-1 channel-id="68b9afd66985e192657a2b7f-ca" tvg-id="68b9afd66985e192657a2b7f" tvg-chno="580" tvg-name="APTN Beyond" tvg-logo="https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png" group-title="Canada",APTN Beyond
@@ -1467,6 +1469,8 @@ https://jmp2.uk/plu-69b917d632eb9227dd6b427e.m3u8
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 #EXTINF:-1 channel-id="62fa8176b9884200074ef5ae-us" tvg-id="62fa8176b9884200074ef5ae" tvg-chno="1060" tvg-name="The Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="United States",The Walking Dead Universe
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+#EXTINF:-1 channel-id="6a1ea2d1eddc28f7681e518e-gb" tvg-id="6a1ea2d1eddc28f7681e518e" tvg-chno="1" tvg-name="The Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/6a1ea2d1eddc28f7681e518e/colorLogoPNG_1780491937944.png" group-title="United Kingdom",The Walking Dead Universe
+https://jmp2.uk/plu-6a1ea2d1eddc28f7681e518e.m3u8
 #EXTINF:-1 channel-id="5e82bb378601b80007b4bd78-us" tvg-id="5e82bb378601b80007b4bd78" tvg-chno="4280" tvg-name="The Walking Dead en español" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="United States",The Walking Dead en español
 https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 #EXTINF:-1 channel-id="63da370e2e477400081cf8b6-ca" tvg-id="63da370e2e477400081cf8b6" tvg-chno="1015" tvg-name="The Weather Network" tvg-logo="https://images.pluto.tv/channels/63da370e2e477400081cf8b6/colorLogoPNG_1785353627634.png" group-title="Canada",The Weather Network
@@ -5491,7 +5495,7 @@ https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
 https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
 #EXTINF:-1 channel-id="66f55c3955567d0008ef9b68-fr" tvg-id="66f55c3955567d0008ef9b68" tvg-chno="605" tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" group-title="France",Turbo
 https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
-#EXTINF:-1 channel-id="5f997e44949bc70007a6941e-br" tvg-id="5f997e44949bc70007a6941e" tvg-chno="1430" tvg-name="Turma da Mônica" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Brazil",Turma da Mônica
+#EXTINF:-1 channel-id="5f997e44949bc70007a6941e-br" tvg-id="5f997e44949bc70007a6941e" tvg-chno="1430" tvg-name="Turma da Mônica" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG_1786485992908.png" group-title="Brazil",Turma da Mônica
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
 #EXTINF:-1 channel-id="642abea1283aa4000805bb5b-de" tvg-id="642abea1283aa4000805bb5b" tvg-chno="264" tvg-name="Täterjagd" tvg-logo="https://images.pluto.tv/channels/642abea1283aa4000805bb5b/colorLogoPNG.png" group-title="Germany",Täterjagd
 https://jmp2.uk/plu-642abea1283aa4000805bb5b.m3u8
