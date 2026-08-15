@@ -173,7 +173,7 @@ https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8
 https://jmp2.uk/plu-61781878a3580d0008967df8.m3u8
 #EXTINF:-1 channel-id="65cba7573ba51e00084d76e1" tvg-id="65cba7573ba51e00084d76e1" tvg-chno="918" tvg-name="Key & Peele" tvg-logo="https://images.pluto.tv/channels/65cba7573ba51e00084d76e1/colorLogoPNG.png" group-title="Komedie",Key & Peele
 https://jmp2.uk/plu-65cba7573ba51e00084d76e1.m3u8
-#EXTINF:-1 channel-id="6964b92b9174e77a0e7dbd81" tvg-id="6964b92b9174e77a0e7dbd81" tvg-chno="11" tvg-name="Klassiske dramaserier fra Viafree" tvg-logo="https://images.pluto.tv/channels/6964b92b9174e77a0e7dbd81/colorLogoPNG_1771833546695.png" group-title="Nytt på Pluto TV",Klassiske dramaserier fra Viafree
+#EXTINF:-1 channel-id="6964b92b9174e77a0e7dbd81" tvg-id="6964b92b9174e77a0e7dbd81" tvg-chno="267" tvg-name="Klassiske dramaserier fra Viafree" tvg-logo="https://images.pluto.tv/channels/6964b92b9174e77a0e7dbd81/colorLogoPNG_1771833546695.png" group-title="Drama",Klassiske dramaserier fra Viafree
 https://jmp2.uk/plu-6964b92b9174e77a0e7dbd81.m3u8
 #EXTINF:-1 channel-id="654a4fe9056b9700088804a0" tvg-id="654a4fe9056b9700088804a0" tvg-chno="614" tvg-name="Love Boat" tvg-logo="https://images.pluto.tv/channels/654a4fe9056b9700088804a0/colorLogoPNG.png" group-title="Gamle godbiter",Love Boat
 https://jmp2.uk/plu-654a4fe9056b9700088804a0.m3u8
@@ -185,7 +185,7 @@ https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
 https://jmp2.uk/plu-671656dfdaad7f00085d2133.m3u8
 #EXTINF:-1 channel-id="61781a52a3638a00078fa57e" tvg-id="61781a52a3638a00078fa57e" tvg-chno="504" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/61781a52a3638a00078fa57e/colorLogoPNG_1750864595403.png" group-title="Det beste fra MTV",MTV Catfish
 https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8
-#EXTINF:-1 channel-id="685140bd21f49d1b9d177e21" tvg-id="685140bd21f49d1b9d177e21" tvg-chno="9" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/685140bd21f49d1b9d177e21/colorLogoPNG_1783679695058.png" group-title="Nytt på Pluto TV",MTV Ink Master
+#EXTINF:-1 channel-id="685140bd21f49d1b9d177e21" tvg-id="685140bd21f49d1b9d177e21" tvg-chno="516" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/685140bd21f49d1b9d177e21/colorLogoPNG_1783679695058.png" group-title="Det beste fra MTV",MTV Ink Master
 https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
 #EXTINF:-1 channel-id="68513950f212bedacf8ec48f" tvg-id="68513950f212bedacf8ec48f" tvg-chno="515" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/68513950f212bedacf8ec48f/colorLogoPNG_1783323419422.png" group-title="Det beste fra MTV",MTV Reality
 https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8
@@ -211,6 +211,8 @@ https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
 https://jmp2.uk/plu-657883cab228b700084414b3.m3u8
 #EXTINF:-1 channel-id="65c340383a116800078c8454" tvg-id="65c340383a116800078c8454" tvg-chno="194" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c340383a116800078c8454/colorLogoPNG.png" group-title="Sport",Monster Jam
 https://jmp2.uk/plu-65c340383a116800078c8454.m3u8
+#EXTINF:-1 channel-id="6a68c4f2f107abb1a6e9df7a" tvg-id="6a68c4f2f107abb1a6e9df7a" tvg-chno="1" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c4f2f107abb1a6e9df7a/colorLogoPNG_1785251107268.png" group-title="Nytt på Pluto TV",NFL Channel
+https://jmp2.uk/plu-6a68c4f2f107abb1a6e9df7a.m3u8
 #EXTINF:-1 channel-id="6728d30cdaad7f000881d979" tvg-id="6728d30cdaad7f000881d979" tvg-chno="354" tvg-name="NonStop Kung Fu" tvg-logo="https://images.pluto.tv/channels/6728d30cdaad7f000881d979/colorLogoPNG_1732097480344.png" group-title="Film",NonStop Kung Fu
 https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8
 #EXTINF:-1 channel-id="64eca23c9c1e390008524ae6" tvg-id="64eca23c9c1e390008524ae6" tvg-chno="728" tvg-name="Nordisk krim fra Viaplay" tvg-logo="https://images.pluto.tv/channels/64eca23c9c1e390008524ae6/colorLogoPNG.png" group-title="True Crime",Nordisk krim fra Viaplay
