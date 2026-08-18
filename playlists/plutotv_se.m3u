@@ -69,6 +69,8 @@ https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8
 https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
 #EXTINF:-1 channel-id="66a7ab4dcd0d3100084395b4" tvg-id="66a7ab4dcd0d3100084395b4" tvg-chno="1012" tvg-name="Caroline in the City" tvg-logo="https://images.pluto.tv/channels/66a7ab4dcd0d3100084395b4/colorLogoPNG.png" group-title="Sitcoms",Caroline in the City
 https://jmp2.uk/plu-66a7ab4dcd0d3100084395b4.m3u8
+#EXTINF:-1 channel-id="6941232c8f110ea18cd8a656" tvg-id="6941232c8f110ea18cd8a656" tvg-chno="2" tvg-name="Casual Golf" tvg-logo="https://images.pluto.tv/channels/6941232c8f110ea18cd8a656/colorLogoPNG_1767958736233.png" group-title="Nytt på Pluto TV",Casual Golf
+https://jmp2.uk/plu-6941232c8f110ea18cd8a656.m3u8
 #EXTINF:-1 channel-id="65788727a620e30008fe4d88" tvg-id="65788727a620e30008fe4d88" tvg-chno="392" tvg-name="Celeb Reality" tvg-logo="https://images.pluto.tv/channels/65788727a620e30008fe4d88/colorLogoPNG.png" group-title="Reality",Celeb Reality
 https://jmp2.uk/plu-65788727a620e30008fe4d88.m3u8
 #EXTINF:-1 channel-id="65e9783b0d456100082d9e05" tvg-id="65e9783b0d456100082d9e05" tvg-chno="962" tvg-name="Chappelle's Show" tvg-logo="https://images.pluto.tv/channels/65e9783b0d456100082d9e05/colorLogoPNG.png" group-title="Komedi",Chappelle's Show
@@ -85,8 +87,6 @@ https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8
 https://jmp2.uk/plu-6578875614fbe400086e319e.m3u8
 #EXTINF:-1 channel-id="64268f52b065d900085eb42b" tvg-id="64268f52b065d900085eb42b" tvg-chno="714" tvg-name="Crime Scene Solvers" tvg-logo="https://images.pluto.tv/channels/64268f52b065d900085eb42b/colorLogoPNG.png" group-title="True Crime",Crime Scene Solvers
 https://jmp2.uk/plu-64268f52b065d900085eb42b.m3u8
-#EXTINF:-1 channel-id="64805755536e0c0008a19fa1" tvg-id="64805755536e0c0008a19fa1" tvg-chno="136" tvg-name="DAZN Ringside" tvg-logo="https://images.pluto.tv/channels/64805755536e0c0008a19fa1/colorLogoPNG_1772448534372.png" group-title="Sport",DAZN Ringside
-https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8
 #EXTINF:-1 channel-id="66461f433d173b000805eeeb" tvg-id="66461f433d173b000805eeeb" tvg-chno="120" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461f433d173b000805eeeb/colorLogoPNG_1769414859996.png" group-title="Sport",DFB Play TV
 https://jmp2.uk/plu-66461f433d173b000805eeeb.m3u8
 #EXTINF:-1 channel-id="64e7715c4c5ed800081230e4" tvg-id="64e7715c4c5ed800081230e4" tvg-chno="382" tvg-name="Dallas Cowboys Cheerleaders" tvg-logo="https://images.pluto.tv/channels/64e7715c4c5ed800081230e4/colorLogoPNG.png" group-title="Reality",Dallas Cowboys Cheerleaders
@@ -223,7 +223,7 @@ https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
 https://jmp2.uk/plu-6578878132c1b300089aa005.m3u8
 #EXTINF:-1 channel-id="65c340983ba51e00083988e8" tvg-id="65c340983ba51e00083988e8" tvg-chno="160" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c340983ba51e00083988e8/colorLogoPNG.png" group-title="Sport",Monster Jam
 https://jmp2.uk/plu-65c340983ba51e00083988e8.m3u8
-#EXTINF:-1 channel-id="6a68c55b75fd5e3828f08d6e" tvg-id="6a68c55b75fd5e3828f08d6e" tvg-chno="4" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c55b75fd5e3828f08d6e/colorLogoPNG_1785251255335.png" group-title="Nytt på Pluto TV",NFL Channel
+#EXTINF:-1 channel-id="6a68c55b75fd5e3828f08d6e" tvg-id="6a68c55b75fd5e3828f08d6e" tvg-chno="6" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c55b75fd5e3828f08d6e/colorLogoPNG_1785251255335.png" group-title="Nytt på Pluto TV",NFL Channel
 https://jmp2.uk/plu-6a68c55b75fd5e3828f08d6e.m3u8
 #EXTINF:-1 channel-id="6728d33f030a2c0008edf4be" tvg-id="6728d33f030a2c0008edf4be" tvg-chno="304" tvg-name="NonStop Kung Fu" tvg-logo="https://images.pluto.tv/channels/6728d33f030a2c0008edf4be/colorLogoPNG_1732097527894.png" group-title="Filmer",NonStop Kung Fu
 https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
@@ -367,6 +367,8 @@ https://jmp2.uk/plu-693ae39cc2fa3abe8ad8208c.m3u8
 https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8
 #EXTINF:-1 channel-id="69afecd4686531d5faac86e2" tvg-id="69afecd4686531d5faac86e2" tvg-chno="606" tvg-name="The 4400" tvg-logo="https://images.pluto.tv/channels/69afecd4686531d5faac86e2/colorLogoPNG_1776175930155.png" group-title="Sci-Fi",The 4400
 https://jmp2.uk/plu-69afecd4686531d5faac86e2.m3u8
+#EXTINF:-1 channel-id="6a329bb68036fe474a3f3e13" tvg-id="6a329bb68036fe474a3f3e13" tvg-chno="3" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329bb68036fe474a3f3e13/colorLogoPNG_1782465143682.png" group-title="Nytt på Pluto TV",The Bob Ross Channel
+https://jmp2.uk/plu-6a329bb68036fe474a3f3e13.m3u8
 #EXTINF:-1 channel-id="65c0978360eb870008bc9d5b" tvg-id="65c0978360eb870008bc9d5b" tvg-chno="662" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c0978360eb870008bc9d5b/colorLogoPNG.png" group-title="Talkshow",The Daily Show
 https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8
 #EXTINF:-1 channel-id="6915de3d74601d957afa4592" tvg-id="6915de3d74601d957afa4592" tvg-chno="661" tvg-name="The Graham Norton Show" tvg-logo="https://images.pluto.tv/channels/6915de3d74601d957afa4592/colorLogoPNG_1763053854289.png" group-title="Talkshow",The Graham Norton Show
