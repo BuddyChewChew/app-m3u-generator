@@ -13,6 +13,8 @@ https://jmp2.uk/plu-6915e15ea570568f53438feb.m3u8
 https://jmp2.uk/plu-69143e3abb69fb3258ba4944.m3u8
 #EXTINF:-1 channel-id="6464cd7c7cb4b100086c71c9" tvg-id="6464cd7c7cb4b100086c71c9" tvg-chno="410" tvg-name="America's Next Top Model" tvg-logo="https://images.pluto.tv/channels/6464cd7c7cb4b100086c71c9/colorLogoPNG.png" group-title="Realityserier",America's Next Top Model
 https://jmp2.uk/plu-6464cd7c7cb4b100086c71c9.m3u8
+#EXTINF:-1 channel-id="6a0f0f857120a26f0d85426c" tvg-id="6a0f0f857120a26f0d85426c" tvg-chno="2" tvg-name="American Gladiators" tvg-logo="https://images.pluto.tv/channels/6a0f0f857120a26f0d85426c/colorLogoPNG_1782464595980.png" group-title="Nytt på Pluto TV",American Gladiators
+https://jmp2.uk/plu-6a0f0f857120a26f0d85426c.m3u8
 #EXTINF:-1 channel-id="6178156e54712100072d6b2b" tvg-id="6178156e54712100072d6b2b" tvg-chno="657" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/6178156e54712100072d6b2b/colorLogoPNG.png" group-title="Sci-Fi",Andromeda
 https://jmp2.uk/plu-6178156e54712100072d6b2b.m3u8
 #EXTINF:-1 channel-id="6964b77dff4f2148e520fa9b" tvg-id="6964b77dff4f2148e520fa9b" tvg-chno="961" tvg-name="Anger Management" tvg-logo="https://images.pluto.tv/channels/6964b77dff4f2148e520fa9b/colorLogoPNG_1768208300541.png" group-title="Sitcoms",Anger Management
@@ -337,7 +339,7 @@ https://jmp2.uk/plu-693ae3624258f18a3e117b8b.m3u8
 https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
 #EXTINF:-1 channel-id="69afeca6ac36b147e7ef33a7" tvg-id="69afeca6ac36b147e7ef33a7" tvg-chno="656" tvg-name="The 4400" tvg-logo="https://images.pluto.tv/channels/69afeca6ac36b147e7ef33a7/colorLogoPNG_1776175878061.png" group-title="Sci-Fi",The 4400
 https://jmp2.uk/plu-69afeca6ac36b147e7ef33a7.m3u8
-#EXTINF:-1 channel-id="6a329b878aa69b1cc8c5d1b6" tvg-id="6a329b878aa69b1cc8c5d1b6" tvg-chno="2" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b878aa69b1cc8c5d1b6/colorLogoPNG_1782465097383.png" group-title="Nytt på Pluto TV",The Bob Ross Channel
+#EXTINF:-1 channel-id="6a329b878aa69b1cc8c5d1b6" tvg-id="6a329b878aa69b1cc8c5d1b6" tvg-chno="3" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b878aa69b1cc8c5d1b6/colorLogoPNG_1782465097383.png" group-title="Nytt på Pluto TV",The Bob Ross Channel
 https://jmp2.uk/plu-6a329b878aa69b1cc8c5d1b6.m3u8
 #EXTINF:-1 channel-id="65c0973311ced7000808d255" tvg-id="65c0973311ced7000808d255" tvg-chno="702" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c0973311ced7000808d255/colorLogoPNG.png" group-title="Talkshow",The Daily Show
 https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8
