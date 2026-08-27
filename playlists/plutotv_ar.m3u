@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz"
+#EXTINF:-1 channel-id="63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="839" tvg-name="AYM Sports 3" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1787686705454.png" group-title="Deportes",AYM Sports 3
+https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 channel-id="61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-chno="389" tvg-name="Acapulco Shore Pluto TV" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="Reality",Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 channel-id="61b793ccf571b80007b7a610" tvg-id="61b793ccf571b80007b7a610" tvg-chno="27" tvg-name="Adrenalina Pura TV" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="Películas",Adrenalina Pura TV
@@ -103,8 +105,6 @@ https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
 https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
 #EXTINF:-1 channel-id="69fcaaa1853a01a827bcd056" tvg-id="69fcaaa1853a01a827bcd056" tvg-chno="534" tvg-name="I Shouldn't Be Alive" tvg-logo="https://images.pluto.tv/channels/69fcaaa1853a01a827bcd056/colorLogoPNG_1778856115341.png" group-title="Curiosidad",I Shouldn't Be Alive
 https://jmp2.uk/plu-69fcaaa1853a01a827bcd056.m3u8
-#EXTINF:-1 channel-id="63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="839" tvg-name="ITV Deportes" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1785346272947.png" group-title="Deportes",ITV Deportes
-https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 channel-id="62154548a2be360007cb02f0" tvg-id="62154548a2be360007cb02f0" tvg-chno="492" tvg-name="Ice Pilots" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Curiosidad",Ice Pilots
 https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
 #EXTINF:-1 channel-id="66b26665d512590008c507b7" tvg-id="66b26665d512590008c507b7" tvg-chno="1279" tvg-name="Inuyasha" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" group-title="Anime & Gaming",Inuyasha

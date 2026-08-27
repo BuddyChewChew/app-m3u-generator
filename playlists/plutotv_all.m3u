@@ -1701,6 +1701,8 @@ https://jmp2.uk/plu-660e7488aec9680008fabcf1.m3u8
 https://jmp2.uk/plu-660e7404e8fba8000853abc0.m3u8
 #EXTINF:-1 channel-id="63f7e3f9dff38e00082a57af-mx" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="839" tvg-name="AYM Sports 3" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1787686705454.png" group-title="Mexico",AYM Sports 3
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
+#EXTINF:-1 channel-id="63f7e3f9dff38e00082a57af-ar" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="839" tvg-name="AYM Sports 3" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1787686705454.png" group-title="Argentina",AYM Sports 3
+https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 channel-id="61a52615cbef2500072876e2-mx" tvg-id="61a52615cbef2500072876e2" tvg-chno="389" tvg-name="Acapulco Shore Pluto TV" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="Mexico",Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 channel-id="61a52615cbef2500072876e2-ar" tvg-id="61a52615cbef2500072876e2" tvg-chno="389" tvg-name="Acapulco Shore Pluto TV" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="Argentina",Acapulco Shore Pluto TV
@@ -2993,8 +2995,6 @@ https://jmp2.uk/plu-657881c46e4f6a00087414c2.m3u8
 https://jmp2.uk/plu-6602acadb2abe500081cf28a.m3u8
 #EXTINF:-1 channel-id="639b54404cfdf7000729b3c1-fr" tvg-id="639b54404cfdf7000729b3c1" tvg-chno="905" tvg-name="INA 70" tvg-logo="https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png" group-title="France",INA 70
 https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8
-#EXTINF:-1 channel-id="63f7e3f9dff38e00082a57af-ar" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="839" tvg-name="ITV Deportes" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1785346272947.png" group-title="Argentina",ITV Deportes
-https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 channel-id="61b9edc4a4ca6100070bb407-es" tvg-id="61b9edc4a4ca6100070bb407" tvg-chno="98" tvg-name="Ice Pilots" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" group-title="Spain",Ice Pilots
 https://jmp2.uk/plu-61b9edc4a4ca6100070bb407.m3u8
 #EXTINF:-1 channel-id="5ce40f42ba7f7f5ea9518fe1-de" tvg-id="5ce40f42ba7f7f5ea9518fe1" tvg-chno="455" tvg-name="Ice Pilots" tvg-logo="https://images.pluto.tv/channels/5ce40f42ba7f7f5ea9518fe1/colorLogoPNG.png" group-title="Germany",Ice Pilots
