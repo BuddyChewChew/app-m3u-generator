@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz"
+#EXTINF:-1 channel-id="6a43d26599d7b121476c351c" tvg-id="6a43d26599d7b121476c351c" tvg-chno="2" tvg-name="Acapulco Shore" tvg-logo="https://images.pluto.tv/channels/6a43d26599d7b121476c351c/colorLogoPNG_1787302997380.png" group-title="Nuevo en Pluto TV",Acapulco Shore
+https://jmp2.uk/plu-6a43d26599d7b121476c351c.m3u8
 #EXTINF:-1 channel-id="67517fae5534bb0008187997" tvg-id="67517fae5534bb0008187997" tvg-chno="301" tvg-name="Actualidad 360" tvg-logo="https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png" group-title="Noticias",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 #EXTINF:-1 channel-id="65b91e530d9ab40008340d8d" tvg-id="65b91e530d9ab40008340d8d" tvg-chno="76" tvg-name="Al salir de clase" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png" group-title="Series",Al salir de clase

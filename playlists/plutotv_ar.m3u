@@ -45,8 +45,6 @@ https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
 #EXTINF:-1 channel-id="6109a9f5531b840007a4a187" tvg-id="6109a9f5531b840007a4a187" tvg-chno="583" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Investigación",Cazador de Homicidas
 https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
-#EXTINF:-1 channel-id="6320d80a66666000086712d7" tvg-id="6320d80a66666000086712d7" tvg-chno="835" tvg-name="Claro Sports" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png" group-title="Deportes",Claro Sports
-https://jmp2.uk/plu-6320d80a66666000086712d7.m3u8
 #EXTINF:-1 channel-id="5ffcc21a432945000762d06b" tvg-id="5ffcc21a432945000762d06b" tvg-chno="999" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1762352083476.png" group-title="Comedia",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 #EXTINF:-1 channel-id="609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-chno="929" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG_1764595225705.png" group-title="South Park",Comedy Central South Park
@@ -209,6 +207,8 @@ https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
 https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
 #EXTINF:-1 channel-id="5ff4b9ccf938f8000779eb99" tvg-id="5ff4b9ccf938f8000779eb99" tvg-chno="1284" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="Anime & Gaming",One Piece
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:-1 channel-id="6495c6ad115d060008bf6b52" tvg-id="6495c6ad115d060008bf6b52" tvg-chno="1400" tvg-name="PAW Patrol Patrulla de Cachorros" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG_1788198063916.png" group-title="Kids",PAW Patrol Patrulla de Cachorros
+https://jmp2.uk/plu-6495c6ad115d060008bf6b52.m3u8
 #EXTINF:-1 channel-id="64f6163a30ab3300083d870e" tvg-id="64f6163a30ab3300083d870e" tvg-chno="862" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" group-title="Deportes",PFL MMA
 https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
 #EXTINF:-1 channel-id="5f4fed840a2764000720d966" tvg-id="5f4fed840a2764000720d966" tvg-chno="480" tvg-name="Paisajes por Stingray" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Curiosidad",Paisajes por Stingray
@@ -287,8 +287,6 @@ https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
 https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 #EXTINF:-1 channel-id="5e98b0447665f200078caded" tvg-id="5e98b0447665f200078caded" tvg-chno="850" tvg-name="Pluto TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="Deportes",Pluto TV Peleas
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
-#EXTINF:-1 channel-id="5dd6ed41526c77000941411c" tvg-id="5dd6ed41526c77000941411c" tvg-chno="91" tvg-name="Pluto TV Pre-Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1781123305546.png" group-title="Películas",Pluto TV Pre-Navidad
-https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
 #EXTINF:-1 channel-id="5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-chno="380" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Reality",Pluto TV Reality
 https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
 #EXTINF:-1 channel-id="5f2817d3d7573a00080f9175" tvg-id="5f2817d3d7573a00080f9175" tvg-chno="51" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="Películas",Pluto TV Sci-Fi
