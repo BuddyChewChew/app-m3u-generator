@@ -103,7 +103,7 @@ https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
 https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 #EXTINF:-1 channel-id="657886bfb9adc40008025554" tvg-id="657886bfb9adc40008025554" tvg-chno="372" tvg-name="Dog The Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/657886bfb9adc40008025554/colorLogoPNG.png" group-title="Reality",Dog The Bounty Hunter
 https://jmp2.uk/plu-657886bfb9adc40008025554.m3u8
-#EXTINF:-1 channel-id="67a23bb777796f00080edaec" tvg-id="67a23bb777796f00080edaec" tvg-chno="1" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23bb777796f00080edaec/colorLogoPNG_1750773346598.png" group-title="Sport",Dominance FC TV
+#EXTINF:-1 channel-id="67a23bb777796f00080edaec" tvg-id="67a23bb777796f00080edaec" tvg-chno="107" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23bb777796f00080edaec/colorLogoPNG_1750773346598.png" group-title="Sport",Dominance FC TV
 https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
 #EXTINF:-1 channel-id="68f0f7dea362b63a8df50bd4" tvg-id="68f0f7dea362b63a8df50bd4" tvg-chno="208" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/68f0f7dea362b63a8df50bd4/colorLogoPNG_1762757713795.png" group-title="Drama",Dr. Quinn Medicine Woman
 https://jmp2.uk/plu-68f0f7dea362b63a8df50bd4.m3u8
@@ -385,9 +385,17 @@ https://jmp2.uk/plu-66b22c9aa79dea0008cee4a9.m3u8
 https://jmp2.uk/plu-693ae39cc2fa3abe8ad8208c.m3u8
 #EXTINF:-1 channel-id="6870c9ca759366af055fe891" tvg-id="6870c9ca759366af055fe891" tvg-chno="147" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c9ca759366af055fe891/colorLogoPNG_1756971817950.png" group-title="Sport",Tennis Channel
 https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8
+#EXTINF:-1 channel-id="6a7d8049815e1932eb93e15d" tvg-id="6a7d8049815e1932eb93e15d" tvg-chno="9" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/6a7d8049815e1932eb93e15d/colorLogoPNG_1786626468177.png" group-title="Nytt på Pluto TV",That's 70s
+https://jmp2.uk/plu-6a7d8049815e1932eb93e15d.m3u8
+#EXTINF:-1 channel-id="6a7d805a9547fd4fec6e8fc2" tvg-id="6a7d805a9547fd4fec6e8fc2" tvg-chno="11" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/6a7d805a9547fd4fec6e8fc2/colorLogoPNG_1788432691808.png" group-title="Nytt på Pluto TV",That's 80s
+https://jmp2.uk/plu-6a7d805a9547fd4fec6e8fc2.m3u8
+#EXTINF:-1 channel-id="6a7d806bff94431f8b3112c3" tvg-id="6a7d806bff94431f8b3112c3" tvg-chno="13" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a7d806bff94431f8b3112c3/colorLogoPNG_1786626753290.png" group-title="Nytt på Pluto TV",That's 90s00s
+https://jmp2.uk/plu-6a7d806bff94431f8b3112c3.m3u8
+#EXTINF:-1 channel-id="6a7d80838ce7aa0932427863" tvg-id="6a7d80838ce7aa0932427863" tvg-chno="7" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/6a7d80838ce7aa0932427863/colorLogoPNG_1786627172202.png" group-title="Nytt på Pluto TV",That's Rock
+https://jmp2.uk/plu-6a7d80838ce7aa0932427863.m3u8
 #EXTINF:-1 channel-id="69afecd4686531d5faac86e2" tvg-id="69afecd4686531d5faac86e2" tvg-chno="606" tvg-name="The 4400" tvg-logo="https://images.pluto.tv/channels/69afecd4686531d5faac86e2/colorLogoPNG_1776175930155.png" group-title="Sci-Fi",The 4400
 https://jmp2.uk/plu-69afecd4686531d5faac86e2.m3u8
-#EXTINF:-1 channel-id="6a329bb68036fe474a3f3e13" tvg-id="6a329bb68036fe474a3f3e13" tvg-chno="7" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329bb68036fe474a3f3e13/colorLogoPNG_1782465143682.png" group-title="Nytt på Pluto TV",The Bob Ross Channel
+#EXTINF:-1 channel-id="6a329bb68036fe474a3f3e13" tvg-id="6a329bb68036fe474a3f3e13" tvg-chno="17" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329bb68036fe474a3f3e13/colorLogoPNG_1782465143682.png" group-title="Nytt på Pluto TV",The Bob Ross Channel
 https://jmp2.uk/plu-6a329bb68036fe474a3f3e13.m3u8
 #EXTINF:-1 channel-id="65c0978360eb870008bc9d5b" tvg-id="65c0978360eb870008bc9d5b" tvg-chno="662" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c0978360eb870008bc9d5b/colorLogoPNG.png" group-title="Talkshow",The Daily Show
 https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8
@@ -427,7 +435,7 @@ https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
 https://jmp2.uk/plu-6181498caf6afc0007de9e72.m3u8
 #EXTINF:-1 channel-id="62f64ec9eb1045000728cad6" tvg-id="62f64ec9eb1045000728cad6" tvg-chno="330" tvg-name="Viafree Movies" tvg-logo="https://images.pluto.tv/channels/62f64ec9eb1045000728cad6/colorLogoPNG.png" group-title="Filmer",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
-#EXTINF:-1 channel-id="6391e0b4bad1970007ee5733" tvg-id="6391e0b4bad1970007ee5733" tvg-chno="4" tvg-name="Våra värsta år" tvg-logo="https://images.pluto.tv/channels/6391e0b4bad1970007ee5733/colorLogoPNG.png" group-title="Nytt på Pluto TV",Våra värsta år
+#EXTINF:-1 channel-id="6391e0b4bad1970007ee5733" tvg-id="6391e0b4bad1970007ee5733" tvg-chno="1005" tvg-name="Våra värsta år" tvg-logo="https://images.pluto.tv/channels/6391e0b4bad1970007ee5733/colorLogoPNG.png" group-title="Sitcoms",Våra värsta år
 https://jmp2.uk/plu-6391e0b4bad1970007ee5733.m3u8
 #EXTINF:-1 channel-id="62a0b114a1c8650007e93688" tvg-id="62a0b114a1c8650007e93688" tvg-chno="556" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/channels/62a0b114a1c8650007e93688/colorLogoPNG.png" group-title="Gamla godingar",Walker Texas Ranger
 https://jmp2.uk/plu-62a0b114a1c8650007e93688.m3u8
@@ -437,7 +445,7 @@ https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
 https://jmp2.uk/plu-617805a67267650007573ffd.m3u8
 #EXTINF:-1 channel-id="6440f73ee94c380008ccddc8" tvg-id="6440f73ee94c380008ccddc8" tvg-chno="359" tvg-name="World of Love Island" tvg-logo="https://images.pluto.tv/channels/6440f73ee94c380008ccddc8/colorLogoPNG.png" group-title="Reality",World of Love Island
 https://jmp2.uk/plu-6440f73ee94c380008ccddc8.m3u8
-#EXTINF:-1 channel-id="67a9d7c1ec91870008ad6519" tvg-id="67a9d7c1ec91870008ad6519" tvg-chno="9" tvg-name="Xena: Warrior Princess" tvg-logo="https://images.pluto.tv/channels/67a9d7c1ec91870008ad6519/colorLogoPNG.png" group-title="Nytt på Pluto TV",Xena: Warrior Princess
+#EXTINF:-1 channel-id="67a9d7c1ec91870008ad6519" tvg-id="67a9d7c1ec91870008ad6519" tvg-chno="19" tvg-name="Xena: Warrior Princess" tvg-logo="https://images.pluto.tv/channels/67a9d7c1ec91870008ad6519/colorLogoPNG.png" group-title="Nytt på Pluto TV",Xena: Warrior Princess
 https://jmp2.uk/plu-67a9d7c1ec91870008ad6519.m3u8
 #EXTINF:-1 channel-id="61c185049e0bde0007820039" tvg-id="61c185049e0bde0007820039" tvg-chno="913" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/61c185049e0bde0007820039/colorLogoPNG.png" group-title="Barn",iCarly
 https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8

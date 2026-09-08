@@ -235,7 +235,7 @@ https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
 https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8
 #EXTINF:-1 channel-id="61c1e270489a9c000874d209" tvg-id="61c1e270489a9c000874d209" tvg-chno="358" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/61c1e270489a9c000874d209/colorLogoPNG.png" group-title="Film",Pluto TV Action
 https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
-#EXTINF:-1 channel-id="6a0f0de3e022927e1cf74c71" tvg-id="6a0f0de3e022927e1cf74c71" tvg-chno="8" tvg-name="Pluto TV Body Bags" tvg-logo="https://images.pluto.tv/channels/6a0f0de3e022927e1cf74c71/colorLogoPNG_1780465692301.png" group-title="Nytt på Pluto TV",Pluto TV Body Bags
+#EXTINF:-1 channel-id="6a0f0de3e022927e1cf74c71" tvg-id="6a0f0de3e022927e1cf74c71" tvg-chno="723" tvg-name="Pluto TV Body Bags" tvg-logo="https://images.pluto.tv/channels/6a0f0de3e022927e1cf74c71/colorLogoPNG_1780465692301.png" group-title="True Crime",Pluto TV Body Bags
 https://jmp2.uk/plu-6a0f0de3e022927e1cf74c71.m3u8
 #EXTINF:-1 channel-id="65b916ec3af63d00084c5841" tvg-id="65b916ec3af63d00084c5841" tvg-chno="353" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/65b916ec3af63d00084c5841/colorLogoPNG.png" group-title="Film",Pluto TV Bud & Terence
 https://jmp2.uk/plu-65b916ec3af63d00084c5841.m3u8
@@ -277,7 +277,7 @@ https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
 https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
 #EXTINF:-1 channel-id="67f3fb7d07d2ba4121bd0c8b" tvg-id="67f3fb7d07d2ba4121bd0c8b" tvg-chno="865" tvg-name="Pluto TV Ungdomsserier" tvg-logo="https://images.pluto.tv/channels/67f3fb7d07d2ba4121bd0c8b/colorLogoPNG_1748270835177.png" group-title="For barn",Pluto TV Ungdomsserier
 https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8
-#EXTINF:-1 channel-id="69e1007eb7dabef981d8625e" tvg-id="69e1007eb7dabef981d8625e" tvg-chno="9" tvg-name="Pluto TV Urbex" tvg-logo="https://images.pluto.tv/channels/69e1007eb7dabef981d8625e/colorLogoPNG_1777465659265.png" group-title="Nytt på Pluto TV",Pluto TV Urbex
+#EXTINF:-1 channel-id="69e1007eb7dabef981d8625e" tvg-id="69e1007eb7dabef981d8625e" tvg-chno="559" tvg-name="Pluto TV Urbex" tvg-logo="https://images.pluto.tv/channels/69e1007eb7dabef981d8625e/colorLogoPNG_1777465659265.png" group-title="Mat & livsstil",Pluto TV Urbex
 https://jmp2.uk/plu-69e1007eb7dabef981d8625e.m3u8
 #EXTINF:-1 channel-id="677d3a424bd63600082f7baf" tvg-id="677d3a424bd63600082f7baf" tvg-chno="754" tvg-name="Pluto TV Verdenskrigene" tvg-logo="https://images.pluto.tv/channels/677d3a424bd63600082f7baf/colorLogoPNG_1759400600947.png" group-title="Dokumentarer",Pluto TV Verdenskrigene
 https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
@@ -355,9 +355,17 @@ https://jmp2.uk/plu-66b22b748561260008dae057.m3u8
 https://jmp2.uk/plu-693ae3624258f18a3e117b8b.m3u8
 #EXTINF:-1 channel-id="6870c97b759366af055fe371" tvg-id="6870c97b759366af055fe371" tvg-chno="185" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c97b759366af055fe371/colorLogoPNG_1756969580463.png" group-title="Sport",Tennis Channel
 https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
+#EXTINF:-1 channel-id="6a7d7d54c5ec41dd0f12e029" tvg-id="6a7d7d54c5ec41dd0f12e029" tvg-chno="8" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/6a7d7d54c5ec41dd0f12e029/colorLogoPNG_1786626406514.png" group-title="Nytt på Pluto TV",That's 70s
+https://jmp2.uk/plu-6a7d7d54c5ec41dd0f12e029.m3u8
+#EXTINF:-1 channel-id="6a7d7d67a939793d163768d2" tvg-id="6a7d7d67a939793d163768d2" tvg-chno="10" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/6a7d7d67a939793d163768d2/colorLogoPNG_1788432585204.png" group-title="Nytt på Pluto TV",That's 80s
+https://jmp2.uk/plu-6a7d7d67a939793d163768d2.m3u8
+#EXTINF:-1 channel-id="6a7d7d7b417a4b67e5a740bc" tvg-id="6a7d7d7b417a4b67e5a740bc" tvg-chno="12" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a7d7d7b417a4b67e5a740bc/colorLogoPNG_1786626708941.png" group-title="Nytt på Pluto TV",That's 90s00s
+https://jmp2.uk/plu-6a7d7d7b417a4b67e5a740bc.m3u8
+#EXTINF:-1 channel-id="6a7d7d8a0218a8f8ee697113" tvg-id="6a7d7d8a0218a8f8ee697113" tvg-chno="6" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/6a7d7d8a0218a8f8ee697113/colorLogoPNG_1786627120870.png" group-title="Nytt på Pluto TV",That's Rock
+https://jmp2.uk/plu-6a7d7d8a0218a8f8ee697113.m3u8
 #EXTINF:-1 channel-id="69afeca6ac36b147e7ef33a7" tvg-id="69afeca6ac36b147e7ef33a7" tvg-chno="656" tvg-name="The 4400" tvg-logo="https://images.pluto.tv/channels/69afeca6ac36b147e7ef33a7/colorLogoPNG_1776175878061.png" group-title="Sci-Fi",The 4400
 https://jmp2.uk/plu-69afeca6ac36b147e7ef33a7.m3u8
-#EXTINF:-1 channel-id="6a329b878aa69b1cc8c5d1b6" tvg-id="6a329b878aa69b1cc8c5d1b6" tvg-chno="6" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b878aa69b1cc8c5d1b6/colorLogoPNG_1782465097383.png" group-title="Nytt på Pluto TV",The Bob Ross Channel
+#EXTINF:-1 channel-id="6a329b878aa69b1cc8c5d1b6" tvg-id="6a329b878aa69b1cc8c5d1b6" tvg-chno="16" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b878aa69b1cc8c5d1b6/colorLogoPNG_1782465097383.png" group-title="Nytt på Pluto TV",The Bob Ross Channel
 https://jmp2.uk/plu-6a329b878aa69b1cc8c5d1b6.m3u8
 #EXTINF:-1 channel-id="65c0973311ced7000808d255" tvg-id="65c0973311ced7000808d255" tvg-chno="702" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c0973311ced7000808d255/colorLogoPNG.png" group-title="Talkshow",The Daily Show
 https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8
