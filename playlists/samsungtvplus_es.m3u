@@ -149,7 +149,7 @@ https://jmp2.uk/stvp-ES1800007GH
 https://jmp2.uk/stvp-ESBC27000040I
 #EXTINF:-1 channel-id="ESBC2700008SK" tvg-id="ESBC2700008SK" tvg-chno="4166" tvg-name="Just For Laughs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png" group-title="Comedia",Just For Laughs
 https://jmp2.uk/stvp-ESBC2700008SK
-#EXTINF:-1 channel-id="ESBD4100001DU" tvg-id="ESBD4100001DU" tvg-chno="4257" tvg-name="K-Drama+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20260707T050914SQUARE.png" group-title="Serie",K-Drama+
+#EXTINF:-1 channel-id="ESBD4100001DU" tvg-id="ESBD4100001DU" tvg-chno="4257" tvg-name="K-Drama+" tvg-logo="" group-title="Serie",K-Drama+
 https://jmp2.uk/stvp-ESBD4100001DU
 #EXTINF:-1 channel-id="ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-chno="4001" tvg-name="La 1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20260901T054115SQUARE.png" group-title="Entretenimiento",La 1
 https://jmp2.uk/stvp-ESBC4100001NZ
@@ -201,7 +201,7 @@ https://jmp2.uk/stvp-ESBA22000102A
 https://jmp2.uk/stvp-ESBC400003YM
 #EXTINF:-1 channel-id="ESBD3400001AA" tvg-id="ESBD3400001AA" tvg-chno="4553" tvg-name="Negocios TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20260407T040053SQUARE.png" group-title="Noticias",Negocios TV
 https://jmp2.uk/stvp-ESBD3400001AA
-#EXTINF:-1 channel-id="ES170000433" tvg-id="ES170000433" tvg-chno="4945" tvg-name="NEW K-MOVIES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png" group-title="Cine",NEW K-MOVIES
+#EXTINF:-1 channel-id="ES170000433" tvg-id="ES170000433" tvg-chno="4945" tvg-name="NEW K-MOVIES" tvg-logo="" group-title="Cine",NEW K-MOVIES
 https://jmp2.uk/stvp-ES170000433
 #EXTINF:-1 channel-id="ES1700005ME" tvg-id="ES1700005ME" tvg-chno="4749" tvg-name="NEW KPOP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png" group-title="Música & ambiente",NEW KPOP
 https://jmp2.uk/stvp-ES1700005ME

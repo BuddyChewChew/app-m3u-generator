@@ -21,7 +21,7 @@ https://jmp2.uk/stvp-IN4000006CF
 https://jmp2.uk/stvp-INBD400010BD
 #EXTINF:-1 channel-id="IN4000005BW" tvg-id="IN4000005BW" tvg-chno="1484" tvg-name="ABP Majha" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000005BW_20260623T013543SQUARE.png" group-title="Regional News",ABP Majha
 https://jmp2.uk/stvp-IN4000005BW
-#EXTINF:-1 channel-id="IN4600012BD" tvg-id="IN4600012BD" tvg-chno="1404" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20260623T013549SQUARE.png" group-title="Hindi News",ABP News
+#EXTINF:-1 channel-id="IN4600012BD" tvg-id="IN4600012BD" tvg-chno="1004" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20260908T033551SQUARE.png" group-title="Hindi News",ABP News
 https://jmp2.uk/stvp-IN4600012BD
 #EXTINF:-1 channel-id="IN400056QQ" tvg-id="IN400056QQ" tvg-chno="1927" tvg-name="Ace TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400056QQ_20260623T013607SQUARE.png" group-title="Sports",Ace TV
 https://jmp2.uk/stvp-IN400056QQ
@@ -149,8 +149,6 @@ https://jmp2.uk/stvp-IN2400002A3
 https://jmp2.uk/stvp-IN400057EZ
 #EXTINF:-1 channel-id="IN17000129W" tvg-id="IN17000129W" tvg-chno="1422" tvg-name="Good News Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000129W_20260623T014954SQUARE.png" group-title="Hindi News",Good News Today
 https://jmp2.uk/stvp-IN17000129W
-#EXTINF:-1 channel-id="INBA5100025YE" tvg-id="INBA5100025YE" tvg-chno="2141" tvg-name="GoUSA TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100025YE_20260623T012246SQUARE.png" group-title="Lifestyle",GoUSA TV
-https://jmp2.uk/stvp-INBA5100025YE
 #EXTINF:-1 channel-id="IN4000625P" tvg-id="IN4000625P" tvg-chno="1804" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260623T015004SQUARE.png" group-title="Kids",Green Gold TV
 https://jmp2.uk/stvp-IN4000625P
 #EXTINF:-1 channel-id="IN400050DR" tvg-id="IN400050DR" tvg-chno="1494" tvg-name="GTC News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400050DR_20260623T014928SQUARE.png" group-title="Regional News",GTC News
@@ -225,7 +223,7 @@ https://jmp2.uk/stvp-IN3000010V5
 https://jmp2.uk/stvp-INBD4700015M0
 #EXTINF:-1 channel-id="IN2100014K1" tvg-id="IN2100014K1" tvg-chno="2031" tvg-name="NatureTime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100014K1_20260623T015351SQUARE.png" group-title="Infotainment",NatureTime
 https://jmp2.uk/stvp-IN2100014K1
-#EXTINF:-1 channel-id="INBC2800001D8" tvg-id="INBC2800001D8" tvg-chno="1004" tvg-name="NDTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20260901T053436SQUARE.png" group-title="English News",NDTV
+#EXTINF:-1 channel-id="INBC2800001D8" tvg-id="INBC2800001D8" tvg-chno="1461" tvg-name="NDTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20260908T033558SQUARE.png" group-title="English News",NDTV
 https://jmp2.uk/stvp-INBC2800001D8
 #EXTINF:-1 channel-id="INBC2800007ZP" tvg-id="INBC2800007ZP" tvg-chno="2121" tvg-name="NDTV GoodTimes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800007ZP_20260623T015310SQUARE.png" group-title="Lifestyle",NDTV GoodTimes
 https://jmp2.uk/stvp-INBC2800007ZP
