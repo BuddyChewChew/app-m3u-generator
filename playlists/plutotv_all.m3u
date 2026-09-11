@@ -697,6 +697,8 @@ https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
 #EXTINF:-1 channel-id="6900997e043e3df1897d017f-gb" tvg-id="6900997e043e3df1897d017f" tvg-chno="209" tvg-name="Ironside" tvg-logo="https://images.pluto.tv/channels/6900997e043e3df1897d017f/colorLogoPNG_1761664014410.png" group-title="United Kingdom",Ironside
 https://jmp2.uk/plu-6900997e043e3df1897d017f.m3u8
+#EXTINF:-1 channel-id="6a4fda4538f47f0af402bdb0-us" tvg-id="6a4fda4538f47f0af402bdb0" tvg-chno="4033" tvg-name="It's Anime" tvg-logo="https://images.pluto.tv/channels/6a4fda4538f47f0af402bdb0/colorLogoPNG_1787854579734.png" group-title="United States",It's Anime
+https://jmp2.uk/plu-6a4fda4538f47f0af402bdb0.m3u8
 #EXTINF:-1 channel-id="660e5dc60cd4630008f6198a-gb" tvg-id="660e5dc60cd4630008f6198a" tvg-chno="206" tvg-name="JAG" tvg-logo="https://images.pluto.tv/channels/660e5dc60cd4630008f6198a/colorLogoPNG.png" group-title="United Kingdom",JAG
 https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8
 #EXTINF:-1 channel-id="66a105f4a79dea0008aa5e0f-ca" tvg-id="66a105f4a79dea0008aa5e0f" tvg-chno="415" tvg-name="JAG" tvg-logo="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png" group-title="Canada",JAG
@@ -1761,6 +1763,8 @@ https://jmp2.uk/plu-6577224bb3801200084865d6.m3u8
 https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
 #EXTINF:-1 channel-id="6618e3037bcd8600089b62a8-fr" tvg-id="6618e3037bcd8600089b62a8" tvg-chno="840" tvg-name="Allociné" tvg-logo="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/colorLogoPNG.png" group-title="France",Allociné
 https://jmp2.uk/plu-6618e3037bcd8600089b62a8.m3u8
+#EXTINF:-1 channel-id="69f84eec9465b98649a769ac-dk" tvg-id="69f84eec9465b98649a769ac" tvg-chno="5" tvg-name="Amalies verden" tvg-logo="https://images.pluto.tv/channels/69f84eec9465b98649a769ac/colorLogoPNG_1788271091979.png" group-title="Denmark",Amalies verden
+https://jmp2.uk/plu-69f84eec9465b98649a769ac.m3u8
 #EXTINF:-1 channel-id="69172f1699758a0f03459c5b-cl" tvg-id="69172f1699758a0f03459c5b" tvg-chno="145" tvg-name="America's Funniest Home Videos" tvg-logo="https://images.pluto.tv/channels/69172f1699758a0f03459c5b/colorLogoPNG_1767729487919.png" group-title="Chile",America's Funniest Home Videos
 https://jmp2.uk/plu-69172f1699758a0f03459c5b.m3u8
 #EXTINF:-1 channel-id="69143e3abb69fb3258ba4944-no" tvg-id="69143e3abb69fb3258ba4944" tvg-chno="919" tvg-name="America's Funniest Home Videos" tvg-logo="https://images.pluto.tv/channels/69143e3abb69fb3258ba4944/colorLogoPNG_1767781039663.png" group-title="Norway",America's Funniest Home Videos
@@ -1783,7 +1787,7 @@ https://jmp2.uk/plu-6464cc595a0cd500088c7749.m3u8
 https://jmp2.uk/plu-6a0f0f857120a26f0d85426c.m3u8
 #EXTINF:-1 channel-id="6a0f0f905304e32444800392-se" tvg-id="6a0f0f905304e32444800392" tvg-chno="6" tvg-name="American Gladiators" tvg-logo="https://images.pluto.tv/channels/6a0f0f905304e32444800392/colorLogoPNG_1782464641376.png" group-title="Sweden",American Gladiators
 https://jmp2.uk/plu-6a0f0f905304e32444800392.m3u8
-#EXTINF:-1 channel-id="6a0f0f7abfa576e1718f1d81-dk" tvg-id="6a0f0f7abfa576e1718f1d81" tvg-chno="16" tvg-name="American Gladiators" tvg-logo="https://images.pluto.tv/channels/6a0f0f7abfa576e1718f1d81/colorLogoPNG_1782464511227.png" group-title="Denmark",American Gladiators
+#EXTINF:-1 channel-id="6a0f0f7abfa576e1718f1d81-dk" tvg-id="6a0f0f7abfa576e1718f1d81" tvg-chno="22" tvg-name="American Gladiators" tvg-logo="https://images.pluto.tv/channels/6a0f0f7abfa576e1718f1d81/colorLogoPNG_1782464511227.png" group-title="Denmark",American Gladiators
 https://jmp2.uk/plu-6a0f0f7abfa576e1718f1d81.m3u8
 #EXTINF:-1 channel-id="6408ae8f9b39550008caf94f-cl" tvg-id="6408ae8f9b39550008caf94f" tvg-chno="705" tvg-name="American Pickers" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png" group-title="Chile",American Pickers
 https://jmp2.uk/plu-6408ae8f9b39550008caf94f.m3u8
@@ -2113,8 +2117,6 @@ https://jmp2.uk/plu-6231e9b7f6deff00074674f4.m3u8
 https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8
 #EXTINF:-1 channel-id="62310d5a5dc9550007c6f580-ar" tvg-id="62310d5a5dc9550007c6f580" tvg-chno="677" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1778002301638.png" group-title="Argentina",CBS News 24/7
 https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
-#EXTINF:-1 channel-id="5d4947590ba40f75dc29c26b-de" tvg-id="5d4947590ba40f75dc29c26b" tvg-chno="67" tvg-name="CC Pluto TV" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png" group-title="Germany",CC Pluto TV
-https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 #EXTINF:-1 channel-id="66c45c274f25dd00092739ee-cl" tvg-id="66c45c274f25dd00092739ee" tvg-chno="1025" tvg-name="CNN Headlines" tvg-logo="https://images.pluto.tv/channels/66c45c274f25dd00092739ee/colorLogoPNG_1780668932155.png" group-title="Chile",CNN Headlines
 https://jmp2.uk/plu-66c45c274f25dd00092739ee.m3u8
 #EXTINF:-1 channel-id="66c45c0de7f5e80008b82005-es" tvg-id="66c45c0de7f5e80008b82005" tvg-chno="303" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png" group-title="Spain",CNN Headlines International
@@ -2301,16 +2303,20 @@ https://jmp2.uk/plu-65d7239066eec8000881e293.m3u8
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 #EXTINF:-1 channel-id="64f8a408bd341e000818fcda-cl" tvg-id="64f8a408bd341e000818fcda" tvg-chno="160" tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" group-title="Chile",Comedy Central
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
-#EXTINF:-1 channel-id="61c0b550e0d3a700072b6a2a-se" tvg-id="61c0b550e0d3a700072b6a2a" tvg-chno="958" tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/61c0b550e0d3a700072b6a2a/colorLogoPNG.png" group-title="Sweden",Comedy Central
-https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
-#EXTINF:-1 channel-id="61c0989431084d0007eab12d-dk" tvg-id="61c0989431084d0007eab12d" tvg-chno="1046" tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" group-title="Denmark",Comedy Central
-https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
 #EXTINF:-1 channel-id="64f8a949f5b5e4000862467c-cl" tvg-id="64f8a949f5b5e4000862467c" tvg-chno="161" tvg-name="Comedy Central Animation" tvg-logo="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png" group-title="Chile",Comedy Central Animation
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
+#EXTINF:-1 channel-id="5d4947590ba40f75dc29c26b-de" tvg-id="5d4947590ba40f75dc29c26b" tvg-chno="67" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG_1789028182543.png" group-title="Germany",Comedy Central Pluto TV
+https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 #EXTINF:-1 channel-id="5f357e91b18f0b00073583d2-br" tvg-id="5f357e91b18f0b00073583d2" tvg-chno="999" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Brazil",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 channel-id="5ffcc21a432945000762d06b-mx" tvg-id="5ffcc21a432945000762d06b" tvg-chno="999" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1762352083476.png" group-title="Mexico",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+#EXTINF:-1 channel-id="61c1e7f38413090007c640db-no" tvg-id="61c1e7f38413090007c640db" tvg-chno="909" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/61c1e7f38413090007c640db/colorLogoPNG_1785752387924.png" group-title="Norway",Comedy Central Pluto TV
+https://jmp2.uk/plu-61c1e7f38413090007c640db.m3u8
+#EXTINF:-1 channel-id="61c0b550e0d3a700072b6a2a-se" tvg-id="61c0b550e0d3a700072b6a2a" tvg-chno="958" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/61c0b550e0d3a700072b6a2a/colorLogoPNG.png" group-title="Sweden",Comedy Central Pluto TV
+https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
+#EXTINF:-1 channel-id="61c0989431084d0007eab12d-dk" tvg-id="61c0989431084d0007eab12d" tvg-chno="1046" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" group-title="Denmark",Comedy Central Pluto TV
+https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
 #EXTINF:-1 channel-id="5ffcc21a432945000762d06b-ar" tvg-id="5ffcc21a432945000762d06b" tvg-chno="999" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1762352083476.png" group-title="Argentina",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 #EXTINF:-1 channel-id="6641fd41b18d700008e7e2b8-dk" tvg-id="6641fd41b18d700008e7e2b8" tvg-chno="1048" tvg-name="Comedy Central Roast" tvg-logo="https://images.pluto.tv/channels/6641fd41b18d700008e7e2b8/colorLogoPNG.png" group-title="Denmark",Comedy Central Roast
@@ -2395,7 +2401,7 @@ https://jmp2.uk/plu-657882efb3801200084caa77.m3u8
 https://jmp2.uk/plu-65788670b9adc40008025500.m3u8
 #EXTINF:-1 channel-id="65787eefcbd0d60008f85b3f-dk" tvg-id="65787eefcbd0d60008f85b3f" tvg-chno="473" tvg-name="Dance Moms" tvg-logo="https://images.pluto.tv/channels/65787eefcbd0d60008f85b3f/colorLogoPNG.png" group-title="Denmark",Dance Moms
 https://jmp2.uk/plu-65787eefcbd0d60008f85b3f.m3u8
-#EXTINF:-1 channel-id="6a329ace8b8fb5b94c6910eb-dk" tvg-id="6a329ace8b8fb5b94c6910eb" tvg-chno="6" tvg-name="Danske Hollywoodfruer" tvg-logo="https://images.pluto.tv/channels/6a329ace8b8fb5b94c6910eb/colorLogoPNG_1785239750042.png" group-title="Denmark",Danske Hollywoodfruer
+#EXTINF:-1 channel-id="6a329ace8b8fb5b94c6910eb-dk" tvg-id="6a329ace8b8fb5b94c6910eb" tvg-chno="17" tvg-name="Danske Hollywoodfruer" tvg-logo="https://images.pluto.tv/channels/6a329ace8b8fb5b94c6910eb/colorLogoPNG_1785239750042.png" group-title="Denmark",Danske Hollywoodfruer
 https://jmp2.uk/plu-6a329ace8b8fb5b94c6910eb.m3u8
 #EXTINF:-1 channel-id="62d0895ebe7a970008785244-mx" tvg-id="62d0895ebe7a970008785244" tvg-chno="934" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" group-title="Mexico",Daria
 https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
@@ -2475,6 +2481,8 @@ https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8
 #EXTINF:-1 channel-id="678f8676ad083171df19ca07-dk" tvg-id="678f8676ad083171df19ca07" tvg-chno="125" tvg-name="Ditzel & Turbomodul" tvg-logo="https://images.pluto.tv/channels/678f8676ad083171df19ca07/colorLogoPNG.png" group-title="Denmark",Ditzel & Turbomodul
 https://jmp2.uk/plu-678f8676ad083171df19ca07.m3u8
+#EXTINF:-1 channel-id="69f85041460b8b0496d4ca16-dk" tvg-id="69f85041460b8b0496d4ca16" tvg-chno="1" tvg-name="Divaernes Dillemmaer" tvg-logo="https://images.pluto.tv/channels/69f85041460b8b0496d4ca16/colorLogoPNG_1788786889793.png" group-title="Denmark",Divaernes Dillemmaer
+https://jmp2.uk/plu-69f85041460b8b0496d4ca16.m3u8
 #EXTINF:-1 channel-id="62e922f6675f71000736db3b-cl" tvg-id="62e922f6675f71000736db3b" tvg-chno="655" tvg-name="Doc Martin" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" group-title="Chile",Doc Martin
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
 #EXTINF:-1 channel-id="62724ae034f5190007b63424-no" tvg-id="62724ae034f5190007b63424" tvg-chno="3" tvg-name="Doc Martin" tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png" group-title="Norway",Doc Martin
@@ -2613,7 +2621,7 @@ https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1 channel-id="5e972a21ad709d00074195ba-ar" tvg-id="5e972a21ad709d00074195ba" tvg-chno="24" tvg-name="Estrellas de Acción" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Argentina",Estrellas de Acción
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
-#EXTINF:-1 channel-id="6a3e3b2aee8afbaedeebdd84-dk" tvg-id="6a3e3b2aee8afbaedeebdd84" tvg-chno="2" tvg-name="Et Ton Cash" tvg-logo="https://images.pluto.tv/channels/6a3e3b2aee8afbaedeebdd84/colorLogoPNG_1788158418507.png" group-title="Denmark",Et Ton Cash
+#EXTINF:-1 channel-id="6a3e3b2aee8afbaedeebdd84-dk" tvg-id="6a3e3b2aee8afbaedeebdd84" tvg-chno="9" tvg-name="Et Ton Cash" tvg-logo="https://images.pluto.tv/channels/6a3e3b2aee8afbaedeebdd84/colorLogoPNG_1788158418507.png" group-title="Denmark",Et Ton Cash
 https://jmp2.uk/plu-6a3e3b2aee8afbaedeebdd84.m3u8
 #EXTINF:-1 channel-id="60d3583ef310610007fb02b1-es" tvg-id="60d3583ef310610007fb02b1" tvg-chno="302" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Spain",Euronews
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
@@ -2851,6 +2859,8 @@ https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
 https://jmp2.uk/plu-66a8c64814a2bb00084d09d6.m3u8
 #EXTINF:-1 channel-id="69c716efeac9a2720ebcaaff-br" tvg-id="69c716efeac9a2720ebcaaff" tvg-chno="301" tvg-name="Grachi" tvg-logo="https://images.pluto.tv/channels/69c716efeac9a2720ebcaaff/colorLogoPNG_1781797595430.png" group-title="Brazil",Grachi
 https://jmp2.uk/plu-69c716efeac9a2720ebcaaff.m3u8
+#EXTINF:-1 channel-id="6a749d816d05845d59c65de6-dk" tvg-id="6a749d816d05845d59c65de6" tvg-chno="7" tvg-name="Great by Choice" tvg-logo="https://images.pluto.tv/channels/6a749d816d05845d59c65de6/colorLogoPNG_1788794533551.png" group-title="Denmark",Great by Choice
+https://jmp2.uk/plu-6a749d816d05845d59c65de6.m3u8
 #EXTINF:-1 channel-id="69c290eeed1b1f1acb446dd8-dk" tvg-id="69c290eeed1b1f1acb446dd8" tvg-chno="112" tvg-name="Gustav & Linse på udebane" tvg-logo="https://images.pluto.tv/channels/69c290eeed1b1f1acb446dd8/colorLogoPNG_1778675778733.png" group-title="Denmark",Gustav & Linse på udebane
 https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
 #EXTINF:-1 channel-id="60afb203ec391c00070ea1bf-fr" tvg-id="60afb203ec391c00070ea1bf" tvg-chno="260" tvg-name="Génération Sitcoms" tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png" group-title="France",Génération Sitcoms
@@ -2937,12 +2947,6 @@ https://jmp2.uk/plu-62e92967cd663f0007e604fd.m3u8
 https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
 #EXTINF:-1 channel-id="63921a3d00c96100082a3cb4-fr" tvg-id="63921a3d00c96100082a3cb4" tvg-chno="440" tvg-name="Homicide" tvg-logo="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png" group-title="France",Homicide
 https://jmp2.uk/plu-63921a3d00c96100082a3cb4.m3u8
-#EXTINF:-1 channel-id="619e286e093e7c0007489e6a-no" tvg-id="619e286e093e7c0007489e6a" tvg-chno="734" tvg-name="Homicide Hunter" tvg-logo="https://images.pluto.tv/channels/619e286e093e7c0007489e6a/colorLogoPNG.png" group-title="Norway",Homicide Hunter
-https://jmp2.uk/plu-619e286e093e7c0007489e6a.m3u8
-#EXTINF:-1 channel-id="619e4a3518d6970008bebc95-se" tvg-id="619e4a3518d6970008bebc95" tvg-chno="716" tvg-name="Homicide Hunter" tvg-logo="https://images.pluto.tv/channels/619e4a3518d6970008bebc95/colorLogoPNG.png" group-title="Sweden",Homicide Hunter
-https://jmp2.uk/plu-619e4a3518d6970008bebc95.m3u8
-#EXTINF:-1 channel-id="619e21b213ef6b0007d8c17a-dk" tvg-id="619e21b213ef6b0007d8c17a" tvg-chno="865" tvg-name="Homicide Hunter" tvg-logo="https://images.pluto.tv/channels/619e21b213ef6b0007d8c17a/colorLogoPNG.png" group-title="Denmark",Homicide Hunter
-https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8
 #EXTINF:-1 channel-id="66c35c0c92b1af0008c8e83a-it" tvg-id="66c35c0c92b1af0008c8e83a" tvg-chno="325" tvg-name="Horror Club" tvg-logo="https://images.pluto.tv/channels/66c35c0c92b1af0008c8e83a/colorLogoPNG.png" group-title="Italy",Horror Club
 https://jmp2.uk/plu-66c35c0c92b1af0008c8e83a.m3u8
 #EXTINF:-1 channel-id="671b4e47daad7f000868b840-no" tvg-id="671b4e47daad7f000868b840" tvg-chno="161" tvg-name="Horse & Country" tvg-logo="https://images.pluto.tv/channels/671b4e47daad7f000868b840/colorLogoPNG.png" group-title="Norway",Horse & Country
@@ -3145,7 +3149,7 @@ https://jmp2.uk/plu-60afa1508284e60007163c08.m3u8
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
 #EXTINF:-1 channel-id="5f85cf621d6d2200079f1de0-ar" tvg-id="5f85cf621d6d2200079f1de0" tvg-chno="1525" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Argentina",Karaoke por Stingray
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
-#EXTINF:-1 channel-id="6a4b5f7c4ac01af3ed4e6fa1-dk" tvg-id="6a4b5f7c4ac01af3ed4e6fa1" tvg-chno="5" tvg-name="Kebab Date" tvg-logo="https://images.pluto.tv/channels/6a4b5f7c4ac01af3ed4e6fa1/colorLogoPNG_1787131841044.png" group-title="Denmark",Kebab Date
+#EXTINF:-1 channel-id="6a4b5f7c4ac01af3ed4e6fa1-dk" tvg-id="6a4b5f7c4ac01af3ed4e6fa1" tvg-chno="15" tvg-name="Kebab Date" tvg-logo="https://images.pluto.tv/channels/6a4b5f7c4ac01af3ed4e6fa1/colorLogoPNG_1787131841044.png" group-title="Denmark",Kebab Date
 https://jmp2.uk/plu-6a4b5f7c4ac01af3ed4e6fa1.m3u8
 #EXTINF:-1 channel-id="5ffcc5130fd98c0007f2e216-br" tvg-id="5ffcc5130fd98c0007f2e216" tvg-chno="1555" tvg-name="Kenan & Kel" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brazil",Kenan & Kel
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
@@ -3671,7 +3675,7 @@ https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
 https://jmp2.uk/plu-6a4436f8e7884b99f287c7b9.m3u8
 #EXTINF:-1 channel-id="64a3d96f060e830008af6745-cl" tvg-id="64a3d96f060e830008af6745" tvg-chno="60" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png" group-title="Chile",MovieSphere by Lionsgate
 https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
-#EXTINF:-1 channel-id="6a31544f2c1c785c1138dbb1-es" tvg-id="6a31544f2c1c785c1138dbb1" tvg-chno="1" tvg-name="Mr. Bean" tvg-logo="https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/colorLogoPNG_1781617788564.png" group-title="Spain",Mr. Bean
+#EXTINF:-1 channel-id="6a31544f2c1c785c1138dbb1-es" tvg-id="6a31544f2c1c785c1138dbb1" tvg-chno="2" tvg-name="Mr. Bean" tvg-logo="https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/colorLogoPNG_1781617788564.png" group-title="Spain",Mr. Bean
 https://jmp2.uk/plu-6a31544f2c1c785c1138dbb1.m3u8
 #EXTINF:-1 channel-id="69fca7dd2387729708faa32c-br" tvg-id="69fca7dd2387729708faa32c" tvg-chno="980" tvg-name="Mr. Bean" tvg-logo="https://images.pluto.tv/channels/69fca7dd2387729708faa32c/colorLogoPNG_1778514873328.png" group-title="Brazil",Mr. Bean
 https://jmp2.uk/plu-69fca7dd2387729708faa32c.m3u8
@@ -4103,9 +4107,9 @@ https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
 https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
 #EXTINF:-1 channel-id="5f1ac1f1b66c76000790ef27-es" tvg-id="5f1ac1f1b66c76000790ef27" tvg-chno="130" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Spain",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
-#EXTINF:-1 channel-id="5dcde437229eff00091b6c30-mx" tvg-id="5dcde437229eff00091b6c30" tvg-chno="18" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1786125745854.png" group-title="Mexico",Pluto TV Cine Estelar
+#EXTINF:-1 channel-id="5dcde437229eff00091b6c30-mx" tvg-id="5dcde437229eff00091b6c30" tvg-chno="18" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1789054308569.png" group-title="Mexico",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
-#EXTINF:-1 channel-id="5dcde437229eff00091b6c30-ar" tvg-id="5dcde437229eff00091b6c30" tvg-chno="18" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1786125745854.png" group-title="Argentina",Pluto TV Cine Estelar
+#EXTINF:-1 channel-id="5dcde437229eff00091b6c30-ar" tvg-id="5dcde437229eff00091b6c30" tvg-chno="18" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1789054308569.png" group-title="Argentina",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 #EXTINF:-1 channel-id="5dd6ddb30a1d8a000908ed4c-mx" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-chno="90" tvg-name="Pluto TV Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1785959252371.png" group-title="Mexico",Pluto TV Cine Familia
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
@@ -4163,7 +4167,7 @@ https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
 #EXTINF:-1 channel-id="62ea3d24b8e02600071fa296-cl" tvg-id="62ea3d24b8e02600071fa296" tvg-chno="50" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Chile",Pluto TV Comedy Movies
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
-#EXTINF:-1 channel-id="5f8eb91bb9b9e7000817e67f-fr" tvg-id="5f8eb91bb9b9e7000817e67f" tvg-chno="1115" tvg-name="Pluto TV Comédie" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="France",Pluto TV Comédie
+#EXTINF:-1 channel-id="5f8eb91bb9b9e7000817e67f-fr" tvg-id="5f8eb91bb9b9e7000817e67f" tvg-chno="1115" tvg-name="Pluto TV Comédie" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG_1789027818074.png" group-title="France",Pluto TV Comédie
 https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
 #EXTINF:-1 channel-id="67b4b2d976a934282e92d71c-fr" tvg-id="67b4b2d976a934282e92d71c" tvg-chno="351" tvg-name="Pluto TV Comédies Cultes" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="France",Pluto TV Comédies Cultes
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
@@ -4557,7 +4561,7 @@ https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 #EXTINF:-1 channel-id="66166cb1307fa30008f275e7-cl" tvg-id="66166cb1307fa30008f275e7" tvg-chno="555" tvg-name="Pluto TV Sci-fi" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Chile",Pluto TV Sci-fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
-#EXTINF:-1 channel-id="6a427b0ad7edac3ee2ae0917-dk" tvg-id="6a427b0ad7edac3ee2ae0917" tvg-chno="4" tvg-name="Pluto TV Sci-fi film" tvg-logo="https://images.pluto.tv/channels/6a427b0ad7edac3ee2ae0917/colorLogoPNG_1788158141093.png" group-title="Denmark",Pluto TV Sci-fi film
+#EXTINF:-1 channel-id="6a427b0ad7edac3ee2ae0917-dk" tvg-id="6a427b0ad7edac3ee2ae0917" tvg-chno="13" tvg-name="Pluto TV Sci-fi film" tvg-logo="https://images.pluto.tv/channels/6a427b0ad7edac3ee2ae0917/colorLogoPNG_1788158141093.png" group-title="Denmark",Pluto TV Sci-fi film
 https://jmp2.uk/plu-6a427b0ad7edac3ee2ae0917.m3u8
 #EXTINF:-1 channel-id="6a427b4e7dd69d931963e771-no" tvg-id="6a427b4e7dd69d931963e771" tvg-chno="2" tvg-name="Pluto TV Sci-fi filmer" tvg-logo="https://images.pluto.tv/channels/6a427b4e7dd69d931963e771/colorLogoPNG_1788157956182.png" group-title="Norway",Pluto TV Sci-fi filmer
 https://jmp2.uk/plu-6a427b4e7dd69d931963e771.m3u8
@@ -5227,7 +5231,7 @@ https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 https://jmp2.uk/plu-6a4270ee50c71f4dc3af2b0f.m3u8
 #EXTINF:-1 channel-id="6a427149d8d4ec52059410dc-se" tvg-id="6a427149d8d4ec52059410dc" tvg-chno="2" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/6a427149d8d4ec52059410dc/colorLogoPNG_1782739360307.png" group-title="Sweden",Star Trek: The Next Generation
 https://jmp2.uk/plu-6a427149d8d4ec52059410dc.m3u8
-#EXTINF:-1 channel-id="6a42707f7dd69d931963b5d4-dk" tvg-id="6a42707f7dd69d931963b5d4" tvg-chno="3" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/6a42707f7dd69d931963b5d4/colorLogoPNG_1782739113794.png" group-title="Denmark",Star Trek: The Next Generation
+#EXTINF:-1 channel-id="6a42707f7dd69d931963b5d4-dk" tvg-id="6a42707f7dd69d931963b5d4" tvg-chno="11" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/6a42707f7dd69d931963b5d4/colorLogoPNG_1782739113794.png" group-title="Denmark",Star Trek: The Next Generation
 https://jmp2.uk/plu-6a42707f7dd69d931963b5d4.m3u8
 #EXTINF:-1 channel-id="69776b58036e883f39e5ab8a-de" tvg-id="69776b58036e883f39e5ab8a" tvg-chno="232" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="Germany",Star Trek: The Original Series
 https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
@@ -5355,7 +5359,7 @@ https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
 https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
 #EXTINF:-1 channel-id="64e50055286f6b000838c067-br" tvg-id="64e50055286f6b000838c067" tvg-chno="1465" tvg-name="Teletubbies" tvg-logo="https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png" group-title="Brazil",Teletubbies
 https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
-#EXTINF:-1 channel-id="6a2aa7a75d996facea208f2d-dk" tvg-id="6a2aa7a75d996facea208f2d" tvg-chno="1" tvg-name="Temptation Island" tvg-logo="https://images.pluto.tv/channels/6a2aa7a75d996facea208f2d/colorLogoPNG_1788186360129.png" group-title="Denmark",Temptation Island
+#EXTINF:-1 channel-id="6a2aa7a75d996facea208f2d-dk" tvg-id="6a2aa7a75d996facea208f2d" tvg-chno="3" tvg-name="Temptation Island" tvg-logo="https://images.pluto.tv/channels/6a2aa7a75d996facea208f2d/colorLogoPNG_1788186360129.png" group-title="Denmark",Temptation Island
 https://jmp2.uk/plu-6a2aa7a75d996facea208f2d.m3u8
 #EXTINF:-1 channel-id="6870c9333ffa5e0c914e9205-de" tvg-id="6870c9333ffa5e0c914e9205" tvg-chno="99" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c9333ffa5e0c914e9205/colorLogoPNG_1756709434849.png" group-title="Germany",Tennis Channel
 https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
@@ -5375,7 +5379,7 @@ https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
 https://jmp2.uk/plu-6a7d7d54c5ec41dd0f12e029.m3u8
 #EXTINF:-1 channel-id="6a7d8049815e1932eb93e15d-se" tvg-id="6a7d8049815e1932eb93e15d" tvg-chno="9" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/6a7d8049815e1932eb93e15d/colorLogoPNG_1786626468177.png" group-title="Sweden",That's 70s
 https://jmp2.uk/plu-6a7d8049815e1932eb93e15d.m3u8
-#EXTINF:-1 channel-id="6a7d7e95ff94431f8b311276-dk" tvg-id="6a7d7e95ff94431f8b311276" tvg-chno="10" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/6a7d7e95ff94431f8b311276/colorLogoPNG_1786626430694.png" group-title="Denmark",That's 70s
+#EXTINF:-1 channel-id="6a7d7e95ff94431f8b311276-dk" tvg-id="6a7d7e95ff94431f8b311276" tvg-chno="19" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/6a7d7e95ff94431f8b311276/colorLogoPNG_1786626430694.png" group-title="Denmark",That's 70s
 https://jmp2.uk/plu-6a7d7e95ff94431f8b311276.m3u8
 #EXTINF:-1 channel-id="69ef54f3c700cf0140272def-it" tvg-id="69ef54f3c700cf0140272def" tvg-chno="930" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/69ef54f3c700cf0140272def/colorLogoPNG_1779094967843.png" group-title="Italy",That's 80s
 https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
@@ -5383,7 +5387,7 @@ https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
 https://jmp2.uk/plu-6a7d7d67a939793d163768d2.m3u8
 #EXTINF:-1 channel-id="6a7d805a9547fd4fec6e8fc2-se" tvg-id="6a7d805a9547fd4fec6e8fc2" tvg-chno="11" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/6a7d805a9547fd4fec6e8fc2/colorLogoPNG_1788432691808.png" group-title="Sweden",That's 80s
 https://jmp2.uk/plu-6a7d805a9547fd4fec6e8fc2.m3u8
-#EXTINF:-1 channel-id="6a7d7f5c8ce7aa093242784a-dk" tvg-id="6a7d7f5c8ce7aa093242784a" tvg-chno="12" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/6a7d7f5c8ce7aa093242784a/colorLogoPNG_1788432637893.png" group-title="Denmark",That's 80s
+#EXTINF:-1 channel-id="6a7d7f5c8ce7aa093242784a-dk" tvg-id="6a7d7f5c8ce7aa093242784a" tvg-chno="20" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/6a7d7f5c8ce7aa093242784a/colorLogoPNG_1788432637893.png" group-title="Denmark",That's 80s
 https://jmp2.uk/plu-6a7d7f5c8ce7aa093242784a.m3u8
 #EXTINF:-1 channel-id="69ef55c3b80e144b55d74e36-it" tvg-id="69ef55c3b80e144b55d74e36" tvg-chno="935" tvg-name="That's 90s/00s" tvg-logo="https://images.pluto.tv/channels/69ef55c3b80e144b55d74e36/colorLogoPNG_1779094979748.png" group-title="Italy",That's 90s/00s
 https://jmp2.uk/plu-69ef55c3b80e144b55d74e36.m3u8
@@ -5391,7 +5395,7 @@ https://jmp2.uk/plu-69ef55c3b80e144b55d74e36.m3u8
 https://jmp2.uk/plu-6a7d7d7b417a4b67e5a740bc.m3u8
 #EXTINF:-1 channel-id="6a7d806bff94431f8b3112c3-se" tvg-id="6a7d806bff94431f8b3112c3" tvg-chno="13" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a7d806bff94431f8b3112c3/colorLogoPNG_1786626753290.png" group-title="Sweden",That's 90s00s
 https://jmp2.uk/plu-6a7d806bff94431f8b3112c3.m3u8
-#EXTINF:-1 channel-id="6a7d7f79496b635ad6067d2a-dk" tvg-id="6a7d7f79496b635ad6067d2a" tvg-chno="14" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a7d7f79496b635ad6067d2a/colorLogoPNG_1786626729215.png" group-title="Denmark",That's 90s00s
+#EXTINF:-1 channel-id="6a7d7f79496b635ad6067d2a-dk" tvg-id="6a7d7f79496b635ad6067d2a" tvg-chno="21" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a7d7f79496b635ad6067d2a/colorLogoPNG_1786626729215.png" group-title="Denmark",That's 90s00s
 https://jmp2.uk/plu-6a7d7f79496b635ad6067d2a.m3u8
 #EXTINF:-1 channel-id="69ef5682980899a9edf1a884-it" tvg-id="69ef5682980899a9edf1a884" tvg-chno="940" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/69ef5682980899a9edf1a884/colorLogoPNG_1779094988172.png" group-title="Italy",That's Rock
 https://jmp2.uk/plu-69ef5682980899a9edf1a884.m3u8
@@ -5399,7 +5403,7 @@ https://jmp2.uk/plu-69ef5682980899a9edf1a884.m3u8
 https://jmp2.uk/plu-6a7d7d8a0218a8f8ee697113.m3u8
 #EXTINF:-1 channel-id="6a7d80838ce7aa0932427863-se" tvg-id="6a7d80838ce7aa0932427863" tvg-chno="7" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/6a7d80838ce7aa0932427863/colorLogoPNG_1786627172202.png" group-title="Sweden",That's Rock
 https://jmp2.uk/plu-6a7d80838ce7aa0932427863.m3u8
-#EXTINF:-1 channel-id="6a7d7f8f57bd65df5db7e96f-dk" tvg-id="6a7d7f8f57bd65df5db7e96f" tvg-chno="8" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/6a7d7f8f57bd65df5db7e96f/colorLogoPNG_1786627144229.png" group-title="Denmark",That's Rock
+#EXTINF:-1 channel-id="6a7d7f8f57bd65df5db7e96f-dk" tvg-id="6a7d7f8f57bd65df5db7e96f" tvg-chno="18" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/6a7d7f8f57bd65df5db7e96f/colorLogoPNG_1786627144229.png" group-title="Denmark",That's Rock
 https://jmp2.uk/plu-6a7d7f8f57bd65df5db7e96f.m3u8
 #EXTINF:-1 channel-id="69afeca6ac36b147e7ef33a7-no" tvg-id="69afeca6ac36b147e7ef33a7" tvg-chno="656" tvg-name="The 4400" tvg-logo="https://images.pluto.tv/channels/69afeca6ac36b147e7ef33a7/colorLogoPNG_1776175878061.png" group-title="Norway",The 4400
 https://jmp2.uk/plu-69afeca6ac36b147e7ef33a7.m3u8
@@ -5419,7 +5423,7 @@ https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
 https://jmp2.uk/plu-6a329b878aa69b1cc8c5d1b6.m3u8
 #EXTINF:-1 channel-id="6a329bb68036fe474a3f3e13-se" tvg-id="6a329bb68036fe474a3f3e13" tvg-chno="17" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329bb68036fe474a3f3e13/colorLogoPNG_1782465143682.png" group-title="Sweden",The Bob Ross Channel
 https://jmp2.uk/plu-6a329bb68036fe474a3f3e13.m3u8
-#EXTINF:-1 channel-id="6a329b4aff3691f8e69cc74f-dk" tvg-id="6a329b4aff3691f8e69cc74f" tvg-chno="18" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b4aff3691f8e69cc74f/colorLogoPNG_1782465052673.png" group-title="Denmark",The Bob Ross Channel
+#EXTINF:-1 channel-id="6a329b4aff3691f8e69cc74f-dk" tvg-id="6a329b4aff3691f8e69cc74f" tvg-chno="23" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b4aff3691f8e69cc74f/colorLogoPNG_1782465052673.png" group-title="Denmark",The Bob Ross Channel
 https://jmp2.uk/plu-6a329b4aff3691f8e69cc74f.m3u8
 #EXTINF:-1 channel-id="64f8a22a3efb510008245df0-cl" tvg-id="64f8a22a3efb510008245df0" tvg-chno="825" tvg-name="The Challenge" tvg-logo="https://images.pluto.tv/channels/64f8a22a3efb510008245df0/colorLogoPNG.png" group-title="Chile",The Challenge
 https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
@@ -5581,7 +5585,7 @@ https://jmp2.uk/plu-6202357dea93940007d723ca.m3u8
 https://jmp2.uk/plu-620239894757070008d4812d.m3u8
 #EXTINF:-1 channel-id="620234d766314700075cac86-dk" tvg-id="620234d766314700075cac86" tvg-chno="210" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/620234d766314700075cac86/colorLogoPNG.png" group-title="Denmark",Top Gear
 https://jmp2.uk/plu-620234d766314700075cac86.m3u8
-#EXTINF:-1 channel-id="680ba9878e4b08935e31462b-es" tvg-id="680ba9878e4b08935e31462b" tvg-chno="2" tvg-name="Top Gear: Racing Icons" tvg-logo="https://images.pluto.tv/channels/680ba9878e4b08935e31462b/colorLogoPNG_1748523330362.png" group-title="Spain",Top Gear: Racing Icons
+#EXTINF:-1 channel-id="680ba9878e4b08935e31462b-es" tvg-id="680ba9878e4b08935e31462b" tvg-chno="1" tvg-name="Top Gear: Racing Icons" tvg-logo="https://images.pluto.tv/channels/680ba9878e4b08935e31462b/colorLogoPNG_1748523330362.png" group-title="Spain",Top Gear: Racing Icons
 https://jmp2.uk/plu-680ba9878e4b08935e31462b.m3u8
 #EXTINF:-1 channel-id="69fca82395df3283d2b60ef9-br" tvg-id="69fca82395df3283d2b60ef9" tvg-chno="365" tvg-name="Topa ou Não Topa EUA" tvg-logo="https://images.pluto.tv/channels/69fca82395df3283d2b60ef9/colorLogoPNG_1785430626504.png" group-title="Brazil",Topa ou Não Topa EUA
 https://jmp2.uk/plu-69fca82395df3283d2b60ef9.m3u8
@@ -5757,7 +5761,7 @@ https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
 https://jmp2.uk/plu-67a9d77a15d6eb000837c6f4.m3u8
 #EXTINF:-1 channel-id="67a9d7c1ec91870008ad6519-se" tvg-id="67a9d7c1ec91870008ad6519" tvg-chno="19" tvg-name="Xena: Warrior Princess" tvg-logo="https://images.pluto.tv/channels/67a9d7c1ec91870008ad6519/colorLogoPNG.png" group-title="Sweden",Xena: Warrior Princess
 https://jmp2.uk/plu-67a9d7c1ec91870008ad6519.m3u8
-#EXTINF:-1 channel-id="67a9d71dec91870008ad6477-dk" tvg-id="67a9d71dec91870008ad6477" tvg-chno="20" tvg-name="Xena: Warrior Princess" tvg-logo="https://images.pluto.tv/channels/67a9d71dec91870008ad6477/colorLogoPNG.png" group-title="Denmark",Xena: Warrior Princess
+#EXTINF:-1 channel-id="67a9d71dec91870008ad6477-dk" tvg-id="67a9d71dec91870008ad6477" tvg-chno="25" tvg-name="Xena: Warrior Princess" tvg-logo="https://images.pluto.tv/channels/67a9d71dec91870008ad6477/colorLogoPNG.png" group-title="Denmark",Xena: Warrior Princess
 https://jmp2.uk/plu-67a9d71dec91870008ad6477.m3u8
 #EXTINF:-1 channel-id="612e044c970e6f00083bcf3b-fr" tvg-id="612e044c970e6f00083bcf3b" tvg-chno="630" tvg-name="Y'a que la vérité qui compte" tvg-logo="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/colorLogoPNG.png" group-title="France",Y'a que la vérité qui compte
 https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8

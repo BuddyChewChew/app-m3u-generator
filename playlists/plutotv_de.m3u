@@ -37,8 +37,6 @@ https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8
 https://jmp2.uk/plu-684ac10236c9361b1977f7bc.m3u8
 #EXTINF:-1 channel-id="62441d6ded1827000763dcda" tvg-id="62441d6ded1827000763dcda" tvg-chno="521" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/62441d6ded1827000763dcda/colorLogoPNG.png" group-title="Nachrichten",CBS News 24/7
 https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8
-#EXTINF:-1 channel-id="5d4947590ba40f75dc29c26b" tvg-id="5d4947590ba40f75dc29c26b" tvg-chno="67" tvg-name="CC Pluto TV" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png" group-title="Sitcoms + Comedy",CC Pluto TV
-https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 #EXTINF:-1 channel-id="66337e365a402e00087eccaf" tvg-id="66337e365a402e00087eccaf" tvg-chno="523" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/66337e365a402e00087eccaf/colorLogoPNG_1775159594177.png" group-title="Nachrichten",CNN Headlines International
 https://jmp2.uk/plu-66337e365a402e00087eccaf.m3u8
 #EXTINF:-1 channel-id="66c45b1803e3b20008d8c200" tvg-id="66c45b1803e3b20008d8c200" tvg-chno="522" tvg-name="CNNi" tvg-logo="https://images.pluto.tv/channels/66c45b1803e3b20008d8c200/colorLogoPNG_1775663079265.png" group-title="Nachrichten",CNNi
@@ -49,6 +47,8 @@ https://jmp2.uk/plu-69776f2b2c00406316a01945.m3u8
 https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
 #EXTINF:-1 channel-id="611e7f224676bf00076a4d8d" tvg-id="611e7f224676bf00076a4d8d" tvg-chno="64" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png" group-title="Sitcoms + Comedy",Cheers
 https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
+#EXTINF:-1 channel-id="5d4947590ba40f75dc29c26b" tvg-id="5d4947590ba40f75dc29c26b" tvg-chno="67" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG_1789028182543.png" group-title="Sitcoms + Comedy",Comedy Central Pluto TV
+https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 #EXTINF:-1 channel-id="60c716084d842c00085f6e64" tvg-id="60c716084d842c00085f6e64" tvg-chno="351" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" group-title="South Park",Comedy Central South Park
 https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 #EXTINF:-1 channel-id="64b67f0424ade50008a3be17" tvg-id="64b67f0424ade50008a3be17" tvg-chno="91" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Live Sports",DAZN Darts x Pluto TV
