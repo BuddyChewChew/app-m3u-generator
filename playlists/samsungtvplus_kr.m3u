@@ -73,12 +73,12 @@ https://jmp2.uk/stvp-KRBC3200009M7
 https://jmp2.uk/stvp-KRBC4000005EP
 #EXTINF:-1 channel-id="KR700003L9" tvg-id="KR700003L9" tvg-chno="576" tvg-name="KBS 개그콘서트" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700003L9_20260728T033403SQUARE.png" group-title="예능",KBS 개그콘서트
 https://jmp2.uk/stvp-KR700003L9
-#EXTINF:-1 channel-id="KR7000023Z" tvg-id="KR7000023Z" tvg-chno="626" tvg-name="KBS 구르미 그린 달빛" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20260915T035351SQUARE.png" group-title="드라마",KBS 구르미 그린 달빛
-https://jmp2.uk/stvp-KR7000023Z
 #EXTINF:-1 channel-id="KR5100001TH" tvg-id="KR5100001TH" tvg-chno="530" tvg-name="KBS 뉴스24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5100001TH_20260901T053911SQUARE.png" group-title="뉴스",KBS 뉴스24
 https://jmp2.uk/stvp-KR5100001TH
 #EXTINF:-1 channel-id="KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-chno="628" tvg-name="KBS 신사와 아가씨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20260422T013647SQUARE.png" group-title="드라마",KBS 신사와 아가씨
 https://jmp2.uk/stvp-KRBC4400001TZ
+#EXTINF:-1 channel-id="KR7000023Z" tvg-id="KR7000023Z" tvg-chno="529" tvg-name="KBS 오월의 청춘" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20260915T035351SQUARE.png" group-title="드라마",KBS 오월의 청춘
+https://jmp2.uk/stvp-KR7000023Z
 #EXTINF:-1 channel-id="KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-chno="627" tvg-name="KBS 최고다 이순신" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20260506T053640SQUARE.png" group-title="드라마",KBS 최고다 이순신
 https://jmp2.uk/stvp-KRBC4400002AO
 #EXTINF:-1 channel-id="KR4600012CR" tvg-id="KR4600012CR" tvg-chno="629" tvg-name="KBS 태조 왕건" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4600012CR_20260422T012526SQUARE.png" group-title="드라마",KBS 태조 왕건
@@ -139,8 +139,8 @@ https://jmp2.uk/stvp-KRBC3200005SH
 https://jmp2.uk/stvp-KRBD3100007WB
 #EXTINF:-1 channel-id="KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-chno="744" tvg-name="PLAYGRAM MOVIES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20260422T013754SQUARE.png" group-title="영화",PLAYGRAM MOVIES
 https://jmp2.uk/stvp-KRBC3200004D1
-#EXTINF:-1 channel-id="KR2900023XU" tvg-id="KR2900023XU" tvg-chno="504" tvg-name="Samsung Television Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900023XU_20260915T035347SQUARE.png" group-title="실시간",Samsung Television Network
-https://jmp2.uk/stvp-KR2900023XU
+#EXTINF:-1 channel-id="KR1300003KW" tvg-id="KR1300003KW" tvg-chno="504" tvg-name="Samsung Television Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1300003KW_20260915T035354SQUARE.png" group-title="실시간",Samsung Television Network
+https://jmp2.uk/stvp-KR1300003KW
 #EXTINF:-1 channel-id="KRAH2201403A" tvg-id="KRAH2201403A" tvg-chno="765" tvg-name="SAMSUNG UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH2201403A_20260422T012851SQUARE.png" group-title="라이프스타일",SAMSUNG UHD
 https://jmp2.uk/stvp-KRAH2201403A
 #EXTINF:-1 channel-id="KR4500003V9" tvg-id="KR4500003V9" tvg-chno="636" tvg-name="SBS HOT CLIP 드라마" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500003V9_20260422T012511SQUARE.png" group-title="드라마",SBS HOT CLIP 드라마

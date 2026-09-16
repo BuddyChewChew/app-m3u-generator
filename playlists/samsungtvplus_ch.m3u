@@ -5,7 +5,7 @@ https://jmp2.uk/stvp-CH3400004AF
 https://jmp2.uk/stvp-CH2600004R1
 #EXTINF:-1 channel-id="CHBD5100001EF" tvg-id="CHBD5100001EF" tvg-chno="4196" tvg-name="ADN [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5100001EF_20250107T025428SQUARE.png" group-title="Anime",ADN [FR]
 https://jmp2.uk/stvp-CHBD5100001EF
-#EXTINF:-1 channel-id="CH300006UT" tvg-id="CH300006UT" tvg-chno="4002" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20260915T035045SQUARE.png" group-title="Crime",Alarm für Cobra 11 / Balko
+#EXTINF:-1 channel-id="CH300006UT" tvg-id="CH300006UT" tvg-chno="4292" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20260915T035045SQUARE.png" group-title="Crime",Alarm für Cobra 11 / Balko
 https://jmp2.uk/stvp-CH300006UT
 #EXTINF:-1 channel-id="CHBA3300016BA" tvg-id="CHBA3300016BA" tvg-chno="4884" tvg-name="Alberto Sordi & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300016BA_20250326T013522SQUARE.png" group-title="Filme",Alberto Sordi & Co
 https://jmp2.uk/stvp-CHBA3300016BA
@@ -81,6 +81,8 @@ https://jmp2.uk/stvp-CH3800001TJ
 https://jmp2.uk/stvp-CH3200007VB
 #EXTINF:-1 channel-id="CH4400003WV" tvg-id="CH4400003WV" tvg-chno="4243" tvg-name="Don Matteo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4400003WV_20260407T035825SQUARE.png" group-title="Serien",Don Matteo
 https://jmp2.uk/stvp-CH4400003WV
+#EXTINF:-1 channel-id="CH3000009FR" tvg-id="CH3000009FR" tvg-chno="4956" tvg-name="Dragon TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3000009FR_20260915T035056SQUARE.png" group-title="Filme",Dragon TV
+https://jmp2.uk/stvp-CH3000009FR
 #EXTINF:-1 channel-id="CH2600002VE" tvg-id="CH2600002VE" tvg-chno="4898" tvg-name="Drama Filme - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600002VE_20260707T045734SQUARE.png" group-title="Filme",Drama Filme - Rakuten TV
 https://jmp2.uk/stvp-CH2600002VE
 #EXTINF:-1 channel-id="CHBC40000027S" tvg-id="CHBC40000027S" tvg-chno="4538" tvg-name="Echappées belles & co [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000027S_20250107T031454SQUARE.png" group-title="Food & Travel",Echappées belles & co [FR]
@@ -129,11 +131,11 @@ https://jmp2.uk/stvp-CH1300002VX
 https://jmp2.uk/stvp-CH2300002MI
 #EXTINF:-1 channel-id="CH3300002MN" tvg-id="CH3300002MN" tvg-chno="4994" tvg-name="Hochspannung" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3300002MN_20251209T125801SQUARE.png" group-title="Filme",Hochspannung
 https://jmp2.uk/stvp-CH3300002MN
-#EXTINF:-1 channel-id="CH4800001LT" tvg-id="CH4800001LT" tvg-chno="4003" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20260915T035101SQUARE.png" group-title="Entertainment",Hochzeit auf den ersten Blick
+#EXTINF:-1 channel-id="CH4800001LT" tvg-id="CH4800001LT" tvg-chno="4069" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20260915T035101SQUARE.png" group-title="Entertainment",Hochzeit auf den ersten Blick
 https://jmp2.uk/stvp-CH4800001LT
 #EXTINF:-1 channel-id="CHBC4000003K9" tvg-id="CHBC4000003K9" tvg-chno="4312" tvg-name="Homicide [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC4000003K9_20250107T031508SQUARE.png" group-title="Crime",Homicide [FR]
 https://jmp2.uk/stvp-CHBC4000003K9
-#EXTINF:-1 channel-id="CH48000025D" tvg-id="CH48000025D" tvg-chno="4291" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20260915T035109SQUARE.png" group-title="Crime",Hudson & Rex
+#EXTINF:-1 channel-id="CH48000025D" tvg-id="CH48000025D" tvg-chno="4002" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20260915T035109SQUARE.png" group-title="Crime",Hudson & Rex
 https://jmp2.uk/stvp-CH48000025D
 #EXTINF:-1 channel-id="CHBA1500028KP" tvg-id="CHBA1500028KP" tvg-chno="4431" tvg-name="Höhenrausch" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500028KP_20250722T005234SQUARE.png" group-title="Dokus & Wissen",Höhenrausch
 https://jmp2.uk/stvp-CHBA1500028KP
@@ -197,7 +199,7 @@ https://jmp2.uk/stvp-CH2200005L8
 https://jmp2.uk/stvp-CHBC4000005PW
 #EXTINF:-1 channel-id="CHBC80000437" tvg-id="CHBC80000437" tvg-chno="4506" tvg-name="NatureTime [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC80000437_20250107T031518SQUARE.png" group-title="Dokus & Wissen",NatureTime [FR]
 https://jmp2.uk/stvp-CHBC80000437
-#EXTINF:-1 channel-id="CH2100004Y5" tvg-id="CH2100004Y5" tvg-chno="4234" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2100004Y5_20260915T035118SQUARE.png" group-title="Serien",NCIS: New Orleans
+#EXTINF:-1 channel-id="CH2100004Y5" tvg-id="CH2100004Y5" tvg-chno="4001" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2100004Y5_20260915T035118SQUARE.png" group-title="Serien",NCIS: New Orleans
 https://jmp2.uk/stvp-CH2100004Y5
 #EXTINF:-1 channel-id="CHAJ0500422A" tvg-id="CHAJ0500422A" tvg-chno="4881" tvg-name="Netzkino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500422A_20250722T005236SQUARE.png" group-title="Filme",Netzkino
 https://jmp2.uk/stvp-CHAJ0500422A
@@ -319,7 +321,7 @@ https://jmp2.uk/stvp-CH23000031M
 https://jmp2.uk/stvp-CHBA3300026CA
 #EXTINF:-1 channel-id="CHBC800003LH" tvg-id="CHBC800003LH" tvg-chno="4751" tvg-name="Trace Latina [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800003LH_20250107T031536SQUARE.png" group-title="Musik & Ambient",Trace Latina [FR]
 https://jmp2.uk/stvp-CHBC800003LH
-#EXTINF:-1 channel-id="CH2000332L" tvg-id="CH2000332L" tvg-chno="4293" tvg-name="Vera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2000332L_20260915T035125SQUARE.png" group-title="Crime",Vera
+#EXTINF:-1 channel-id="CH2000332L" tvg-id="CH2000332L" tvg-chno="4003" tvg-name="Vera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2000332L_20260915T035125SQUARE.png" group-title="Crime",Vera
 https://jmp2.uk/stvp-CH2000332L
 #EXTINF:-1 channel-id="CH4400005U9" tvg-id="CH4400005U9" tvg-chno="4261" tvg-name="Vier Frauen & ein Todesfall" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4400005U9_20251209T125815SQUARE.png" group-title="Serien",Vier Frauen & ein Todesfall
 https://jmp2.uk/stvp-CH4400005U9
@@ -331,7 +333,7 @@ https://jmp2.uk/stvp-CHBC40000040J
 https://jmp2.uk/stvp-CH2200006VD
 #EXTINF:-1 channel-id="CH1000001V1" tvg-id="CH1000001V1" tvg-chno="4436" tvg-name="Wheels & Steel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1000001V1_20260528T053357SQUARE.png" group-title="Dokus & Wissen",Wheels & Steel
 https://jmp2.uk/stvp-CH1000001V1
-#EXTINF:-1 channel-id="CHBA3300028G3" tvg-id="CHBA3300028G3" tvg-chno="4001" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20260915T034946SQUARE.png" group-title="Dokus & Wissen",Wilder Planet
+#EXTINF:-1 channel-id="CHBA3300028G3" tvg-id="CHBA3300028G3" tvg-chno="4486" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20260915T034946SQUARE.png" group-title="Dokus & Wissen",Wilder Planet
 https://jmp2.uk/stvp-CHBA3300028G3
 #EXTINF:-1 channel-id="CHBD5000001T0" tvg-id="CHBD5000001T0" tvg-chno="4675" tvg-name="World of Freesports - WoF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5000001T0_20250107T025625SQUARE.png" group-title="Sport",World of Freesports - WoF
 https://jmp2.uk/stvp-CHBD5000001T0
