@@ -113,6 +113,10 @@ https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 #EXTINF:-1 channel-id="625463563b8ddc0007134aeb" tvg-id="625463563b8ddc0007134aeb" tvg-chno="389" tvg-name="MTV Shore" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="MTV",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
+#EXTINF:-1 channel-id="6a6ca5fef8b727c1f2e7bde4" tvg-id="6a6ca5fef8b727c1f2e7bde4" tvg-chno="2" tvg-name="MTV VMA 2026 em Inglês" tvg-logo="https://images.pluto.tv/channels/6a6ca5fef8b727c1f2e7bde4/colorLogoPNG_1789482802690.png" group-title="MTV VMA 2026",MTV VMA 2026 em Inglês
+https://jmp2.uk/plu-6a6ca5fef8b727c1f2e7bde4.m3u8
+#EXTINF:-1 channel-id="6a6ca5ced3e322cab93401d0" tvg-id="6a6ca5ced3e322cab93401d0" tvg-chno="1" tvg-name="MTV VMA 2026 em Português" tvg-logo="https://images.pluto.tv/channels/6a6ca5ced3e322cab93401d0/colorLogoPNG_1789483009541.png" group-title="MTV VMA 2026",MTV VMA 2026 em Português
+https://jmp2.uk/plu-6a6ca5ced3e322cab93401d0.m3u8
 #EXTINF:-1 channel-id="63eb9dc84e83e70008abea92" tvg-id="63eb9dc84e83e70008abea92" tvg-chno="235" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Retrô",MacGyver
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 channel-id="681111be5e0764e297fb200e" tvg-id="681111be5e0764e297fb200e" tvg-chno="352" tvg-name="Mais MasterChef Brasil" tvg-logo="https://images.pluto.tv/channels/681111be5e0764e297fb200e/colorLogoPNG_1749582970597.png" group-title="Reality",Mais MasterChef Brasil
