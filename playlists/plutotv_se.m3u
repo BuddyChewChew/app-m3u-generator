@@ -215,8 +215,6 @@ https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
 https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
 #EXTINF:-1 channel-id="61c09342b3a6230007a45119" tvg-id="61c09342b3a6230007a45119" tvg-chno="456" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/61c09342b3a6230007a45119/colorLogoPNG_1748001887981.png" group-title="Det bästa från MTV",MTV Teen Mom
 https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
-#EXTINF:-1 channel-id="6a9a7b6bcb18e0ed023a09f1" tvg-id="6a9a7b6bcb18e0ed023a09f1" tvg-chno="5" tvg-name="MTV VMAs 2026" tvg-logo="https://images.pluto.tv/channels/6a9a7b6bcb18e0ed023a09f1/colorLogoPNG_1790583890863.png" group-title="Nytt på Pluto TV",MTV VMAs 2026
-https://jmp2.uk/plu-6a9a7b6bcb18e0ed023a09f1.m3u8
 #EXTINF:-1 channel-id="63a19eceb3d0eb0007439c34" tvg-id="63a19eceb3d0eb0007439c34" tvg-chno="552" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63a19eceb3d0eb0007439c34/colorLogoPNG.png" group-title="Gamla godingar",MacGyver
 https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
 #EXTINF:-1 channel-id="6825efbb9eed174f7ffbe5b0" tvg-id="6825efbb9eed174f7ffbe5b0" tvg-chno="1006" tvg-name="Man with a Plan" tvg-logo="https://images.pluto.tv/channels/6825efbb9eed174f7ffbe5b0/colorLogoPNG_1747316725165.png" group-title="Sitcoms",Man with a Plan
@@ -303,6 +301,8 @@ https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
 https://jmp2.uk/plu-655caad95812e800088843a6.m3u8
 #EXTINF:-1 channel-id="68ac56363efb41cd979a8005" tvg-id="68ac56363efb41cd979a8005" tvg-chno="108" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac56363efb41cd979a8005/colorLogoPNG_1760517057647.png" group-title="Sport",Pluto TV Snooker 900
 https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
+#EXTINF:-1 channel-id="62cd74e38f6f0d000798cd93" tvg-id="62cd74e38f6f0d000798cd93" tvg-chno="101" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/62cd74e38f6f0d000798cd93/colorLogoPNG_1746816954969.png" group-title="Sport",Pluto TV Sport
+https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 #EXTINF:-1 channel-id="61c18c7610d254000727eeb0" tvg-id="61c18c7610d254000727eeb0" tvg-chno="591" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61c18c7610d254000727eeb0/colorLogoPNG.png" group-title="Star Trek 60-årsjubileum",Pluto TV Star Trek
 https://jmp2.uk/plu-61c18c7610d254000727eeb0.m3u8
 #EXTINF:-1 channel-id="67f5095a3481170e6843d95d" tvg-id="67f5095a3481170e6843d95d" tvg-chno="921" tvg-name="Pluto TV Tecknade klassiker" tvg-logo="https://images.pluto.tv/channels/67f5095a3481170e6843d95d/colorLogoPNG_1748955339418.png" group-title="Barn",Pluto TV Tecknade klassiker

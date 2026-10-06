@@ -19,6 +19,8 @@ https://jmp2.uk/plu-686cfdf894a028da3aac4252.m3u8
 https://jmp2.uk/plu-6231ec4b62cd1f0007093c7b.m3u8
 #EXTINF:-1 channel-id="66c45ba803e3b20008d8c294" tvg-id="66c45ba803e3b20008d8c294" tvg-chno="905" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/66c45ba803e3b20008d8c294/colorLogoPNG_1775159849441.png" group-title="News e mondo",CNN Headlines International
 https://jmp2.uk/plu-66c45ba803e3b20008d8c294.m3u8
+#EXTINF:-1 channel-id="6a7c73738a40fc87bcbac99e" tvg-id="6a7c73738a40fc87bcbac99e" tvg-chno="50" tvg-name="Call the Midwife" tvg-logo="https://images.pluto.tv/channels/6a7c73738a40fc87bcbac99e/colorLogoPNG_1790774970554.png" group-title="Novità su Pluto TV",Call the Midwife
+https://jmp2.uk/plu-6a7c73738a40fc87bcbac99e.m3u8
 #EXTINF:-1 channel-id="66a0eea88561260008b1c5d0" tvg-id="66a0eea88561260008b1c5d0" tvg-chno="105" tvg-name="Carabinieri" tvg-logo="https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/colorLogoPNG.png" group-title="Serie",Carabinieri
 https://jmp2.uk/plu-66a0eea88561260008b1c5d0.m3u8
 #EXTINF:-1 channel-id="6093f9ed2c75660007322bb7" tvg-id="6093f9ed2c75660007322bb7" tvg-chno="440" tvg-name="Catfish" tvg-logo="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png" group-title="Intrattenimento",Catfish
@@ -141,7 +143,7 @@ https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
 https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
 #EXTINF:-1 channel-id="612ce23f51cce000078eeed5" tvg-id="612ce23f51cce000078eeed5" tvg-chno="925" tvg-name="Pluto TV Fireplace" tvg-logo="https://images.pluto.tv/channels/612ce23f51cce000078eeed5/colorLogoPNG.png" group-title="Musica",Pluto TV Fireplace
 https://jmp2.uk/plu-612ce23f51cce000078eeed5.m3u8
-#EXTINF:-1 channel-id="62e8d3c2c2db99000787b786" tvg-id="62e8d3c2c2db99000787b786" tvg-chno="90" tvg-name="Pluto TV Halloween" tvg-logo="https://images.pluto.tv/channels/62e8d3c2c2db99000787b786/colorLogoPNG_1751971574499.png" group-title="Halloween",Pluto TV Halloween
+#EXTINF:-1 channel-id="62e8d3c2c2db99000787b786" tvg-id="62e8d3c2c2db99000787b786" tvg-chno="80" tvg-name="Pluto TV Halloween" tvg-logo="https://images.pluto.tv/channels/62e8d3c2c2db99000787b786/colorLogoPNG_1751971574499.png" group-title="Halloween",Pluto TV Halloween
 https://jmp2.uk/plu-62e8d3c2c2db99000787b786.m3u8
 #EXTINF:-1 channel-id="61c09e3ac210ed0007606620" tvg-id="61c09e3ac210ed0007606620" tvg-chno="210" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/61c09e3ac210ed0007606620/colorLogoPNG.png" group-title="Film",Pluto TV Horror
 https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
@@ -149,7 +151,7 @@ https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
 https://jmp2.uk/plu-67f4f99729b03f18cb36647e.m3u8
 #EXTINF:-1 channel-id="64808a8c536e0c0008a276d1" tvg-id="64808a8c536e0c0008a276d1" tvg-chno="220" tvg-name="Pluto TV Legami Letali" tvg-logo="https://images.pluto.tv/channels/64808a8c536e0c0008a276d1/colorLogoPNG_1747395859514.png" group-title="Film",Pluto TV Legami Letali
 https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
-#EXTINF:-1 channel-id="6633551323e24f00084744aa" tvg-id="6633551323e24f00084744aa" tvg-chno="80" tvg-name="Pluto TV Mostri e Vampiri" tvg-logo="https://images.pluto.tv/channels/6633551323e24f00084744aa/colorLogoPNG-1757422171108.png" group-title="Halloween",Pluto TV Mostri e Vampiri
+#EXTINF:-1 channel-id="6633551323e24f00084744aa" tvg-id="6633551323e24f00084744aa" tvg-chno="90" tvg-name="Pluto TV Mostri e Vampiri" tvg-logo="https://images.pluto.tv/channels/6633551323e24f00084744aa/colorLogoPNG-1757422171108.png" group-title="Halloween",Pluto TV Mostri e Vampiri
 https://jmp2.uk/plu-6633551323e24f00084744aa.m3u8
 #EXTINF:-1 channel-id="60802b37709d6b0007b0c549" tvg-id="60802b37709d6b0007b0c549" tvg-chno="855" tvg-name="Pluto TV Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG_1773147389391.png" group-title="Documentari",Pluto TV Natura
 https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
@@ -239,8 +241,6 @@ https://jmp2.uk/plu-69664afedcbf5c784492e422.m3u8
 https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8
 #EXTINF:-1 channel-id="679203d4bc03978b9b4b79a6" tvg-id="679203d4bc03978b9b4b79a6" tvg-chno="580" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/679203d4bc03978b9b4b79a6/colorLogoPNG.png" group-title="Motori e Sport",UFC
 https://jmp2.uk/plu-679203d4bc03978b9b4b79a6.m3u8
-#EXTINF:-1 channel-id="6aa3d9647b2b887bbcd9510b" tvg-id="6aa3d9647b2b887bbcd9510b" tvg-chno="920" tvg-name="VMA" tvg-logo="https://images.pluto.tv/channels/6aa3d9647b2b887bbcd9510b/colorLogoPNG_1790583647468.png" group-title="Musica",VMA
-https://jmp2.uk/plu-6aa3d9647b2b887bbcd9510b.m3u8
 #EXTINF:-1 channel-id="67c832cc9b53325ee16fb899" tvg-id="67c832cc9b53325ee16fb899" tvg-chno="430" tvg-name="Wicked Tuna" tvg-logo="https://images.pluto.tv/channels/67c832cc9b53325ee16fb899/colorLogoPNG.png" group-title="Intrattenimento",Wicked Tuna
 https://jmp2.uk/plu-67c832cc9b53325ee16fb899.m3u8
 #EXTINF:-1 channel-id="608016e446d73500075ea7e0" tvg-id="608016e446d73500075ea7e0" tvg-chno="570" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/608016e446d73500075ea7e0/colorLogoPNG.png" group-title="Motori e Sport",World Poker Tour

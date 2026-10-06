@@ -35,6 +35,8 @@ https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
 https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8
 #EXTINF:-1 channel-id="684ac10236c9361b1977f7bc" tvg-id="684ac10236c9361b1977f7bc" tvg-chno="393" tvg-name="Bronco" tvg-logo="https://images.pluto.tv/channels/684ac10236c9361b1977f7bc/colorLogoPNG_1757588251975.png" group-title="Western",Bronco
 https://jmp2.uk/plu-684ac10236c9361b1977f7bc.m3u8
+#EXTINF:-1 channel-id="697a05f9539a4a433a64cb53" tvg-id="697a05f9539a4a433a64cb53" tvg-chno="50" tvg-name="Büro, Büro" tvg-logo="https://images.pluto.tv/channels/697a05f9539a4a433a64cb53/colorLogoPNG_1789479440129.png" group-title="Sitcoms + Comedy",Büro Büro
+https://jmp2.uk/plu-697a05f9539a4a433a64cb53.m3u8
 #EXTINF:-1 channel-id="62441d6ded1827000763dcda" tvg-id="62441d6ded1827000763dcda" tvg-chno="521" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/62441d6ded1827000763dcda/colorLogoPNG.png" group-title="Nachrichten",CBS News 24/7
 https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8
 #EXTINF:-1 channel-id="66337e365a402e00087eccaf" tvg-id="66337e365a402e00087eccaf" tvg-chno="523" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/66337e365a402e00087eccaf/colorLogoPNG_1775159594177.png" group-title="Nachrichten",CNN Headlines International
@@ -63,10 +65,12 @@ https://jmp2.uk/plu-64be826b0e086a0009d95779.m3u8
 https://jmp2.uk/plu-691b2b690d121b44ad4a53ef.m3u8
 #EXTINF:-1 channel-id="69b0167477cdde1f05c8a625" tvg-id="69b0167477cdde1f05c8a625" tvg-chno="187" tvg-name="Der Bergdoktor" tvg-logo="https://images.pluto.tv/channels/69b0167477cdde1f05c8a625/colorLogoPNG_1777303231853.png" group-title="Serien-Marathon",Der Bergdoktor
 https://jmp2.uk/plu-69b0167477cdde1f05c8a625.m3u8
-#EXTINF:-1 channel-id="67dc21ce5a15c0759a07ee19" tvg-id="67dc21ce5a15c0759a07ee19" tvg-chno="7" tvg-name="Der Chef" tvg-logo="https://images.pluto.tv/channels/67dc21ce5a15c0759a07ee19/colorLogoPNG_1762189762673.png" group-title="Crime",Der Chef
+#EXTINF:-1 channel-id="67dc21ce5a15c0759a07ee19" tvg-id="67dc21ce5a15c0759a07ee19" tvg-chno="8" tvg-name="Der Chef" tvg-logo="https://images.pluto.tv/channels/67dc21ce5a15c0759a07ee19/colorLogoPNG_1762189762673.png" group-title="Crime",Der Chef
 https://jmp2.uk/plu-67dc21ce5a15c0759a07ee19.m3u8
 #EXTINF:-1 channel-id="62cebd7302478b00073a6b71" tvg-id="62cebd7302478b00073a6b71" tvg-chno="191" tvg-name="Der Denver-Clan" tvg-logo="https://images.pluto.tv/channels/62cebd7302478b00073a6b71/colorLogoPNG.png" group-title="Serien-Marathon",Der Denver-Clan
 https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8
+#EXTINF:-1 channel-id="68aec817c9b5923e05e43bc5" tvg-id="68aec817c9b5923e05e43bc5" tvg-chno="5" tvg-name="Der Fahnder" tvg-logo="https://images.pluto.tv/channels/68aec817c9b5923e05e43bc5/colorLogoPNG_1788948138247.png" group-title="Crime",Der Fahnder
+https://jmp2.uk/plu-68aec817c9b5923e05e43bc5.m3u8
 #EXTINF:-1 channel-id="6a7066a121d112e4a8635f36" tvg-id="6a7066a121d112e4a8635f36" tvg-chno="25" tvg-name="Die Addams Family" tvg-logo="https://images.pluto.tv/channels/6a7066a121d112e4a8635f36/colorLogoPNG_1787660991761.png" group-title="",Die Addams Family
 https://jmp2.uk/plu-6a7066a121d112e4a8635f36.m3u8
 #EXTINF:-1 channel-id="66c6fc06489bab0008b6f9da" tvg-id="66c6fc06489bab0008b6f9da" tvg-chno="55" tvg-name="Die Nanny" tvg-logo="https://images.pluto.tv/channels/66c6fc06489bab0008b6f9da/colorLogoPNG.png" group-title="Sitcoms + Comedy",Die Nanny
@@ -79,7 +83,7 @@ https://jmp2.uk/plu-688734b9035d6ef9c34aac16.m3u8
 https://jmp2.uk/plu-69c2ac2b14c0213702da7a29.m3u8
 #EXTINF:-1 channel-id="685aaec481c345899e4458bb" tvg-id="685aaec481c345899e4458bb" tvg-chno="98" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/685aaec481c345899e4458bb/colorLogoPNG_1750773594287.png" group-title="Live Sports",Dominance FC TV
 https://jmp2.uk/plu-685aaec481c345899e4458bb.m3u8
-#EXTINF:-1 channel-id="686d004094a028da3aac8cb0" tvg-id="686d004094a028da3aac8cb0" tvg-chno="8" tvg-name="Don Matteo" tvg-logo="https://images.pluto.tv/channels/686d004094a028da3aac8cb0/colorLogoPNG_1759148252016.png" group-title="Crime",Don Matteo
+#EXTINF:-1 channel-id="686d004094a028da3aac8cb0" tvg-id="686d004094a028da3aac8cb0" tvg-chno="9" tvg-name="Don Matteo" tvg-logo="https://images.pluto.tv/channels/686d004094a028da3aac8cb0/colorLogoPNG_1759148252016.png" group-title="Crime",Don Matteo
 https://jmp2.uk/plu-686d004094a028da3aac8cb0.m3u8
 #EXTINF:-1 channel-id="65a67c494a10d800085cab06" tvg-id="65a67c494a10d800085cab06" tvg-chno="471" tvg-name="Drake & Josh" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" group-title="Kids",Drake & Josh
 https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
@@ -91,7 +95,7 @@ https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8
 https://jmp2.uk/plu-682452dbb19ce6d4a30b496c.m3u8
 #EXTINF:-1 channel-id="66a244d5cd0d3100083b1e47" tvg-id="66a244d5cd0d3100083b1e47" tvg-chno="184" tvg-name="Eine himmlische Familie" tvg-logo="https://images.pluto.tv/channels/66a244d5cd0d3100083b1e47/colorLogoPNG.png" group-title="Serien-Marathon",Eine himmlische Familie
 https://jmp2.uk/plu-66a244d5cd0d3100083b1e47.m3u8
-#EXTINF:-1 channel-id="67a324d221af380008105d6f" tvg-id="67a324d221af380008105d6f" tvg-chno="53" tvg-name="Eine schrecklich nette Familie" tvg-logo="https://images.pluto.tv/channels/67a324d221af380008105d6f/colorLogoPNG.png" group-title="Sitcoms + Comedy",Eine schrecklich nette Familie
+#EXTINF:-1 channel-id="67a324d221af380008105d6f" tvg-id="67a324d221af380008105d6f" tvg-chno="54" tvg-name="Eine schrecklich nette Familie" tvg-logo="https://images.pluto.tv/channels/67a324d221af380008105d6f/colorLogoPNG.png" group-title="Sitcoms + Comedy",Eine schrecklich nette Familie
 https://jmp2.uk/plu-67a324d221af380008105d6f.m3u8
 #EXTINF:-1 channel-id="6639d7d4b18d700008da5316" tvg-id="6639d7d4b18d700008da5316" tvg-chno="520" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/6639d7d4b18d700008da5316/colorLogoPNG.png" group-title="Nachrichten",Euronews
 https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
@@ -125,17 +129,17 @@ https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
 https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
 #EXTINF:-1 channel-id="69f0802b40ffd5e0717dd952" tvg-id="69f0802b40ffd5e0717dd952" tvg-chno="4" tvg-name="Kommissar Rex" tvg-logo="https://images.pluto.tv/channels/69f0802b40ffd5e0717dd952/colorLogoPNG_1785145798565.png" group-title="Crime",Kommissar Rex
 https://jmp2.uk/plu-69f0802b40ffd5e0717dd952.m3u8
-#EXTINF:-1 channel-id="5cb5cfe5caf83414128f209e" tvg-id="5cb5cfe5caf83414128f209e" tvg-chno="15" tvg-name="KultKrimi" tvg-logo="https://images.pluto.tv/channels/5cb5cfe5caf83414128f209e/colorLogoPNG.png" group-title="Crime",KultKrimi
+#EXTINF:-1 channel-id="5cb5cfe5caf83414128f209e" tvg-id="5cb5cfe5caf83414128f209e" tvg-chno="16" tvg-name="KultKrimi" tvg-logo="https://images.pluto.tv/channels/5cb5cfe5caf83414128f209e/colorLogoPNG.png" group-title="Crime",KultKrimi
 https://jmp2.uk/plu-5cb5cfe5caf83414128f209e.m3u8
-#EXTINF:-1 channel-id="65dde5ef28730900089af7cf" tvg-id="65dde5ef28730900089af7cf" tvg-chno="11" tvg-name="KultKrimi: Der Alte" tvg-logo="https://images.pluto.tv/channels/65dde5ef28730900089af7cf/colorLogoPNG.png" group-title="Crime",KultKrimi: Der Alte
+#EXTINF:-1 channel-id="65dde5ef28730900089af7cf" tvg-id="65dde5ef28730900089af7cf" tvg-chno="12" tvg-name="KultKrimi: Der Alte" tvg-logo="https://images.pluto.tv/channels/65dde5ef28730900089af7cf/colorLogoPNG.png" group-title="Crime",KultKrimi: Der Alte
 https://jmp2.uk/plu-65dde5ef28730900089af7cf.m3u8
-#EXTINF:-1 channel-id="65dde626ec9fda0008b3dc89" tvg-id="65dde626ec9fda0008b3dc89" tvg-chno="10" tvg-name="KultKrimi: Der Kommissar" tvg-logo="https://images.pluto.tv/channels/65dde626ec9fda0008b3dc89/colorLogoPNG.png" group-title="Crime",KultKrimi: Der Kommissar
+#EXTINF:-1 channel-id="65dde626ec9fda0008b3dc89" tvg-id="65dde626ec9fda0008b3dc89" tvg-chno="11" tvg-name="KultKrimi: Der Kommissar" tvg-logo="https://images.pluto.tv/channels/65dde626ec9fda0008b3dc89/colorLogoPNG.png" group-title="Crime",KultKrimi: Der Kommissar
 https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8
-#EXTINF:-1 channel-id="65dde5848145cb00083277f6" tvg-id="65dde5848145cb00083277f6" tvg-chno="9" tvg-name="KultKrimi: Derrick" tvg-logo="https://images.pluto.tv/channels/65dde5848145cb00083277f6/colorLogoPNG.png" group-title="Crime",KultKrimi: Derrick
+#EXTINF:-1 channel-id="65dde5848145cb00083277f6" tvg-id="65dde5848145cb00083277f6" tvg-chno="10" tvg-name="KultKrimi: Derrick" tvg-logo="https://images.pluto.tv/channels/65dde5848145cb00083277f6/colorLogoPNG.png" group-title="Crime",KultKrimi: Derrick
 https://jmp2.uk/plu-65dde5848145cb00083277f6.m3u8
 #EXTINF:-1 channel-id="67ed0c86f7c5d70b90889a51" tvg-id="67ed0c86f7c5d70b90889a51" tvg-chno="435" tvg-name="KultKrimi: Die Rettungsflieger" tvg-logo="https://images.pluto.tv/channels/67ed0c86f7c5d70b90889a51/colorLogoPNG_1745819307940.png" group-title="Action",KultKrimi: Die Rettungsflieger
 https://jmp2.uk/plu-67ed0c86f7c5d70b90889a51.m3u8
-#EXTINF:-1 channel-id="68590366010ddd78ef837d29" tvg-id="68590366010ddd78ef837d29" tvg-chno="13" tvg-name="KultKrimi: Ein Fall für zwei" tvg-logo="https://images.pluto.tv/channels/68590366010ddd78ef837d29/colorLogoPNG_1751971997033.png" group-title="Crime",KultKrimi: Ein Fall für zwei
+#EXTINF:-1 channel-id="68590366010ddd78ef837d29" tvg-id="68590366010ddd78ef837d29" tvg-chno="14" tvg-name="KultKrimi: Ein Fall für zwei" tvg-logo="https://images.pluto.tv/channels/68590366010ddd78ef837d29/colorLogoPNG_1751971997033.png" group-title="Crime",KultKrimi: Ein Fall für zwei
 https://jmp2.uk/plu-68590366010ddd78ef837d29.m3u8
 #EXTINF:-1 channel-id="67ebbdced2832b463faa1e79" tvg-id="67ebbdced2832b463faa1e79" tvg-chno="434" tvg-name="KultKrimi: Küstenwache" tvg-logo="https://images.pluto.tv/channels/67ebbdced2832b463faa1e79/colorLogoPNG_1745819408443.png" group-title="Action",KultKrimi: Küstenwache
 https://jmp2.uk/plu-67ebbdced2832b463faa1e79.m3u8
@@ -163,8 +167,6 @@ https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8
 https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
 #EXTINF:-1 channel-id="5cffcf5686dfe15595fb3f56" tvg-id="5cffcf5686dfe15595fb3f56" tvg-chno="459" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/colorLogoPNG_1750154727513.png" group-title="Reality",MTV Teen Mom
 https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
-#EXTINF:-1 channel-id="6a9989ede61416122f0488e9" tvg-id="6a9989ede61416122f0488e9" tvg-chno="19" tvg-name="MTV VMAs 2026" tvg-logo="https://images.pluto.tv/channels/6a9989ede61416122f0488e9/colorLogoPNG_1790256337296.png" group-title="MTV auf Pluto TV",MTV VMAs 2026
-https://jmp2.uk/plu-6a9989ede61416122f0488e9.m3u8
 #EXTINF:-1 channel-id="66c6fcfc6838ee00085beb1a" tvg-id="66c6fcfc6838ee00085beb1a" tvg-chno="194" tvg-name="McLeods Töchter" tvg-logo="https://images.pluto.tv/channels/66c6fcfc6838ee00085beb1a/colorLogoPNG.png" group-title="Serien-Marathon",McLeods Töchter
 https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
 #EXTINF:-1 channel-id="64be745340962900080b55e7" tvg-id="64be745340962900080b55e7" tvg-chno="200" tvg-name="Melrose Place" tvg-logo="https://images.pluto.tv/channels/64be745340962900080b55e7/colorLogoPNG.png" group-title="Serien-Marathon",Melrose Place
@@ -195,9 +197,9 @@ https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
 #EXTINF:-1 channel-id="69fca95dc45cded79a20992e" tvg-id="69fca95dc45cded79a20992e" tvg-chno="1" tvg-name="Numb3rs – Die Logik des Verbrechens" tvg-logo="https://images.pluto.tv/channels/69fca95dc45cded79a20992e/colorLogoPNG_1786704951523.png" group-title="Crime",Numb3rs – Die Logik des Verbrechens
 https://jmp2.uk/plu-69fca95dc45cded79a20992e.m3u8
-#EXTINF:-1 channel-id="686cfef52704ca31d85c4bf1" tvg-id="686cfef52704ca31d85c4bf1" tvg-chno="52" tvg-name="Pastewka" tvg-logo="https://images.pluto.tv/channels/686cfef52704ca31d85c4bf1/colorLogoPNG_1753793017907.png" group-title="Sitcoms + Comedy",Pastewka
+#EXTINF:-1 channel-id="686cfef52704ca31d85c4bf1" tvg-id="686cfef52704ca31d85c4bf1" tvg-chno="53" tvg-name="Pastewka" tvg-logo="https://images.pluto.tv/channels/686cfef52704ca31d85c4bf1/colorLogoPNG_1753793017907.png" group-title="Sitcoms + Comedy",Pastewka
 https://jmp2.uk/plu-686cfef52704ca31d85c4bf1.m3u8
-#EXTINF:-1 channel-id="64eddc3485efec00085b0369" tvg-id="64eddc3485efec00085b0369" tvg-chno="16" tvg-name="Perry Mason" tvg-logo="https://images.pluto.tv/channels/64eddc3485efec00085b0369/colorLogoPNG.png" group-title="Crime",Perry Mason
+#EXTINF:-1 channel-id="64eddc3485efec00085b0369" tvg-id="64eddc3485efec00085b0369" tvg-chno="17" tvg-name="Perry Mason" tvg-logo="https://images.pluto.tv/channels/64eddc3485efec00085b0369/colorLogoPNG.png" group-title="Crime",Perry Mason
 https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
 #EXTINF:-1 channel-id="65004605110545000842035d" tvg-id="65004605110545000842035d" tvg-chno="128" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png" group-title="Filme",Pluto TV Action
 https://jmp2.uk/plu-65004605110545000842035d.m3u8
@@ -213,7 +215,7 @@ https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
 https://jmp2.uk/plu-64be7398e4391c0008cdedfe.m3u8
 #EXTINF:-1 channel-id="67ff7d487fc25e0e72450adf" tvg-id="67ff7d487fc25e0e72450adf" tvg-chno="28" tvg-name="Pluto TV Creature Features" tvg-logo="https://images.pluto.tv/channels/67ff7d487fc25e0e72450adf/colorLogoPNG_1753686612671.png" group-title="",Pluto TV Creature Features
 https://jmp2.uk/plu-67ff7d487fc25e0e72450adf.m3u8
-#EXTINF:-1 channel-id="5e7b6c60fd20c50007910bf5" tvg-id="5e7b6c60fd20c50007910bf5" tvg-chno="17" tvg-name="Pluto TV Crime" tvg-logo="https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png" group-title="Crime",Pluto TV Crime
+#EXTINF:-1 channel-id="5e7b6c60fd20c50007910bf5" tvg-id="5e7b6c60fd20c50007910bf5" tvg-chno="18" tvg-name="Pluto TV Crime" tvg-logo="https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png" group-title="Crime",Pluto TV Crime
 https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
 #EXTINF:-1 channel-id="6672f49f61a39900089db68e" tvg-id="6672f49f61a39900089db68e" tvg-chno="74" tvg-name="Pluto TV Deutsche Comedy" tvg-logo="https://images.pluto.tv/channels/6672f49f61a39900089db68e/colorLogoPNG_1748857141516.png" group-title="Sitcoms + Comedy",Pluto TV Deutsche Comedy
 https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
@@ -249,11 +251,11 @@ https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
 https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
 #EXTINF:-1 channel-id="5be1c3f9851dd5632e2c91b2" tvg-id="5be1c3f9851dd5632e2c91b2" tvg-chno="290" tvg-name="Pluto TV Nature" tvg-logo="https://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/colorLogoPNG.png" group-title="Dokus + Wissen",Pluto TV Nature
 https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
-#EXTINF:-1 channel-id="67d984408d8dc3d7754dccf2" tvg-id="67d984408d8dc3d7754dccf2" tvg-chno="18" tvg-name="Pluto TV Nordic Crime" tvg-logo="https://images.pluto.tv/channels/67d984408d8dc3d7754dccf2/colorLogoPNG_1746817551952.png" group-title="Crime",Pluto TV Nordic Crime
+#EXTINF:-1 channel-id="67d984408d8dc3d7754dccf2" tvg-id="67d984408d8dc3d7754dccf2" tvg-chno="19" tvg-name="Pluto TV Nordic Crime" tvg-logo="https://images.pluto.tv/channels/67d984408d8dc3d7754dccf2/colorLogoPNG_1746817551952.png" group-title="Crime",Pluto TV Nordic Crime
 https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
 #EXTINF:-1 channel-id="5f98487036af340008da1e37" tvg-id="5f98487036af340008da1e37" tvg-chno="29" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="",Pluto TV Paranormal
 https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
-#EXTINF:-1 channel-id="64be64445dc166000899ce75" tvg-id="64be64445dc166000899ce75" tvg-chno="12" tvg-name="Pluto TV Polizeiserien" tvg-logo="https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png" group-title="Crime",Pluto TV Polizeiserien
+#EXTINF:-1 channel-id="64be64445dc166000899ce75" tvg-id="64be64445dc166000899ce75" tvg-chno="13" tvg-name="Pluto TV Polizeiserien" tvg-logo="https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png" group-title="Crime",Pluto TV Polizeiserien
 https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 #EXTINF:-1 channel-id="68ada3edf84960586ad31c7d" tvg-id="68ada3edf84960586ad31c7d" tvg-chno="297" tvg-name="Pluto TV Reportagen" tvg-logo="https://images.pluto.tv/channels/68ada3edf84960586ad31c7d/colorLogoPNG_1760078189640.png" group-title="Dokus + Wissen",Pluto TV Reportagen
 https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
@@ -281,15 +283,13 @@ https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
 https://jmp2.uk/plu-663a176ecb3ea10008edacf9.m3u8
 #EXTINF:-1 channel-id="615333098185f00008715a56" tvg-id="615333098185f00008715a56" tvg-chno="262" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="True Crime",Pluto TV True Crime
 https://jmp2.uk/plu-615333098185f00008715a56.m3u8
-#EXTINF:-1 channel-id="642ad072283aa4000806148c" tvg-id="642ad072283aa4000806148c" tvg-chno="129" tvg-name="Pluto TV Weihnachten im Sommer" tvg-logo="https://images.pluto.tv/channels/642ad072283aa4000806148c/colorLogoPNG.png" group-title="Filme",Pluto TV Weihnachten im Sommer
-https://jmp2.uk/plu-642ad072283aa4000806148c.m3u8
 #EXTINF:-1 channel-id="630dd3b2605f140007e002f5" tvg-id="630dd3b2605f140007e002f5" tvg-chno="392" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" group-title="Western",Pluto TV Western
 https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
 #EXTINF:-1 channel-id="682453215c646751955e1204" tvg-id="682453215c646751955e1204" tvg-chno="391" tvg-name="Pluto TV Western Serien" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" group-title="Western",Pluto TV Western Serien
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 #EXTINF:-1 channel-id="64526a145a0cd50008632bfa" tvg-id="64526a145a0cd50008632bfa" tvg-chno="223" tvg-name="Pluto TV heiße Nächte" tvg-logo="https://images.pluto.tv/channels/64526a145a0cd50008632bfa/colorLogoPNG.png" group-title="Sinnliche Fantasien",Pluto TV heiße Nächte
 https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
-#EXTINF:-1 channel-id="67d984c989788ef7f058b084" tvg-id="67d984c989788ef7f058b084" tvg-chno="14" tvg-name="Profiling Paris" tvg-logo="https://images.pluto.tv/channels/67d984c989788ef7f058b084/colorLogoPNG.png" group-title="Crime",Profiling Paris
+#EXTINF:-1 channel-id="67d984c989788ef7f058b084" tvg-id="67d984c989788ef7f058b084" tvg-chno="15" tvg-name="Profiling Paris" tvg-logo="https://images.pluto.tv/channels/67d984c989788ef7f058b084/colorLogoPNG.png" group-title="Crime",Profiling Paris
 https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
 #EXTINF:-1 channel-id="677fafd91da79bfe4fb0b4ec" tvg-id="677fafd91da79bfe4fb0b4ec" tvg-chno="236" tvg-name="Quantum Leap" tvg-logo="https://images.pluto.tv/channels/677fafd91da79bfe4fb0b4ec/colorLogoPNG_1770397003859.png" group-title="Sci-Fi & Fantasy",Quantum Leap
 https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
@@ -315,7 +315,7 @@ https://jmp2.uk/plu-5e7de99bc5200300072e971a.m3u8
 https://jmp2.uk/plu-666fe4768768aa0008c31ddf.m3u8
 #EXTINF:-1 channel-id="69b01641a9b840a456a11c18" tvg-id="69b01641a9b840a456a11c18" tvg-chno="188" tvg-name="Schlosshotel Orth" tvg-logo="https://images.pluto.tv/channels/69b01641a9b840a456a11c18/colorLogoPNG_1775134475322.png" group-title="Serien-Marathon",Schlosshotel Orth
 https://jmp2.uk/plu-69b01641a9b840a456a11c18.m3u8
-#EXTINF:-1 channel-id="69b968a58323ef2714d1aa36" tvg-id="69b968a58323ef2714d1aa36" tvg-chno="6" tvg-name="Schnell ermittelt" tvg-logo="https://images.pluto.tv/channels/69b968a58323ef2714d1aa36/colorLogoPNG_1773850012880.png" group-title="Crime",Schnell ermittelt
+#EXTINF:-1 channel-id="69b968a58323ef2714d1aa36" tvg-id="69b968a58323ef2714d1aa36" tvg-chno="7" tvg-name="Schnell ermittelt" tvg-logo="https://images.pluto.tv/channels/69b968a58323ef2714d1aa36/colorLogoPNG_1773850012880.png" group-title="Crime",Schnell ermittelt
 https://jmp2.uk/plu-69b968a58323ef2714d1aa36.m3u8
 #EXTINF:-1 channel-id="688735087b2cf33d01a2d411" tvg-id="688735087b2cf33d01a2d411" tvg-chno="433" tvg-name="Sea Patrol" tvg-logo="https://images.pluto.tv/channels/688735087b2cf33d01a2d411/colorLogoPNG_1757918762968.png" group-title="Action",Sea Patrol
 https://jmp2.uk/plu-688735087b2cf33d01a2d411.m3u8
@@ -347,7 +347,7 @@ https://jmp2.uk/plu-6a43d781500fdfdb6975e97c.m3u8
 https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1 channel-id="69776b58036e883f39e5ab8a" tvg-id="69776b58036e883f39e5ab8a" tvg-chno="233" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="Sci-Fi & Fantasy",Star Trek: The Original Series
 https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
-#EXTINF:-1 channel-id="686cff3224918d4300fa542b" tvg-id="686cff3224918d4300fa542b" tvg-chno="51" tvg-name="Stromberg" tvg-logo="https://images.pluto.tv/channels/686cff3224918d4300fa542b/colorLogoPNG_1753976762248.png" group-title="Sitcoms + Comedy",Stromberg
+#EXTINF:-1 channel-id="686cff3224918d4300fa542b" tvg-id="686cff3224918d4300fa542b" tvg-chno="52" tvg-name="Stromberg" tvg-logo="https://images.pluto.tv/channels/686cff3224918d4300fa542b/colorLogoPNG_1753976762248.png" group-title="Sitcoms + Comedy",Stromberg
 https://jmp2.uk/plu-686cff3224918d4300fa542b.m3u8
 #EXTINF:-1 channel-id="691491c6bb69fb3258c3524a" tvg-id="691491c6bb69fb3258c3524a" tvg-chno="285" tvg-name="Swamp People" tvg-logo="https://images.pluto.tv/channels/691491c6bb69fb3258c3524a/colorLogoPNG_1768809420115.png" group-title="Dokus + Wissen",Swamp People
 https://jmp2.uk/plu-691491c6bb69fb3258c3524a.m3u8
@@ -375,11 +375,11 @@ https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
 https://jmp2.uk/plu-642abea1283aa4000805bb5b.m3u8
 #EXTINF:-1 channel-id="650adc3198020f000862eed4" tvg-id="650adc3198020f000862eed4" tvg-chno="263" tvg-name="Unentdeckt – Mörder unter uns" tvg-logo="https://images.pluto.tv/channels/650adc3198020f000862eed4/colorLogoPNG.png" group-title="True Crime",Unentdeckt – Mörder unter uns
 https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
-#EXTINF:-1 channel-id="69b0160da9b840a456a11b4a" tvg-id="69b0160da9b840a456a11b4a" tvg-chno="5" tvg-name="Vier Frauen und ein Todesfall" tvg-logo="https://images.pluto.tv/channels/69b0160da9b840a456a11b4a/colorLogoPNG_1775136896726.png" group-title="Crime",Vier Frauen und ein Todesfall
+#EXTINF:-1 channel-id="69b0160da9b840a456a11b4a" tvg-id="69b0160da9b840a456a11b4a" tvg-chno="6" tvg-name="Vier Frauen und ein Todesfall" tvg-logo="https://images.pluto.tv/channels/69b0160da9b840a456a11b4a/colorLogoPNG_1775136896726.png" group-title="Crime",Vier Frauen und ein Todesfall
 https://jmp2.uk/plu-69b0160da9b840a456a11b4a.m3u8
 #EXTINF:-1 channel-id="65253d66c52b3600083d8dd2" tvg-id="65253d66c52b3600083d8dd2" tvg-chno="454" tvg-name="Wicked Tuna" tvg-logo="https://images.pluto.tv/channels/65253d66c52b3600083d8dd2/colorLogoPNG.png" group-title="Reality",Wicked Tuna
 https://jmp2.uk/plu-65253d66c52b3600083d8dd2.m3u8
-#EXTINF:-1 channel-id="697a0577f9c3aa5a215a4ef8" tvg-id="697a0577f9c3aa5a215a4ef8" tvg-chno="50" tvg-name="Will&Grace" tvg-logo="https://images.pluto.tv/channels/697a0577f9c3aa5a215a4ef8/colorLogoPNG_1769604535866.png" group-title="Sitcoms + Comedy",Will&Grace
+#EXTINF:-1 channel-id="697a0577f9c3aa5a215a4ef8" tvg-id="697a0577f9c3aa5a215a4ef8" tvg-chno="51" tvg-name="Will&Grace" tvg-logo="https://images.pluto.tv/channels/697a0577f9c3aa5a215a4ef8/colorLogoPNG_1769604535866.png" group-title="Sitcoms + Comedy",Will&Grace
 https://jmp2.uk/plu-697a0577f9c3aa5a215a4ef8.m3u8
 #EXTINF:-1 channel-id="5ad9b7aae738977e2c312132" tvg-id="5ad9b7aae738977e2c312132" tvg-chno="121" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png" group-title="Sport",World Poker Tour
 https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8

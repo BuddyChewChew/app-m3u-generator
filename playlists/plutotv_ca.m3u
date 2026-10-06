@@ -55,6 +55,8 @@ https://jmp2.uk/plu-62fb9c4539183b00076a3875.m3u8
 https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
 #EXTINF:-1 channel-id="66a8f01914a2bb00084dd86c" tvg-id="66a8f01914a2bb00084dd86c" tvg-chno="1065" tvg-name="CBC News British Columbia" tvg-logo="https://images.pluto.tv/channels/66a8f01914a2bb00084dd86c/colorLogoPNG.png" group-title="Local News",CBC News British Columbia
 https://jmp2.uk/plu-66a8f01914a2bb00084dd86c.m3u8
+#EXTINF:-1 channel-id="6aaaec2ec349e6a78bb333eb" tvg-id="6aaaec2ec349e6a78bb333eb" tvg-chno="4" tvg-name="CBC News Quebec" tvg-logo="https://images.pluto.tv/channels/6aaaec2ec349e6a78bb333eb/colorLogoPNG_1790975116070.png" group-title="Local News",CBC News Quebec
+https://jmp2.uk/plu-6aaaec2ec349e6a78bb333eb.m3u8
 #EXTINF:-1 channel-id="6536721dbfbaec00088687c0" tvg-id="6536721dbfbaec00088687c0" tvg-chno="1055" tvg-name="CBC News Toronto" tvg-logo="https://images.pluto.tv/channels/6536721dbfbaec00088687c0/colorLogoPNG.png" group-title="Local News",CBC News Toronto
 https://jmp2.uk/plu-6536721dbfbaec00088687c0.m3u8
 #EXTINF:-1 channel-id="6350fdd266e9ea0007bedec5" tvg-id="6350fdd266e9ea0007bedec5" tvg-chno="1020" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/colorLogoPNG.png" group-title="News + Opinion",CBS News 24/7
