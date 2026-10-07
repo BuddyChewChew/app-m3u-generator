@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/at.xml.gz"
+#EXTINF:-1 channel-id="AT2600007N2" tvg-id="AT2600007N2" tvg-chno="4852" tvg-name="100% Weihnachten - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600007N2_20261006T143931SQUARE.png" group-title="Filme",100% Weihnachten - Rakuten TV
+https://jmp2.uk/stvp-AT2600007N2
 #EXTINF:-1 channel-id="AT3400006VA" tvg-id="AT3400006VA" tvg-chno="4296" tvg-name="Abschnitt 40 / GSG9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3400006VA_20251209T003959SQUARE.png" group-title="Crime",Abschnitt 40 / GSG9
 https://jmp2.uk/stvp-AT3400006VA
 #EXTINF:-1 channel-id="AT26000054S" tvg-id="AT26000054S" tvg-chno="4880" tvg-name="Actionfilme - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT26000054S_20260707T045317SQUARE.png" group-title="Filme",Actionfilme - Rakuten TV
@@ -91,8 +93,8 @@ https://jmp2.uk/stvp-AT2600002KW
 https://jmp2.uk/stvp-ATBA1500012BI
 #EXTINF:-1 channel-id="ATAJ32000027V" tvg-id="ATAJ32000027V" tvg-chno="4170" tvg-name="FailArmy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ32000027V_20260210T035537SQUARE.png" group-title="Entertainment",FailArmy
 https://jmp2.uk/stvp-ATAJ32000027V
-#EXTINF:-1 channel-id="AT2600007N2" tvg-id="AT2600007N2" tvg-chno="4852" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600007N2_20260929T035640SQUARE.png" group-title="Filme",Family - Rakuten TV
-https://jmp2.uk/stvp-AT2600007N2
+#EXTINF:-1 channel-id="AT2000011A3" tvg-id="AT2000011A3" tvg-chno="4766" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000011A3_20261006T033642SQUARE.png" group-title="Musik & Ambient",Fall Vibes
+https://jmp2.uk/stvp-AT2000011A3
 #EXTINF:-1 channel-id="ATBA1500010H3" tvg-id="ATBA1500010H3" tvg-chno="4950" tvg-name="Fantasja" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500010H3_20250107T021637SQUARE.png" group-title="Filme",Fantasja
 https://jmp2.uk/stvp-ATBA1500010H3
 #EXTINF:-1 channel-id="ATBA3300007PT" tvg-id="ATBA3300007PT" tvg-chno="4639" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300007PT_20250513T005116SQUARE.png" group-title="Fußball",FIFA+
@@ -101,6 +103,8 @@ https://jmp2.uk/stvp-ATBA3300007PT
 https://jmp2.uk/stvp-ATBC300000551
 #EXTINF:-1 channel-id="AT22000019A" tvg-id="AT22000019A" tvg-chno="4769" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT22000019A_20260609T041712SQUARE.png" group-title="Musik & Ambient",Fireplace Vibes
 https://jmp2.uk/stvp-AT22000019A
+#EXTINF:-1 channel-id="AT1300001GT" tvg-id="AT1300001GT" tvg-chno="4810" tvg-name="Fix&Foxi und Freunde" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1300001GT_20261006T033648SQUARE.png" group-title="Kids",Fix&Foxi und Freunde
+https://jmp2.uk/stvp-AT1300001GT
 #EXTINF:-1 channel-id="AT4600002H5" tvg-id="AT4600002H5" tvg-chno="4496" tvg-name="Fluss Monsters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600002H5_20250819T033011SQUARE.png" group-title="Dokus & Wissen",Fluss Monsters
 https://jmp2.uk/stvp-AT4600002H5
 #EXTINF:-1 channel-id="ATBD1100002TA" tvg-id="ATBD1100002TA" tvg-chno="4559" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png" group-title="News",FRANCE 24 FAST
@@ -269,8 +273,8 @@ https://jmp2.uk/stvp-ATAJ700005T3
 https://jmp2.uk/stvp-ATBD2300001PY
 #EXTINF:-1 channel-id="ATAJ0500433A" tvg-id="ATAJ0500433A" tvg-chno="4611" tvg-name="Sportdigital Free" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500433A_20250527T015549SQUARE.png" group-title="Sport",Sportdigital Free
 https://jmp2.uk/stvp-ATAJ0500433A
-#EXTINF:-1 channel-id="AT2000011A3" tvg-id="AT2000011A3" tvg-chno="4766" tvg-name="Spring Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000011A3_20260609T041812SQUARE.png" group-title="Musik & Ambient",Spring Vibes
-https://jmp2.uk/stvp-AT2000011A3
+#EXTINF:-1 channel-id="AT28000027U" tvg-id="AT28000027U" tvg-chno="4526" tvg-name="Stadt Land Kunst" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT28000027U_20261006T033656SQUARE.png" group-title="Food & Travel",Stadt Land Kunst
+https://jmp2.uk/stvp-AT28000027U
 #EXTINF:-1 channel-id="AT2000010RT" tvg-id="AT2000010RT" tvg-chno="4764" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000010RT_20260609T041820SQUARE.png" group-title="Musik & Ambient",Storm Vibes
 https://jmp2.uk/stvp-AT2000010RT
 #EXTINF:-1 channel-id="AT14000022I" tvg-id="AT14000022I" tvg-chno="4779" tvg-name="StoryZoo & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT14000022I_20260811T045227SQUARE.png" group-title="Kids",StoryZoo & Friends
@@ -327,6 +331,8 @@ https://jmp2.uk/stvp-ATBA3300031VR
 https://jmp2.uk/stvp-ATBD5000002B1
 #EXTINF:-1 channel-id="ATBD290000127" tvg-id="ATBD290000127" tvg-chno="4677" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD290000127_20250107T022447SQUARE.png" group-title="Sport",World Poker Tour
 https://jmp2.uk/stvp-ATBD290000127
+#EXTINF:-1 channel-id="ATBD3700001EH" tvg-id="ATBD3700001EH" tvg-chno="4009" tvg-name="X-MAS Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD3700001EH_20261006T033701SQUARE.png" group-title="Entertainment",X-MAS Mix
+https://jmp2.uk/stvp-ATBD3700001EH
 #EXTINF:-1 channel-id="ATAJ0500428A" tvg-id="ATAJ0500428A" tvg-chno="4531" tvg-name="Xplore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500428A_20250107T022005SQUARE.png" group-title="Food & Travel",Xplore
 https://jmp2.uk/stvp-ATAJ0500428A
 #EXTINF:-1 channel-id="AT70000595" tvg-id="AT70000595" tvg-chno="4192" tvg-name="Yu-Gi-Oh!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT70000595_20250408T021522SQUARE.png" group-title="Anime",Yu-Gi-Oh!
