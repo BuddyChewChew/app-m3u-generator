@@ -59,7 +59,7 @@ https://jmp2.uk/plu-66a8f01914a2bb00084dd86c.m3u8
 https://jmp2.uk/plu-6aaaec502714ce519248c55e.m3u8
 #EXTINF:-1 channel-id="6aaaec5abd51830177e9a185" tvg-id="6aaaec5abd51830177e9a185" tvg-chno="1073" tvg-name="CBC News Edmonton" tvg-logo="https://images.pluto.tv/channels/6aaaec5abd51830177e9a185/colorLogoPNG_1791207891782.png" group-title="Local News",CBC News Edmonton
 https://jmp2.uk/plu-6aaaec5abd51830177e9a185.m3u8
-#EXTINF:-1 channel-id="6aaaec2ec349e6a78bb333eb" tvg-id="6aaaec2ec349e6a78bb333eb" tvg-chno="4" tvg-name="CBC News Quebec" tvg-logo="https://images.pluto.tv/channels/6aaaec2ec349e6a78bb333eb/colorLogoPNG_1790975116070.png" group-title="Local News",CBC News Quebec
+#EXTINF:-1 channel-id="6aaaec2ec349e6a78bb333eb" tvg-id="6aaaec2ec349e6a78bb333eb" tvg-chno="1067" tvg-name="CBC News Quebec" tvg-logo="https://images.pluto.tv/channels/6aaaec2ec349e6a78bb333eb/colorLogoPNG_1790975116070.png" group-title="Local News",CBC News Quebec
 https://jmp2.uk/plu-6aaaec2ec349e6a78bb333eb.m3u8
 #EXTINF:-1 channel-id="6536721dbfbaec00088687c0" tvg-id="6536721dbfbaec00088687c0" tvg-chno="1050" tvg-name="CBC News Toronto" tvg-logo="https://images.pluto.tv/channels/6536721dbfbaec00088687c0/colorLogoPNG.png" group-title="Local News",CBC News Toronto
 https://jmp2.uk/plu-6536721dbfbaec00088687c0.m3u8
@@ -245,6 +245,8 @@ https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
 https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 #EXTINF:-1 channel-id="6a68dd013ee9d9664278cfb6" tvg-id="6a68dd013ee9d9664278cfb6" tvg-chno="1300" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png" group-title="Sports",NFL Channel
 https://jmp2.uk/plu-6a68dd013ee9d9664278cfb6.m3u8
+#EXTINF:-1 channel-id="6abab34190639e3b198384da" tvg-id="6abab34190639e3b198384da" tvg-chno="7" tvg-name="Narcos" tvg-logo="https://images.pluto.tv/channels/6abab34190639e3b198384da/colorLogoPNG_1790624448704.png" group-title="Crime Drama",Narcos
+https://jmp2.uk/plu-6abab34190639e3b198384da.m3u8
 #EXTINF:-1 channel-id="666021cccb3ea10008406866" tvg-id="666021cccb3ea10008406866" tvg-chno="420" tvg-name="Nash Bridges" tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" group-title="Crime Drama",Nash Bridges
 https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8
 #EXTINF:-1 channel-id="65cf8d7428730900087c5907" tvg-id="65cf8d7428730900087c5907" tvg-chno="630" tvg-name="Nashville" tvg-logo="https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png" group-title="Drama",Nashville
@@ -261,7 +263,7 @@ https://jmp2.uk/plu-62e93d0a80d8d10008a0181e.m3u8
 https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 #EXTINF:-1 channel-id="62e94ec74823db0007277a8f" tvg-id="62e94ec74823db0007277a8f" tvg-chno="570" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png" group-title="Sci-Fi + Fantasy",One Piece
 https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
-#EXTINF:-1 channel-id="6aa2c09cf5f14c2045c7c87a" tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-chno="7" tvg-name="Paranormal Chronicles" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="House of Horror",Paranormal Chronicles
+#EXTINF:-1 channel-id="6aa2c09cf5f14c2045c7c87a" tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-chno="8" tvg-name="Paranormal Chronicles" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="House of Horror",Paranormal Chronicles
 https://jmp2.uk/plu-6aa2c09cf5f14c2045c7c87a.m3u8
 #EXTINF:-1 channel-id="63e20bd160bc8f0008b4c949" tvg-id="63e20bd160bc8f0008b4c949" tvg-chno="310" tvg-name="Perry Mason" tvg-logo="https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png" group-title="Classic TV",Perry Mason
 https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
@@ -347,7 +349,7 @@ https://jmp2.uk/plu-681b196b896dcc617f8558fe.m3u8
 https://jmp2.uk/plu-65367e914f123d000877d021.m3u8
 #EXTINF:-1 channel-id="62fb6cd97b90e60007bc318a" tvg-id="62fb6cd97b90e60007bc318a" tvg-chno="90" tvg-name="Romance 365" tvg-logo="https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png" group-title="Movies",Romance 365
 https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
-#EXTINF:-1 channel-id="6a8d96aa2cfd341eb5809214" tvg-id="6a8d96aa2cfd341eb5809214" tvg-chno="8" tvg-name="SI TV" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports",SI TV
+#EXTINF:-1 channel-id="6a8d96aa2cfd341eb5809214" tvg-id="6a8d96aa2cfd341eb5809214" tvg-chno="1304" tvg-name="SI TV" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports",SI TV
 https://jmp2.uk/plu-6a8d96aa2cfd341eb5809214.m3u8
 #EXTINF:-1 channel-id="6874ad2f3484d60732267ba8" tvg-id="6874ad2f3484d60732267ba8" tvg-chno="48" tvg-name="Scare Tactics" tvg-logo="https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png" group-title="Comedy",Scare Tactics
 https://jmp2.uk/plu-6874ad2f3484d60732267ba8.m3u8
@@ -441,7 +443,7 @@ https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 https://jmp2.uk/plu-6728c561daad7f000881ac83.m3u8
 #EXTINF:-1 channel-id="6972546cc62833833a187f50" tvg-id="6972546cc62833833a187f50" tvg-chno="1330" tvg-name="Willow Sports" tvg-logo="https://images.pluto.tv/channels/6972546cc62833833a187f50/colorLogoPNG_1770648792020.png" group-title="Sports",Willow Sports
 https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8
-#EXTINF:-1 channel-id="6a8d96996d62a56d3bdd959c" tvg-id="6a8d96996d62a56d3bdd959c" tvg-chno="9" tvg-name="Wired2Fish TV" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Sports",Wired2Fish TV
+#EXTINF:-1 channel-id="6a8d96996d62a56d3bdd959c" tvg-id="6a8d96996d62a56d3bdd959c" tvg-chno="1309" tvg-name="Wired2Fish TV" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Sports",Wired2Fish TV
 https://jmp2.uk/plu-6a8d96996d62a56d3bdd959c.m3u8
 #EXTINF:-1 channel-id="62ea4b755e8e770007387b79" tvg-id="62ea4b755e8e770007387b79" tvg-chno="1320" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/62ea4b755e8e770007387b79/colorLogoPNG.png" group-title="Sports",World Poker Tour
 https://jmp2.uk/plu-62ea4b755e8e770007387b79.m3u8
