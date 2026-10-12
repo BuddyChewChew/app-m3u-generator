@@ -91,7 +91,7 @@ https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
 #EXTINF:-1 channel-id="68adc3fdd8f7693ae347a63a" tvg-id="68adc3fdd8f7693ae347a63a" tvg-chno="111" tvg-name="Los Gipsy Kings" tvg-logo="https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png" group-title="Reality",Los Gipsy Kings
 https://jmp2.uk/plu-68adc3fdd8f7693ae347a63a.m3u8
-#EXTINF:-1 channel-id="6a43d63071cbfff7dca61d23" tvg-id="6a43d63071cbfff7dca61d23" tvg-chno="2" tvg-name="Los Misteriosos asesinatos de Miss Fisher" tvg-logo="https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png" group-title="Nuevo en Pluto TV",Los Misteriosos asesinatos de Miss Fisher
+#EXTINF:-1 channel-id="6a43d63071cbfff7dca61d23" tvg-id="6a43d63071cbfff7dca61d23" tvg-chno="3" tvg-name="Los Misteriosos asesinatos de Miss Fisher" tvg-logo="https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png" group-title="Nuevo en Pluto TV",Los Misteriosos asesinatos de Miss Fisher
 https://jmp2.uk/plu-6a43d63071cbfff7dca61d23.m3u8
 #EXTINF:-1 channel-id="68d27949793c71d988ca624c" tvg-id="68d27949793c71d988ca624c" tvg-chno="234" tvg-name="Los Pitufos" tvg-logo="https://images.pluto.tv/channels/68d27949793c71d988ca624c/colorLogoPNG_1760370849099.png" group-title="Infantil",Los Pitufos
 https://jmp2.uk/plu-68d27949793c71d988ca624c.m3u8
@@ -143,7 +143,7 @@ https://jmp2.uk/plu-6a31544f2c1c785c1138dbb1.m3u8
 https://jmp2.uk/plu-6a6a02ae3ee9d966427e62c4.m3u8
 #EXTINF:-1 channel-id="60dd6b1da79e4d0007309455" tvg-id="60dd6b1da79e4d0007309455" tvg-chno="253" tvg-name="Nature Time" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Cultura",Nature Time
 https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8
-#EXTINF:-1 channel-id="6a43d3bae0c1a33841302952" tvg-id="6a43d3bae0c1a33841302952" tvg-chno="3" tvg-name="Noche y día" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Nuevo en Pluto TV",Noche y día
+#EXTINF:-1 channel-id="6a43d3bae0c1a33841302952" tvg-id="6a43d3bae0c1a33841302952" tvg-chno="4" tvg-name="Noche y día" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Nuevo en Pluto TV",Noche y día
 https://jmp2.uk/plu-6a43d3bae0c1a33841302952.m3u8
 #EXTINF:-1 channel-id="680ba8992472a7200a183eb5" tvg-id="680ba8992472a7200a183eb5" tvg-chno="164" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/colorLogoPNG_1748955630923.png" group-title="Anime",One Piece
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
@@ -245,6 +245,8 @@ https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
 #EXTINF:-1 channel-id="676e7b4a4bd636000819c6a7" tvg-id="676e7b4a4bd636000819c6a7" tvg-chno="143" tvg-name="SensaCine TV x Pluto" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" group-title="Cine",SensaCine TV x Pluto
 https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
+#EXTINF:-1 channel-id="6a6a031b10c8f12ffc3adbb5" tvg-id="6a6a031b10c8f12ffc3adbb5" tvg-chno="2" tvg-name="Series made in Spain de Pluto TV" tvg-logo="https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/colorLogoPNG_1790242819581.png" group-title="Nuevo en Pluto TV",Series made in Spain de Pluto TV
+https://jmp2.uk/plu-6a6a031b10c8f12ffc3adbb5.m3u8
 #EXTINF:-1 channel-id="628751bb7154a40007168843" tvg-id="628751bb7154a40007168843" tvg-chno="181" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="Comedia",South Park
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 #EXTINF:-1 channel-id="63d7a8e5a9957100086bfc23" tvg-id="63d7a8e5a9957100086bfc23" tvg-chno="186" tvg-name="South Park Versión Original" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="Comedia",South Park Versión Original
