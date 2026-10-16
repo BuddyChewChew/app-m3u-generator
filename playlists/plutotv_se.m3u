@@ -187,7 +187,7 @@ https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8
 https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
 #EXTINF:-1 channel-id="6380c4ab81c8d2000790fbf3" tvg-id="6380c4ab81c8d2000790fbf3" tvg-chno="712" tvg-name="Judge Judy" tvg-logo="https://images.pluto.tv/channels/6380c4ab81c8d2000790fbf3/colorLogoPNG.png" group-title="True Crime",Judge Judy
 https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8
-#EXTINF:-1 channel-id="6a2aa82917383c21607ca6ea" tvg-id="6a2aa82917383c21607ca6ea" tvg-chno="4" tvg-name="Just Shoot Me" tvg-logo="https://images.pluto.tv/channels/6a2aa82917383c21607ca6ea/colorLogoPNG_1787551928176.png" group-title="Nytt på Pluto TV",Just Shoot Me
+#EXTINF:-1 channel-id="6a2aa82917383c21607ca6ea" tvg-id="6a2aa82917383c21607ca6ea" tvg-chno="5" tvg-name="Just Shoot Me" tvg-logo="https://images.pluto.tv/channels/6a2aa82917383c21607ca6ea/colorLogoPNG_1787551928176.png" group-title="Nytt på Pluto TV",Just Shoot Me
 https://jmp2.uk/plu-6a2aa82917383c21607ca6ea.m3u8
 #EXTINF:-1 channel-id="61780ce4c215ad0007a66ab2" tvg-id="61780ce4c215ad0007a66ab2" tvg-chno="974" tvg-name="Just for Laughs GAGS" tvg-logo="https://images.pluto.tv/channels/61780ce4c215ad0007a66ab2/colorLogoPNG_1745912970014.png" group-title="Komedi",Just for Laughs GAGS
 https://jmp2.uk/plu-61780ce4c215ad0007a66ab2.m3u8
@@ -271,7 +271,7 @@ https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
 https://jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8
 #EXTINF:-1 channel-id="68dfa3e2cc3c6cd904052c41" tvg-id="68dfa3e2cc3c6cd904052c41" tvg-chno="104" tvg-name="Pluto TV Handboll Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png" group-title="Sport",Pluto TV Handboll Highlights
 https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
-#EXTINF:-1 channel-id="686faf533ffa5e0c912688e7" tvg-id="686faf533ffa5e0c912688e7" tvg-chno="1" tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png" group-title="Sport",Pluto TV Handboll Live
+#EXTINF:-1 channel-id="686faf533ffa5e0c912688e7" tvg-id="686faf533ffa5e0c912688e7" tvg-chno="103" tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png" group-title="Sport",Pluto TV Handboll Live
 https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 #EXTINF:-1 channel-id="68c01bed508ba507f0d0dd60" tvg-id="68c01bed508ba507f0d0dd60" tvg-chno="318" tvg-name="Pluto TV Harlequin" tvg-logo="https://images.pluto.tv/channels/68c01bed508ba507f0d0dd60/colorLogoPNG_1770018447511.png" group-title="Filmer",Pluto TV Harlequin
 https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
@@ -399,6 +399,8 @@ https://jmp2.uk/plu-63c95491808b740007608a74.m3u8
 https://jmp2.uk/plu-66b22c9aa79dea0008cee4a9.m3u8
 #EXTINF:-1 channel-id="693ae39cc2fa3abe8ad8208c" tvg-id="693ae39cc2fa3abe8ad8208c" tvg-chno="204" tvg-name="Teen Wolf" tvg-logo="https://images.pluto.tv/channels/693ae39cc2fa3abe8ad8208c/colorLogoPNG_1770362446025.png" group-title="Drama",Teen Wolf
 https://jmp2.uk/plu-693ae39cc2fa3abe8ad8208c.m3u8
+#EXTINF:-1 channel-id="6ac36077c3565bfc323e6fcb" tvg-id="6ac36077c3565bfc323e6fcb" tvg-chno="4" tvg-name="Temptation Island USA" tvg-logo="https://images.pluto.tv/channels/6ac36077c3565bfc323e6fcb/colorLogoPNG_1792067930225.png" group-title="Nytt på Pluto TV",Temptation Island USA
+https://jmp2.uk/plu-6ac36077c3565bfc323e6fcb.m3u8
 #EXTINF:-1 channel-id="6870c9ca759366af055fe891" tvg-id="6870c9ca759366af055fe891" tvg-chno="147" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c9ca759366af055fe891/colorLogoPNG_1756971817950.png" group-title="Sport",Tennis Channel
 https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8
 #EXTINF:-1 channel-id="6a7d8049815e1932eb93e15d" tvg-id="6a7d8049815e1932eb93e15d" tvg-chno="834" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/6a7d8049815e1932eb93e15d/colorLogoPNG_1786626468177.png" group-title="Musik",That's 70s
