@@ -245,6 +245,8 @@ https://jmp2.uk/stvp-USBD2700004ME
 https://jmp2.uk/stvp-USBC10000129R
 #EXTINF:-1 channel-id="USBD120001614" tvg-id="USBD120001614" tvg-chno="2620" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20260421T143126SQUARE.png" group-title="Comedy",Conan O'Brien TV
 https://jmp2.uk/stvp-USBD120001614
+#EXTINF:-1 channel-id="US2300002A6" tvg-id="US2300002A6" tvg-chno="2931" tvg-name="Confess by Nosey" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2300002A6_20261020T100515SQUARE.png" group-title="Lifestyle & Pop Culture",Confess by Nosey
+https://jmp2.uk/stvp-US2300002A6
 #EXTINF:-1 channel-id="US10000092P" tvg-id="US10000092P" tvg-chno="1849" tvg-name="COPS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000092P_20260421T142126SQUARE.png" group-title="Crime",COPS
 https://jmp2.uk/stvp-US10000092P
 #EXTINF:-1 channel-id="US2900025U8" tvg-id="US2900025U8" tvg-chno="4560" tvg-name="Cosmos" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900025U8_20260929T044326SQUARE.png" group-title="Ambiance",Cosmos
@@ -679,7 +681,7 @@ https://jmp2.uk/stvp-US39000177S
 https://jmp2.uk/stvp-USBA3000158L
 #EXTINF:-1 channel-id="US2200007QG" tvg-id="US2200007QG" tvg-chno="3653" tvg-name="Ninja Kidz" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200007QG_20260421T141947SQUARE.png" group-title="Kids",Ninja Kidz
 https://jmp2.uk/stvp-US2200007QG
-#EXTINF:-1 channel-id="USAJ34000022E" tvg-id="USAJ34000022E" tvg-chno="2930" tvg-name="Nosey" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000022E_20260609T214522SQUARE.png" group-title="Lifestyle & Pop Culture",Nosey
+#EXTINF:-1 channel-id="USAJ34000022E" tvg-id="USAJ34000022E" tvg-chno="2930" tvg-name="Nosey" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000022E_20261021T010920SQUARE.png" group-title="Lifestyle & Pop Culture",Nosey
 https://jmp2.uk/stvp-USAJ34000022E
 #EXTINF:-1 channel-id="US3000005RS" tvg-id="US3000005RS" tvg-chno="3852" tvg-name="Noticias Telemundo Ahora" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000005RS_20260421T142020SQUARE.png" group-title="Latino",Noticias Telemundo Ahora
 https://jmp2.uk/stvp-US3000005RS
@@ -1131,6 +1133,8 @@ https://jmp2.uk/stvp-US700005ID
 https://jmp2.uk/stvp-USBB320000647
 #EXTINF:-1 channel-id="USBB3200007AK" tvg-id="USBB3200007AK" tvg-chno="4319" tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png" group-title="Music",XITE 90s Throwback
 https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 channel-id="USBD350003932" tvg-id="USBD350003932" tvg-chno="4323" tvg-name="XITE Celebrates" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20261020T100511SQUARE.png" group-title="Music",XITE Celebrates
+https://jmp2.uk/stvp-USBD350003932
 #EXTINF:-1 channel-id="US46000072L" tvg-id="US46000072L" tvg-chno="4335" tvg-name="XITE Christian Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000072L_20260421T141745SQUARE.png" group-title="Music",XITE Christian Hits
 https://jmp2.uk/stvp-US46000072L
 #EXTINF:-1 channel-id="USBD3300011UT" tvg-id="USBD3300011UT" tvg-chno="4333" tvg-name="XITE Classic Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20260421T141856SQUARE.png" group-title="Music",XITE Classic Country
@@ -1151,8 +1155,6 @@ https://jmp2.uk/stvp-US4600008JA
 https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:-1 channel-id="USBD3300010L9" tvg-id="USBD3300010L9" tvg-chno="4343" tvg-name="XITE Siempre Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20260421T141854SQUARE.png" group-title="Music",XITE Siempre Latino
 https://jmp2.uk/stvp-USBD3300010L9
-#EXTINF:-1 channel-id="USBD350003932" tvg-id="USBD350003932" tvg-chno="4323" tvg-name="XITE The Beatles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20261006T051013SQUARE.png" group-title="Music",XITE The Beatles
-https://jmp2.uk/stvp-USBD350003932
 #EXTINF:-1 channel-id="USBC2100008DP" tvg-id="USBC2100008DP" tvg-chno="3529" tvg-name="Xplore" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100008DP_20240520T214902SQUARE.png" group-title="Nature, History & Science",Xplore
 https://jmp2.uk/stvp-USBC2100008DP
 #EXTINF:-1 channel-id="USAK3508706A" tvg-id="USAK3508706A" tvg-chno="2779" tvg-name="Xtreme Outdoor Presented by HISTORY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20260117T020334SQUARE.png" group-title="Reality Competition",Xtreme Outdoor Presented by HISTORY

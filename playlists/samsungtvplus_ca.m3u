@@ -349,7 +349,7 @@ https://jmp2.uk/stvp-CA7000015K
 https://jmp2.uk/stvp-CA2600001D9
 #EXTINF:-1 channel-id="CABB2500026WM" tvg-id="CABB2500026WM" tvg-chno="1962" tvg-name="Operation Repo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500026WM_20260203T191214SQUARE.png" group-title="Reality TV",Operation Repo
 https://jmp2.uk/stvp-CABB2500026WM
-#EXTINF:-1 channel-id="CA800002TN" tvg-id="CA800002TN" tvg-chno="1280" tvg-name="OUTflix Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800002TN_20260609T034649SQUARE.png" group-title="Movies",OUTflix Movies
+#EXTINF:-1 channel-id="CA800002TN" tvg-id="CA800002TN" tvg-chno="2962" tvg-name="OUTflix Proud" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800002TN_20261020T093635SQUARE.png" group-title="Lifestyle & Pop Culture",OUTflix Proud
 https://jmp2.uk/stvp-CA800002TN
 #EXTINF:-1 channel-id="CAAJ2700030ON" tvg-id="CAAJ2700030ON" tvg-chno="2485" tvg-name="Outside TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20260421T140954SQUARE.png" group-title="Sports & Outdoors",Outside TV
 https://jmp2.uk/stvp-CAAJ2700030ON
@@ -551,6 +551,8 @@ https://jmp2.uk/stvp-CABD1200013IH
 https://jmp2.uk/stvp-CABB2600017ZU
 #EXTINF:-1 channel-id="CABB2600018T4" tvg-id="CABB2600018T4" tvg-chno="4318" tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20260512T070154SQUARE.png" group-title="Music",XITE 90s Throwback
 https://jmp2.uk/stvp-CABB2600018T4
+#EXTINF:-1 channel-id="CABD17000043J" tvg-id="CABD17000043J" tvg-chno="4323" tvg-name="XITE Celebrates" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20261020T093625SQUARE.png" group-title="Music",XITE Celebrates
+https://jmp2.uk/stvp-CABD17000043J
 #EXTINF:-1 channel-id="CA460001636" tvg-id="CA460001636" tvg-chno="4335" tvg-name="XITE Christian Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA460001636_20260421T141250SQUARE.png" group-title="Music",XITE Christian Hits
 https://jmp2.uk/stvp-CA460001636
 #EXTINF:-1 channel-id="CABD1200023UJ" tvg-id="CABD1200023UJ" tvg-chno="4333" tvg-name="XITE Classic Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200023UJ_20260421T141135SQUARE.png" group-title="Music",XITE Classic Country
@@ -567,8 +569,6 @@ https://jmp2.uk/stvp-CABD1200021MS
 https://jmp2.uk/stvp-CA4600018HP
 #EXTINF:-1 channel-id="CABB26000054K" tvg-id="CABB26000054K" tvg-chno="4353" tvg-name="XITE Rock x Metal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000054K_20260421T140207SQUARE.png" group-title="Music",XITE Rock x Metal
 https://jmp2.uk/stvp-CABB26000054K
-#EXTINF:-1 channel-id="CABD17000043J" tvg-id="CABD17000043J" tvg-chno="4323" tvg-name="XITE The Beatles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20261006T050933SQUARE.png" group-title="Music",XITE The Beatles
-https://jmp2.uk/stvp-CABD17000043J
 #EXTINF:-1 channel-id="CABC2300002VB" tvg-id="CABC2300002VB" tvg-chno="3529" tvg-name="Xplore" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300002VB_20250630T233021SQUARE.png" group-title="Nature, History & Science",Xplore
 https://jmp2.uk/stvp-CABC2300002VB
 #EXTINF:-1 channel-id="CA470001245" tvg-id="CA470001245" tvg-chno="1980" tvg-name="Xtreme Outdoor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA470001245_20260804T050253SQUARE.png" group-title="Reality TV",Xtreme Outdoor
