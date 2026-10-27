@@ -121,6 +121,8 @@ https://jmp2.uk/stvp-KRBC4000003J2
 https://jmp2.uk/stvp-KRBC3500019CD
 #EXTINF:-1 channel-id="KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-chno="689" tvg-name="MBN 휴먼다큐 사노라면" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20260422T013743SQUARE.png" group-title="시사/교양",MBN 휴먼다큐 사노라면
 https://jmp2.uk/stvp-KRBC3500018J9
+#EXTINF:-1 channel-id="KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-chno="744" tvg-name="MDSSPHERE MOVIES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20261026T044606SQUARE.png" group-title="영화",MDSSPHERE MOVIES
+https://jmp2.uk/stvp-KRBC3200004D1
 #EXTINF:-1 channel-id="KRBC8000144F" tvg-id="KRBC8000144F" tvg-chno="577" tvg-name="Mnet 스트릿 월드 파이터: 디렉터스 워" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000144F_20261006T042856SQUARE.png" group-title="예능",Mnet 스트릿 월드 파이터: 디렉터스 워
 https://jmp2.uk/stvp-KRBC8000144F
 #EXTINF:-1 channel-id="KR2400001TI" tvg-id="KR2400001TI" tvg-chno="796" tvg-name="Mr. Bean" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2400001TI_20260422T013746SQUARE.png" group-title="예능",Mr. Bean
@@ -129,8 +131,6 @@ https://jmp2.uk/stvp-KR2400001TI
 https://jmp2.uk/stvp-KRBC3200005SH
 #EXTINF:-1 channel-id="KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-chno="812" tvg-name="PGA Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20260422T013751SQUARE.png" group-title="스포츠",PGA Tour
 https://jmp2.uk/stvp-KRBD3100007WB
-#EXTINF:-1 channel-id="KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-chno="744" tvg-name="PLAYGRAM MOVIES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20260422T013754SQUARE.png" group-title="영화",PLAYGRAM MOVIES
-https://jmp2.uk/stvp-KRBC3200004D1
 #EXTINF:-1 channel-id="KR1300003KW" tvg-id="KR1300003KW" tvg-chno="504" tvg-name="Samsung Television Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1300003KW_20260915T035354SQUARE.png" group-title="실시간",Samsung Television Network
 https://jmp2.uk/stvp-KR1300003KW
 #EXTINF:-1 channel-id="KRAH2201403A" tvg-id="KRAH2201403A" tvg-chno="765" tvg-name="SAMSUNG UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH2201403A_20260422T012851SQUARE.png" group-title="라이프스타일",SAMSUNG UHD

@@ -103,8 +103,6 @@ https://jmp2.uk/stvp-FR130000539
 https://jmp2.uk/stvp-FR2600005LH
 #EXTINF:-1 channel-id="FRBD3600001BQ" tvg-id="FRBD3600001BQ" tvg-chno="4662" tvg-name="Drive TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20261020T053548SQUARE.png" group-title="Sports",Drive TV
 https://jmp2.uk/stvp-FRBD3600001BQ
-#EXTINF:-1 channel-id="FRBC3500002E4" tvg-id="FRBC3500002E4" tvg-chno="4530" tvg-name="Echappées belles & co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20241015T040301SQUARE.png" group-title="Voyages et Gastronomie",Echappées belles & co
-https://jmp2.uk/stvp-FRBC3500002E4
 #EXTINF:-1 channel-id="FRBB340000115" tvg-id="FRBB340000115" tvg-chno="4889" tvg-name="Emotion'L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20260804T051338SQUARE.png" group-title="Cinéma",Emotion'L
 https://jmp2.uk/stvp-FRBB340000115
 #EXTINF:-1 channel-id="FRBC90000220" tvg-id="FRBC90000220" tvg-chno="4357" tvg-name="Enquêtes de Choc" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20250819T032502SQUARE.png" group-title="Documentaires",Enquêtes de Choc
@@ -199,11 +197,13 @@ https://jmp2.uk/stvp-FRBD1900005BA
 https://jmp2.uk/stvp-FRBD43000016D
 #EXTINF:-1 channel-id="FR2200004HP" tvg-id="FR2200004HP" tvg-chno="4806" tvg-name="Masha et Michka" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2200004HP_20260721T035836SQUARE.png" group-title="Jeunesse",Masha et Michka
 https://jmp2.uk/stvp-FR2200004HP
+#EXTINF:-1 channel-id="FR2400002YG" tvg-id="FR2400002YG" tvg-chno="4816" tvg-name="Maya l'abeille" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2400002YG_20261026T042244SQUARE.png" group-title="Jeunesse",Maya l'abeille
+https://jmp2.uk/stvp-FR2400002YG
 #EXTINF:-1 channel-id="FR400000413" tvg-id="FR400000413" tvg-chno="4369" tvg-name="Mayday: Catastrophe Aérienne" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR400000413_20251209T004503SQUARE.png" group-title="Documentaires",Mayday: Catastrophe Aérienne
 https://jmp2.uk/stvp-FR400000413
 #EXTINF:-1 channel-id="FR44000015M" tvg-id="FR44000015M" tvg-chno="4745" tvg-name="Metal.Rocks" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR44000015M_20260609T043411SQUARE.png" group-title="Musique et ambiance",Metal.Rocks
 https://jmp2.uk/stvp-FR44000015M
-#EXTINF:-1 channel-id="FR700002UP" tvg-id="FR700002UP" tvg-chno="4362" tvg-name="Mission Intervention" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20251202T002629SQUARE.png" group-title="Documentaires",Mission Intervention
+#EXTINF:-1 channel-id="FR700002UP" tvg-id="FR700002UP" tvg-chno="4001" tvg-name="Mission Intervention" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20261026T042250SQUARE.png" group-title="Documentaires",Mission Intervention
 https://jmp2.uk/stvp-FR700002UP
 #EXTINF:-1 channel-id="FR1600003GH" tvg-id="FR1600003GH" tvg-chno="4957" tvg-name="Monstres et Créatures TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1600003GH_20260901T054509SQUARE.png" group-title="Cinéma",Monstres et Créatures TV
 https://jmp2.uk/stvp-FR1600003GH
@@ -289,7 +289,7 @@ https://jmp2.uk/stvp-FR4000002JN
 https://jmp2.uk/stvp-FR3100003KZ
 #EXTINF:-1 channel-id="FR3400002VW" tvg-id="FR3400002VW" tvg-chno="4571" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400002VW_20250624T020534SQUARE.png" group-title="Actualités",Sky News International
 https://jmp2.uk/stvp-FR3400002VW
-#EXTINF:-1 channel-id="FR4000005KE" tvg-id="FR4000005KE" tvg-chno="4001" tvg-name="Skyrock" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000005KE_20261013T053909SQUARE.png" group-title="Musique et ambiance",Skyrock
+#EXTINF:-1 channel-id="FR4000005KE" tvg-id="FR4000005KE" tvg-chno="4004" tvg-name="Skyrock" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000005KE_20261026T042258SQUARE.png" group-title="Musique et ambiance",Skyrock
 https://jmp2.uk/stvp-FR4000005KE
 #EXTINF:-1 channel-id="FR1000001XP" tvg-id="FR1000001XP" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1000001XP_20260929T041402SQUARE.png" group-title="Musique et ambiance",SMTOWN
 https://jmp2.uk/stvp-FR1000001XP
@@ -317,6 +317,8 @@ https://jmp2.uk/stvp-FRBC14000010C
 https://jmp2.uk/stvp-FR5000002SW
 #EXTINF:-1 channel-id="FR1300004LY" tvg-id="FR1300004LY" tvg-chno="4609" tvg-name="Tennis+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1300004LY_20260901T054540SQUARE.png" group-title="Sports",Tennis+
 https://jmp2.uk/stvp-FR1300004LY
+#EXTINF:-1 channel-id="FR3100006XA" tvg-id="FR3100006XA" tvg-chno="4495" tvg-name="Terra Mater Wild" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100006XA_20261026T042306SQUARE.png" group-title="Documentaires",Terra Mater Wild
+https://jmp2.uk/stvp-FR3100006XA
 #EXTINF:-1 channel-id="FR1200001N2" tvg-id="FR1200001N2" tvg-chno="4989" tvg-name="Top Action" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20261006T034053SQUARE.png" group-title="Cinéma",Top Action
 https://jmp2.uk/stvp-FR1200001N2
 #EXTINF:-1 channel-id="FR110000354" tvg-id="FR110000354" tvg-chno="4639" tvg-name="Top Barça" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR110000354_20260224T031013SQUARE.png" group-title="Sports",Top Barça
