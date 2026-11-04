@@ -97,6 +97,8 @@ https://jmp2.uk/stvp-CA46000098X
 https://jmp2.uk/stvp-CA2100004VD
 #EXTINF:-1 channel-id="CABD1200041NC" tvg-id="CABD1200041NC" tvg-chno="1960" tvg-name="Cheaters" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200041NC_20250121T094948SQUARE.png" group-title="Reality TV",Cheaters
 https://jmp2.uk/stvp-CABD1200041NC
+#EXTINF:-1 channel-id="CA3600002E6" tvg-id="CA3600002E6" tvg-chno="4592" tvg-name="Christmas Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3600002E6_20261102T091304SQUARE.png" group-title="Ambiance",Christmas Vibes
+https://jmp2.uk/stvp-CA3600002E6
 #EXTINF:-1 channel-id="CA35000078O" tvg-id="CA35000078O" tvg-chno="1405" tvg-name="Cinevault Westerns" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000078O_20260609T034609SQUARE.png" group-title="Movies",Cinevault Westerns
 https://jmp2.uk/stvp-CA35000078O
 #EXTINF:-1 channel-id="CAAJ3400009KT" tvg-id="CAAJ3400009KT" tvg-chno="1245" tvg-name="CINEVAULT: Classics" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400009KT_20260421T141155SQUARE.png" group-title="Movies",CINEVAULT: Classics
@@ -113,7 +115,7 @@ https://jmp2.uk/stvp-CA17000023Q
 https://jmp2.uk/stvp-CA4600017KV
 #EXTINF:-1 channel-id="CABC5200020WJ" tvg-id="CABC5200020WJ" tvg-chno="2688" tvg-name="Comedy Dynamics" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200020WJ_20260622T060226SQUARE.png" group-title="Comedy",Comedy Dynamics
 https://jmp2.uk/stvp-CABC5200020WJ
-#EXTINF:-1 channel-id="CABD1700002R4" tvg-id="CABD1700002R4" tvg-chno="1318" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20260707T040110SQUARE.png" group-title="Comedy",Conan O'Brien TV
+#EXTINF:-1 channel-id="CABD1700002R4" tvg-id="CABD1700002R4" tvg-chno="2620" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20261103T171701SQUARE.png" group-title="Comedy",Conan O'Brien TV
 https://jmp2.uk/stvp-CABD1700002R4
 #EXTINF:-1 channel-id="CABC23000189A" tvg-id="CABC23000189A" tvg-chno="1800" tvg-name="Cops" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000189A_20261023T223840SQUARE.png" group-title="Crime",Cops
 https://jmp2.uk/stvp-CABC23000189A
@@ -231,8 +233,6 @@ https://jmp2.uk/stvp-CA44000025P
 https://jmp2.uk/stvp-CABB2500021YQ
 #EXTINF:-1 channel-id="CA290000616" tvg-id="CA290000616" tvg-chno="2545" tvg-name="Hagerty" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA290000616_20260421T140404SQUARE.png" group-title="Motor Sports",Hagerty
 https://jmp2.uk/stvp-CA290000616
-#EXTINF:-1 channel-id="CA3100004TG" tvg-id="CA3100004TG" tvg-chno="1004" tvg-name="Halloween Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3100004TG_20261102T035309SQUARE.png" group-title="Ambiance",Halloween Vibes
-https://jmp2.uk/stvp-CA3100004TG
 #EXTINF:-1 channel-id="CABC2300017XX" tvg-id="CABC2300017XX" tvg-chno="3706" tvg-name="HappyKids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300017XX_20260421T140549SQUARE.png" group-title="Kids",HappyKids
 https://jmp2.uk/stvp-CABC2300017XX
 #EXTINF:-1 channel-id="CABA800009T5" tvg-id="CABA800009T5" tvg-chno="1001" tvg-name="Haunt TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800009T5_20261023T223801SQUARE.png" group-title="Sci-Fi & Horror",Haunt TV
@@ -245,6 +245,8 @@ https://jmp2.uk/stvp-CA4600004EA
 https://jmp2.uk/stvp-CABB2600006SV
 #EXTINF:-1 channel-id="CA600001C3" tvg-id="CA600001C3" tvg-chno="3547" tvg-name="History & Warfare" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA600001C3_20260908T034825SQUARE.png" group-title="Nature, History & Science",History & Warfare
 https://jmp2.uk/stvp-CA600001C3
+#EXTINF:-1 channel-id="CA3600003WG" tvg-id="CA3600003WG" tvg-chno="4590" tvg-name="Holiday Fireplace Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3600003WG_20261102T091310SQUARE.png" group-title="Ambiance",Holiday Fireplace Vibes
+https://jmp2.uk/stvp-CA3600003WG
 #EXTINF:-1 channel-id="CABC23000035R" tvg-id="CABC23000035R" tvg-chno="2970" tvg-name="Hollywire" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000035R_20260421T140523SQUARE.png" group-title="Lifestyle & Pop Culture",Hollywire
 https://jmp2.uk/stvp-CABC23000035R
 #EXTINF:-1 channel-id="CABC5200022N1" tvg-id="CABC5200022N1" tvg-chno="2023" tvg-name="Homeful" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200022N1_20260421T140631SQUARE.png" group-title="Home & Food",Homeful
@@ -431,7 +433,7 @@ https://jmp2.uk/stvp-CA29000183M
 https://jmp2.uk/stvp-CA290001647
 #EXTINF:-1 channel-id="CA29000139Y" tvg-id="CA29000139Y" tvg-chno="4496" tvg-name="Stingray Franco Retro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA29000139Y_20260421T140658SQUARE.png" group-title="Music",Stingray Franco Retro
 https://jmp2.uk/stvp-CA29000139Y
-#EXTINF:-1 channel-id="CABD1200037BS" tvg-id="CABD1200037BS" tvg-chno="4482" tvg-name="Stingray Greatest Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200037BS_20261102T091258SQUARE.png" group-title="Music",Stingray Greatest Hits
+#EXTINF:-1 channel-id="CABD1200037BS" tvg-id="CABD1200037BS" tvg-chno="4482" tvg-name="Stingray Greatest Holiday Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200037BS_20261102T091258SQUARE.png" group-title="Music",Stingray Greatest Holiday Hits
 https://jmp2.uk/stvp-CABD1200037BS
 #EXTINF:-1 channel-id="CABD1200029U0" tvg-id="CABD1200029U0" tvg-chno="4467" tvg-name="Stingray Hip Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200029U0_20260421T141018SQUARE.png" group-title="Music",Stingray Hip Hop
 https://jmp2.uk/stvp-CABD1200029U0

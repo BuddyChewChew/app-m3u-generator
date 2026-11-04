@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz"
+#EXTINF:-1 channel-id="IT2600010E0" tvg-id="IT2600010E0" tvg-chno="4852" tvg-name="100% Natale - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20261102T070712SQUARE.png" group-title="Film",100% Natale - Rakuten TV
+https://jmp2.uk/stvp-IT2600010E0
 #EXTINF:-1 channel-id="IT500008CB" tvg-id="IT500008CB" tvg-chno="4558" tvg-name="3BMeteo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500008CB_20260113T032823SQUARE.png" group-title="News",3BMeteo
 https://jmp2.uk/stvp-IT500008CB
 #EXTINF:-1 channel-id="ITBA33000374G" tvg-id="ITBA33000374G" tvg-chno="4207" tvg-name="5-Minuti Creativi" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png" group-title="Intrattenimento",5-Minuti Creativi
@@ -29,6 +31,8 @@ https://jmp2.uk/stvp-ITBD3200003HL
 https://jmp2.uk/stvp-IT2900003UK
 #EXTINF:-1 channel-id="ITBD3200004KN" tvg-id="ITBD3200004KN" tvg-chno="4251" tvg-name="Autostop per il Cielo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200004KN_20241022T051533SQUARE.png" group-title="Serie TV",Autostop per il Cielo
 https://jmp2.uk/stvp-ITBD3200004KN
+#EXTINF:-1 channel-id="IT1100001PZ" tvg-id="IT1100001PZ" tvg-chno="4639" tvg-name="Barça 24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1100001PZ_20261102T070717SQUARE.png" group-title="Calcio",Barça 24H
+https://jmp2.uk/stvp-IT1100001PZ
 #EXTINF:-1 channel-id="IT3200002L5" tvg-id="IT3200002L5" tvg-chno="4003" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20261026T042711SQUARE.png" group-title="Documentari",BBC Earth
 https://jmp2.uk/stvp-IT3200002L5
 #EXTINF:-1 channel-id="IT2900001B5" tvg-id="IT2900001B5" tvg-chno="4233" tvg-name="BBC Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250916T003606SQUARE.png" group-title="Serie TV",BBC Series
@@ -111,8 +115,6 @@ https://jmp2.uk/stvp-IT2600009QD
 https://jmp2.uk/stvp-ITBA1400001QN
 #EXTINF:-1 channel-id="IT1800008RR" tvg-id="IT1800008RR" tvg-chno="4766" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800008RR_20261006T034241SQUARE.png" group-title="Musica e Ambient",Fall Vibes
 https://jmp2.uk/stvp-IT1800008RR
-#EXTINF:-1 channel-id="IT2600010E0" tvg-id="IT2600010E0" tvg-chno="4852" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20261102T070712SQUARE.png" group-title="Film",Family - Rakuten TV
-https://jmp2.uk/stvp-IT2600010E0
 #EXTINF:-1 channel-id="IT260000131" tvg-id="IT260000131" tvg-chno="4947" tvg-name="Fantascienza - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT260000131_20250121T012628SQUARE.png" group-title="Film",Fantascienza - Rakuten TV
 https://jmp2.uk/stvp-IT260000131
 #EXTINF:-1 channel-id="ITBD1000002HF" tvg-id="ITBD1000002HF" tvg-chno="4631" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000002HF_20250513T010658SQUARE.png" group-title="Calcio",FIFA+
@@ -335,8 +337,6 @@ https://jmp2.uk/stvp-IT20000053A
 https://jmp2.uk/stvp-IT18000098G
 #EXTINF:-1 channel-id="ITAJ4500016FM" tvg-id="ITAJ4500016FM" tvg-chno="4169" tvg-name="The Pet Collective" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500016FM_20241022T043634SQUARE.png" group-title="Intrattenimento",The Pet Collective
 https://jmp2.uk/stvp-ITAJ4500016FM
-#EXTINF:-1 channel-id="IT1100001PZ" tvg-id="IT1100001PZ" tvg-chno="4639" tvg-name="Top Barça" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1100001PZ_20261102T070717SQUARE.png" group-title="Calcio",Top Barça
-https://jmp2.uk/stvp-IT1100001PZ
 #EXTINF:-1 channel-id="IT2400001AE" tvg-id="IT2400001AE" tvg-chno="4658" tvg-name="Top Gear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2400001AE_20260818T051145SQUARE.png" group-title="Sport",Top Gear
 https://jmp2.uk/stvp-IT2400001AE
 #EXTINF:-1 channel-id="ITBA3300042HE" tvg-id="ITBA3300042HE" tvg-chno="4707" tvg-name="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300042HE_20241022T043641SQUARE.png" group-title="Musica e Ambient",Trace Latina

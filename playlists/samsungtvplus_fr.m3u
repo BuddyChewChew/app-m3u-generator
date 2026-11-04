@@ -7,6 +7,8 @@ https://jmp2.uk/stvp-FR3600003DS
 https://jmp2.uk/stvp-FRBD39000064E
 #EXTINF:-1 channel-id="FR3400004L5" tvg-id="FR3400004L5" tvg-chno="4815" tvg-name="100% Kidz" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20260804T051423SQUARE.png" group-title="Jeunesse",100% Kidz
 https://jmp2.uk/stvp-FR3400004L5
+#EXTINF:-1 channel-id="FR2600001PI" tvg-id="FR2600001PI" tvg-chno="4852" tvg-name="100% Noël - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20261102T070350SQUARE.png" group-title="Cinéma",100% Noël - Rakuten TV
+https://jmp2.uk/stvp-FR2600001PI
 #EXTINF:-1 channel-id="FR2100004D7" tvg-id="FR2100004D7" tvg-chno="4895" tvg-name="100% Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2100004D7_20261013T053835SQUARE.png" group-title="Cinéma",100% Romance
 https://jmp2.uk/stvp-FR2100004D7
 #EXTINF:-1 channel-id="FRBD4100002R7" tvg-id="FRBD4100002R7" tvg-chno="4515" tvg-name="750g" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100002R7_20260528T055254SQUARE.png" group-title="Voyages et Gastronomie",750g
@@ -31,6 +33,8 @@ https://jmp2.uk/stvp-FRBD3900001QP
 https://jmp2.uk/stvp-FRBD300000170
 #EXTINF:-1 channel-id="FR3900002FW" tvg-id="FR3900002FW" tvg-chno="4372" tvg-name="Au coeur du danger" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900002FW_20260310T031715SQUARE.png" group-title="Documentaires",Au coeur du danger
 https://jmp2.uk/stvp-FR3900002FW
+#EXTINF:-1 channel-id="FR110000354" tvg-id="FR110000354" tvg-chno="4639" tvg-name="Barça 24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR110000354_20261102T070356SQUARE.png" group-title="Sports",Barça 24H
+https://jmp2.uk/stvp-FR110000354
 #EXTINF:-1 channel-id="FR3200001NQ" tvg-id="FR3200001NQ" tvg-chno="4489" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" group-title="Documentaires",BBC Earth
 https://jmp2.uk/stvp-FR3200001NQ
 #EXTINF:-1 channel-id="FR2900001UF" tvg-id="FR2900001UF" tvg-chno="4239" tvg-name="BBC Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2900001UF_20250916T003553SQUARE.png" group-title="Séries TV",BBC Series
@@ -115,8 +119,6 @@ https://jmp2.uk/stvp-FR2600004SS
 https://jmp2.uk/stvp-FR1400002XF
 #EXTINF:-1 channel-id="FR1800010TC" tvg-id="FR1800010TC" tvg-chno="4766" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800010TC_20261006T034019SQUARE.png" group-title="Musique et ambiance",Fall Vibes
 https://jmp2.uk/stvp-FR1800010TC
-#EXTINF:-1 channel-id="FR2600001PI" tvg-id="FR2600001PI" tvg-chno="4852" tvg-name="Famille - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20261102T070350SQUARE.png" group-title="Cinéma",Famille - Rakuten TV
-https://jmp2.uk/stvp-FR2600001PI
 #EXTINF:-1 channel-id="FR3600002W2" tvg-id="FR3600002W2" tvg-chno="4126" tvg-name="Familles en Scène" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600002W2_20241106T142619SQUARE.png" group-title="Divertissement",Familles en Scène
 https://jmp2.uk/stvp-FR3600002W2
 #EXTINF:-1 channel-id="FRBA3300037Y7" tvg-id="FRBA3300037Y7" tvg-chno="4633" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300037Y7_20251028T011417SQUARE.png" group-title="Sports",FIFA+
@@ -321,8 +323,6 @@ https://jmp2.uk/stvp-FR1300004LY
 https://jmp2.uk/stvp-FR3100006XA
 #EXTINF:-1 channel-id="FR1200001N2" tvg-id="FR1200001N2" tvg-chno="4989" tvg-name="Top Action" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20261006T034053SQUARE.png" group-title="Cinéma",Top Action
 https://jmp2.uk/stvp-FR1200001N2
-#EXTINF:-1 channel-id="FR110000354" tvg-id="FR110000354" tvg-chno="4639" tvg-name="Top Barça" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR110000354_20261102T070356SQUARE.png" group-title="Sports",Top Barça
-https://jmp2.uk/stvp-FR110000354
 #EXTINF:-1 channel-id="FR2600007CB" tvg-id="FR2600007CB" tvg-chno="4877" tvg-name="Top Films - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20260707T051809SQUARE.png" group-title="Cinéma",Top Films - Rakuten TV
 https://jmp2.uk/stvp-FR2600007CB
 #EXTINF:-1 channel-id="FR2400001TP" tvg-id="FR2400001TP" tvg-chno="4660" tvg-name="Top Gear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2400001TP_20241015T042856SQUARE.png" group-title="Sports",Top Gear

@@ -29,6 +29,8 @@ https://jmp2.uk/stvp-ATAJ0500454A
 https://jmp2.uk/stvp-ATAJ0500458A
 #EXTINF:-1 channel-id="AT1800008KG" tvg-id="AT1800008KG" tvg-chno="4001" tvg-name="Bares für Rares" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1800008KG_20261026T041546SQUARE.png" group-title="Entertainment",Bares für Rares
 https://jmp2.uk/stvp-AT1800008KG
+#EXTINF:-1 channel-id="AT1100003X6" tvg-id="AT1100003X6" tvg-chno="4635" tvg-name="Barça 24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100003X6_20261102T064326SQUARE.png" group-title="Fußball",Barça 24H
+https://jmp2.uk/stvp-AT1100003X6
 #EXTINF:-1 channel-id="AT280000324" tvg-id="AT280000324" tvg-chno="4208" tvg-name="BBC Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT280000324_20260929T035652SQUARE.png" group-title="Entertainment",BBC Lifestyle
 https://jmp2.uk/stvp-AT280000324
 #EXTINF:-1 channel-id="AT2100004P1" tvg-id="AT2100004P1" tvg-chno="4241" tvg-name="BBC Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2100004P1_20251111T013630SQUARE.png" group-title="Serien",BBC Series
@@ -197,7 +199,7 @@ https://jmp2.uk/stvp-ATBA3300021BW
 https://jmp2.uk/stvp-AT22000037P
 #EXTINF:-1 channel-id="ATBC3900002PV" tvg-id="ATBC3900002PV" tvg-chno="4190" tvg-name="Naruto" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900002PV_20250107T022155SQUARE.png" group-title="Anime",Naruto
 https://jmp2.uk/stvp-ATBC3900002PV
-#EXTINF:-1 channel-id="AT20000055C" tvg-id="AT20000055C" tvg-chno="4234" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT20000055C_20261102T064331SQUARE.png" group-title="Serien",NCIS: New Orleans
+#EXTINF:-1 channel-id="AT20000055C" tvg-id="AT20000055C" tvg-chno="4234" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT20000055C_20261102T064331SQUARE.png" group-title="Crime",NCIS: New Orleans
 https://jmp2.uk/stvp-AT20000055C
 #EXTINF:-1 channel-id="ATAJ0500422A" tvg-id="ATAJ0500422A" tvg-chno="4881" tvg-name="Netzkino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500422A_20250107T021804SQUARE.png" group-title="Filme",Netzkino
 https://jmp2.uk/stvp-ATAJ0500422A
@@ -311,8 +313,6 @@ https://jmp2.uk/stvp-ATAJ3200003W3
 https://jmp2.uk/stvp-ATBC3900001W3
 #EXTINF:-1 channel-id="ATAJ0500427A" tvg-id="ATAJ0500427A" tvg-chno="4494" tvg-name="Tierwelt" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500427A_20250513T005114SQUARE.png" group-title="Dokus & Wissen",Tierwelt
 https://jmp2.uk/stvp-ATAJ0500427A
-#EXTINF:-1 channel-id="AT1100003X6" tvg-id="AT1100003X6" tvg-chno="4635" tvg-name="Top Barça" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100003X6_20261102T064326SQUARE.png" group-title="Fußball",Top Barça
-https://jmp2.uk/stvp-AT1100003X6
 #EXTINF:-1 channel-id="ATBD5000001SF" tvg-id="ATBD5000001SF" tvg-chno="4870" tvg-name="Top Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD5000001SF_20250107T022238SQUARE.png" group-title="Filme",Top Filme
 https://jmp2.uk/stvp-ATBD5000001SF
 #EXTINF:-1 channel-id="AT260000326" tvg-id="AT260000326" tvg-chno="4879" tvg-name="Top Filme - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000326_20260421T125335SQUARE.png" group-title="Filme",Top Filme - Rakuten TV
