@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
 #EXTINF:-1 channel-id="62ba60f059624e000781c436" tvg-id="62ba60f059624e000781c436" tvg-chno="160" tvg-name="00s Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Movies",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
-#EXTINF:-1 channel-id="6176f39e709f160007ec61c3" tvg-id="6176f39e709f160007ec61c3" tvg-chno="1260" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="True Crime",48 Hours
+#EXTINF:-1 channel-id="6176f39e709f160007ec61c3" tvg-id="6176f39e709f160007ec61c3" tvg-chno="1265" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="True Crime",48 Hours
 https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
 #EXTINF:-1 channel-id="68487fb3f212bedacf5a53e3" tvg-id="68487fb3f212bedacf5a53e3" tvg-chno="2050" tvg-name="50 Cent Action" tvg-logo="https://images.pluto.tv/channels/68487fb3f212bedacf5a53e3/colorLogoPNG_1749846553889.png" group-title="Entertainment",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
@@ -45,7 +45,7 @@ https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:-1 channel-id="5e1f7da4bc7d740009831259" tvg-id="5e1f7da4bc7d740009831259" tvg-chno="2690" tvg-name="America's Voice News" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="News + Opinion",America's Voice News
 https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
-#EXTINF:-1 channel-id="65492fc7056b9700088560b5" tvg-id="65492fc7056b9700088560b5" tvg-chno="1240" tvg-name="American Crimes" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png" group-title="True Crime",American Crimes
+#EXTINF:-1 channel-id="65492fc7056b9700088560b5" tvg-id="65492fc7056b9700088560b5" tvg-chno="1275" tvg-name="American Crimes" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png" group-title="True Crime",American Crimes
 https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 #EXTINF:-1 channel-id="6565413e4261ca0008215320" tvg-id="6565413e4261ca0008215320" tvg-chno="1465" tvg-name="American Pickers Plus by History" tvg-logo="https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG_1792511758070.png" group-title="Reality",American Pickers Plus by History
 https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
@@ -241,7 +241,7 @@ https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
 https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 #EXTINF:-1 channel-id="5f779951372da90007fd45e8" tvg-id="5f779951372da90007fd45e8" tvg-chno="4810" tvg-name="Classica" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Music Videos",Classica
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
-#EXTINF:-1 channel-id="5c37d6712de254456f7ec340" tvg-id="5c37d6712de254456f7ec340" tvg-chno="1290" tvg-name="Cold Case Files by A&E" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG_1767744689997.png" group-title="True Crime",Cold Case Files by A&E
+#EXTINF:-1 channel-id="5c37d6712de254456f7ec340" tvg-id="5c37d6712de254456f7ec340" tvg-chno="1295" tvg-name="Cold Case Files by A&E" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG_1767744689997.png" group-title="True Crime",Cold Case Files by A&E
 https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8
 #EXTINF:-1 channel-id="5ca671f215a62078d2ec0abf" tvg-id="5ca671f215a62078d2ec0abf" tvg-chno="340" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG_1785343315719.png" group-title="Comedy",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
@@ -271,7 +271,7 @@ https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
 https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
 #EXTINF:-1 channel-id="5ef3958c66ac540007d6e6a7" tvg-id="5ef3958c66ac540007d6e6a7" tvg-chno="1415" tvg-name="Dark Shadows" tvg-logo="https://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png" group-title="",Dark Shadows
 https://jmp2.uk/plu-5ef3958c66ac540007d6e6a7.m3u8
-#EXTINF:-1 channel-id="637413d8531e0c0007442d6d" tvg-id="637413d8531e0c0007442d6d" tvg-chno="1250" tvg-name="Dateline 24/7" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png" group-title="True Crime",Dateline 24/7
+#EXTINF:-1 channel-id="637413d8531e0c0007442d6d" tvg-id="637413d8531e0c0007442d6d" tvg-chno="1235" tvg-name="Dateline 24/7" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png" group-title="True Crime",Dateline 24/7
 https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
 #EXTINF:-1 channel-id="651f239d9c7aeb0008286823" tvg-id="651f239d9c7aeb0008286823" tvg-chno="1670" tvg-name="Dating Disasters" tvg-logo="https://images.pluto.tv/channels/651f239d9c7aeb0008286823/colorLogoPNG.png" group-title="Reality",Dating Disasters
 https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
@@ -433,11 +433,11 @@ https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 #EXTINF:-1 channel-id="5873fc21cad696fb37aa9054" tvg-id="5873fc21cad696fb37aa9054" tvg-chno="2190" tvg-name="Live Music" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Entertainment",Live Music
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
-#EXTINF:-1 channel-id="6887a4e01067b66fa16966ec" tvg-id="6887a4e01067b66fa16966ec" tvg-chno="1237" tvg-name="Live PD Presents" tvg-logo="https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png" group-title="True Crime",Live PD Presents
+#EXTINF:-1 channel-id="6887a4e01067b66fa16966ec" tvg-id="6887a4e01067b66fa16966ec" tvg-chno="1260" tvg-name="Live PD Presents" tvg-logo="https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png" group-title="True Crime",Live PD Presents
 https://jmp2.uk/plu-6887a4e01067b66fa16966ec.m3u8
 #EXTINF:-1 channel-id="63d025db4e83e700086eaa96" tvg-id="63d025db4e83e700086eaa96" tvg-chno="2534" tvg-name="LiveNOW from FOX" tvg-logo="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png" group-title="News + Opinion",LiveNOW from FOX
 https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
-#EXTINF:-1 channel-id="68bb164fb3900870ec368759" tvg-id="68bb164fb3900870ec368759" tvg-chno="1265" tvg-name="Living With Evil" tvg-logo="https://images.pluto.tv/channels/68bb164fb3900870ec368759/colorLogoPNG_1785342013286.png" group-title="True Crime",Living With Evil
+#EXTINF:-1 channel-id="68bb164fb3900870ec368759" tvg-id="68bb164fb3900870ec368759" tvg-chno="1280" tvg-name="Living With Evil" tvg-logo="https://images.pluto.tv/channels/68bb164fb3900870ec368759/colorLogoPNG_1785342013286.png" group-title="True Crime",Living With Evil
 https://jmp2.uk/plu-68bb164fb3900870ec368759.m3u8
 #EXTINF:-1 channel-id="5ce5a8954311f992edbe1da2" tvg-id="5ce5a8954311f992edbe1da2" tvg-chno="2160" tvg-name="Logo Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png" group-title="Entertainment",Logo Pluto TV
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
@@ -483,7 +483,7 @@ https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
 https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 #EXTINF:-1 channel-id="6132619f9ddaa50007e7dd86" tvg-id="6132619f9ddaa50007e7dd86" tvg-chno="310" tvg-name="More TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="Comedy",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
-#EXTINF:-1 channel-id="6532e6a9bdf3cf000887ab29" tvg-id="6532e6a9bdf3cf000887ab29" tvg-chno="1230" tvg-name="More True Crime" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" group-title="True Crime",More True Crime
+#EXTINF:-1 channel-id="6532e6a9bdf3cf000887ab29" tvg-id="6532e6a9bdf3cf000887ab29" tvg-chno="1225" tvg-name="More True Crime" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" group-title="True Crime",More True Crime
 https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
 #EXTINF:-1 channel-id="645e7828e1979c00087b75b4" tvg-id="645e7828e1979c00087b75b4" tvg-chno="205" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" group-title="Movies",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
@@ -773,7 +773,7 @@ https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
 https://jmp2.uk/plu-6ad7a739256eee83f133749e.m3u8
 #EXTINF:-1 channel-id="5d486acc34ceb37d3c458a64" tvg-id="5d486acc34ceb37d3c458a64" tvg-chno="2705" tvg-name="The First" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="News + Opinion",The First
 https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
-#EXTINF:-1 channel-id="6887aaade3703b7d42b64be8" tvg-id="6887aaade3703b7d42b64be8" tvg-chno="1235" tvg-name="The First 48 by A&E" tvg-logo="https://images.pluto.tv/channels/6887aaade3703b7d42b64be8/colorLogoPNG_1754999153420.png" group-title="True Crime",The First 48 by A&E
+#EXTINF:-1 channel-id="6887aaade3703b7d42b64be8" tvg-id="6887aaade3703b7d42b64be8" tvg-chno="1230" tvg-name="The First 48 by A&E" tvg-logo="https://images.pluto.tv/channels/6887aaade3703b7d42b64be8/colorLogoPNG_1754999153420.png" group-title="True Crime",The First 48 by A&E
 https://jmp2.uk/plu-6887aaade3703b7d42b64be8.m3u8
 #EXTINF:-1 channel-id="64dab9df3d48f40008868091" tvg-id="64dab9df3d48f40008868091" tvg-chno="3470" tvg-name="The Jamie Oliver Channel" tvg-logo="https://images.pluto.tv/channels/64dab9df3d48f40008868091/colorLogoPNG.png" group-title="Home + Food",The Jamie Oliver Channel
 https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
@@ -787,7 +787,7 @@ https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 https://jmp2.uk/plu-67c62ac2095aea2ec805eb34.m3u8
 #EXTINF:-1 channel-id="6792c30abc03978b9b8bb832" tvg-id="6792c30abc03978b9b8bb832" tvg-chno="2805" tvg-name="The NBA Channel" tvg-logo="https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1747950897785.png" group-title="Sports",The NBA Channel
 https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
-#EXTINF:-1 channel-id="5aea40b35126c2157123aa64" tvg-id="5aea40b35126c2157123aa64" tvg-chno="1280" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="True Crime",The New Detectives
+#EXTINF:-1 channel-id="5aea40b35126c2157123aa64" tvg-id="5aea40b35126c2157123aa64" tvg-chno="1290" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="True Crime",The New Detectives
 https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
 #EXTINF:-1 channel-id="5bb1ad55268cae539bcedb08" tvg-id="5bb1ad55268cae539bcedb08" tvg-chno="3620" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Animals + Nature",The Pet Collective
 https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
@@ -847,7 +847,7 @@ https://jmp2.uk/plu-654933e253fc970008390114.m3u8
 https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 #EXTINF:-1 channel-id="65a9b20f0c7ff50008d3a3b6" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-chno="905" tvg-name="Universal Monsters" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png" group-title="Sci-Fi",Universal Monsters
 https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
-#EXTINF:-1 channel-id="5b4e96a0423e067bd6df6901" tvg-id="5b4e96a0423e067bd6df6901" tvg-chno="1270" tvg-name="Unsolved Mysteries" tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="True Crime",Unsolved Mysteries
+#EXTINF:-1 channel-id="5b4e96a0423e067bd6df6901" tvg-id="5b4e96a0423e067bd6df6901" tvg-chno="1285" tvg-name="Unsolved Mysteries" tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="True Crime",Unsolved Mysteries
 https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
 #EXTINF:-1 channel-id="66abefe5d2d50d00082c7d12" tvg-id="66abefe5d2d50d00082c7d12" tvg-chno="1675" tvg-name="VH1 Queens of Reality" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" group-title="Reality",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
