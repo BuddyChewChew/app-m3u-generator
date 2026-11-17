@@ -57,7 +57,7 @@ https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
 #EXTINF:-1 channel-id="62f3e2d000418d00070f7dbc" tvg-id="62f3e2d000418d00070f7dbc" tvg-chno="245" tvg-name="Ciné d'Asie by Pluto TV" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="Cinéma",Ciné d'Asie by Pluto TV
 https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
-#EXTINF:-1 channel-id="62f3dd1c2f29ce0007e18596" tvg-id="62f3dd1c2f29ce0007e18596" tvg-chno="21" tvg-name="Coeur Océan" tvg-logo="https://images.pluto.tv/channels/62f3dd1c2f29ce0007e18596/colorLogoPNG.png" group-title="100% Français",Coeur Océan
+#EXTINF:-1 channel-id="62f3dd1c2f29ce0007e18596" tvg-id="62f3dd1c2f29ce0007e18596" tvg-chno="21" tvg-name="Coeur Océan" tvg-logo="https://images.pluto.tv/channels/62f3dd1c2f29ce0007e18596/colorLogoPNG.png" group-title="Nouveau sur Pluto TV",Coeur Océan
 https://jmp2.uk/plu-62f3dd1c2f29ce0007e18596.m3u8
 #EXTINF:-1 channel-id="691b351d427d68a118fdda13" tvg-id="691b351d427d68a118fdda13" tvg-chno="170" tvg-name="Cut" tvg-logo="https://images.pluto.tv/channels/691b351d427d68a118fdda13/colorLogoPNG_1771923741719.png" group-title="100% Français",Cut
 https://jmp2.uk/plu-691b351d427d68a118fdda13.m3u8
@@ -159,7 +159,7 @@ https://jmp2.uk/plu-686e74c777ed3360cb6908bf.m3u8
 https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8
 #EXTINF:-1 channel-id="66d722d31878f200081c2c64" tvg-id="66d722d31878f200081c2c64" tvg-chno="325" tvg-name="Most Haunted" tvg-logo="https://images.pluto.tv/channels/66d722d31878f200081c2c64/colorLogoPNG.png" group-title="Crime & Mystère",Most Haunted
 https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
-#EXTINF:-1 channel-id="6a43b36c71cbfff7dca50cf3" tvg-id="6a43b36c71cbfff7dca50cf3" tvg-chno="22" tvg-name="Mr. Bean" tvg-logo="https://images.pluto.tv/channels/6a43b36c71cbfff7dca50cf3/colorLogoPNG_1788185290630.png" group-title="Nouveau sur Pluto TV",Mr. Bean
+#EXTINF:-1 channel-id="6a43b36c71cbfff7dca50cf3" tvg-id="6a43b36c71cbfff7dca50cf3" tvg-chno="23" tvg-name="Mr. Bean" tvg-logo="https://images.pluto.tv/channels/6a43b36c71cbfff7dca50cf3/colorLogoPNG_1788185290630.png" group-title="Nouveau sur Pluto TV",Mr. Bean
 https://jmp2.uk/plu-6a43b36c71cbfff7dca50cf3.m3u8
 #EXTINF:-1 channel-id="6a6a02bd93ac783fe20d1bf7" tvg-id="6a6a02bd93ac783fe20d1bf7" tvg-chno="685" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02bd93ac783fe20d1bf7/colorLogoPNG_1785333415249.png" group-title="Sports & Auto",NFL Channel
 https://jmp2.uk/plu-6a6a02bd93ac783fe20d1bf7.m3u8
@@ -253,7 +253,7 @@ https://jmp2.uk/plu-6a6a02ff1b1c90d8bf955701.m3u8
 https://jmp2.uk/plu-69b3db536c0414a7ecf564fb.m3u8
 #EXTINF:-1 channel-id="62f3f05505e621000783df2f" tvg-id="62f3f05505e621000783df2f" tvg-chno="480" tvg-name="Teen Mom" tvg-logo="https://images.pluto.tv/channels/62f3f05505e621000783df2f/colorLogoPNG.png" group-title="TV Réalité",Teen Mom
 https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
-#EXTINF:-1 channel-id="6a43ab7bfd93e35b5dadb67e" tvg-id="6a43ab7bfd93e35b5dadb67e" tvg-chno="23" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6a43ab7bfd93e35b5dadb67e/colorLogoPNG_1782819767954.png" group-title="Nouveau sur Pluto TV",Tennis Channel
+#EXTINF:-1 channel-id="6a43ab7bfd93e35b5dadb67e" tvg-id="6a43ab7bfd93e35b5dadb67e" tvg-chno="24" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6a43ab7bfd93e35b5dadb67e/colorLogoPNG_1782819767954.png" group-title="Nouveau sur Pluto TV",Tennis Channel
 https://jmp2.uk/plu-6a43ab7bfd93e35b5dadb67e.m3u8
 #EXTINF:-1 channel-id="667d38a5ca74680008696392" tvg-id="667d38a5ca74680008696392" tvg-chno="545" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/667d38a5ca74680008696392/colorLogoPNG_1790760509250.png" group-title="Musique",That's 90s00s
 https://jmp2.uk/plu-667d38a5ca74680008696392.m3u8
@@ -271,6 +271,8 @@ https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
 #EXTINF:-1 channel-id="66f55c3955567d0008ef9b68" tvg-id="66f55c3955567d0008ef9b68" tvg-chno="420" tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" group-title="Emissions cultes",Turbo
 https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
+#EXTINF:-1 channel-id="65251c3a9c7aeb00083741c9" tvg-id="65251c3a9c7aeb00083741c9" tvg-chno="22" tvg-name="Téléfilms de Noël by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65251c3a9c7aeb00083741c9/colorLogoPNG.png" group-title="Nouveau sur Pluto TV",Téléfilms de Noël by Pluto TV
+https://jmp2.uk/plu-65251c3a9c7aeb00083741c9.m3u8
 #EXTINF:-1 channel-id="67921b78b83355184c667770" tvg-id="67921b78b83355184c667770" tvg-chno="680" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/67921b78b83355184c667770/colorLogoPNG.png" group-title="Sports & Auto",UFC
 https://jmp2.uk/plu-67921b78b83355184c667770.m3u8
 #EXTINF:-1 channel-id="6683cd0f63a5f20008fb84a3" tvg-id="6683cd0f63a5f20008fb84a3" tvg-chno="165" tvg-name="Un Si Grand Soleil" tvg-logo="https://images.pluto.tv/channels/6683cd0f63a5f20008fb84a3/colorLogoPNG_1749650858325.png" group-title="100% Français",Un Si Grand Soleil
