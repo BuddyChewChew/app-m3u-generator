@@ -39,6 +39,8 @@ https://jmp2.uk/stvp-IT3200002L5
 https://jmp2.uk/stvp-IT2900001B5
 #EXTINF:-1 channel-id="IT5100003XM" tvg-id="IT5100003XM" tvg-chno="4078" tvg-name="BEAUTY CHANNEL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5100003XM_20260210T040129SQUARE.png" group-title="Intrattenimento",BEAUTY CHANNEL
 https://jmp2.uk/stvp-IT5100003XM
+#EXTINF:-1 channel-id="IT2600014Z6" tvg-id="IT2600014Z6" tvg-chno="4797" tvg-name="BeJoy Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600014Z6_20261117T041850SQUARE.png" group-title="Bambini",BeJoy Kids
+https://jmp2.uk/stvp-IT2600014Z6
 #EXTINF:-1 channel-id="ITBA3300024IU" tvg-id="ITBA3300024IU" tvg-chno="4951" tvg-name="Bizzarro Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20261102T070728SQUARE.png" group-title="Film",Bizzarro Movies
 https://jmp2.uk/stvp-ITBA3300024IU
 #EXTINF:-1 channel-id="ITBA3300025F5" tvg-id="ITBA3300025F5" tvg-chno="4571" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300025F5_20260421T124034SQUARE.png" group-title="News",Bloomberg TV+
@@ -55,6 +57,8 @@ https://jmp2.uk/stvp-ITAJ3800001Z4
 https://jmp2.uk/stvp-ITBD140000119
 #EXTINF:-1 channel-id="ITBA14000093A" tvg-id="ITBA14000093A" tvg-chno="4871" tvg-name="CG Grandi Film" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20251111T011343SQUARE.png" group-title="Film",CG Grandi Film
 https://jmp2.uk/stvp-ITBA14000093A
+#EXTINF:-1 channel-id="ITBD3200001VR" tvg-id="ITBD3200001VR" tvg-chno="4944" tvg-name="Christmas Time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20261117T042327SQUARE.png" group-title="Film",Christmas Time
+https://jmp2.uk/stvp-ITBD3200001VR
 #EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4001" tvg-name="Cine Natale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20261110T044224SQUARE.png" group-title="Film",Cine Natale
 https://jmp2.uk/stvp-IT3800001XM
 #EXTINF:-1 channel-id="IT3600005AL" tvg-id="IT3600005AL" tvg-chno="4953" tvg-name="Cine Paura" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20261026T042725SQUARE.png" group-title="Film",Cine Paura
@@ -67,7 +71,7 @@ https://jmp2.uk/stvp-ITBA33000238E
 https://jmp2.uk/stvp-ITBD1400003D0
 #EXTINF:-1 channel-id="IT300029U3" tvg-id="IT300029U3" tvg-chno="4908" tvg-name="Cinemalizia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300029U3_20250415T022336SQUARE.png" group-title="Film",Cinemalizia
 https://jmp2.uk/stvp-IT300029U3
-#EXTINF:-1 channel-id="ITBB20000072M" tvg-id="ITBB20000072M" tvg-chno="4925" tvg-name="CineWestern" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB20000072M_20260421T125848SQUARE.png" group-title="Film",CineWestern
+#EXTINF:-1 channel-id="ITBB20000072M" tvg-id="ITBB20000072M" tvg-chno="4925" tvg-name="CineWestern" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB20000072M_20261117T041840SQUARE.png" group-title="Film",CineWestern
 https://jmp2.uk/stvp-ITBB20000072M
 #EXTINF:-1 channel-id="IT39000028R" tvg-id="IT39000028R" tvg-chno="4723" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT39000028R_20260915T041808SQUARE.png" group-title="Musica e Ambient",CJ ENM K-POP
 https://jmp2.uk/stvp-IT39000028R
@@ -243,6 +247,8 @@ https://jmp2.uk/stvp-IT700004X4
 https://jmp2.uk/stvp-IT1200003NR
 #EXTINF:-1 channel-id="ITBA2200008IM" tvg-id="ITBA2200008IM" tvg-chno="4742" tvg-name="Radio Italia Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200008IM_20251111T012413SQUARE.png" group-title="Musica e Ambient",Radio Italia Live
 https://jmp2.uk/stvp-ITBA2200008IM
+#EXTINF:-1 channel-id="IT2600011K1" tvg-id="IT2600011K1" tvg-chno="4717" tvg-name="Radio Italianissima" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600011K1_20261117T041909SQUARE.png" group-title="Musica e Ambient",Radio Italianissima
+https://jmp2.uk/stvp-IT2600011K1
 #EXTINF:-1 channel-id="IT3200004WU" tvg-id="IT3200004WU" tvg-chno="4004" tvg-name="Rai News 24" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20260707T052631SQUARE.png" group-title="News",Rai News 24
 https://jmp2.uk/stvp-IT3200004WU
 #EXTINF:-1 channel-id="IT18000058K" tvg-id="IT18000058K" tvg-chno="4765" tvg-name="Rainy Day Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000058K_20260528T053623SQUARE.png" group-title="Musica e Ambient",Rainy Day Vibes
@@ -321,8 +327,6 @@ https://jmp2.uk/stvp-IT1200001Q8
 https://jmp2.uk/stvp-IT1900006GN
 #EXTINF:-1 channel-id="IT700005C9" tvg-id="IT700005C9" tvg-chno="4058" tvg-name="Studio Uno" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700005C9_20261013T054248SQUARE.png" group-title="Intrattenimento",Studio Uno
 https://jmp2.uk/stvp-IT700005C9
-#EXTINF:-1 channel-id="ITBD3200001VR" tvg-id="ITBD3200001VR" tvg-chno="4944" tvg-name="Supercinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20261110T044209SQUARE.png" group-title="Film",Supercinema
-https://jmp2.uk/stvp-ITBD3200001VR
 #EXTINF:-1 channel-id="IT800003V4" tvg-id="IT800003V4" tvg-chno="4605" tvg-name="SuperTennis" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800003V4_20260915T041845SQUARE.png" group-title="Sport",SuperTennis
 https://jmp2.uk/stvp-IT800003V4
 #EXTINF:-1 channel-id="ITBD51000010V" tvg-id="ITBD51000010V" tvg-chno="4802" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD51000010V_20260210T040126SQUARE.png" group-title="Bambini",SuperToons TV
@@ -355,12 +359,16 @@ https://jmp2.uk/stvp-IT18000033C
 https://jmp2.uk/stvp-IT4000061Q
 #EXTINF:-1 channel-id="IT50001295" tvg-id="IT50001295" tvg-chno="4556" tvg-name="Urania News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT50001295_20251028T010433SQUARE.png" group-title="News",Urania News
 https://jmp2.uk/stvp-IT50001295
+#EXTINF:-1 channel-id="IT2700004G4" tvg-id="IT2700004G4" tvg-chno="4561" tvg-name="Value 24" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2700004G4_20261117T041916SQUARE.png" group-title="News",Value 24
+https://jmp2.uk/stvp-IT2700004G4
 #EXTINF:-1 channel-id="ITBC11000047F" tvg-id="ITBC11000047F" tvg-chno="4902" tvg-name="Velvet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000047F_20260915T041853SQUARE.png" group-title="Film",Velvet
 https://jmp2.uk/stvp-ITBC11000047F
 #EXTINF:-1 channel-id="ITBD1900010JL" tvg-id="ITBD1900010JL" tvg-chno="4684" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043922SQUARE.png" group-title="Musica e Ambient",Vevo '70s & '80s
 https://jmp2.uk/stvp-ITBD1900010JL
 #EXTINF:-1 channel-id="ITBC210000200" tvg-id="ITBC210000200" tvg-chno="4686" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png" group-title="Musica e Ambient",Vevo '90s & '00s
 https://jmp2.uk/stvp-ITBC210000200
+#EXTINF:-1 channel-id="IT3600009KN" tvg-id="IT3600009KN" tvg-chno="4681" tvg-name="Vevo Natale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600009KN_20261117T041922SQUARE.png" group-title="Musica e Ambient",Vevo Natale
+https://jmp2.uk/stvp-IT3600009KN
 #EXTINF:-1 channel-id="ITBC2100001G9" tvg-id="ITBC2100001G9" tvg-chno="4682" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png" group-title="Musica e Ambient",Vevo Pop
 https://jmp2.uk/stvp-ITBC2100001G9
 #EXTINF:-1 channel-id="IT12000029J" tvg-id="IT12000029J" tvg-chno="4517" tvg-name="Viaggi & Sapori" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png" group-title="Cucina & Viaggi",Viaggi & Sapori

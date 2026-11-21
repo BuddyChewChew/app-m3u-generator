@@ -109,7 +109,7 @@ https://jmp2.uk/plu-638e0f4832494900074481e7.m3u8
 https://jmp2.uk/plu-63565d76232dd10007bba40c.m3u8
 #EXTINF:-1 channel-id="6601948129adfd0008a1c0ba" tvg-id="6601948129adfd0008a1c0ba" tvg-chno="510" tvg-name="Crime & Justice" tvg-logo="https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png" group-title="True Crime",Crime & Justice
 https://jmp2.uk/plu-6601948129adfd0008a1c0ba.m3u8
-#EXTINF:-1 channel-id="6ad9015156079f3c4aa1df01" tvg-id="6ad9015156079f3c4aa1df01" tvg-chno="5" tvg-name="Crime 360" tvg-logo="https://images.pluto.tv/channels/6ad9015156079f3c4aa1df01/colorLogoPNG_1793039754317.png" group-title="New on Pluto TV",Crime 360
+#EXTINF:-1 channel-id="6ad9015156079f3c4aa1df01" tvg-id="6ad9015156079f3c4aa1df01" tvg-chno="6" tvg-name="Crime 360" tvg-logo="https://images.pluto.tv/channels/6ad9015156079f3c4aa1df01/colorLogoPNG_1793039754317.png" group-title="New on Pluto TV",Crime 360
 https://jmp2.uk/plu-6ad9015156079f3c4aa1df01.m3u8
 #EXTINF:-1 channel-id="6703a96763292d000836b4fa" tvg-id="6703a96763292d000836b4fa" tvg-chno="515" tvg-name="Crime Up Close" tvg-logo="https://images.pluto.tv/channels/6703a96763292d000836b4fa/colorLogoPNG.png" group-title="True Crime",Crime Up Close
 https://jmp2.uk/plu-6703a96763292d000836b4fa.m3u8
@@ -283,6 +283,10 @@ https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 channel-id="654ca7f92c1d3300086b608c" tvg-id="654ca7f92c1d3300086b608c" tvg-chno="1230" tvg-name="NickToons" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="Kids",NickToons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+#EXTINF:-1 channel-id="6ae9d1faa0c7adad77acf7e4" tvg-id="6ae9d1faa0c7adad77acf7e4" tvg-chno="3" tvg-name="Nikita" tvg-logo="https://images.pluto.tv/channels/6ae9d1faa0c7adad77acf7e4/colorLogoPNG_1793728726459.png" group-title="Drama",Nikita
+https://jmp2.uk/plu-6ae9d1faa0c7adad77acf7e4.m3u8
+#EXTINF:-1 channel-id="6ae9d256d2ae5a36b3d3103d" tvg-id="6ae9d256d2ae5a36b3d3103d" tvg-chno="2" tvg-name="Nip/Tuck" tvg-logo="https://images.pluto.tv/channels/6ae9d256d2ae5a36b3d3103d/colorLogoPNG_1793728817640.png" group-title="Drama",Nip/Tuck
+https://jmp2.uk/plu-6ae9d256d2ae5a36b3d3103d.m3u8
 #EXTINF:-1 channel-id="62fb9ade112ca70007d8441d" tvg-id="62fb9ade112ca70007d8441d" tvg-chno="645" tvg-name="Nonstop Drama" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png" group-title="Drama",Nonstop Drama
 https://jmp2.uk/plu-62fb9ade112ca70007d8441d.m3u8
 #EXTINF:-1 channel-id="62e93d0a80d8d10008a0181e" tvg-id="62e93d0a80d8d10008a0181e" tvg-chno="935" tvg-name="Nosey" tvg-logo="https://images.pluto.tv/channels/62e93d0a80d8d10008a0181e/colorLogoPNG.png" group-title="Daytime & Talk Shows",Nosey
@@ -381,7 +385,7 @@ https://jmp2.uk/plu-65367e914f123d000877d021.m3u8
 https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
 #EXTINF:-1 channel-id="6a8d96aa2cfd341eb5809214" tvg-id="6a8d96aa2cfd341eb5809214" tvg-chno="1304" tvg-name="SI TV" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports",SI TV
 https://jmp2.uk/plu-6a8d96aa2cfd341eb5809214.m3u8
-#EXTINF:-1 channel-id="6ad7c302365deb3f0242d25b" tvg-id="6ad7c302365deb3f0242d25b" tvg-chno="1" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6ad7c302365deb3f0242d25b/colorLogoPNG_1792525168637.png" group-title="Comedy",Sabrina the Teenage Witch
+#EXTINF:-1 channel-id="6ad7c302365deb3f0242d25b" tvg-id="6ad7c302365deb3f0242d25b" tvg-chno="103" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6ad7c302365deb3f0242d25b/colorLogoPNG_1792525168637.png" group-title="Comedy",Sabrina the Teenage Witch
 https://jmp2.uk/plu-6ad7c302365deb3f0242d25b.m3u8
 #EXTINF:-1 channel-id="6874ad2f3484d60732267ba8" tvg-id="6874ad2f3484d60732267ba8" tvg-chno="149" tvg-name="Scare Tactics" tvg-logo="https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png" group-title="Comedy",Scare Tactics
 https://jmp2.uk/plu-6874ad2f3484d60732267ba8.m3u8
@@ -425,7 +429,9 @@ https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
 https://jmp2.uk/plu-62e91384210bec0007ba714c.m3u8
 #EXTINF:-1 channel-id="66289716039f940008cf20a2" tvg-id="66289716039f940008cf20a2" tvg-chno="765" tvg-name="The Dog Whisperer with Caesar Millan" tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png" group-title="Reality",The Dog Whisperer with Caesar Millan
 https://jmp2.uk/plu-66289716039f940008cf20a2.m3u8
-#EXTINF:-1 channel-id="6ad9003ec7dcaeb9825ded70" tvg-id="6ad9003ec7dcaeb9825ded70" tvg-chno="3" tvg-name="The First 48" tvg-logo="https://images.pluto.tv/channels/6ad9003ec7dcaeb9825ded70/colorLogoPNG_1793196362033.png" group-title="New on Pluto TV",The First 48
+#EXTINF:-1 channel-id="6ae9d26e426c6f08411649d3" tvg-id="6ae9d26e426c6f08411649d3" tvg-chno="4" tvg-name="The FBI" tvg-logo="https://images.pluto.tv/channels/6ae9d26e426c6f08411649d3/colorLogoPNG_1793728905372.png" group-title="Classic TV",The FBI
+https://jmp2.uk/plu-6ae9d26e426c6f08411649d3.m3u8
+#EXTINF:-1 channel-id="6ad9003ec7dcaeb9825ded70" tvg-id="6ad9003ec7dcaeb9825ded70" tvg-chno="5" tvg-name="The First 48" tvg-logo="https://images.pluto.tv/channels/6ad9003ec7dcaeb9825ded70/colorLogoPNG_1793196362033.png" group-title="New on Pluto TV",The First 48
 https://jmp2.uk/plu-6ad9003ec7dcaeb9825ded70.m3u8
 #EXTINF:-1 channel-id="66166ce7aec96800080f6bd3" tvg-id="66166ce7aec96800080f6bd3" tvg-chno="945" tvg-name="The Graham Norton Show" tvg-logo="https://images.pluto.tv/channels/66166ce7aec96800080f6bd3/colorLogoPNG.png" group-title="Daytime & Talk Shows",The Graham Norton Show
 https://jmp2.uk/plu-66166ce7aec96800080f6bd3.m3u8
@@ -451,6 +457,8 @@ https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 https://jmp2.uk/plu-6a56add5f7dc4ada892d374b.m3u8
 #EXTINF:-1 channel-id="691b023a7613e09a8b209539" tvg-id="691b023a7613e09a8b209539" tvg-chno="550" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Sci-Fi + Fantasy",The X-Files
 https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
+#EXTINF:-1 channel-id="6ae9d288aae217e85689f5e1" tvg-id="6ae9d288aae217e85689f5e1" tvg-chno="1" tvg-name="Third Watch" tvg-logo="https://images.pluto.tv/channels/6ae9d288aae217e85689f5e1/colorLogoPNG_1793728985512.png" group-title="Crime Drama",Third Watch
+https://jmp2.uk/plu-6ae9d288aae217e85689f5e1.m3u8
 #EXTINF:-1 channel-id="64ca723a2bc49300081a8966" tvg-id="64ca723a2bc49300081a8966" tvg-chno="230" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png" group-title="Classic TV Comedy",Three's Company
 https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 #EXTINF:-1 channel-id="62fb6da41afad500077e9178" tvg-id="62fb6da41afad500077e9178" tvg-chno="85" tvg-name="Thrillers 365" tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png" group-title="Movies",Thrillers 365
