@@ -455,9 +455,20 @@ def generate_tubi_m3u():
 
 if __name__ == "__main__":
     cleanup_output_dir()
-    generate_pluto_m3u()
-    generate_plex_m3u()
-    generate_samsungtvplus_m3u()
-    generate_tubi_m3u()
-    generate_roku_m3u()
 
+    generators = [
+        ("pluto",         generate_pluto_m3u),
+        ("plex",          generate_plex_m3u),
+        ("samsungtvplus", generate_samsungtvplus_m3u),
+        ("tubi",          generate_tubi_m3u),
+        ("roku",          generate_roku_m3u),
+    ]
+
+    for name, func in generators:
+        try:
+            func()
+            logger.info(f"[OK] {name}")
+        except Exception as e:
+            msg = f"{name} generator failed and was skipped: {e}"
+            logger.warning(f"[BROKEN] {msg}")
+            print(f"::warning title=Generator failed::{msg}")
