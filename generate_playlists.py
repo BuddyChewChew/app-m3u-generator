@@ -39,20 +39,25 @@ logger = logging.getLogger(__name__)
 
 # --- Helper Functions ---
 
-def cleanup_output_dir():
-    if os.path.exists(OUTPUT_DIR):
-        logger.info(f"Cleaning up old playlists in {OUTPUT_DIR}...")
-        for filename in os.listdir(OUTPUT_DIR):
-            file_path = os.path.join(OUTPUT_DIR, filename)
-            try:
-                if os.path.isfile(file_path) or os.path.islink(file_path):
-                    os.unlink(file_path)
-                elif os.path.isdir(file_path):
-                    shutil.rmtree(file_path)
-            except Exception as e:
-                logger.error(f"Failed to delete {file_path}: {e}")
-    else:
-        os.makedirs(OUTPUT_DIR)
+def ensure_output_dir():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def snapshot_files(prefixes):
+    """Return the set of existing filenames in OUTPUT_DIR matching any prefix."""
+    existing = set()
+    for fname in os.listdir(OUTPUT_DIR):
+        if any(fname.startswith(p) for p in prefixes):
+            existing.add(fname)
+    return existing
+
+def remove_files(filenames):
+    for fname in filenames:
+        path = os.path.join(OUTPUT_DIR, fname)
+        try:
+            if os.path.isfile(path) or os.path.islink(path):
+                os.unlink(path)
+        except Exception as e:
+            logger.error(f"Failed to delete {path}: {e}")
 
 def fetch_url(url, is_json=True, is_gzipped=False, headers=None, stream=False, retries=3):
     headers = headers or {'User-Agent': USER_AGENT}
@@ -453,8 +458,18 @@ def generate_tubi_m3u():
 
 # --- Execution ---
 
+# Prefixes each generator owns. Used to replace only that generator's files
+# on success, and to leave them alone on failure.
+GENERATOR_PREFIXES = {
+    "pluto":         ("plutotv_",),
+    "plex":          ("plex_",),
+    "samsungtvplus": ("samsungtvplus_",),
+    "tubi":          ("tubi_",),
+    "roku":          ("roku_",),
+}
+
 if __name__ == "__main__":
-    cleanup_output_dir()
+    ensure_output_dir()
 
     generators = [
         ("pluto",         generate_pluto_m3u),
@@ -465,10 +480,21 @@ if __name__ == "__main__":
     ]
 
     for name, func in generators:
+        prefixes = GENERATOR_PREFIXES[name]
+        before = snapshot_files(prefixes)
         try:
             func()
-            logger.info(f"[OK] {name}")
+            after = snapshot_files(prefixes)
+            # Delete only this generator's own stale files it did NOT rewrite
+            # this run (e.g. a region dropped upstream). Never touches others.
+            stale = (before - after)
+            remove_files(stale)
+            if stale:
+                logger.info(f"[OK] {name} (pruned {len(stale)} stale file(s))")
+            else:
+                logger.info(f"[OK] {name}")
         except Exception as e:
             msg = f"{name} generator failed and was skipped: {e}"
             logger.warning(f"[BROKEN] {msg}")
             print(f"::warning title=Generator failed::{msg}")
+            # Deliberately do nothing to files: leave last-good output intact.
