@@ -1,0 +1,74 @@
+name: Generate M3U Playlists
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'generate_playlists.py'
+      - '.github/workflows/generate_playlists.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build-playlists:
+    runs-on: ubuntu-latest
+
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # Added urllib3 as it's required by your script's SSL configuration
+          pip install requests beautifulsoup4 lxml urllib3
+
+      - name: Run Playlist Generation Script
+        run: python generate_playlists.py
+
+      - name: Fix Tubi EPG URL (The TiviMate Fix)
+        run: |
+          # Dynamically builds the full URL to your XML file on GitHub
+          GITHUB_RAW_URL="https://raw.githubusercontent.com/${{ github.repository }}/main/playlists/tubi_epg.xml"
+          
+          echo "Updating M3U to use full EPG URL: $GITHUB_RAW_URL"
+          
+          # Replace the local filename with the full URL in the M3U header
+          if [ -f "playlists/tubi_all.m3u" ]; then
+            sed -i "s|url-tvg=\"tubi_epg.xml\"|url-tvg=\"$GITHUB_RAW_URL\"|g" playlists/tubi_all.m3u
+          fi
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          mkdir -p playlists
+          git add -A playlists/
+          
+          # Only commit if there are changes to avoid workflow errors
+          if [ -n "$(git status --porcelain playlists/)" ]; then
+            git commit -m "🔄 Updated FAST playlists"
+            git push origin main
+          else
+            echo "No changes to playlists. Skipping commit."
+          fi
+
+
+
