@@ -2165,7 +2165,7 @@ https://jmp2.uk/plu-6a15f7770ed14e790bab6449.m3u8
 https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8
 #EXTINF:-1 channel-id="5f1aca0b4e448e00075e7c5e-es" tvg-id="5f1aca0b4e448e00075e7c5e" tvg-chno="353" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Spain",Bob Esponja
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
-#EXTINF:-1 channel-id="62545c0b002f4b0007688b61-br" tvg-id="62545c0b002f4b0007688b61" tvg-chno="1511" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Brazil",Bob Esponja Calça Quadrada
+#EXTINF:-1 channel-id="62545c0b002f4b0007688b61-br" tvg-id="62545c0b002f4b0007688b61" tvg-chno="1511" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG_1795805907704.png" group-title="Brazil",Bob Esponja Calça Quadrada
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 channel-id="6254598f5083f800076d8563-mx" tvg-id="6254598f5083f800076d8563" tvg-chno="1460" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1792528902585.png" group-title="Mexico",Bob Esponja Pantalones Cuadrados
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
@@ -2937,8 +2937,6 @@ https://jmp2.uk/plu-654a4f7bf9cc8200086877d5.m3u8
 https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
 #EXTINF:-1 channel-id="654a4a3ef91d250008ac089b-dk" tvg-id="654a4a3ef91d250008ac089b" tvg-chno="1112" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" group-title="Denmark",Family Ties
 https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
-#EXTINF:-1 channel-id="65cb8bd911ced7000820bff2-no" tvg-id="65cb8bd911ced7000820bff2" tvg-chno="56" tvg-name="Fangene på Fortet" tvg-logo="https://images.pluto.tv/channels/65cb8bd911ced7000820bff2/colorLogoPNG.png" group-title="Norway",Fangene på Fortet
-https://jmp2.uk/plu-65cb8bd911ced7000820bff2.m3u8
 #EXTINF:-1 channel-id="663a15d7cb3ea10008edac88-de" tvg-id="663a15d7cb3ea10008edac88" tvg-chno="338" tvg-name="Farmland TV" tvg-logo="https://images.pluto.tv/channels/663a15d7cb3ea10008edac88/colorLogoPNG.png" group-title="Germany",Farmland TV
 https://jmp2.uk/plu-663a15d7cb3ea10008edac88.m3u8
 #EXTINF:-1 channel-id="699c1bd39a3f3bb4887e045e-no" tvg-id="699c1bd39a3f3bb4887e045e" tvg-chno="658" tvg-name="Farscape" tvg-logo="https://images.pluto.tv/channels/699c1bd39a3f3bb4887e045e/colorLogoPNG_1771838500157.png" group-title="Norway",Farscape
@@ -4687,7 +4685,7 @@ https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
 https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 #EXTINF:-1 channel-id="5f1aab1d29b39600073e243f-es" tvg-id="5f1aab1d29b39600073e243f" tvg-chno="372" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png" group-title="Spain",Pluto TV Kids
 https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
-#EXTINF:-1 channel-id="5f1214a637c6fd00079c652f-br" tvg-id="5f1214a637c6fd00079c652f" tvg-chno="1421" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Brazil",Pluto TV Kids
+#EXTINF:-1 channel-id="5f1214a637c6fd00079c652f-br" tvg-id="5f1214a637c6fd00079c652f" tvg-chno="1421" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG_1795806408950.png" group-title="Brazil",Pluto TV Kids
 https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
 #EXTINF:-1 channel-id="5dd6dae8ce788b0009eaf77b-mx" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-chno="1480" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Mexico",Pluto TV Kids
 https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
@@ -5917,6 +5915,8 @@ https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 #EXTINF:-1 channel-id="61c1a05ef30f5d0007e562f3-dk" tvg-id="61c1a05ef30f5d0007e562f3" tvg-chno="559" tvg-name="Til Middag Hos" tvg-logo="https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png" group-title="Denmark",Til Middag Hos
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+#EXTINF:-1 channel-id="69256bd7db5cc2f81d8a1a08-dk" tvg-id="69256bd7db5cc2f81d8a1a08" tvg-chno="2" tvg-name="Til julefrokost hos r8Dio" tvg-logo="https://images.pluto.tv/channels/69256bd7db5cc2f81d8a1a08/colorLogoPNG_1764256965972.png" group-title="Denmark",Til julefrokost hos r8Dio
+https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
 #EXTINF:-1 channel-id="679a973a97782f0008ff4bb6-br" tvg-id="679a973a97782f0008ff4bb6" tvg-chno="676" tvg-name="Times Brasil | CNBC" tvg-logo="https://images.pluto.tv/channels/679a973a97782f0008ff4bb6/colorLogoPNG.png" group-title="Brazil",Times Brasil | CNBC
 https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 #EXTINF:-1 channel-id="6540ff4f7312a40008297b59-cl" tvg-id="6540ff4f7312a40008297b59" tvg-chno="1130" tvg-name="Tiny House Nation" tvg-logo="https://images.pluto.tv/channels/6540ff4f7312a40008297b59/colorLogoPNG.png" group-title="Chile",Tiny House Nation
